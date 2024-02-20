@@ -43,9 +43,9 @@ http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10030
 http://fr0811.xyz:8080/extremerestream/epPLj7Nc92g5/6100
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
-http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10162
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277908
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
-http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10163
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277909
 
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR UHD 1
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/76320
@@ -55,13 +55,13 @@ http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507972
 http://panel.at.eu.org:25461/5449728831/5449728831/120157
 
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
-https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409368
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
-http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507984
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409362
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
-http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507985
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409363
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="http://logo.apk-red.com/cdn/pluspanel/spor/tivibu%20spor%204.png" group-title="SPOR KANALI",Tivibu Spor 4
-http://panel.at.eu.org:25461/5449728831/5449728831/111894
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/95859
 
 #EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3885.png", Eurosport 1 HD
 https://eurosport1.blutv.com:443/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
