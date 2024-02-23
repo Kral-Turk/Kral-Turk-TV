@@ -85,7 +85,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/160629
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62648
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/24482
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
@@ -160,7 +160,7 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
-http://uptvbiz.com:8282/kenan/191115/4877
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
