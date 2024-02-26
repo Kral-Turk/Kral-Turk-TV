@@ -196,6 +196,10 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 http://149.13.0.66:4002/tv8hd
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL",TV8.5
+http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="ULUSAL",TV 8.5
+http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
@@ -204,6 +208,10 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8 
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
@@ -225,12 +233,11 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
-http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-name="A2TV" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2
 http://50.7.218.122:8080/a2hd/index.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="ULUSAL",TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="WOMAN LIFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="ULUSAL",WOMAN LIFE
@@ -248,17 +255,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="ULUSAL",TELEON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
 
-
 #EXTM3U
-
-#EXTINF:1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-
-
-#EXTINF:1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
-http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal - Yurt Dışı",TRT Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
