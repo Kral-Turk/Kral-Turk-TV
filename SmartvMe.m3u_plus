@@ -1,0 +1,1895 @@
+EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/8205f62e11f2575f7068a56b3a6ae2dd.png" group-title="TURK ULUSAL KANALLAR",TR: TRT 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/21
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TR: TRT 1 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/8205f62e11f2575f7068a56b3a6ae2dd.png" group-title="TURK ULUSAL KANALLAR",TR: TRT 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/303
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/04e55a772023118894f7d256baf7e249.png" group-title="TURK ULUSAL KANALLAR",TR: ATV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/22
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/dd929a1e97d092ad4430225b900dc2c1.png" group-title="TURK ULUSAL KANALLAR",TR: ATV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/304
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: KANAL D FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/ae89e08751c20fb2d75e51820f71758d.png" group-title="TURK ULUSAL KANALLAR",TR: KANAL D FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/23
+#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/ae89e08751c20fb2d75e51820f71758d.png" group-title="TURK ULUSAL KANALLAR",TR: KANAL D HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/305
+#EXTINF:-1 tvg-id="Show.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/6c7200f381ed0a42e355bf669abe60ba.png" group-title="TURK ULUSAL KANALLAR",TR: SHOW TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/24
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/6c7200f381ed0a42e355bf669abe60ba.png" group-title="TURK ULUSAL KANALLAR",TR: SHOW TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/306
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="TR: STAR TV FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/dd1bb930e4cc6b5a5c0d839edf1d1122.png" group-title="TURK ULUSAL KANALLAR",TR: STAR TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="TR: STAR TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/dd1bb930e4cc6b5a5c0d839edf1d1122.png" group-title="TURK ULUSAL KANALLAR",TR: STAR TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/307
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: NOW TV FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/5b7d1df1aa6250f3881e847cb1503427.png" group-title="TURK ULUSAL KANALLAR",TR: NOW TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29
+#EXTINF:-1 tvg-id="FOX" tvg-name="TR: NOW TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/5b7d1df1aa6250f3881e847cb1503427.png" group-title="TURK ULUSAL KANALLAR",TR: NOW TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/310
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TR: TV 8 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/7df06974db995bd2990871db75b4c054.png" group-title="TURK ULUSAL KANALLAR",TR: TV 8 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/27
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV 8 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/7df06974db995bd2990871db75b4c054.png" group-title="TURK ULUSAL KANALLAR",TR: TV 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/308
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="TR: BEYAZ TV FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/4cbf2f6102111d333393bde6c3704be9.png" group-title="TURK ULUSAL KANALLAR",TR: BEYAZ TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/28
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/4cbf2f6102111d333393bde6c3704be9.png" group-title="TURK ULUSAL KANALLAR",TR: BEYAZ TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/309
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7  FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/d88eaf79e564c610b4f1cd77014e9216.png" group-title="TURK ULUSAL KANALLAR",TR: KANAL 7  FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86114
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/d88eaf79e564c610b4f1cd77014e9216.png" group-title="TURK ULUSAL KANALLAR",TR: KANAL 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1791
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: EURO D HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/8c1ace51c67163fa5c4168c1bb9485b8.png" group-title="TURK ULUSAL KANALLAR",TR: EURO D HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/543
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV AVRUPA HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/9c5e062ad3331fbe439dd901592cd8a8.png" group-title="TURK ULUSAL KANALLAR",TR: ATV AVRUPA HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/544
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: SHOW TURK HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/67123524eaf7b02c790ede3f3d836902.png" group-title="TURK ULUSAL KANALLAR",TR: SHOW TURK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1984
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: EUROSTAR HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/8d88f7de421c83068138c0faf2a56e2e.png" group-title="TURK ULUSAL KANALLAR",TR: EUROSTAR HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/559
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV8 INT HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/ad0151a4ab15004af713d24beb6d9ba3.png" group-title="TURK ULUSAL KANALLAR",TR: TV8 INT HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/849
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: Kanal 7 Avrupa HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/ff1b329057736781f86967b5f4a2bf2d.png" group-title="TURK ULUSAL KANALLAR",TR: Kanal 7 Avrupa HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/506
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 TV" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/044873e96b9efeebc7b9322ad88adfde.png" group-title="TURK ULUSAL KANALLAR",TR: 360 TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/474
+#EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="TR: A2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/4aca37af61e5a97054353c6523456338.png" group-title="TURK ULUSAL KANALLAR",TR: A2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/30
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/8bc881059dc424c1f2140ef0beca3270.png" group-title="TURK ULUSAL KANALLAR",TR: TEVE 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/31
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR: SHOW MAX HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/39e6bd769beda3243febf42dec0fe688.png" group-title="TURK ULUSAL KANALLAR",TR: SHOW MAX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/536
+#EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-name="TR: UCANKUS TV" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/4c72d4a8d0fbe74e32b46b73c18a56f4.png" group-title="TURK ULUSAL KANALLAR",TR: UCANKUS TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/502
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT 2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/474955dee50be4b5a60dadc3e96689d3.png" group-title="TURK ULUSAL KANALLAR",TR: TRT 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2384
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT TURK" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/ae599a35fa1a58975f04f9fe732a5a8f.png" group-title="TURK ULUSAL KANALLAR",TR: TRT TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/507
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT AVAZ" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/d19b170958f18d82a8399cd7b1bade28.png" group-title="TURK ULUSAL KANALLAR",TR: TRT AVAZ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/508
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: TRT WORLD HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/a6d26acf3317e00e2f4698d1c03c4967.png" group-title="TURK ULUSAL KANALLAR",TR: TRT WORLD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/509
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TR: TRT KURDI HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/3bcce5cea9d603e1c475d1a03bb000e5.png" group-title="TURK ULUSAL KANALLAR",TR: TRT KURDI HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/510
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TV" tvg-logo="" group-title="TURK ULUSAL KANALLAR",TR: EXXEN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34121
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 YEDEK" tvg-logo="" group-title="TURK ULUSAL KANALLAR",TR: TRT 1 YEDEK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86269
+#EXTINF:-1 tvg-id="" tvg-name="TR: TBMM TV" tvg-logo="" group-title="TURK ULUSAL KANALLAR",TR: TBMM TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86463
+#EXTINF:-1 tvg-id="" tvg-name="TR: CİNE 1 TV " tvg-logo="" group-title="TURK ULUSAL KANALLAR",TR: CİNE 1 TV 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125600
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS HABER FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/a5a128c38cbf6ed62bcccff8a13c322a.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS HABER FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/229
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BEINSPORTS HABER HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/a5a128c38cbf6ed62bcccff8a13c322a.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS HABER HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1231
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 4K" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 4K
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2137
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 4K+" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 4K+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86233
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 FHD " tvg-logo="http://snopy.mochaiptv.xyz:8000/images/59cce3528015b7c774faa2a84f7e93fc.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 FHD 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 UHD " tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 UHD 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86232
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEIN SPORTS 1 FEED 1080" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEIN SPORTS 1 FEED 1080
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/131625
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1560
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD  (EUROPA)" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD  (EUROPA)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1561
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BEINSPORTS 1 HD   (TURKIYE)" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD   (TURKIYE)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/564
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 HD   (TTNET)" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 HD   (TTNET)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/130
+#EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="TR: BEINSPORTS 1 SD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/59cce3528015b7c774faa2a84f7e93fc.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 1 SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/5
+#EXTINF:-1 tvg-id="LIGTV2.tr" tvg-name="TR: BEINSPORTS 2 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2
+#EXTINF:-1 tvg-id="LIGTV2.tr" tvg-name="TR: BEINSPORTS 2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/583a932e3c2264418121792e60cb23ab.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/131
+#EXTINF:-1 tvg-id="LIGTV3.tr" tvg-name="TR: BEINSPORTS 3 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/75cb70a9ebbe32d530dad9173b66dc87.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3
+#EXTINF:-1 tvg-id="LIGTV3.tr" tvg-name="TR: BEINSPORTS 3 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/fd54ea7daf6d61d68733811609891d1c.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/574
+#EXTINF:-1 tvg-id="LIGTV4.tr" tvg-name="TR: BEINSPORTS 4 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/30bb3825e8f631cc6075c0f87bb4978c.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 4 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/379
+#EXTINF:-1 tvg-id="LIGTV4.tr" tvg-name="TR: BEINSPORTS 4 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/30bb3825e8f631cc6075c0f87bb4978c.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2372
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: b**N SPORTS 5 FHD" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 5 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132294
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SPORTS 5 HD" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132293
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: BEINSPORTS MAX 1  FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/64db312453d71349bfb809e1b8297ffe.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 1  FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2784
+#EXTINF:-1 tvg-id="beINSPORTSMAX.tr" tvg-name="TR: BEINSPORTS MAX 1 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/64db312453d71349bfb809e1b8297ffe.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/924
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS MAX 2  FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/5e75c3a002f91b18b2353acd4c9104c3.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 2  FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2785
+#EXTINF:-1 tvg-id="beINSPORTSMAX2.tr" tvg-name="TR: BEINSPORTS MAX 2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/5e75c3a002f91b18b2353acd4c9104c3.png" group-title="TURK BEINSPORT PAKETI",TR: BEINSPORTS MAX 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/925
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/0b246c4b26b7fa550111d8aeb5550e0c.png" group-title="TURK SPOR KANALLAR",TR: TV 8.5 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/47
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TV 8.5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196314
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR FHD" tvg-logo="http://xui.bestipbox.com:8000/images/5daebbf294814b98f00bbeb1086ccca6.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/573
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/df7b63df68b0b710cc8891e51c2a73a4.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/45
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRTSPOR SD" tvg-logo="http://xui.bestipbox.com:8000/images/5daebbf294814b98f00bbeb1086ccca6.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/572
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRTSPOR YILDIZ HD" tvg-logo="http://xui.bestipbox.com:8000/images/7dadb330b39d52dcafa3ac4f7ce6ac91.png" group-title="TURK SPOR KANALLAR",TR: TRTSPOR YILDIZ HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2043
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A SPOR FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="TURK SPOR KANALLAR",TR: A SPOR FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/46
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="TURK SPOR KANALLAR",TR: A SPOR HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/371
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR SD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="TURK SPOR KANALLAR",TR: A SPOR SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/323
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/0bbef78a2e25070577b4cfc95059d964.png" group-title="TURK SPOR KANALLAR",TR: S SPORT FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/381
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT HD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1499
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: S SPORT 2 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2786
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/a8acf6e8303811ad7615a989e007d5b0.png" group-title="TURK SPOR KANALLAR",TR: S SPORT 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2559
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="TR: SPORSMART FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/254
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: SPORSMART HD" tvg-logo="http://xui.bestipbox.com:8000/images/edbd17d6adcb737a7e51aa662b7b4672.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2509
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART2 FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SPOR SMART2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204999
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="TR: SPORSMART 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/4d4d95f2475bd36f9f20879e25c3ce3e.png" group-title="TURK SPOR KANALLAR",TR: SPORSMART 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/16681
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/3a6d5f636fa3139217950b9d19251986.png" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR  HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR  HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86111
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/b714ac7e4f62652e8317d6319100d943.png" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/322
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 1 HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86112
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://germany.bestipbox.com:8000/images/d0ea45b7ee1ce3a1f76daba43477c005.jpg" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/428
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD+" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 2 HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86113
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: TIVIBUSPOR 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/123561
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: Tivibu Spor 4 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/129571
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: GS TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/ca44bf1441a3e760129607551f08adc0.png" group-title="TURK SPOR KANALLAR",TR: GS TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/311
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: FB TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/a1014c0e0324bbaedd897b9080ad6fb9.png" group-title="TURK SPOR KANALLAR",TR: FB TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/312
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="http://xui.bestipbox.com:8000/images/96182f0c753f4dfb1bb17c896a5e73e6.png" group-title="TURK SPOR KANALLAR",TR: EUROSPORT 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/730
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="http://xui.bestipbox.com:8000/images/0fe1059294737a13b3be68ddd2cd49bb.png" group-title="TURK SPOR KANALLAR",TR: EUROSPORT 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/731
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FIGHT NETWORK HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: FIGHT NETWORK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4651
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-name="TR: FIGHT BOX HD" tvg-logo="http://xui.bestipbox.com:8000/images/9399b83e1818ba1f641c99722202e55e.png" group-title="TURK SPOR KANALLAR",TR: FIGHT BOX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2987
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: Edge Sport FHD" tvg-logo="http://xui.bestipbox.com:8000/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="TURK SPOR KANALLAR",TR: Edge Sport FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/537
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SPORTS TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/129572
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV FHD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: NBA TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82120
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: NBA TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/57c3473cd35d195ddea302f38af749b8.png" group-title="TURK SPOR KANALLAR",TR: NBA TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/581
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TJK TV" tvg-logo="http://xui.bestipbox.com:8000/images/f8ee3c948a2490b597ee0b8f8d7fb2a2.png" group-title="TURK SPOR KANALLAR",TR: TJK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/539
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82101
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 1 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82102
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82104
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 2 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82105
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 3 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82106
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 3 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82107
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 4 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 4 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82108
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 4 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82109
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR  5 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR  5 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82110
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 5 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82111
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 6 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 6 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82112
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 6 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/123800
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 7 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 7 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82114
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 7 HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: Exxen Spor 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/129573
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 8 FHD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURK EXXEN SPOR PAKETİ",TR: EXXEN SPOR 8 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/123801
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 1 HD" tvg-logo="http://germany.bestipbox.com:8000/images/2c8cb361dad22b10a0bdb9c8de615142.png" group-title="TURK SPOR KANALLAR",TR: SSport+ 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82115
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 2 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82116
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 3 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82117
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 4 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82118
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSport+ 5 HD" tvg-logo="" group-title="TURK SPOR KANALLAR",TR: SSport+ 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82119
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 1 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 1 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132257
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 2 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 2 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132258
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 3 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 3 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132259
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 4 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 4 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132260
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 5 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 5 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132261
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNET 6 (CANLIMAC)" tvg-logo="" group-title="TURK BEINSPORT PAKETI",TR: BEIN CONNET 6 (CANLIMAC)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132262
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BeIN SPORTS 1 FEED 4K HEVC [35MBIT]" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: BeIN SPORTS 1 FEED 4K HEVC [35MBIT]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132291
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-name="TR: b**N SPORTS 1 FEED 4K HEVC [25 MBIT]" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/38f4b3414a94f2393209c43e5e8b355b.png" group-title="TURK BEINSPORT PAKETI",TR: b**N SPORTS 1 FEED 4K HEVC [25 MBIT]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132292
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/36
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/569
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="TR: CNN TURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNN TURK FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/37
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: CNNTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNNTURK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/566
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/38
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/567
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV FHD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/173462
+#EXTINF:-1 tvg-id="SÖZCÜ TV" tvg-name="TR: SOZCU TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/173463
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/39
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER HD" tvg-logo="http://paris.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/568
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/40
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3864
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV FHD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: FLASH TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4539
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-name="TR: FLASH TV HD" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/2c14fe46d7e47649334994c2f6427128.png" group-title="TURK HABER KANALLAR",TR: FLASH TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84818
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: KRT FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR: KRT FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3865
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: KRT TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR: KRT TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2442
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR :TV 100 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR :TV 100 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3849
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 100  HD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR: TV 100  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2561
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR :TELE 1 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR :TELE 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2986
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TELE 1 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR: TELE 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1030
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HABERGLOBAL FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3850
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HABERGLOBAL TV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1794
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2783
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/256
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOTURK" tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/6e0dea61f114b2248cf7f25030a2746d.png" group-title="TURK HABER KANALLAR",TR: EKOTURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2041
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TR: TV NET HD" tvg-logo="http://xui.bestipbox.com:8000/images/797b7737407da61f62bc49004442c92d.png" group-title="TURK HABER KANALLAR",TR: TV NET HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2242
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TGRT HABER HD" tvg-logo="http://57tv.bestipbox.com:8000/images/8160f6b5063b4e21cc78af959853716f.png" group-title="TURK HABER KANALLAR",TR: TGRT HABER HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2138
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: ULKE TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/83532a518f2b75311b15faef1b5c6d23.png" group-title="TURK HABER KANALLAR",TR: ULKE TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/258
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="http://germany.bestipbox.com:8000/images/998a273f32b0269f114b3418645f46c6.png" group-title="TURK HABER KANALLAR",TR: ULUSAL KANAL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1026
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 24 HD" tvg-logo="http://xui.bestipbox.com:8000/images/066e9bf23a7302537ebd9350461c20a0.png" group-title="TURK HABER KANALLAR",TR: TV 24 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/134
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-name="TR: BLOOMBERGHT TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/5e764ada1310891e9ce0d958f95d84fd.png" group-title="TURK HABER KANALLAR",TR: BLOOMBERGHT TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/133
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TÜRK HABER" tvg-logo="http://xui.bestipbox.com:8000/images/afa638f45f93c71e8d26ceeee62478a6.png" group-title="TURK HABER KANALLAR",TR: TÜRK HABER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/522
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A PARA" tvg-logo="http://xui.bestipbox.com:8000/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="TURK HABER KANALLAR",TR: A PARA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/517
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BENGUTURK TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: BENGUTURK TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/86220
+#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: A NEWS HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/129574
+#EXTINF:-1 tvg-id="" tvg-name="TR: DHA LIVE" tvg-logo="" group-title="TURK HABER KANALLAR",TR: DHA LIVE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3762
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_TRT COCUK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85a" group-title="TURK COCUK KANALLAR",TR_TRT COCUK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/32
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT DiYANET COCUK" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: TRT DiYANET COCUK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/191137
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_DISNEY CHANEL" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da927" group-title="TURK COCUK KANALLAR",TR_DISNEY CHANEL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/33
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_DISNEY Junior" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_DISNEY Junior
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/738
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_CARTOON NETWORK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fe" group-title="TURK COCUK KANALLAR",TR_CARTOON NETWORK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1024
+#EXTINF:-1 tvg-id="" tvg-name="TR_NICKELODEON HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_NICKELODEON HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/725
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_NICK JR" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_NICK JR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/726
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_MINICA COCUK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da842" group-title="TURK COCUK KANALLAR",TR_MINICA COCUK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34
+#EXTINF:-1 tvg-id="" tvg-name="TR_MINIKA GO" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_MINIKA GO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1801
+#EXTINF:-1 tvg-id="" tvg-name="TR : SiRiNLER" tvg-logo="" group-title="TURK COCUK KANALLAR",TR : SiRiNLER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3633
+#EXTINF:-1 tvg-id="" tvg-name="TR_SMART COCUK HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_SMART COCUK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2359
+#EXTINF:-1 tvg-id="" tvg-name="TR: MASA ve KOCA AYI " tvg-logo="" group-title="TURK COCUK KANALLAR",TR: MASA ve KOCA AYI 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17304
+#EXTINF:-1 tvg-id="" tvg-name="TR_NILOYA TV  CIZGI FILM" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_NILOYA TV  CIZGI FILM
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1809
+#EXTINF:-1 tvg-id="" tvg-name="TR: NILOYA TV 1" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: NILOYA TV 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/16645
+#EXTINF:-1 tvg-id="" tvg-name="TR:  PEMBE PANTER" tvg-logo="" group-title="TURK COCUK KANALLAR",TR:  PEMBE PANTER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/35310
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TAVSAN MOMO" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: AKILLI TAVSAN MOMO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/35311
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_BABY TV" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fa" group-title="TURK COCUK KANALLAR",TR_BABY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/35
+#EXTINF:-1 tvg-id="" tvg-name="TR_PEPE TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_PEPE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/533
+#EXTINF:-1 tvg-id="" tvg-name="TR:  RAFADAN TAYFA " tvg-logo="" group-title="TURK COCUK KANALLAR",TR:  RAFADAN TAYFA 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/736
+#EXTINF:-1 tvg-id="" tvg-name="TR : Ege ile Gaga" tvg-logo="http://sweden.bestipbox.com:8000/images/52654161dc5cd830bf4b3641425cfb78.png" group-title="TURK COCUK KANALLAR",TR : Ege ile Gaga
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/43
+#EXTINF:-1 tvg-id="" tvg-name="TR_BOSS DİSNEY" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_BOSS DİSNEY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1292
+#EXTINF:-1 tvg-id="" tvg-name="TR : HEIDI TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR : HEIDI TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4823
+#EXTINF:-1 tvg-id="" tvg-name="TR_ELIFIN DUSLERI" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_ELIFIN DUSLERI
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2358
+#EXTINF:-1 tvg-id="" tvg-name="TR_KELOGLAN TV 1" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_KELOGLAN TV 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1291
+#EXTINF:-1 tvg-id="" tvg-name="TR : KELOGLAN TV 2 " tvg-logo="" group-title="TURK COCUK KANALLAR",TR : KELOGLAN TV 2 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/24715
+#EXTINF:-1 tvg-id="" tvg-name="TR_KRAL SAKIR" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_KRAL SAKIR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1257
+#EXTINF:-1 tvg-id="" tvg-name="TR_MINIBOX KUKULI" tvg-logo="" group-title="TURK COCUK KANALLAR",TR_MINIBOX KUKULI
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1256
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR : TRT EBA TV LISE" tvg-logo="" group-title="TURK COCUK KANALLAR",TR : TRT EBA TV LISE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4531
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG " tvg-logo="" group-title="TURK COCUK KANALLAR",TR: BOOMERANG 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84804
+#EXTINF:-1 tvg-id="" tvg-name="TR: RED KID TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: RED KID TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84805
+#EXTINF:-1 tvg-id="" tvg-name="TR: TOM VE JERRY TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: TOM VE JERRY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84806
+#EXTINF:-1 tvg-id="" tvg-name="TR: TOM AND JERYY" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: TOM AND JERYY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/16646
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAILLOU TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: CAILLOU TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84807
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BARBIE TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR:  BARBIE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/84808
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU SIRINLER" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU SIRINLER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196265
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU TOM VE JERRY" tvg-logo="" group-title="TURK COCUK KANALLAR",TR: FİLMMODU TOM VE JERRY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196266
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU JETGILLER" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU JETGILLER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196267
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU BARBIE" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU BARBIE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196268
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ŞEKER HOCA" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ŞEKER HOCA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196269
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON  1" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON  1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196270
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  2" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196271
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  3" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196272
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON  4" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON  4
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196273
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON  5" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON  5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196274
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  6" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  6
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196275
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  7" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196276
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  8" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  8
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196277
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON  9" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON  9
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196278
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU  ANIMASYON  10" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU  ANIMASYON  10
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196279
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 1" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196280
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 2" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196281
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 3" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196282
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 4" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 4
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196283
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 5" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196284
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 6" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 6
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196285
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 7" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196286
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 8" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 8
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196287
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 9" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 9
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196288
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 10" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 10
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196289
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 11" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 11
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196290
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 12" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 12
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196291
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 13" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 13
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196292
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 14" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 14
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196293
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 15" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 15
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196294
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 16" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 16
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196295
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 17" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 17
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196296
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 18" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 18
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196297
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANIMASYON 19" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANIMASYON 19
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196298
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU   ANIMASYON 20" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU   ANIMASYON 20
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196299
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FİLMMODU ANİMATİON HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ FİLMMODU ANİMATİON HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196300
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX COCUK 1 HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX COCUK 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196301
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX COCUK 2 HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX COCUK 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196302
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX COCUK 3 HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX COCUK 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196303
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX ANİMATİON 1 HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX ANİMATİON 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196304
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX BARBIE ANİMATİON 2 HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX BARBIE ANİMATİON 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196305
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX TOM & JERRY" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX TOM & JERRY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196306
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX NİLOYA HD+" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX NİLOYA HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196307
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX PEPEE TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX PEPEE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196308
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX POKEMON HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX POKEMON HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196309
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX PIJAMA MASKELILER TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX PIJAMA MASKELILER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196310
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX SiRiNLER TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX SiRiNLER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196311
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX KUKULI TV" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX KUKULI TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196312
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX PATRON BEBEK HD" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX PATRON BEBEK HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196313
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ EUROBOX  24/7 JETGILER" tvg-logo="" group-title="TURK COCUK KANALLAR",TR➾ EUROBOX  24/7 JETGILER
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/196336
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da94b" group-title="TURK MUZIK KANALLAR",TR: TRT MUZIK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1025
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL FM" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: KRAL FM
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1806
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8bc" group-title="TURK MUZIK KANALLAR",TR: KRAL POP HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/380
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: DREAM TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1802
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824" group-title="TURK MUZIK KANALLAR",TR: POWERTURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/42
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER ONE TURK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: NUMBER ONE TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/547
+#EXTINF:-1 tvg-id="" tvg-name="TR:  NUMBER ONE DAMAR" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR:  NUMBER ONE DAMAR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4421
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER ONE" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: NUMBER ONE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1807
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: POWER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1808
+#EXTINF:-1 tvg-id="" tvg-name="TR: SILA AKUSTIK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: SILA AKUSTIK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/19324
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU ANKARA " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU ANKARA 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185320
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ankara Mix" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ankara Mix
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174375
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Slow Müzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Slow Müzik
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185434
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Pop Müzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Pop Müzik
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174367
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP KARADENIZ TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP KARADENIZ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/16779
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Bozlak" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Bozlak
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185438
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Özgun Muzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Özgun Muzik
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185437
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Türk Halk Müziği" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Türk Halk Müziği
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174374
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP TÜRKÜ" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP TÜRKÜ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174376
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ahmet Kaya" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ahmet Kaya
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/16791
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Neşet Ertas" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Neşet Ertas
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174377
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ferdi Tayfur" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ferdi Tayfur
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174368
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Orhan Gencebay" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Orhan Gencebay
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174369
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Müslüm Gürses" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Müslüm Gürses
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174370
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Sezen Aksu" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Sezen Aksu
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174371
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Musa Eroğlu" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Musa Eroğlu
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174372
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Tufan Altaş" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Tufan Altaş
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174373
+#EXTINF:-1 tvg-id="" tvg-name="TR: XP Tarkan" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Tarkan
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2805
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU POP " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU POP 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185322
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU 90 LAR " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU 90 LAR 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185323
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU ARABESK " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU ARABESK 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185321
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU MUZIK POP" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU MUZIK POP
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17308
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLU DAMAR" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU DAMAR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17310
+#EXTINF:-1 tvg-id="" tvg-name="TR: TATLISES TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: TATLISES TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/174363
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: ANIMAL PLANET HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3606
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: VIASAT EXPLORE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122955
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: VIASAT EXPLORE" tvg-logo="http://sweden.bestipbox.com:8000/images/6d61229437aca95f7d0e2f7c1492cf88.png" group-title="TURK BELGESEL KANALLAR",TR: VIASAT EXPLORE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/504
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TR: TLC HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TLC HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/313
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TR: TLC " tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TLC 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29345
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: BBC EARTH HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3607
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: BBC EARTH
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/740
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DISCOVERY CHANNEL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3605
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR:  DISCOVERY CHANNEL" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e2" group-title="TURK BELGESEL KANALLAR",TR:  DISCOVERY CHANNEL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/129
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISCOVERY ID HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DISCOVERY ID HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3604
+#EXTINF:-1 tvg-id="WorldTravelChannel.tr" tvg-name="TR: DISCOVERY ID " tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DISCOVERY ID 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/577
+#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="TR  NATIONAL GEO HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR  NATIONAL GEO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3609
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NATINOAL_GEO" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da84e" group-title="TURK BELGESEL KANALLAR",TR: NATINOAL_GEO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/126
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NAT GEO WILD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3610
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="TR: NATINOAL_GEO_WILD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da858" group-title="TURK BELGESEL KANALLAR",TR: NATINOAL_GEO_WILD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/127
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: LOVE NATURE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3611
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: LOVE NATURE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25482
+#EXTINF:-1 tvg-id="DizimaxSci-fi.tr" tvg-name="TR: SCINCE & VIE" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: SCINCE & VIE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/505
+#EXTINF:-1 tvg-id="" tvg-name="TR: AGRO TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: AGRO TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3602
+#EXTINF:-1 tvg-id="History.tr" tvg-name="TR : HISTORY FHD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR : HISTORY FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3632
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: HISTORY HD" tvg-logo="http://xui.bestipbox.com:8000/images/8fd49766dd9f4632fad22cfb01ca344e.png" group-title="TURK BELGESEL KANALLAR",TR: HISTORY HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/128
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DMAX HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DMAX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3620
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DMAX" tvg-logo="http://xui.bestipbox.com:8000/images/286353df68588c256f3b9bc6bef215df.png" group-title="TURK BELGESEL KANALLAR",TR: DMAX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/44
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TARIH TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TARIH TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/733
+#EXTINF:-1 tvg-id="" tvg-name="TR: Chasse et Peche HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: Chasse et Peche HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2800
+#EXTINF:-1 tvg-id="" tvg-name="TR: TREK TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TREK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1263
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: VIASAT HISTORY" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: VIASAT HISTORY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/739
+#EXTINF:-1 tvg-id="" tvg-name="TR: INSIGHT TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: INSIGHT TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122953
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BEIN IZ TV HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: BEIN IZ TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3608
+#EXTINF:-1 tvg-id="IZTV.tr" tvg-name="TR: BEIN IZ TV" tvg-logo="http://germany.bestipbox.com:8000/images/cd00034a2a7620f7bce8b37859a8d258.png" group-title="TURK BELGESEL KANALLAR",TR: BEIN IZ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/503
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TRT BELGESEL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3603
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TRT BELGESEL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1788
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TGRT BELGESEL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1955
+#EXTINF:-1 tvg-id="" tvg-name="TR: AUTOMOTO HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: AUTOMOTO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2139
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: BEIN GURME" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: BEIN GURME
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/535
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: YABAN TV" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da931" group-title="TURK BELGESEL KANALLAR",TR: YABAN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/891
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: KOY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/594
+#EXTINF:-1 tvg-id="" tvg-name="TR: CIFTCI TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: CIFTCI TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/595
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TARIM TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/412
+#EXTINF:-1 tvg-id="" tvg-name="TR: TOPRAK TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: TOPRAK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1954
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX FHD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DOCUBOX FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122952
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABİTAT TV FHD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: HABİTAT TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122956
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE 5 HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NATURE 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122947
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE 4 HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NATURE 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122948
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE 3 HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NATURE 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122949
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE 2 HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NATURE 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122950
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE 1 HD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NATURE 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/122951
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Nature/History" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: Viasat Nature/History
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/179094
+#EXTINF:-1 tvg-id="" tvg-name="TR: NASA TV" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: NASA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185317
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX TECH" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DOCUAX TECH
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25483
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DOCUAX WILD" tvg-logo="" group-title="TURK BELGESEL KANALLAR",TR: DOCUAX WILD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/741
+#EXTINF:-1 tvg-id="" tvg-name="TR: BURSA ON6 TV HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: BURSA ON6 TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/205548
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: KON TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/12413
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR_DIYANET TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/1d98abae5b2d84d37c48e6767c1ab0df.png" group-title="TURK YEREL KANALLAR",TR_DIYANET TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1939
+#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP GRT TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: GAZIANTEP GRT TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204643
+#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: GAZIANTEP OLAY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204644
+#EXTINF:-1 tvg-id="" tvg-name="TR: ADANA TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ADANA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204645
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sivas" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Sivas
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204646
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sivas VIZYON 58 TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Sivas VIZYON 58 TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204647
+#EXTINF:-1 tvg-id="" tvg-name="TR: ADIYAMAN MERCAN TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ADIYAMAN MERCAN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204648
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÇANAKKALE TON TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ÇANAKKALE TON TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204649
+#EXTINF:-1 tvg-id="" tvg-name="TR: Malatya ERTV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Malatya ERTV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204650
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVDEN TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: TVDEN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204651
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksaray Kanal 68" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Aksaray Kanal 68
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204652
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANKARA Türkiyem TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ANKARA Türkiyem TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204653
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANTALYA Kanal V" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ANTALYA Kanal V
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204654
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ada TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Ada TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204655
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yeni Kocaeli TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Yeni Kocaeli TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204656
+#EXTINF:-1 tvg-id="" tvg-name="TR: Denizli DEHA TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Denizli DEHA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204657
+#EXTINF:-1 tvg-id="" tvg-name="TR: WM TV WOMAN KADIN" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: WM TV WOMAN KADIN
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204658
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELAZIG Kanal 23" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ELAZIG Kanal 23
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204659
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELAZIG KANAL FIRAT" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ELAZIG KANAL FIRAT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204660
+#EXTINF:-1 tvg-id="" tvg-name="TR: ESKİŞEHİR KANAL 26" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ESKİŞEHİR KANAL 26
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204661
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tvo TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Tvo TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204662
+#EXTINF:-1 tvg-id="" tvg-name="TR: Karadeniz BRTV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Karadeniz BRTV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204663
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri KAY TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Kayseri KAY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204664
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Life TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Kayseri Life TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204665
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Olay Türk TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Kayseri Olay Türk TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204666
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Kent TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Kayseri Kent TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204667
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Mavi Karadeniz
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204668
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mesaj TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Mesaj TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204669
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trabzon Haber 61 TV HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Trabzon Haber 61 TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204670
+#EXTINF:-1 tvg-id="" tvg-name="TR: Zonguldak Kanal Z" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Zonguldak Kanal Z
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204671
+#EXTINF:-1 tvg-id="" tvg-name="TR: Afyon Türk TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Afyon Türk TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204672
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çanakkale Boğaz TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Çanakkale Boğaz TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204673
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: VIZYON 58
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204674
+#EXTINF:-1 tvg-id="" tvg-name="TR: Edirne ETV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Edirne ETV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204675
+#EXTINF:-1 tvg-id="" tvg-name="TR: EGE Turk TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: EGE Turk TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204676
+#EXTINF:-1 tvg-id="" tvg-name="TR: Isviçre Vizyon TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Isviçre Vizyon TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204677
+#EXTINF:-1 tvg-id="" tvg-name="TR: Er TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Er TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204678
+#EXTINF:-1 tvg-id="" tvg-name="TR: IZMIR TV 35" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: IZMIR TV 35
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204679
+#EXTINF:-1 tvg-id="" tvg-name="TR: KONYA KON TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: KONYA KON TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204680
+#EXTINF:-1 tvg-id="" tvg-name="TR: AV TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: AV TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204681
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mersin İçel TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Mersin İçel TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204682
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sun TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Sun TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204683
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vatan TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Vatan TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204684
+#EXTINF:-1 tvg-id="" tvg-name="TR: ON 4" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ON 4
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204685
+#EXTINF:-1 tvg-id="" tvg-name="TR: Şanlıurfa Kanal URFA" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Şanlıurfa Kanal URFA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204686
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tunceli Dersim 62 TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Tunceli Dersim 62 TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204687
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: ANADOLU DERNEK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204688
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kahramanmaraş AKSU TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Kahramanmaraş AKSU TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204689
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Akit TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204690
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: TV 52
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204691
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEK RUMELİ TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: TEK RUMELİ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204692
+#EXTINF:-1 tvg-id="" tvg-name="TR: Düğün Tv (Germany)" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Düğün Tv (Germany)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204693
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Can TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204694
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yol TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Yol TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204695
+#EXTINF:-1 tvg-id="" tvg-name="TR: FMTV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: FMTV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204696
+#EXTINF:-1 tvg-id="" tvg-name="TR: GONCA TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: GONCA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204697
+#EXTINF:-1 tvg-id="" tvg-name="TR: SAT 7 TURK" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: SAT 7 TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204698
+#EXTINF:-1 tvg-id="" tvg-name="TR: Antensiz tv" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: Antensiz tv
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204699
+#EXTINF:-1 tvg-id="" tvg-name="TR: UCANKUS TV HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: UCANKUS TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204700
+#EXTINF:-1 tvg-id="" tvg-name="TR: UCANKUS TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: UCANKUS TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204701
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: PAMUKKALE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204702
+#EXTINF:-1 tvg-id="" tvg-name="TR: VİZYON 58" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: VİZYON 58
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204703
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ MALATYA VUSLAT TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ MALATYA VUSLAT TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204704
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ER TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204705
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ SAT7TURK" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ SAT7TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204706
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV DEN" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV DEN
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204707
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KON TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KON TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204708
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 33" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 33
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204709
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 32" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 32
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204710
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BRT 3 HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BRT 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204711
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BRT 2 HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BRT 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204712
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BRT 1 HD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BRT 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204713
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL S" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL S
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204714
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL T" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL T
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204715
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ON4 TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ON4 TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204716
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ORDU ALTAS TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ORDU ALTAS TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204717
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TEVE63" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TEVE63
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204718
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV 264" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV 264
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204719
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV 2020" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV 2020
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204720
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV 1" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204721
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TMB TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TMB TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204722
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KIBRIS TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KIBRIS TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204723
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KACKAR TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KACKAR TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204724
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ CEM TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ CEM TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204725
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ADA TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ADA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204726
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ YILDIZ EN" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ YILDIZ EN
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204727
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ YENİ KOCAELİ TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ YENİ KOCAELİ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204728
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TIVI6" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TIVI6
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204729
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 15" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 15
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204730
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 23" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 23
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204731
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 26" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 26
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204732
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 3" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204733
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL 68" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL 68
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204734
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL FIRAT" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL FIRAT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204735
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL V" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL V
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204736
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KENT TURK" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KENT TURK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204737
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ LİDER HABER FHD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ LİDER HABER FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204738
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ MAVI KARADENIZ" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ MAVI KARADENIZ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204739
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ MERCAN TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ MERCAN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204740
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ SUN RTV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ SUN RTV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204741
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TEMPO TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TEMPO TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204742
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TON TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TON TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204743
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV 41" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV 41
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204744
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ANADOLU DERNEK TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ANADOLU DERNEK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204745
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ AKILLI TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ AKILLI TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204746
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL ANTALYA" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL ANTALYA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204747
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ LİDER TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ LİDER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204748
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ RUMELİ TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ RUMELİ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204749
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ VAV TV FHD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ VAV TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204750
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮  ZAZA TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮  ZAZA TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204751
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ AKSU TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ AKSU TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204752
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BRTV B KRDNIZ" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BRTV B KRDNIZ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204753
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BIR TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BIR TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204754
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ DIYAR TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ DIYAR TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204755
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ EYMEN" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ EYMEN
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204756
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ IKRA" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ IKRA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204757
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ BEA" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ BEA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204758
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KANAL AVRUPA" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KANAL AVRUPA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204759
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ KOY TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ KOY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204760
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV5" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204761
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV42" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV42
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204762
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV 52" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV 52
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204763
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ ES TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ ES TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204764
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV KAYSERI" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: TV KAYSERI
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204765
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKINTURK TV" tvg-logo="" group-title="TURK YEREL KANALLAR",TR: EKINTURK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204766
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ LUYS TV SD" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ LUYS TV SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204767
+#EXTINF:-1 tvg-id="" tvg-name="TR⋮ TV A" tvg-logo="" group-title="TURK YEREL KANALLAR",TR⋮ TV A
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204768
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT 4K
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4684
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 H265" tvg-logo="http://xui.bestipbox.com:8000/images/8b3c215459500c64436fd86cba2fde67.png" group-title="TURK HEVC KANALLAR",TR: TRT 1 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29397
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ATV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29398
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: KANAL D H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL D H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29399
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: SHOW TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: SHOW TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29400
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR: STAR TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: STAR TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29401
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: NOW TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NOW TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29402
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV8 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV8 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29403
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="TR: BEYAZ TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: BEYAZ TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29404
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL 7 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29405
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TEVE 2 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TEVE 2 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29406
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: 360 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29407
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A SPOR H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34345
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRT SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT SPOR H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34535
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A HABER HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76888
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NTV HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76889
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: CNN TÜRK HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76890
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: HABER GLOBAL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76891
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÜLKE TV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ÜLKE TV HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76895
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT HABER HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76896
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV 100 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76897
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NAT GEO CHANNEL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76903
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY CHANNEL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76905
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY SCIENCE HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76906
+#EXTINF:-1 tvg-id="VoxGermany.de" tvg-name="DE: VOX FHD" tvg-logo="http://germany.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76
+#EXTINF:-1 tvg-id="KabelEinsGermany.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/78
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: PRO 7 FHD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/79
+#EXTINF:-1 tvg-id="FoxGermany.us" tvg-name="DE: FOX TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE: FOX TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/91
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH  STREET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH  STREET FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/93
+#EXTINF:-1 tvg-id="RTLZweiGermany.de" tvg-name="DE: RTL 2 FHD" tvg-logo="http://deprem.smartv.me:8000/images/85c950ef7f467b0870c89fbed08c207e.png" group-title="GERMANY CHANNELS",DE: RTL 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/143
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SYFY FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/145
+#EXTINF:-1 tvg-id="ARDAlpha.de" tvg-name="DE: ARD FHD" tvg-logo="http://iptv.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147
+#EXTINF:-1 tvg-id="ORF 1-DE" tvg-name="DE_ORF 1" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/e2c867f25dc5ce101cd41bc852c6e88c.png" group-title="GERMANY CHANNELS",DE_ORF 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/439
+#EXTINF:-1 tvg-id="ORF 2-DE" tvg-name="DE_ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/200px-ORF2_logo_n.svg.png" group-title="GERMANY CHANNELS",DE_ORF 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/440
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/441
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE_SAT 1 GOLD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 GOLD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/458
+#EXTINF:-1 tvg-id="SixxGermany.de" tvg-name="DE_ SIXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ SIXX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/768
+#EXTINF:-1 tvg-id="ProSiebenMaxxGermany.de" tvg-name="DE_ PRO 7 MAXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ PRO 7 MAXX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/769
+#EXTINF:-1 tvg-id="RTLGermany.de" tvg-name="DE: RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTL_Logo_ab_dem_1._September_2017.png/250px-RTL_Logo_ab_dem_1._September_2017.png" group-title="GERMANY CHANNELS",DE: RTL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/771
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE_SAT 1  HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/772
+#EXTINF:-1 tvg-id="" tvg-name="DE_CLASSICA" tvg-logo="" group-title="GERMANY CHANNELS",DE_CLASSICA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/818
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE_ RTL NITRO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ RTL NITRO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/819
+#EXTINF:-1 tvg-id="Kinowelt.tv-DE" tvg-name="DE_KINOWELT" tvg-logo="" group-title="GERMANY CHANNELS",DE_KINOWELT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/894
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/921
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV 2" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/922
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE_3 SAT" tvg-logo="" group-title="GERMANY CHANNELS",DE_3 SAT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/945
+#EXTINF:-1 tvg-id="" tvg-name="DE_NDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_NDR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/951
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE_RTL Crime" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL Crime
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/954
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARD ALPHA HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ARD ALPHA HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/956
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE_RTL LIVING" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL LIVING
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/960
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/961
+#EXTINF:-1 tvg-id="" tvg-name="DE_WDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_WDR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/962
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="DE_RTL PLUS" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PLUS
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1027
+#EXTINF:-1 tvg-id="" tvg-name="DE_Deluxe Music HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_Deluxe Music HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1029
+#EXTINF:-1 tvg-id="" tvg-name="DE_TELE 5" tvg-logo="" group-title="GERMANY CHANNELS",DE_TELE 5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1232
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="DE_KABEL EINS CLASSIC" tvg-logo="" group-title="GERMANY CHANNELS",DE_KABEL EINS CLASSIC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1300
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE_PRO7 Fun HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO7 Fun HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1303
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="DE_ZDF NEO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ZDF NEO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1305
+#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central FHD" tvg-logo="" group-title="GERMANY CHANNELS",DE: Comedy Central FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1306
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL HD" tvg-logo="http://sweden.bestipbox.com:8000/images/37871b04420fb3a6da6cd26091bc8c89.png" group-title="GERMANY CHANNELS",DE: RTL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2181
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE: RTL II  HD" tvg-logo="http://germany.bestipbox.com:8000/images/85c950ef7f467b0870c89fbed08c207e.png" group-title="GERMANY CHANNELS",DE: RTL II  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2182
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF HD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2183
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: ARD HD" tvg-logo="http://sweden.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2184
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2185
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="GERMANY CHANNELS",DE: RTL CRIME HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2186
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="DE: VOX HD" tvg-logo="http://sweden.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2190
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2191
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE_PRO 7 MAXX HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO 7 MAXX HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2192
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH STREET HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2193
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="DE_FOX HD Y" tvg-logo="http://germany.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE_FOX HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2194
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="DE: KABEL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2195
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: SYFY HD" tvg-logo="http://germany.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2203
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV SERIE FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2657
+#EXTINF:-1 tvg-id="" tvg-name="DE:RBB BERLIN HD" tvg-logo="" group-title="GERMANY CHANNELS",DE:RBB BERLIN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2659
+#EXTINF:-1 tvg-id="" tvg-name="DE_SAT 1 EMOTIONS HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 EMOTIONS HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2664
+#EXTINF:-1 tvg-id="" tvg-name="DE_PHOENIX HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PHOENIX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2665
+#EXTINF:-1 tvg-id="" tvg-name="DE_ONE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ONE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2666
+#EXTINF:-1 tvg-id="" tvg-name="DE_NITRO HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_NITRO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2667
+#EXTINF:-1 tvg-id="" tvg-name="DE_XITE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_XITE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2669
+#EXTINF:-1 tvg-id="" tvg-name="DE : RBB HD " tvg-logo="" group-title="GERMANY CHANNELS",DE : RBB HD 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3764
+#EXTINF:-1 tvg-id="" tvg-name="DE : Heimat Kanal" tvg-logo="" group-title="GERMANY CHANNELS",DE : Heimat Kanal
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Waidwerk HD+" tvg-logo="" group-title="GERMANY CHANNELS",DE: Waidwerk HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3935
+#EXTINF:-1 tvg-id="" tvg-name="DE_Super RTL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Super RTL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/146
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney Cinemagic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney Cinemagic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/422
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney CHANEL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney CHANEL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/423
+#EXTINF:-1 tvg-id="" tvg-name="DE_Boomerang" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Boomerang
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/424
+#EXTINF:-1 tvg-id="" tvg-name="DE_CARTOON NETWORK" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_CARTOON NETWORK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/425
+#EXTINF:-1 tvg-id="" tvg-name="DE_KIKA HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_KIKA HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/949
+#EXTINF:-1 tvg-id="" tvg-name="DE_DISNEY Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_DISNEY Jr.
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1298
+#EXTINF:-1 tvg-id="" tvg-name="DE_NICK Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_NICK Jr.
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1301
+#EXTINF:-1 tvg-id="" tvg-name="DE : Disney Plus Film HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Disney Plus Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3846
+#EXTINF:-1 tvg-id="" tvg-name="DE : Baby TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Baby TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3847
+#EXTINF:-1 tvg-id="" tvg-name="DE : Nick HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Nick HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3848
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tom und Jerry Classic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Tom und Jerry Classic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Mr.Bean" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Mr.Bean
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17247
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Spongebob" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Cine Gold Spongebob
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17248
+#EXTINF:-1 tvg-id="" tvg-name="DE: PAW Patrol" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: PAW Patrol
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17249
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 2" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 1" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17251
+#EXTINF:-1 tvg-id="" tvg-name="DE: Feuerwehrmann Sam" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Feuerwehrmann Sam
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17252
+#EXTINF:-1 tvg-id="Sky Cinema Family-DE" tvg-name="DE_Sky Cinema Family" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Family
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/63
+#EXTINF:-1 tvg-id="Sky Krimi-DE" tvg-name="DE_SKY KRIMI" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY KRIMI
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/64
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Showcase HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/65
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Serie HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Serie HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/66
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SHOWCASE" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY SHOWCASE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/67
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Comedy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Comedy
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/68
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Action" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Action
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/69
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY ATLANTIC" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY ATLANTIC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/70
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Best Of HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/71
+#EXTINF:-1 tvg-id="" tvg-name="DE_ROMANCE TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ROMANCE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/75
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY TNT SERIE" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY TNT SERIE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/94
+#EXTINF:-1 tvg-id="" tvg-name="DE_SONY TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SONY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/377
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Fun
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/448
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV FILM" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV FILM
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Classics
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/770
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/782
+#EXTINF:-1 tvg-id="" tvg-name="DE_UNIVERSAL HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_UNIVERSAL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/948
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA 1+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA 1+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/957
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Film HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1299
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Comedy HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Comedy HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1516
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV SERIE FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2187
+#EXTINF:-1 tvg-id="" tvg-name="DE_TNT SERIE HD Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT SERIE HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2189
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ACTION Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ACTION Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2196
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ATLANTIC Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ATLANTIC Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2197
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2198
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney Plus Film HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Disney Plus Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2199
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  COMEDY Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  COMEDY Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2200
+#EXTINF:-1 tvg-id="" tvg-name="DE: WarnerBros Comedy FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WarnerBros Comedy FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Bros FILM HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner Bros FILM HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2202
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF NOE HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ZDF NOE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2655
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY REPLAY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2660
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25484
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN 24 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25485
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25525
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25527
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 6 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25529
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 8 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25531
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 9 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25532
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 10 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25533
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25550
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25551
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25552
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 4 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25553
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 5 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25554
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 6 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25555
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 7 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25556
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 8 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25557
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 9 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25558
+#EXTINF:-1 tvg-id="" tvg-name="DE+: CRIME + INVESTIGATION" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE+: CRIME + INVESTIGATION
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204468
+#EXTINF:-1 tvg-id="DE-N24 Doku" tvg-name="DE_N24 DOKU" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_N24 DOKU
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/144
+#EXTINF:-1 tvg-id="" tvg-name="DE_National Geographic" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_National Geographic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/452
+#EXTINF:-1 tvg-id="" tvg-name="DE_Spiegel TV Geschichte HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Spiegel TV Geschichte HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/455
+#EXTINF:-1 tvg-id="" tvg-name="DE_HISTORY HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_HISTORY HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/456
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: ZDF NEO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/892
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARTE HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ARTE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/893
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: TLC HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/947
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL TV WISSEN UHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: SPIEGEL TV WISSEN UHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/952
+#EXTINF:-1 tvg-id="" tvg-name="DE_D MAX" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_D MAX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/955
+#EXTINF:-1 tvg-id="" tvg-name="DE_Welt der Wunder HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Welt der Wunder HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/958
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF INFO" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ZDF INFO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/959
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY DOCUMENTARIES FHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_SKY DOCUMENTARIES FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1302
+#EXTINF:-1 tvg-id="" tvg-name="DE_Kabel 1 Doku HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Kabel 1 Doku HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1304
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Discovery HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2652
+#EXTINF:-1 tvg-id="" tvg-name="DE_ANIMAL PLANET" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ANIMAL PLANET
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2653
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Welt HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2658
+#EXTINF:-1 tvg-id="" tvg-name="DE: Marco Polo TV" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Marco Polo TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2668
+#EXTINF:-1 tvg-id="" tvg-name="DE_Nat Geo Wild HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Nat Geo Wild HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2671
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/80
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 1 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 1 HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2206
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 2 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 2 HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2207
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 1 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 1 Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2204
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/373
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 2 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 2 Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2205
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/374
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/375
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/376
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Top Event HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2134
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Premier League HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/953
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky  Sport Premier League HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky  Sport Premier League HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/963
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Mix HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25868
+#EXTINF:-1 tvg-id="" tvg-name="DE_ORF SPORT  HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_ORF SPORT  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1028
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1262
+#EXTINF:-1 tvg-id="DE-Sky Sport 3 HD" tvg-name="DE_Sky Sport 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1962
+#EXTINF:-1 tvg-id="DE-Sky Sport 4 HD" tvg-name="DE_Sky Sport 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1963
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1964
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1965
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1966
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1967
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1968
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1969
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1970
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1971
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1972
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1973
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1974
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT NEWS" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT NEWS
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2648
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Tennis HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125677
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Golf HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125679
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sport 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125695
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132196
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132197
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132198
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132202
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 1 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 1 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132203
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 2 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 2 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132204
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 3 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 3 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 4 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 4 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132206
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 5 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 5 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132207
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 16 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 16 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132208
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 17 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 17 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132209
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA 1" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2649
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81481
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81482
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81483
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS ABC KINDER TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS ABC KINDER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184311
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS MASCHA UND DER BÄR" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS MASCHA UND DER BÄR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184312
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Paw Patrol ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Paw Patrol ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184313
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Mascha & Bär ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Mascha & Bär ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184314
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Pj Masks ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Pj Masks ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184315
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Peppa Wutz ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Peppa Wutz ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184316
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids SpongeBob ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids SpongeBob ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184317
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Disney+ ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Disney+ ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184318
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 1 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184328
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 2 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184329
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 3 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184330
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 4 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184331
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 KINDERFILME 1 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 KINDERFILME 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184332
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 KINDERFILME 2 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 KINDERFILME 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184333
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DAS SPIDEY TEAM HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DAS SPIDEY TEAM HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184334
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DIE GARDE    DER LOEWEN HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DIE GARDE    DER LOEWEN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184335
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 MUPPET BABIES HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 MUPPET BABIES HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184336
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 RAPUNZEL HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 RAPUNZEL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184337
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DISNEYS FILLMORE HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DISNEYS FILLMORE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184338
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 MARVELS AGENT OF SHIELD HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 MARVELS AGENT OF SHIELD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184339
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Kung Fu Panda Film Channel ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Kung Fu Panda Film Channel ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184340
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Kung Fu Panda Series Channel" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Kung Fu Panda Series Channel
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184341
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle PJ MASKS ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle PJ MASKS ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184342
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle Peppa Wutz ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle Peppa Wutz ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184343
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle Masha und der Bär ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle Masha und der Bär ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184344
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 2 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 2 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184345
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 3 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 3 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184346
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 4 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 4 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184347
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 5 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 5 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184348
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 6 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 6 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184349
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragon Ball 24/7" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragon Ball 24/7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184350
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball GT" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball GT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184351
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184352
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball Super HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball Super HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184353
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball Z Kai HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball Z Kai HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184354
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 1 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184355
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 2 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184356
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 3 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184357
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  SQUID GAME ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : BlueTV  SQUID GAME ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184358
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  AVATAR  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  AVATAR  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184359
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BAKI ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  BAKI ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184360
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BATMAN of THE FUTURE ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  BATMAN of THE FUTURE ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184361
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184362
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CASPER ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  CASPER ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184363
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DEDEKTIVE CONAN ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DEDEKTIVE CONAN ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184364
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE  RACCONS ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DIE  RACCONS ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184365
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE MASKE ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DIE MASKE ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184366
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DORORO ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DORORO ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184367
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DRAGON BALL Z Kai ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DRAGON BALL Z Kai ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184368
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  1 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  1 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184369
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  3 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  3 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184370
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  5 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  5 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184371
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  6 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  6 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184372
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  7 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  7 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184373
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  8 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  8 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184374
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  9 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  9 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184375
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 10 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 10 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184376
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 2 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 2 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184377
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 4 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 4 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184378
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NEW SPIDER MAN  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  NEW SPIDER MAN  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184379
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ROBIN HOOD ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  ROBIN HOOD ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184380
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ROBOCOP ALPHA COMMANDO  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  ROBOCOP ALPHA COMMANDO  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184381
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SCOOBY DOO ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  SCOOBY DOO ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184382
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  TOM and JERRY  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  TOM and JERRY  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184383
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  YOGIBAR  SHOW ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  YOGIBAR  SHOW ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184384
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL FUSSBALL FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SPORTDIGITAL FUSSBALL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184385
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: MOTORVISION TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184386
+#EXTINF:-1 tvg-id="" tvg-name="DE: AUTO MOTOR SPORT HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: AUTO MOTOR SPORT HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184387
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport F1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184388
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SPORT1+ FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184389
+#EXTINF:-1 tvg-id="" tvg-name="DE: ESPORTS1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: ESPORTS1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184390
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Eurosport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184391
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Eurosport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184392
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 2023" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 2023
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185163
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185164
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185165
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185166
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185167
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185168
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185169
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185170
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185171
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185172
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185173
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185174
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Komödie HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Komödie HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185175
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185176
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185177
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185178
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185179
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185180
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185181
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Serien 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Serien 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185182
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel's Serien HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel's Serien HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185183
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel's Anime HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel's Anime HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185184
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel Cinema HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel Cinema HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185185
+#EXTINF:-1 tvg-id="" tvg-name="(DE) HBO Serien HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) HBO Serien HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185186
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Movies" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Movies
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185187
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185188
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185189
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185190
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Apple TV+ HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Apple TV+ HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185191
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Disney+ HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Disney+ HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185192
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Western" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Western
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185193
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185194
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185195
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185196
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185197
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185198
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185199
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185200
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185201
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Abenteuer HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Abenteuer HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185202
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Star Wars HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Star Wars HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185203
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Märchen HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Märchen HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185204
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Knight Rider" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Knight Rider
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185205
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Al Pacino" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Al Pacino
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185206
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Bruce Willis" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Bruce Willis
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185207
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Rambo HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Rambo HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185208
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Vin Diesel" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Vin Diesel
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185209
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DW Johnson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DW Johnson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185210
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Keanu Reeves" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Keanu Reeves
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185211
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Steven Segal" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Steven Segal
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185212
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Mel Gibson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Mel Gibson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185213
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Tom Hanks" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Tom Hanks
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185214
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Jackie Chan" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Jackie Chan
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185215
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Samuel L Jackson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Samuel L Jackson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185216
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Jason Statham" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Jason Statham
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185217
+#EXTINF:-1 tvg-id="" tvg-name="(DE) J.C Van Damme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) J.C Van Damme
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185218
+#EXTINF:-1 tvg-id="" tvg-name="(DE) James Bond 007" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) James Bond 007
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185219
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Denzel Washington" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Denzel Washington
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185220
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Fast & Furious HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Fast & Furious HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185221
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Bud Spencer & Terence Hill" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Bud Spencer & Terence Hill
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185222
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN Bar 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197032
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN Bar 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197033
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 2 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197658
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 3 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197659
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 4 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197660
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 5 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197661
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 6 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197662
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 7 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197663
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 8 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197664
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 9 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197665
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 10 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197666
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Action FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Action FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197669
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Animation FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Animation FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197671
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Bruce Willis FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Bruce Willis FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197675
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Cinema FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Cinema FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197676
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Harry Potter FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Harry Potter FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197680
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Horror FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Horror FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197682
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jason Statham FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Jason Statham FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197683
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jean Claude van Damme FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Jean Claude van Damme FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197684
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax The Fast & the Furious FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax The Fast & the Furious FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197691
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Tom Cruise FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Tom Cruise FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197692
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Will Smith FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Will Smith FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197694
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/200226
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/200227
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 1 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 1 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201723
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 2 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 2 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201724
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 3 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 3 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201725
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 4 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 4 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201726
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 5 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 5 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201727
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 6 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 6 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201728
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 7 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 7 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201729
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 8 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 8 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201730
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 9 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 9 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201731
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 10 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 10 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201732
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 11 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 11 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201733
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 12 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 12 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201734
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 13 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 13 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201735
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 14 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 14 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201736
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 15 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 15 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201737
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 16 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 16 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201738
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 17 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 17 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201739
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 1 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 1 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201740
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 2 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 2 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201741
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 3 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 3 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201742
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 4 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 4 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201743
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 5 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 5 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201744
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 6 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 6 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201745
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 7 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 7 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201746
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 8 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 8 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201747
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 9 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 9 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201748
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 10 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 10 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201749
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 1" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201750
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 2" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201751
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 3" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201752
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 4" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 4
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201753
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 5" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201754
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 6" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 6
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201755
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 7" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201756
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 8" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 8
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201757
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 9" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 9
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201758
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 10" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 10
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201759
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 11" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 11
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201760
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 12" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 12
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201761
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 13" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 13
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201762
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 14" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 14
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201763
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 15" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 15
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201764
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 16" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 16
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201765
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 17" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 17
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201766
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 1 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 1 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201767
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 2 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 2 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201768
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 3 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 3 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201769
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 4 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 4 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201770
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 5 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 5 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201771
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 6 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 6 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201772
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 7 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 7 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201773
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 8 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 8 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201774
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 9 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 9 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201775
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 10 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 10 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201776
+#EXTINF:-1 tvg-id="" tvg-name="DE: CRIME + INVESTIGATION FHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: CRIME + INVESTIGATION FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/205773
+#EXTINF:-1 tvg-id="" tvg-name="KU:Medya Haber HD" tvg-logo="" group-title="KURD CHANNELS",KU:Medya Haber HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203983
+#EXTINF:-1 tvg-id="" tvg-name="KU:STERK TV" tvg-logo="" group-title="KURD CHANNELS",KU:STERK TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203984
+#EXTINF:-1 tvg-id="" tvg-name="KU:STERK TV HD" tvg-logo="" group-title="KURD CHANNELS",KU:STERK TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203985
+#EXTINF:-1 tvg-id="" tvg-name="KU:JIN TV HD" tvg-logo="" group-title="KURD CHANNELS",KU:JIN TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203986
+#EXTINF:-1 tvg-id="" tvg-name="KU:Rojava" tvg-logo="" group-title="KURD CHANNELS",KU:Rojava
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203987
+#EXTINF:-1 tvg-id="" tvg-name="KU:Ronahi TV" tvg-logo="" group-title="KURD CHANNELS",KU:Ronahi TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203988
+#EXTINF:-1 tvg-id="" tvg-name="KU:Ronahi TV HD" tvg-logo="" group-title="KURD CHANNELS",KU:Ronahi TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203989
+#EXTINF:-1 tvg-id="" tvg-name="KU:Cira TV" tvg-logo="" group-title="KURD CHANNELS",KU:Cira TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203990
+#EXTINF:-1 tvg-id="" tvg-name="KU:Cira TV HD" tvg-logo="" group-title="KURD CHANNELS",KU:Cira TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203991
+#EXTINF:-1 tvg-id="" tvg-name="KU:ARYEN TV" tvg-logo="" group-title="KURD CHANNELS",KU:ARYEN TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203992
+#EXTINF:-1 tvg-id="" tvg-name="KU:ZAROK TV HD" tvg-logo="" group-title="KURD CHANNELS",KU:ZAROK TV HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203994
+#EXTINF:-1 tvg-id="" tvg-name="KU:Med Music" tvg-logo="" group-title="KURD CHANNELS",KU:Med Music
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203995
+#EXTINF:-1 tvg-id="" tvg-name="KU:MED MUZIC HD" tvg-logo="" group-title="KURD CHANNELS",KU:MED MUZIC HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203996
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdmax" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdmax
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/203999
+#EXTINF:-1 tvg-id="" tvg-name="KU:KurdMax Music" tvg-logo="" group-title="KURD CHANNELS",KU:KurdMax Music
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204000
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdmax Pepule Sorani" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdmax Pepule Sorani
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204001
+#EXTINF:-1 tvg-id="" tvg-name="KU:KurdMax Show Kurmanci" tvg-logo="" group-title="KURD CHANNELS",KU:KurdMax Show Kurmanci
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204002
+#EXTINF:-1 tvg-id="" tvg-name="KU:Gali Kurdistan" tvg-logo="" group-title="KURD CHANNELS",KU:Gali Kurdistan
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204003
+#EXTINF:-1 tvg-id="" tvg-name="KU:K24" tvg-logo="" group-title="KURD CHANNELS",KU:K24
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204005
+#EXTINF:-1 tvg-id="" tvg-name="KU:K24 HD" tvg-logo="" group-title="KURD CHANNELS",KU:K24 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204006
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdsat HD" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdsat HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204009
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdsat News SD" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdsat News SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204011
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdsat Show" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdsat Show
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204012
+#EXTINF:-1 tvg-id="" tvg-name="KU:Kurdsat tv" tvg-logo="" group-title="KURD CHANNELS",KU:Kurdsat tv
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204013
+#EXTINF:-1 tvg-id="" tvg-name="KU:NRT 1 Kurd" tvg-logo="" group-title="KURD CHANNELS",KU:NRT 1 Kurd
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204014
+#EXTINF:-1 tvg-id="" tvg-name="KU:NRT 2 HD" tvg-logo="" group-title="KURD CHANNELS",KU:NRT 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204015
+#EXTINF:-1 tvg-id="" tvg-name="KU:NRT HD" tvg-logo="" group-title="KURD CHANNELS",KU:NRT HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204017
+#EXTINF:-1 tvg-id="" tvg-name="KU:Payam HD" tvg-logo="" group-title="KURD CHANNELS",KU:Payam HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204018
+#EXTINF:-1 tvg-id="" tvg-name="KU:Rudaw HD" tvg-logo="" group-title="KURD CHANNELS",KU:Rudaw HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204019
+#EXTINF:-1 tvg-id="" tvg-name="KU:RUDAW TV FHD" tvg-logo="" group-title="KURD CHANNELS",KU:RUDAW TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204020
+#EXTINF:-1 tvg-id="" tvg-name="KU:Sahar Kurdish" tvg-logo="" group-title="KURD CHANNELS",KU:Sahar Kurdish
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204021
+#EXTINF:-1 tvg-id="" tvg-name="KU:Sahar TV" tvg-logo="" group-title="KURD CHANNELS",KU:Sahar TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204022
+#EXTINF:-1 tvg-id="" tvg-name="KU:Show Sorani HD" tvg-logo="" group-title="KURD CHANNELS",KU:Show Sorani HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204023
+#EXTINF:-1 tvg-id="" tvg-name="KU:SURYOYO SAT" tvg-logo="" group-title="KURD CHANNELS",KU:SURYOYO SAT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204024
+#EXTINF:-1 tvg-id="" tvg-name="KU:TRT KURDI HD" tvg-logo="" group-title="KURD CHANNELS",KU:TRT KURDI HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204025
+#EXTINF:-1 tvg-id="" tvg-name="KU:WAAR HD" tvg-logo="" group-title="KURD CHANNELS",KU:WAAR HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204026
+#EXTINF:-1 tvg-id="" tvg-name="KU:ZAGROS HD" tvg-logo="" group-title="KURD CHANNELS",KU:ZAGROS HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204028
+#EXTINF:-1 tvg-id="" tvg-name="KU:Zagros TV SD" tvg-logo="" group-title="KURD CHANNELS",KU:Zagros TV SD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204029
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Xezer TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Xezer TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147901
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Ictimai TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Ictimai TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147902
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Günaz TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Günaz TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147903
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) CBC" tvg-logo="" group-title="AZERI CHANNELS",(AZ) CBC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147904
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) AZ TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) AZ TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147905
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Space TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Space TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147906
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) BAKU TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) BAKU TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147907
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Idman TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Idman TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147908
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) ARB" tvg-logo="" group-title="AZERI CHANNELS",(AZ) ARB
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147909
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) ARB 24" tvg-logo="" group-title="AZERI CHANNELS",(AZ) ARB 24
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147910
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) MEDENIYET TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) MEDENIYET TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147911
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) CBC SPORT 4K+" tvg-logo="" group-title="AZERI CHANNELS",(AZ) CBC SPORT 4K+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147912
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) STAR TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) STAR TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147913
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Dalga TV" tvg-logo="" group-title="AZERI CHANNELS",(AZ) Dalga TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147914
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) ATV " tvg-logo="" group-title="AZERI CHANNELS",(AZ) ATV 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147915
