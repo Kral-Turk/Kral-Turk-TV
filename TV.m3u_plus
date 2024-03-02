@@ -1,3 +1,1973 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
+https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
+http://xoxoxo.pro:8080/live/ahmet@de/DN8dMdfmwY5D/18249.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/399649
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/535
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/534
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
+http://www.x-changer.org:80/PRPvlYA35G/V8u3KkVaTJ/38653
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
+http://www.x-changer.org:80/PRPvlYA35G/V8u3KkVaTJ/18067
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 
+http://wiamxjxd.akciatv.ru/iptv/NBQAGAGHRC47B3/6817/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62632
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
+http://www.x-changer.org:80/PRPvlYA35G/V8u3KkVaTJ/18068
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/404
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
+http://www.x-changer.org:80/PRPvlYA35G/V8u3KkVaTJ/18069
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62634
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
+http://www.x-changer.org:80/PRPvlYA35G/V8u3KkVaTJ/18070
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports UHD 5
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/145163
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports FHD 5
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/145163
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/92203
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2784
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2784
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2784
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/408
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/62638
+
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR UHD 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/76320
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507972
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/32369
+
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/95965
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/95966
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/95967
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="http://logo.apk-red.com/cdn/pluspanel/spor/tivibu%20spor%204.png" group-title="SPOR KANALI",Tivibu Spor 4
+http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/61635
+
+#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3885.png", Eurosport 1 HD
+https://eurosport1.blutv.com:443/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3886.png", Eurosport 2 HD
+https://eurosport2.blutv.com:443/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
+https://gineu9.bozztv.com/gin-36bay2/gin-fbtv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
+http://hw1.jemtv.com:80/app/ASporHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62648
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/24482
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/160629
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/393157
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
+http://www.x-changer.org:80/I6C0fraaqg/bpqt2DXHn2/24467
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507766
+#EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
+https://dogus-live.daioncdn.net:443/startv/startv.m3u8
+#EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
+https://canli.haber365.com.tr/tr/startv/index.m3u8
+
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507874
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
+https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507941
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507848
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/113432
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "ULUSAL-UHD",FOX TV HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/508011
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
+https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
+http://149.13.0.66:4002/tv8hd
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
+http://50.7.218.122:8080/tv85/index.m3u8
+
+#EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
+http://50.7.218.122:8080/teve2/index.m3u8
+#EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
+http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507755
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+#EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
+http://gineu8.bozztv.com:80/gin-trn10/gt-eurostar/index.m3u8
+#EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
+https://bozztv.com/inim03/live1/eurod/playlist.m3u8
+#EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
+https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
+https://canli.haber365.com.tr/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV UHD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
+https://canli.haber365.com.tr/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/33386
+#EXTINF:-1 TRT 2 group-title="ULUSAL-UHD" ,TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 TRT TÜRK group-title="ULUSAL-UHD" ,TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 GÜLDÜR GÜLDÜR TV group-title="ULUSAL-UHD" ,GÜLDÜR GÜLDÜR TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423817
+#EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",EXXEN TV
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300384
+#EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",ERSAN KUNERI
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423821
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423814
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423815
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423816
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",TOLGA SHOW
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423820
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",COK GUZEL HAREKETLER
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423819
+
+#EXTM3U
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT 4K
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4684
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 H265" tvg-logo="http://xui.bestipbox.com:8000/images/8b3c215459500c64436fd86cba2fde67.png" group-title="TURK HEVC KANALLAR",TR: TRT 1 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29397
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ATV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29398
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: KANAL D H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL D H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29399
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: SHOW TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: SHOW TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29400
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR: STAR TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: STAR TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29401
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: FOX TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: FOX TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29402
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV8 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV8 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29403
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="TR: BEYAZ TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: BEYAZ TV H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29404
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL 7 H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29405
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TEVE 2 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TEVE 2 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29406
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: 360 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29407
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A SPOR H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34345
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRT SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT SPOR H265
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34535
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A HABER HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76888
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NTV HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76889
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: CNN TÜRK HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76890
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: HABER GLOBAL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76891
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÜLKE TV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ÜLKE TV HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76895
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT HABER HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76896
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV 100 HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76897
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NAT GEO CHANNEL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76903
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY CHANNEL HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76905
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY SCIENCE HEVC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76906
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82101
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/417945
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
+http://wiamxjxd.akciatv.ru/iptv/QUSEF3A55UE6BF/19070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/422732
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
+http://xplatinmedia.com:8080/live/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/431.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/216606.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/422733
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/216607.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 3
+http://xplatinmedia.com:8080/live/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/432.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/216608.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/216609.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/225536.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/225537.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
+http://euro3.mediaiptv.tk:80/live/avenger89312/CLujeUAvg49Z/225538.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK HABER ✪✪✪✪✪" tvg-logo="" group-title="TR | HABER",✪✪✪✪✪ TURK HABER ✪✪✪✪✪
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/97389
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="TR | HABER",TR: TRT HABER HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404134
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="TR | HABER",TR: TRT HABER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404135
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png" group-title="TR | HABER",TR: HABER TURK HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404136
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png" group-title="TR | HABER",TR: HABER TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404137
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="TR | HABER",TR: CNN TURK HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404138
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="TR | HABER",TR: CNN TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404139
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png" group-title="TR | HABER",TR: NTV HABER HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404140
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png" group-title="TR | HABER",TR: NTV HABER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404141
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="TR | HABER",TR: GLOBAL HABER HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404142
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="TR | HABER",TR: GLOBAL HABER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404143
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_haber_tr.png" group-title="TR | HABER",TR: A HABER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404147
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR | TELE 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/512/A0OWP1.png" group-title="TR | HABER",TR | TELE 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/106783
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR | HALK TV FHD" tvg-logo="https://imagizer.imageshack.com/img923/1609/AIUwTA.png" group-title="TR | HABER",TR | HALK TV FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/106784
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="https://imagizer.imageshack.com/img923/7736/NpjLHH.png" group-title="TR | HABER",TR: ULUSAL KANAL HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/259819
+#EXTINF:-1 tvg-id="" tvg-name="TR Sözcü TV " tvg-logo="" group-title="TR | HABER",TR Sözcü TV 
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/352661
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV" tvg-logo="" group-title="TR | HABER",TR: ARTI TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/353180
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD" tvg-logo="" group-title="TR | HABER",TR: HALK TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404144
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a-para-tr.png" group-title="TR | HABER",TR: A PARA HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404145
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a-para-tr.png" group-title="TR | HABER",TR: A PARA HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404146
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="TR: KRT TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/krt_tr.png" group-title="TR | HABER",TR: KRT TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404149
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png" group-title="TR | HABER",TR: ULKETV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404150
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-100-tr.png" group-title="TR | HABER",TR: TV 100 HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404151
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: Bloomberg HT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR | HABER",TR: Bloomberg HT
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404152
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png" group-title="TR | HABER",TR: KANAL 24 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404153
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="TR | HABER",TR: TGRT HABER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404154
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_news_tr.png" group-title="TR | HABER",TR: A NEWS HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404156
+#EXTINF:-1 tvg-id="brt2.tr" tvg-name="TR: BRT 3" tvg-logo="" group-title="TR | HABER",TR: BRT 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404157
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: UZAY HABER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/uzay_haber_tr.png" group-title="TR | HABER",TR: UZAY HABER
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404159
+#EXTINF:-1 tvg-id="thturkhaber.tr" tvg-name="TR: TH TURKHABER" tvg-logo="" group-title="TR | HABER",TR: TH TURKHABER
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/404160
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL HD" tvg-logo="" group-title="TR | HABER",TR: HABER GLOBAL HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421975
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TR | HABER",TR: TV NET HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421977
+#EXTINF:-1 tvg-id="" tvg-name="TR | Duzgun tv +" tvg-logo="https://imagizer.imageshack.com/img924/9776/bRugm4.png" group-title="TR | ULUSAL",TR | Duzgun tv +
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/193484
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="TR | YEREL",TR: KANAL AVRUPA
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413029
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGU TURK" tvg-logo="" group-title="TR | YEREL",TR: BENGU TURK
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413030
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="TR | YEREL",TR: CEM TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413031
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TR | YEREL",TR: YOL TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413032
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZAZA TV" tvg-logo="" group-title="TR | YEREL",TR: ZAZA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413040
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR | YEREL",TR: AKILLI TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413042
+#EXTINF:-1 tvg-id="" tvg-name="TR: Meclis TV" tvg-logo="" group-title="TR | YEREL",TR: Meclis TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413043
+#EXTINF:-1 tvg-id="" tvg-name="TR: GUNEYDOGU TV" tvg-logo="" group-title="TR | YEREL",TR: GUNEYDOGU TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413046
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TR | YEREL",TR: PAMUKKALE TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413050
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR | YEREL",TR: KANAL 23
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413052
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIYAR TV" tvg-logo="" group-title="TR | YEREL",TR: DIYAR TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413061
+#EXTINF:-1 tvg-id="" tvg-name="TR: A VUSLAT TV" tvg-logo="" group-title="TR | YEREL",TR: A VUSLAT TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413062
+#EXTINF:-1 tvg-id="" tvg-name="TR: ADA TV" tvg-logo="" group-title="TR | YEREL",TR: ADA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413063
+#EXTINF:-1 tvg-id="" tvg-name="TR: ASTV" tvg-logo="" group-title="TR | YEREL",TR: ASTV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413065
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo="" group-title="TR | YEREL",TR: DEHA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413067
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDESSA TV" tvg-logo="" group-title="TR | YEREL",TR: EDESSA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413068
+#EXTINF:-1 tvg-id="" tvg-name="TR: ER TV" tvg-logo="" group-title="TR | YEREL",TR: ER TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413069
+#EXTINF:-1 tvg-id="" tvg-name="TR: GRT TV" tvg-logo="" group-title="TR | YEREL",TR: GRT TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413070
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="" group-title="TR | YEREL",TR: KANAL 15
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413071
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TR | YEREL",TR: KANAL 26
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413072
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 68" tvg-logo="" group-title="TR | YEREL",TR: KANAL 68
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413074
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL T" tvg-logo="" group-title="TR | YEREL",TR: KANAL T
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413075
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS TV" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413077
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="" group-title="TR | YEREL",TR: KOY TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413078
+#EXTINF:-1 tvg-id="" tvg-name="TR: ORDU ALTAS TV" tvg-logo="" group-title="TR | YEREL",TR: ORDU ALTAS TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413080
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 1" tvg-logo="" group-title="TR | YEREL",TR: TV 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413086
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="" group-title="TR | YEREL",TR: TV 4 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413087
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 41" tvg-logo="" group-title="TR | YEREL",TR: TV 41
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413088
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="" group-title="TR | YEREL",TR: TV 52
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413089
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVDEN" tvg-logo="" group-title="TR | YEREL",TR: TVDEN
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413091
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="" group-title="TR | YEREL",TR: VIZYON 58
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413093
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="TR | YEREL",TR: KANAL URFA
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413095
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="TR | YEREL",TR: KON TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413096
+#EXTINF:-1 tvg-id="" tvg-name="TR: LINE TV" tvg-logo="" group-title="TR | YEREL",TR: LINE TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413097
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="TR | YEREL",TR: AKSU TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413098
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYKENT TV" tvg-logo="" group-title="TR | YEREL",TR: BEYKENT TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413100
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="TR | YEREL",TR: AKSU TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413103
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALANYA TV" tvg-logo="" group-title="TR | YEREL",TR: ALANYA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413104
+#EXTINF:-1 tvg-id="" tvg-name="TR: BURSA TV" tvg-logo="" group-title="TR | YEREL",TR: BURSA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413109
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="" group-title="TR | YEREL",TR: KANAL 15
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413116
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR | YEREL",TR: KANAL 23
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413117
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TR | YEREL",TR: KANAL 26
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413118
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 3" tvg-logo="" group-title="TR | YEREL",TR: KANAL 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413119
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33" tvg-logo="" group-title="TR | YEREL",TR: KANAL 33
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413120
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 5" tvg-logo="" group-title="TR | YEREL",TR: KANAL 5
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413122
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="" group-title="TR | YEREL",TR: KANAL 58
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413123
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 68" tvg-logo="" group-title="TR | YEREL",TR: KANAL 68
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413124
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL B" tvg-logo="" group-title="TR | YEREL",TR: KANAL B
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413125
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT" tvg-logo="" group-title="TR | YEREL",TR: KANAL FIRAT
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/413127
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS ADA TV" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS ADA TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421980
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS TV HD" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421981
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK BELGESEL ####" tvg-logo="" group-title="TR | BELGESEL",#### TURK BELGESEL ####
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243193
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD+" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243194
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD+" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243198
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: beIN IZ HD+" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="TR | BELGESEL",TR: beIN IZ HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243201
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243202
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243203
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243204
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.IDX.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243205
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243206
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: VIASAT HISTORY HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243207
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="TR | BELGESEL",TR: VIASAT NATURE HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/226120
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History FHD" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="TR | BELGESEL",TR: History FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243209
+#EXTINF:-1 tvg-id="docubox.tr" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243210
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://imagizer.imageshack.com/img924/4360/bCtOv4.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243212
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243213
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD+" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243216
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243217
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD+" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243218
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: National Geographic HD" tvg-logo="https://imagizer.imageshack.com/img924/1885/35XxCX.png" group-title="TR | BELGESEL",TR: National Geographic HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243219
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://imagizer.imageshack.com/img922/6835/sjXSTE.png" group-title="TR | BELGESEL",TR: Nat Geo Wild HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243221
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243222
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/243223
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/259820
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374324
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: Animal Planet HD" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="TR | BELGESEL",TR: Animal Planet HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374325
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374326
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: beiN GURME HD+" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="TR | BELGESEL",TR: beiN GURME HD+
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374327
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="" group-title="TR | BELGESEL",TR: TARIM TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374329
+#EXTINF:-1 tvg-id="" tvg-name="TR: KÖY TV" tvg-logo="https://imagizer.imageshack.com/img924/4149/fgdaHp.png" group-title="TR | BELGESEL",TR: KÖY TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/374330
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT EXPLORER" tvg-logo="" group-title="TR | BELGESEL",TR: ViASAT EXPLORER
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416422
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV HD" tvg-logo="" group-title="TR | BELGESEL",TR: TARIH TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421982
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪" tvg-logo="" group-title="TR | beIN & D-SMART",✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/97391
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES VICE HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92373
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.COMEDY.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES COMEDY HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92374
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR | beIN SERIES SCI-FI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.SCI.FI.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES SCI-FI HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92375
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.TURK.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92376
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIER HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92378
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.2.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92379
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | beIN MOVIES FAMILY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.FAMILY.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES FAMILY HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92380
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beIN MOVIES ACTION HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES ACTION HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92381
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beIN MOVIES ACTION 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.2.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES ACTION 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92382
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR | beINBOX OFFICE 1 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.1.png" group-title="TR | beIN & D-SMART",TR | beINBOX OFFICE 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92383
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beINBOX OFFICE 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.2.png" group-title="TR | beIN & D-SMART",TR | beINBOX OFFICE 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92384
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR | MOVIESMART TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.TURK.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92385
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | MOVIESMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.PREMIUM.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART PREMIUM HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92386
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | MOVIESMART PREMIUM 2 HD" tvg-logo="http:..." group-title="TR | beIN & D-SMART",TR | MOVIESMART PREMIUM 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92387
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR | MOVIESMART CLASSIC HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.CLASSIC.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART CLASSIC HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92388
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | DIZISMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.PREMIUM.png" group-title="TR | beIN & D-SMART",TR | DIZISMART PREMIUM HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92389
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR | DIZI SMART MAX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.MAX.png" group-title="TR | beIN & D-SMART",TR | DIZI SMART MAX HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92390
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR | FX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FX.png" group-title="TR | beIN & D-SMART",TR | FX HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92392
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR | SiNEMA TV YERLi HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.YERLI.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV YERLi HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92393
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR | SiNEMA TV 1001 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1001.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV 1001 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92394
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR | SiNEMA TV AiLE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AILE.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV AiLE HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92395
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR | SiNEMA TV AiLE 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV AiLE 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/411982
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SiNEMA TV AKSiYON HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AKSIYON.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV AKSiYON HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92396
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SiNEMA TV HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92397
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SINEMA TV AKSIYON 2 HD" tvg-logo="http:..." group-title="TR | beIN & D-SMART",TR | SINEMA TV AKSIYON 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92398
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR | SINEMA TV 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.2.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92399
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR | SINEMA TV KOMEDI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.KOMEDI.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV KOMEDI HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92400
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR | SINEMA TV KOMEDI 2 HD" tvg-logo="" group-title="TR | beIN & D-SMART",TR | SINEMA TV KOMEDI 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/411981
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SINEMA TV 1002 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1002.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV 1002 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/92402
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA YERLI 2" tvg-logo="" group-title="TR | beIN & D-SMART",TR: SINEMA YERLI 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421974
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVIES PREMIERE HD" tvg-logo="http://xc2.dyndns.org:5055/images/bc921eed2b45175b74b99a1a5097ac0b.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVIES PREMIERE HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439807
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVİES PREMİERE FHD" tvg-logo="http://xc2.dyndns.org:5055/images/bc921eed2b45175b74b99a1a5097ac0b.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVİES PREMİERE FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439808
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVIES PREMIERE 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/f590f1b8f5168e365b0c4f41b6251ec0.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVIES PREMIERE 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439809
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVİES PREMİERE 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/f590f1b8f5168e365b0c4f41b6251ec0.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVİES PREMİERE 2 FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439810
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVIES FAMILY HD" tvg-logo="http://xc2.dyndns.org:5055/images/8877cab6ea9fb00ef6ca3a0fb6d6e176.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVIES FAMILY HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439811
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVIES STARS HD" tvg-logo="http://xc2.dyndns.org:5055/images/606a51e6ea7dbfb5c16d41bc2ae53fc2.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVIES STARS HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439812
+#EXTINF:-1 tvg-id="" tvg-name="TRS ✦ beIN MOVİES STARS FHD" tvg-logo="http://xc2.dyndns.org:5055/images/606a51e6ea7dbfb5c16d41bc2ae53fc2.png" group-title="TR | beIN & D-SMART",TRS ✦ beIN MOVİES STARS FHD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439813
+#EXTINF:-1 tvg-id="" tvg-name="✪ TR | 24 /7 FILMLER ✪" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/BAYRAK.png" group-title="TR | 7/24 DİZİ",✪ TR | 24 /7 FILMLER ✪
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/287350
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423793
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423794
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423795
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 4
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423796
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 5" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 5
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423797
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Yerli Film 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Yerli Film 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423798
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yerli  Film 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yerli  Film 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423799
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yabancı Filmler" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yabancı Filmler
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423800
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ İCEBOX-2022" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ İCEBOX-2022
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423801
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423802
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423803
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423804
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠Amazon Prime" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠Amazon Prime
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423805
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423806
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423807
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Marvel" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Marvel
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423808
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Aksiyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Aksiyon 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423809
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠  Aksiyon 1 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠  Aksiyon 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423810
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aksiyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aksiyon 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423811
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Polisiye-Savaş" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Polisiye-Savaş
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423812
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aile - Komedi" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aile - Komedi
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423813
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Konuşanlar 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Konuşanlar 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423814
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423815
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 4
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423816
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Güldür Güldür 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Güldür Güldür 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423817
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠  Cem Yılmaz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠  Cem Yılmaz
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423818
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Çok Güzel Hareketler Bunlar" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Çok Güzel Hareketler Bunlar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423819
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Tolgshow Filtresiz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Tolgshow Filtresiz
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423820
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Erşan Kuneri Sansürsüz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Erşan Kuneri Sansürsüz
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423821
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Şafak Sezer" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Şafak Sezer
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424001
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Arnold Schwarzenegger" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Arnold Schwarzenegger
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424002
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Jason Statham" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Jason Statham
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424003
+#EXTINF:-1 tvg-id="" tvg-name="ICEACTOR - Jack Rayn" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEACTOR - Jack Rayn
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424004
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img922/1266/FBSMZD.png" group-title="TR | ULUSAL",TR: TV 100 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/248819
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423712
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423713
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX ANIMASYON 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423714
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 2 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423659
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 6 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 6 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423663
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 7 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 7 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423664
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 3D" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX 3D
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423666
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KORKU 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423683
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 4
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423687
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Behsat Ç. 1. Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Behsat Ç. 1. Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423894
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 2.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 2.Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423895
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 4.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 4.Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423896
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 3.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 3.Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423897
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Çekiç ve Gül" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Çekiç ve Gül
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423898
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Ezel 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Ezel 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423899
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Ezel 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Ezel 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423900
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423901
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 4" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 4
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423902
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 3" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 3
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423903
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423904
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Diriliş Ertuğrul 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Diriliş Ertuğrul 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423905
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Diriliş Ertuğrul 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Diriliş Ertuğrul 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423906
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Karadayi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Karadayi
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423907
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Karadayi-2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Karadayi-2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423908
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Çukur" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Çukur
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423909
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Kuzey - Güney" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Kuzey - Güney
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423910
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Bir Zamanlar Çukurova" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Bir Zamanlar Çukurova
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423911
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Muhtesem Yüzyıl" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Muhtesem Yüzyıl
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423912
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Aşk-ı Memnu" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Aşk-ı Memnu
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423913
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Gibi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Gibi
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423914
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Leyla ile Mecun 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Leyla ile Mecun 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423915
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Leyla ile Mecnun 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Leyla ile Mecnun 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423916
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Aynen Aynen" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Aynen Aynen
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423917
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Ayak İşleri" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Ayak İşleri
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423918
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Ayak İşleri-2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Ayak İşleri-2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423919
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Survivor Cup" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Survivor Cup
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423920
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI   ➠  Dexter Blood" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI   ➠  Dexter Blood
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423921
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ İşler Güçler" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ İşler Güçler
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423922
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Kuzey - Güney 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Kuzey - Güney 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423923
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Camdaki Kız" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Camdaki Kız
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423924
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Andropoz" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Andropoz
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423925
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Terzi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Terzi
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423926
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Pavyon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Pavyon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423927
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Alef" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Alef
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423928
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kıyma" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kıyma
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423929
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Saygı" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Saygı
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423930
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Hakan Muhafız" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Hakan Muhafız
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423931
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Atiye HD" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Atiye HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423932
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ 50 m²" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ 50 m²
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423933
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Zeytin Ağacı" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Zeytin Ağacı
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423934
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠  Sahmaran" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠  Sahmaran
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423935
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Bartu Ben" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Bartu Ben
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423936
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Black Mirror" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Black Mirror
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423937
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ La Case de Papel 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ La Case de Papel 1-2-3 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423938
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠  La Casa de Papel 4-5 sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠  La Casa de Papel 4-5 sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423939
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Stranger Things 1-2.sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Stranger Things 1-2.sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423940
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Stranger Things 3-4 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Stranger Things 3-4 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423941
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ The Umburella Acedmy" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ The Umburella Acedmy
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423942
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Breaking Bad 1-2 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Breaking Bad 1-2 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423943
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Braking Bad 3-4-5 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Braking Bad 3-4-5 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423944
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 1-2-3 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423945
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 4-5 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 4-5 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423946
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 6 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 6 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423947
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Anne 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Anne 1-2-3 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423948
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Peaky Blanders" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Peaky Blanders
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423949
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Lupin" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Lupin
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423950
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ You" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ You
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423951
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Manifest 1-2 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Manifest 1-2 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423952
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Manifest 3-4 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Manifest 3-4 Sezon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423953
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠Sex Edication" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠Sex Edication
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423954
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Squad Game" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Squad Game
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423955
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Emily Paris" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Emily Paris
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423956
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  You HD" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  You HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423957
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Niloya" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Niloya
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423958
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Keloğlan Masalları" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Keloğlan Masalları
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423959
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Şirinler" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Şirinler
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423960
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Şirinler 2" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Şirinler 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423961
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Doru" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Doru
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423962
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Kral Şakir" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Kral Şakir
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423963
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Can Bebek" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Can Bebek
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423964
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Cailou" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Cailou
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423965
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Rafadan Tayfa" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Rafadan Tayfa
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423966
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pocoyo" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pocoyo
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423967
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pijamaskeliler" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pijamaskeliler
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423968
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tom ve Jerry" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tom ve Jerry
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423969
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tatatam" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tatatam
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423970
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK   ➠ Jonny Brova" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK   ➠ Jonny Brova
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423971
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sungerbob" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sungerbob
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423972
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sevimli Dostlar 1" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sevimli Dostlar 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423973
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Redkit" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Redkit
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423974
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Robocar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Robocar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423975
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠  Yade Yade" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠  Yade Yade
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423976
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ 64 Kare  Ülkesi" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ 64 Kare  Ülkesi
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423977
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pırıl" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pırıl
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423978
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Final Space" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Final Space
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423979
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Neşeli Tavşanlar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Neşeli Tavşanlar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423980
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Maymunlar Kralı" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Maymunlar Kralı
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423981
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pokemon" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pokemon
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423982
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Kaplan Daniel" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Kaplan Daniel
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423983
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Elif  ve Arkadaşları" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Elif  ve Arkadaşları
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423984
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tarzan ve Jane" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tarzan ve Jane
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423985
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sonic Boom" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sonic Boom
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423986
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Çılgın Çocuklar Kritik Görev" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Çılgın Çocuklar Kritik Görev
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423987
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Masal Kasabası" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Masal Kasabası
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423988
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK-Sevimli dostlar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK-Sevimli dostlar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423989
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423990
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423991
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM  ➠ Cüneyt Arkın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM  ➠ Cüneyt Arkın
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423992
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Cüneyt Arkın 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Cüneyt Arkın 2
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423993
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Filiz Akın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Filiz Akın
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423994
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Cuneyt Arkın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Cuneyt Arkın
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423995
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Hababbam  Sınıfı" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Hababbam  Sınıfı
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423996
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Gülşen Bibikoğlu" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Gülşen Bibikoğlu
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423997
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kartal Tibet" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kartal Tibet
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423998
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCSM  ➠ Zeki & Metin" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCSM  ➠ Zeki & Metin
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423999
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Yeşilçam 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Yeşilçam 1
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424000
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="" group-title="TR | ÇOCUK",TR: TRT ÇOCUK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415478
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOONBUG KIDS TV" tvg-logo="" group-title="TR | ÇOCUK",TR: MOONBUG KIDS TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415479
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TR | ÇOCUK",TR: MINIKA COCUK
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415480
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKTOONS HD" tvg-logo="" group-title="TR | ÇOCUK",TR: NICKTOONS HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415481
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JR. HD" tvg-logo="" group-title="TR | ÇOCUK",TR: DISNEY JR. HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415482
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="TR | ÇOCUK",TR: CARTOON NETWORK
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415483
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR | ÇOCUK",TR: BABY TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421970
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD" tvg-logo="" group-title="TR | ÇOCUK",TR: BOOMERANG HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421971
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="TR | ÇOCUK",TR: MINIKA GO
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421972
+#EXTINF:-1 tvg-id="" tvg-name="TR: DUCK TV" tvg-logo="" group-title="TR | ÇOCUK",TR: DUCK TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421973
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ÇOCUK ŞARKILARI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.SARKILARI.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV ÇOCUK ŞARKILARI HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439814
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPEE TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.FHD/PEPE.png" group-title="TR | 7/24 ÇOCUK",TR: PEPEE TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439815
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV NİLOYA HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/NILOYA.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV NİLOYA HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439816
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ŞİRİNLER HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/SIRINLER.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV ŞİRİNLER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439817
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV REDKİT HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/REDKID.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV REDKİT HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439818
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV HE-MAN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/HE.MAN.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV HE-MAN HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439819
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV TOM & JERRY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/TOM.VE.JERY.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV TOM & JERRY HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439820
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV MAŞA ile KOCA AYI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/MASA.ILE.KOCA.AYI.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV MAŞA ile KOCA AYI HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV NİNJA KAPLUMBAĞALAR HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/NINJA.KAPLUMBAGALAR.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV NİNJA KAPLUMBAĞALAR HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439822
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ANİMASYON 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/ANIMASYON.1.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV ANİMASYON 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439823
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ANİMASYON 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/ANIMASYON.2.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV ANİMASYON 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439824
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANİMASYON 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/MAX.ANIMASYON.1.png" group-title="TR | 7/24 ÇOCUK",TR: MAX ANİMASYON 1 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439825
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANİMASYON 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/MAX.ANIMASYON.2.png" group-title="TR | 7/24 ÇOCUK",TR: MAX ANİMASYON 2 HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439826
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKULI TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.FHD/KUKULI.png" group-title="TR | 7/24 ÇOCUK",TR: KUKULI TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439827
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIJAMA MASKELILER TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/PJMAKS.png" group-title="TR | 7/24 ÇOCUK",TR: PIJAMA MASKELILER TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439828
+#EXTINF:-1 tvg-id="" tvg-name="TR: RAFADAN TAYFA HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/RAFADAN.TAYFA.png" group-title="TR | 7/24 ÇOCUK",TR: RAFADAN TAYFA HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439829
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Patron Bebek HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/PATRON.BEBEK.png" group-title="TR | 7/24 ÇOCUK",TR: BlueTV Patron Bebek HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439830
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/POKEMON.png" group-title="TR | 7/24 ÇOCUK",TR: POKEMON HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439831
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNGER BOB HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.HD/MASAL.DIYARI.png" group-title="TR | 7/24 ÇOCUK",TR: SUNGER BOB HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439833
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAW PATROL TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.FHD/PAW.PATROL.png" group-title="TR | 7/24 ÇOCUK",TR: PAW PATROL TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439834
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK MUZIK ✪✪✪✪✪" tvg-logo="" group-title="TR | MÜZİK",✪✪✪✪✪ TURK MUZIK ✪✪✪✪✪
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/97769
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ Arabesk - Damar" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ Arabesk - Damar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435972
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ 80-90 "lar" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ 80-90 "lar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435973
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Akustik Slow" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Akustik Slow
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435974
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Slow Müzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Slow Müzik
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435975
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Pop 2022" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Pop 2022
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435976
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Hit 2023 Şarkılar" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Hit 2023 Şarkılar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435977
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Yabancı Slow" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Yabancı Slow
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435978
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Yabancı Karışık" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Yabancı Karışık
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435979
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Yabancı Mix" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Yabancı Mix
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435980
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Anadolu Türkileri" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Anadolu Türkileri
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435981
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Sevilen Türküler" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Sevilen Türküler
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435982
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Anadolu Türküleri" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Anadolu Türküleri
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435983
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Karadeniz Hareketli Kemence" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Karadeniz Hareketli Kemence
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435984
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Karadeniz Karışık" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Karadeniz Karışık
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435985
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Slow Karadeniz" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Slow Karadeniz
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435986
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Neşet Ertaş" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Neşet Ertaş
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435987
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠Ferdi Tayfur" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠Ferdi Tayfur
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435988
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ Emel Sayın" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ Emel Sayın
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435989
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Şömine Karışık Muzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Şömine Karışık Muzik
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435990
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Yıldız Tilbe- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Yıldız Tilbe- Şömine
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435991
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Sezen Aksu- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Sezen Aksu- Şömine
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435992
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Cengiz- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Cengiz- Şömine
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435993
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Hakan Taşıyan- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Hakan Taşıyan- Şömine
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435994
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Koray Avcı" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Koray Avcı
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435995
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ İbrahim Erkal" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ İbrahim Erkal
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435996
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Orhan Gencebay" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Orhan Gencebay
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435997
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Serdar Ortaç" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Serdar Ortaç
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435998
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Hirai Zerdüs" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Hirai Zerdüs
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/435999
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Ahmet Kaya" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Ahmet Kaya
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436000
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Cem Karaca" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Cem Karaca
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436001
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Tarkan" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Tarkan
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436002
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ POP 2022-2023" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ POP 2022-2023
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436003
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ İbiza- Remix" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ İbiza- Remix
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436004
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Gitar-Kanun -Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Gitar-Kanun -Şömine
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436005
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Şömine 60-70" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Şömine 60-70
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436006
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Deyiş Karışık" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Deyiş Karışık
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436007
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Mozart" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Mozart
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436008
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Turk Sanat Müziği" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Turk Sanat Müziği
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436009
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Erzincan Türküleri" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Erzincan Türküleri
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436010
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Ankara Oyun Havaları" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Ankara Oyun Havaları
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/436011
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akustik Şarkılar" tvg-logo="" group-title="TR | MÜZİK",TR: Akustik Şarkılar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412958
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Ask FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Ask FM
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412965
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Baba FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Baba FM
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412966
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Damar FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Damar FM
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412967
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arabesk Radyo Efkar" tvg-logo="" group-title="TR | MÜZİK",TR: Arabesk Radyo Efkar
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412968
+#EXTINF:-1 tvg-id="" tvg-name="TR : Radyo Megasite" tvg-logo="" group-title="TR | MÜZİK",TR : Radyo Megasite
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412969
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Gebze FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Gebze FM
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412970
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo TRT TÜRKÜ" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo TRT TÜRKÜ
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412971
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Türkiyem" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Türkiyem
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412972
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Metropol" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Metropol
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412973
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR RADYO" tvg-logo="" group-title="TR | MÜZİK",TR: A SPOR RADYO
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412976
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER RADYO" tvg-logo="" group-title="TR | MÜZİK",TR: A HABER RADYO
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412977
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Arabesk FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Arabesk FM
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/412978
+#EXTINF:-1 tvg-id="" tvg-name="TR: IBRAHIM TATLISES TV" tvg-logo="" group-title="TR | MÜZİK",TR: IBRAHIM TATLISES TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/411331
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZİK ʜᴅ" tvg-logo="" group-title="TR | MÜZİK",TR: TRT MUZİK ʜᴅ
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416380
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR: KRAL POP ʜᴅ 1080
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416381
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK  ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR: DREAM TURK  ʜᴅ 1080
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416382
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: POWERTURK ʜᴅ 720
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416383
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER TURK ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: NUMBER TURK ʜᴅ 720
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416384
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER 1 ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: NUMBER 1 ʜᴅ 720
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416385
+#EXTINF:-1 tvg-id="" tvg-name="TR:DREAM TV ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR:DREAM TV ʜᴅ 1080
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/416386
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 ASK" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 ASK
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421964
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DAMAR" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 DAMAR
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421965
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DANCE" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 DANCE
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421966
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK HD" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421967
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="" group-title="TR | MÜZİK",TR: POWER HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421968
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="TR | MÜZİK",TR: POWER TURK HD
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/421969
+
+#EXTM3U
+#EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuu_uF4zhCdxndSpcgCLHgtYGLG/CdxndSpcgCLHgtYGLYBGA/ 25C4%25B0NE5TV.PNG", CiNE5 TV HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOYItx72T-kbNJeIqWcQ7KEQMQNJXZP7fAHGIjB7WWoghPQvxRP-tn27k05hCGSBlZV7FuZAzQz625bVXcRsqDdlDLs7Lm0stqqVp-bwDNDUUvDtkUyra-TKZ7LH_sCUA6qC_O1N7D9To1_DenuiExmHJlpIDBkXPf_LPwrjyLrB-tPOhFYLRUUlhw =s320", CRI TÜRK HD
+https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33980
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33981
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 3 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 3 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33982
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT YESILCAM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT YESILCAM 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33986
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA DRAMA HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA DRAMA HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33995
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA HITS HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA HITS HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33999
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34002
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 2 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34004
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME ANIMASYON 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34005
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME BİLİM KURGU HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME BİLİM KURGU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34006
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME FANTASTIK HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME FANTASTIK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34008
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KOMEDI 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KOMEDI 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34009
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KORKU 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KORKU 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34011
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV BILIM-KURGU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV BILIM-KURGU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34055
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV DRAM HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV DRAM HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34057
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KOMEDI HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KOMEDI HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34058
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KORKU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KORKU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34060
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34071
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34072
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART ACTION HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART ACTION HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34075
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART FANTASTİK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART FANTASTİK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34079
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34080
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34081
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34082
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34083
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART TURK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART TURK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34084
+
+#EXTM3U
+#EXTINF:-1 tvg-id="VoxGermany.de" tvg-name="DE: VOX FHD" tvg-logo="http://germany.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76
+#EXTINF:-1 tvg-id="KabelEinsGermany.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/78
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: PRO 7 FHD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/79
+#EXTINF:-1 tvg-id="FoxGermany.us" tvg-name="DE: FOX TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE: FOX TV FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/91
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH  STREET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH  STREET FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/93
+#EXTINF:-1 tvg-id="RTLZweiGermany.de" tvg-name="DE: RTL 2 FHD" tvg-logo="http://deprem.smartv.me:8000/images/85c950ef7f467b0870c89fbed08c207e.png" group-title="GERMANY CHANNELS",DE: RTL 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/143
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SYFY FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/145
+#EXTINF:-1 tvg-id="ARDAlpha.de" tvg-name="DE: ARD FHD" tvg-logo="http://iptv.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/147
+#EXTINF:-1 tvg-id="ORF 1-DE" tvg-name="DE_ORF 1" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/e2c867f25dc5ce101cd41bc852c6e88c.png" group-title="GERMANY CHANNELS",DE_ORF 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/439
+#EXTINF:-1 tvg-id="ORF 2-DE" tvg-name="DE_ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/200px-ORF2_logo_n.svg.png" group-title="GERMANY CHANNELS",DE_ORF 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/440
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/441
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE_SAT 1 GOLD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 GOLD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/458
+#EXTINF:-1 tvg-id="SixxGermany.de" tvg-name="DE_ SIXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ SIXX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/768
+#EXTINF:-1 tvg-id="ProSiebenMaxxGermany.de" tvg-name="DE_ PRO 7 MAXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ PRO 7 MAXX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/769
+#EXTINF:-1 tvg-id="RTLGermany.de" tvg-name="DE: RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTL_Logo_ab_dem_1._September_2017.png/250px-RTL_Logo_ab_dem_1._September_2017.png" group-title="GERMANY CHANNELS",DE: RTL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/771
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE_SAT 1  HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/772
+#EXTINF:-1 tvg-id="" tvg-name="DE_CLASSICA" tvg-logo="" group-title="GERMANY CHANNELS",DE_CLASSICA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/818
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE_ RTL NITRO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ RTL NITRO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/819
+#EXTINF:-1 tvg-id="Kinowelt.tv-DE" tvg-name="DE_KINOWELT" tvg-logo="" group-title="GERMANY CHANNELS",DE_KINOWELT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/894
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/921
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV 2" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/922
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE_3 SAT" tvg-logo="" group-title="GERMANY CHANNELS",DE_3 SAT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/945
+#EXTINF:-1 tvg-id="" tvg-name="DE_NDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_NDR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/951
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE_RTL Crime" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL Crime
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/954
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARD ALPHA HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ARD ALPHA HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/956
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE_RTL LIVING" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL LIVING
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/960
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/961
+#EXTINF:-1 tvg-id="" tvg-name="DE_WDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_WDR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/962
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="DE_RTL PLUS" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PLUS
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1027
+#EXTINF:-1 tvg-id="" tvg-name="DE_Deluxe Music HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_Deluxe Music HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1029
+#EXTINF:-1 tvg-id="" tvg-name="DE_TELE 5" tvg-logo="" group-title="GERMANY CHANNELS",DE_TELE 5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1232
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="DE_KABEL EINS CLASSIC" tvg-logo="" group-title="GERMANY CHANNELS",DE_KABEL EINS CLASSIC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1300
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE_PRO7 Fun HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO7 Fun HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1303
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="DE_ZDF NEO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ZDF NEO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1305
+#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central FHD" tvg-logo="" group-title="GERMANY CHANNELS",DE: Comedy Central FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1306
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL HD" tvg-logo="http://sweden.bestipbox.com:8000/images/37871b04420fb3a6da6cd26091bc8c89.png" group-title="GERMANY CHANNELS",DE: RTL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2181
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE: RTL II  HD" tvg-logo="http://germany.bestipbox.com:8000/images/85c950ef7f467b0870c89fbed08c207e.png" group-title="GERMANY CHANNELS",DE: RTL II  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2182
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF HD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2183
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: ARD HD" tvg-logo="http://sweden.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2184
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2185
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="GERMANY CHANNELS",DE: RTL CRIME HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2186
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="DE: VOX HD" tvg-logo="http://sweden.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2190
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2191
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE_PRO 7 MAXX HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO 7 MAXX HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2192
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH STREET HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2193
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="DE_FOX HD Y" tvg-logo="http://germany.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE_FOX HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2194
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="DE: KABEL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2195
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: SYFY HD" tvg-logo="http://germany.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2203
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV SERIE FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2657
+#EXTINF:-1 tvg-id="" tvg-name="DE:RBB BERLIN HD" tvg-logo="" group-title="GERMANY CHANNELS",DE:RBB BERLIN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2659
+#EXTINF:-1 tvg-id="" tvg-name="DE_SAT 1 EMOTIONS HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 EMOTIONS HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2664
+#EXTINF:-1 tvg-id="" tvg-name="DE_PHOENIX HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PHOENIX HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2665
+#EXTINF:-1 tvg-id="" tvg-name="DE_ONE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ONE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2666
+#EXTINF:-1 tvg-id="" tvg-name="DE_NITRO HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_NITRO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2667
+#EXTINF:-1 tvg-id="" tvg-name="DE_XITE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_XITE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2669
+#EXTINF:-1 tvg-id="" tvg-name="DE : RBB HD " tvg-logo="" group-title="GERMANY CHANNELS",DE : RBB HD 
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3764
+#EXTINF:-1 tvg-id="" tvg-name="DE : Heimat Kanal" tvg-logo="" group-title="GERMANY CHANNELS",DE : Heimat Kanal
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Waidwerk HD+" tvg-logo="" group-title="GERMANY CHANNELS",DE: Waidwerk HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3935
+#EXTINF:-1 tvg-id="" tvg-name="DE_Super RTL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Super RTL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/146
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney Cinemagic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney Cinemagic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/422
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney CHANEL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney CHANEL
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/423
+#EXTINF:-1 tvg-id="" tvg-name="DE_Boomerang" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Boomerang
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/424
+#EXTINF:-1 tvg-id="" tvg-name="DE_CARTOON NETWORK" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_CARTOON NETWORK
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/425
+#EXTINF:-1 tvg-id="" tvg-name="DE_KIKA HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_KIKA HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/949
+#EXTINF:-1 tvg-id="" tvg-name="DE_DISNEY Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_DISNEY Jr.
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1298
+#EXTINF:-1 tvg-id="" tvg-name="DE_NICK Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_NICK Jr.
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1301
+#EXTINF:-1 tvg-id="" tvg-name="DE : Disney Plus Film HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Disney Plus Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3846
+#EXTINF:-1 tvg-id="" tvg-name="DE : Baby TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Baby TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3847
+#EXTINF:-1 tvg-id="" tvg-name="DE : Nick HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Nick HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/3848
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tom und Jerry Classic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Tom und Jerry Classic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Mr.Bean" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Mr.Bean
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17247
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Spongebob" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Cine Gold Spongebob
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17248
+#EXTINF:-1 tvg-id="" tvg-name="DE: PAW Patrol" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: PAW Patrol
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17249
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 2" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 1" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17251
+#EXTINF:-1 tvg-id="" tvg-name="DE: Feuerwehrmann Sam" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Feuerwehrmann Sam
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/17252
+#EXTINF:-1 tvg-id="Sky Cinema Family-DE" tvg-name="DE_Sky Cinema Family" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Family
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/63
+#EXTINF:-1 tvg-id="Sky Krimi-DE" tvg-name="DE_SKY KRIMI" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY KRIMI
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/64
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Showcase HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/65
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Serie HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Serie HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/66
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SHOWCASE" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY SHOWCASE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/67
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Comedy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Comedy
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/68
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Action" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Action
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/69
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY ATLANTIC" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY ATLANTIC
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/70
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Best Of HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/71
+#EXTINF:-1 tvg-id="" tvg-name="DE_ROMANCE TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ROMANCE TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/75
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY TNT SERIE" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY TNT SERIE
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/94
+#EXTINF:-1 tvg-id="" tvg-name="DE_SONY TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SONY TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/377
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Fun
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/448
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV FILM" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV FILM
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Classics
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/770
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/782
+#EXTINF:-1 tvg-id="" tvg-name="DE_UNIVERSAL HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_UNIVERSAL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/948
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA 1+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA 1+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/957
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Film HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1299
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Comedy HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner TV Comedy HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1516
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WARNER TV SERIE FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2187
+#EXTINF:-1 tvg-id="" tvg-name="DE_TNT SERIE HD Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT SERIE HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2189
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ACTION Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ACTION Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2196
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ATLANTIC Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ATLANTIC Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2197
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2198
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney Plus Film HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Disney Plus Film HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2199
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  COMEDY Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  COMEDY Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2200
+#EXTINF:-1 tvg-id="" tvg-name="DE: WarnerBros Comedy FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WarnerBros Comedy FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Bros FILM HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner Bros FILM HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2202
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF NOE HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ZDF NOE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2655
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY REPLAY
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2660
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25484
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN 24 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25485
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25525
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25527
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 6 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25529
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 8 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25531
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 9 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25532
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 10 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25533
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25550
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25551
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25552
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 4 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25553
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 5 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25554
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 6 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25555
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 7 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25556
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 8 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25557
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 9 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25558
+#EXTINF:-1 tvg-id="" tvg-name="DE+: CRIME + INVESTIGATION" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE+: CRIME + INVESTIGATION
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/204468
+#EXTINF:-1 tvg-id="DE-N24 Doku" tvg-name="DE_N24 DOKU" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_N24 DOKU
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/144
+#EXTINF:-1 tvg-id="" tvg-name="DE_National Geographic" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_National Geographic
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/452
+#EXTINF:-1 tvg-id="" tvg-name="DE_Spiegel TV Geschichte HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Spiegel TV Geschichte HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/455
+#EXTINF:-1 tvg-id="" tvg-name="DE_HISTORY HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_HISTORY HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/456
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: ZDF NEO HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/892
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARTE HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ARTE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/893
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: TLC HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/947
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL TV WISSEN UHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: SPIEGEL TV WISSEN UHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/952
+#EXTINF:-1 tvg-id="" tvg-name="DE_D MAX" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_D MAX
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/955
+#EXTINF:-1 tvg-id="" tvg-name="DE_Welt der Wunder HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Welt der Wunder HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/958
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF INFO" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ZDF INFO
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/959
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY DOCUMENTARIES FHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_SKY DOCUMENTARIES FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1302
+#EXTINF:-1 tvg-id="" tvg-name="DE_Kabel 1 Doku HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Kabel 1 Doku HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1304
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Discovery HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2652
+#EXTINF:-1 tvg-id="" tvg-name="DE_ANIMAL PLANET" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ANIMAL PLANET
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2653
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Welt HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2658
+#EXTINF:-1 tvg-id="" tvg-name="DE: Marco Polo TV" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Marco Polo TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2668
+#EXTINF:-1 tvg-id="" tvg-name="DE_Nat Geo Wild HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Nat Geo Wild HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2671
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/80
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 1 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 1 HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2206
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 2 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 2 HD Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2207
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/82
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 1 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 1 Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2204
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/373
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 2 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 2 Y
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2205
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/374
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/375
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/376
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Top Event HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2134
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Premier League HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/953
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky  Sport Premier League HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky  Sport Premier League HD+
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/963
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Mix HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/25868
+#EXTINF:-1 tvg-id="" tvg-name="DE_ORF SPORT  HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_ORF SPORT  HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1028
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1262
+#EXTINF:-1 tvg-id="DE-Sky Sport 3 HD" tvg-name="DE_Sky Sport 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1962
+#EXTINF:-1 tvg-id="DE-Sky Sport 4 HD" tvg-name="DE_Sky Sport 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1963
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1964
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1965
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1966
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1967
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1968
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1969
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1970
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1971
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1972
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1973
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/1974
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT NEWS" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT NEWS
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2648
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Tennis HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125677
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Golf HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125679
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sport 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/125695
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132196
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132197
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132198
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132202
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 1 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 1 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132203
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 2 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 2 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132204
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 3 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 3 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 4 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 4 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132206
+#EXTINF:-1 tvg-id="" tvg-name="DE: Amazon Prime 5 [Live Events Only]" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Amazon Prime 5 [Live Events Only]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132207
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 16 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 16 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132208
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 17 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 17 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/132209
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA 1" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/2649
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81481
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81482
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/81483
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS ABC KINDER TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS ABC KINDER TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184311
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS MASCHA UND DER BÄR" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS MASCHA UND DER BÄR
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184312
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Paw Patrol ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Paw Patrol ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184313
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Mascha & Bär ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Mascha & Bär ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184314
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Pj Masks ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Pj Masks ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184315
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids Peppa Wutz ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids Peppa Wutz ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184316
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Kids SpongeBob ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Kids SpongeBob ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184317
+#EXTINF:-1 tvg-id="" tvg-name="DE: OnePlay Disney+ ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: OnePlay Disney+ ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184318
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 1 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184328
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 2 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184329
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 3 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184330
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 FILMBOX 4 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 FILMBOX 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184331
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 KINDERFILME 1 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 KINDERFILME 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184332
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 KINDERFILME 2 HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 KINDERFILME 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184333
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DAS SPIDEY TEAM HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DAS SPIDEY TEAM HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184334
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DIE GARDE    DER LOEWEN HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DIE GARDE    DER LOEWEN HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184335
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 MUPPET BABIES HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 MUPPET BABIES HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184336
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 RAPUNZEL HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 RAPUNZEL HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184337
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 DISNEYS FILLMORE HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 DISNEYS FILLMORE HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184338
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINDER 24/7 MARVELS AGENT OF SHIELD HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: KINDER 24/7 MARVELS AGENT OF SHIELD HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184339
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Kung Fu Panda Film Channel ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Kung Fu Panda Film Channel ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184340
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Kung Fu Panda Series Channel" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Kung Fu Panda Series Channel
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184341
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle PJ MASKS ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle PJ MASKS ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184342
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle Peppa Wutz ꜰʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle Peppa Wutz ꜰʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184343
+#EXTINF:-1 tvg-id="" tvg-name="*ᴰᴱ: Eagle Masha und der Bär ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",*ᴰᴱ: Eagle Masha und der Bär ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184344
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 2 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 2 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184345
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 3 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 3 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184346
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 4 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 4 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184347
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 5 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 5 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184348
+#EXTINF:-1 tvg-id="" tvg-name="DE: DİSNEY Kids 6 ᴴᴰ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: DİSNEY Kids 6 ᴴᴰ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184349
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragon Ball 24/7" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragon Ball 24/7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184350
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball GT" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball GT
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184351
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184352
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball Super HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball Super HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184353
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dragonball Z Kai HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Dragonball Z Kai HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184354
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 1 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184355
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 2 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184356
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOVIE  U4K KIDS 3 FHD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: MOVIE  U4K KIDS 3 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184357
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  SQUID GAME ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : BlueTV  SQUID GAME ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184358
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  AVATAR  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  AVATAR  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184359
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BAKI ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  BAKI ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184360
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BATMAN of THE FUTURE ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  BATMAN of THE FUTURE ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184361
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184362
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CASPER ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  CASPER ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184363
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DEDEKTIVE CONAN ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DEDEKTIVE CONAN ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184364
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE  RACCONS ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DIE  RACCONS ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184365
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE MASKE ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DIE MASKE ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184366
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DORORO ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DORORO ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184367
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DRAGON BALL Z Kai ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  DRAGON BALL Z Kai ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184368
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  1 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  1 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184369
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  3 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  3 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184370
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  5 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  5 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184371
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  6 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  6 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184372
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  7 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  7 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184373
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  8 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  8 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184374
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  9 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER  9 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184375
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 10 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 10 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184376
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 2 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 2 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184377
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 4 ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  KINDER 4 ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184378
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NEW SPIDER MAN  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  NEW SPIDER MAN  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184379
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ROBIN HOOD ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  ROBIN HOOD ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184380
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ROBOCOP ALPHA COMMANDO  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  ROBOCOP ALPHA COMMANDO  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184381
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SCOOBY DOO ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  SCOOBY DOO ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184382
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  TOM and JERRY  ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  TOM and JERRY  ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184383
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  YOGIBAR  SHOW ʜᴅ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: BlueTV  YOGIBAR  SHOW ʜᴅ
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184384
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL FUSSBALL FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SPORTDIGITAL FUSSBALL FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184385
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: MOTORVISION TV
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184386
+#EXTINF:-1 tvg-id="" tvg-name="DE: AUTO MOTOR SPORT HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: AUTO MOTOR SPORT HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184387
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport F1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184388
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SPORT1+ FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184389
+#EXTINF:-1 tvg-id="" tvg-name="DE: ESPORTS1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: ESPORTS1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184390
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Eurosport 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184391
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Eurosport 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/184392
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 2023" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 2023
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185163
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185164
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185165
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185166
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185167
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Kino 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Kino 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185168
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185169
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185170
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Action 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Action 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185171
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185172
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185173
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Horror 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Horror 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185174
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Komödie HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Komödie HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185175
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185176
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185177
+#EXTINF:-1 tvg-id="" tvg-name="(DE) CineBox 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) CineBox 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185178
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185179
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185180
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Prime 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Prime 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185181
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Amazon Serien 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Amazon Serien 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185182
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel's Serien HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel's Serien HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185183
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel's Anime HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel's Anime HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185184
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Marvel Cinema HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Marvel Cinema HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185185
+#EXTINF:-1 tvg-id="" tvg-name="(DE) HBO Serien HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) HBO Serien HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185186
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Movies" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Movies
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185187
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185188
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185189
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Netflix Serien 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Netflix Serien 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185190
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Apple TV+ HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Apple TV+ HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185191
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Disney+ HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Disney+ HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185192
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DBO Western" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DBO Western
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185193
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185194
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185195
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Popcorn 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Popcorn 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185196
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185197
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 1 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185198
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185199
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185200
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Klassischer 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Klassischer 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185201
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Abenteuer HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Abenteuer HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185202
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Star Wars HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Star Wars HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185203
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Märchen HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Märchen HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185204
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Knight Rider" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Knight Rider
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185205
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Al Pacino" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Al Pacino
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185206
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Bruce Willis" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Bruce Willis
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185207
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Rambo HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Rambo HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185208
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Vin Diesel" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Vin Diesel
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185209
+#EXTINF:-1 tvg-id="" tvg-name="(DE) DW Johnson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) DW Johnson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185210
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Keanu Reeves" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Keanu Reeves
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185211
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Steven Segal" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Steven Segal
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185212
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Mel Gibson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Mel Gibson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185213
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Tom Hanks" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Tom Hanks
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185214
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Jackie Chan" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Jackie Chan
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185215
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Samuel L Jackson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Samuel L Jackson
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185216
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Jason Statham" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Jason Statham
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185217
+#EXTINF:-1 tvg-id="" tvg-name="(DE) J.C Van Damme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) J.C Van Damme
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185218
+#EXTINF:-1 tvg-id="" tvg-name="(DE) James Bond 007" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) James Bond 007
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185219
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Denzel Washington" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Denzel Washington
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185220
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Fast & Furious HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Fast & Furious HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185221
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Bud Spencer & Terence Hill" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) Bud Spencer & Terence Hill
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/185222
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN Bar 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197032
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN Bar 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197033
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 2 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 2 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197658
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 3 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 3 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197659
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 4 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 4 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197660
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 5 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 5 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197661
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 6 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 6 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197662
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 7 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 7 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197663
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 8 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 8 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197664
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 9 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 9 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197665
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix: Deutsche 10 HD" tvg-logo="" group-title="DE: NETFLIX STORE",DE: Netflix: Deutsche 10 HD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197666
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Action FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Action FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197669
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Animation FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Animation FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197671
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Bruce Willis FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Bruce Willis FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197675
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Cinema FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Cinema FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197676
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Harry Potter FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Harry Potter FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197680
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Horror FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Horror FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197682
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jason Statham FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Jason Statham FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197683
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jean Claude van Damme FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Jean Claude van Damme FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197684
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax The Fast & the Furious FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax The Fast & the Furious FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197691
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Tom Cruise FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Tom Cruise FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197692
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Will Smith FHD" tvg-logo="" group-title="DE: SERIES STORE 24/7",DE: Cinedome Filmax Will Smith FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/197694
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN 1 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/200226
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE: DAZN 2 FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/200227
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 1 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 1 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201723
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 2 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 2 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201724
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 3 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 3 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201725
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 4 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 4 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201726
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 5 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 5 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201727
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 6 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 6 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201728
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 7 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 7 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201729
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 8 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 8 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201730
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 9 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 9 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201731
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 10 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 10 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201732
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 11 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 11 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201733
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 12 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 12 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201734
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 13 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 13 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201735
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 14 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 14 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201736
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 15 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 15 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201737
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 16 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 16 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201738
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 17 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DAZN EVENT 17 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201739
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 1 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 1 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201740
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 2 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 2 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201741
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 3 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 3 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201742
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 4 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 4 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201743
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 5 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 5 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201744
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 6 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 6 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201745
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 7 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 7 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201746
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 8 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 8 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201747
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 9 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 9 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201748
+#EXTINF:-1 tvg-id="" tvg-name="RTL+ EVENT 10 [MATCH TIME]" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",RTL+ EVENT 10 [MATCH TIME]
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201749
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 1" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 1
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201750
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 2" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 2
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201751
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 3" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 3
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201752
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 4" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 4
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201753
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 5" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 5
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201754
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 6" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 6
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201755
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 7" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 7
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201756
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 8" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 8
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201757
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 9" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 9
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201758
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 10" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 10
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201759
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 11" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 11
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201760
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 12" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 12
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201761
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 13" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 13
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201762
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 14" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 14
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201763
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 15" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 15
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201764
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 16" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 16
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201765
+#EXTINF:-1 tvg-id="" tvg-name="DE+: DAZN EVENT 17" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: DAZN EVENT 17
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201766
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 1 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 1 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201767
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 2 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 2 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201768
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 3 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 3 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201769
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 4 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 4 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201770
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 5 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 5 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201771
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 6 HD+ (RTL+) (TELEKOM)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 6 HD+ (RTL+) (TELEKOM)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201772
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 7 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 7 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201773
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 8 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 8 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201774
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 9 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 9 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201775
+#EXTINF:-1 tvg-id="" tvg-name="DE+: RTL EVENT 10 HD+ (RTL+)" tvg-logo="" group-title="GERMANY RTL + DAZN Event TV HD PAKET",DE+: RTL EVENT 10 HD+ (RTL+)
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/201776
+#EXTINF:-1 tvg-id="" tvg-name="DE: CRIME + INVESTIGATION FHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: CRIME + INVESTIGATION FHD
+http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/205773
