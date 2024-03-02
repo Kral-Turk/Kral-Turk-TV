@@ -1,1 +1,3 @@
-T
+#EXTM3U
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
