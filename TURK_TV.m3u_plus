@@ -4,7 +4,7 @@ http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-http://xoxoxo.pro:8080/live/ahmet@de/DN8dMdfmwY5D/18249.ts
+http://172.104.235.228:80/live/zanoviPane2024/zanoviPanel2024/39895.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/399649
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
