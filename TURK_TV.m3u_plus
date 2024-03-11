@@ -201,54 +201,88 @@ http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423820
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423819
 
 #EXTM3U
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT 4K
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/4684
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 H265" tvg-logo="http://xui.bestipbox.com:8000/images/8b3c215459500c64436fd86cba2fde67.png" group-title="TURK HEVC KANALLAR",TR: TRT 1 H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29397
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ATV H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29398
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: KANAL D H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL D H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29399
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: SHOW TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: SHOW TV H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29400
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR: STAR TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: STAR TV H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29401
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: FOX TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: FOX TV H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29402
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV8 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV8 H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29403
-#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="TR: BEYAZ TV H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: BEYAZ TV H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29404
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7 H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: KANAL 7 H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29405
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TEVE 2 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TEVE 2 HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29406
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: 360 HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/29407
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A SPOR H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34345
-#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TR: TRT SPOR H265" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT SPOR H265
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/34535
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: A HABER HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76888
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NTV HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76889
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: CNN TÜRK HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76890
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: HABER GLOBAL HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76891
-#EXTINF:-1 tvg-id="" tvg-name="TR: ÜLKE TV HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: ÜLKE TV HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76895
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TRT HABER HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76896
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: TV 100 HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76897
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: NAT GEO CHANNEL HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76903
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY CHANNEL HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76905
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="TURK HEVC KANALLAR",TR: DISCOVERY SCIENCE HEVC
-http://iptv.smartv.me:8000/Ontgo/aJKX2XTSpqkf/76906
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="ULTHD: TRT 1 4K" tvg-logo="http://icon.orbitip.org/ulusal/trt1.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 1 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10797
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="ULTHD: TRT 2 HD" tvg-logo="http://icon.orbitip.org/ulusal/trt2.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 2 HD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/21737
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ULTHD: ATV 4K" tvg-logo="http://icon.orbitip.org/ulusal/atv.png" group-title="TR | ULUSAL (4K)",ULTHD: ATV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10795
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="ULTHD: SHOW TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/showtv.png" group-title="TR | ULUSAL (4K)",ULTHD: SHOW TV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10793
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="ULTHD: STAR TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/startv.png" group-title="TR | ULUSAL (4K)",ULTHD: STAR TV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10792
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="ULTHD: KANAL D 4K" tvg-logo="http://icon.orbitip.org/ulusal/kanald.png" group-title="TR | ULUSAL (4K)",ULTHD: KANAL D 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10790
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="ULTHD: NOW TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/nowtv.png" group-title="TR | ULUSAL (4K)",ULTHD: NOW TV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10794
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="ULTHD: TV 8.5 4K" tvg-logo="http://icon.orbitip.org/ulusal/tv8.5.png" group-title="TR | ULUSAL (4K)",ULTHD: TV 8.5 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10788
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="ULTHD: KANAL 7 4K" tvg-logo="http://icon.orbitip.org/ulusal/kanal7.png" group-title="TR | ULUSAL (4K)",ULTHD: KANAL 7 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10791
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="ULTHD: BEYAZ TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/beyaztv.png" group-title="TR | ULUSAL (4K)",ULTHD: BEYAZ TV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10787
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="ULTHD: TEVE 2 4K" tvg-logo="http://icon.orbitip.org/ulusal/teve2.png" group-title="TR | ULUSAL (4K)",ULTHD: TEVE 2 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10776
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="ULTHD: TLC HD" tvg-logo="http://icon.orbitip.org/ulusal/tlc.png" group-title="TR | ULUSAL (4K)",ULTHD: TLC HD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22187
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="ULTHD: A2  4K" tvg-logo="http://icon.orbitip.org/ulusal/a2tv.png" group-title="TR | ULUSAL (4K)",ULTHD: A2  4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/4833
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="ULTHD: A SPOR 4K" tvg-logo="http://icon.orbitip.org/spor/aspor.png" group-title="TR | ULUSAL (4K)",ULTHD: A SPOR 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10783
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="ULTHD: TRT SPOR 4K" tvg-logo="http://icon.orbitip.org/spor/trtspor.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT SPOR 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10773
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="ULTHD: HABERTURK 4K" tvg-logo="http://icon.orbitip.org/haber/haberturk.png" group-title="TR | ULUSAL (4K)",ULTHD: HABERTURK 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10778
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="ULTHD: NTV 4K" tvg-logo="http://icon.orbitip.org/haber/ntv.png" group-title="TR | ULUSAL (4K)",ULTHD: NTV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10777
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="ULTHD: A HABER 4K" tvg-logo="http://icon.orbitip.org/haber/ahaber.png" group-title="TR | ULUSAL (4K)",ULTHD: A HABER 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10786
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="ULTHD: CNN TURK 4K" tvg-logo="http://icon.orbitip.org/haber/cnnturk.png" group-title="TR | ULUSAL (4K)",ULTHD: CNN TURK 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10785
+#EXTINF:-1 tvg-id="24.tr" tvg-name="ULTHD: TRT 4K" tvg-logo="http://icon.orbitip.org/ulusal/trt4k.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10207
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULTHD: ULKE TV 4K" tvg-logo="http://icon.orbitip.org/haber/ulketv.png" group-title="TR | ULUSAL (4K)",ULTHD: ULKE TV 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10772
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="ULTHD: TRT BELGESEL 4K" tvg-logo="http://icon.orbitip.org/belgesel/trtbelgesel.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT BELGESEL 4K
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10775
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART FHD" tvg-logo="http://icon.orbitip.org/spor/sporsmart.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: SPOR SMART FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/7986
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://icon.orbitip.org/spor/ssport2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: S Sport 2 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/35788
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: GS TV FHD" tvg-logo="http://icon.orbitip.org/spor/gstv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: GS TV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22694
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/trt2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT 2 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22205
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: ATV FHD" tvg-logo="http://icon.orbitip.org/ulusal/atv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: ATV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22214
+#EXTINF:-1 tvg-id="show tv hd" tvg-name="TR: SHOW TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/showtv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: SHOW TV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22213
+#EXTINF:-1 tvg-id="star tv hd" tvg-name="TR: STAR TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/startv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: STAR TV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22212
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="http://icon.orbitip.org/ulusal/kanald.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: KANAL D FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22211
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: NOW TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/nowtv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: NOW TV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22210
+#EXTINF:-1 tvg-id="tv8 hd" tvg-name="TR: TV 8 FHD" tvg-logo="http://icon.orbitip.org/ulusal/tv8.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TV 8 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22209
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://icon.orbitip.org/ulusal/tv8.5.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TV 8.5 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22208
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="http://icon.orbitip.org/ulusal/kanal7.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: KANAL 7 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22207
+#EXTINF:-1 tvg-id="beyaz tv hd" tvg-name="TR: BEYAZ TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/beyaztv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: BEYAZ TV FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22206
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/a2tv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: A2 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22201
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/teve2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TEVE 2 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22194
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 FHD" tvg-logo="http://icon.orbitip.org/ulusal/360tv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: 360 FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22260
+#EXTINF:-1 tvg-id="trt çocuk" tvg-name="TR: TRT Cocuk FHD" tvg-logo="http://icon.orbitip.org/cocuk/trtcocuk.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT Cocuk FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/27872
+#EXTINF:-1 tvg-id="trt belgesel hd" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="http://icon.orbitip.org/belgesel/trtbelgesel.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT BELGESEL FHD
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22203
+#EXTINF:-1 tvg-id="tgrteu.tr" tvg-name="TR: TGRT EU" tvg-logo="http://icon.orbitip.org/ulusal/tgrteu.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TGRT EU
+http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/31669
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
