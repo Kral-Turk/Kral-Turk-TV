@@ -1131,58 +1131,63 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33980
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 2 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33981
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 3 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 3 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33982
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT YESILCAM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT YESILCAM 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33986
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA DRAMA HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA DRAMA HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33995
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA HITS HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA HITS HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33999
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34002
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 2 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 2 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34004
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME ANIMASYON 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34005
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME BİLİM KURGU HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME BİLİM KURGU HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34006
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME FANTASTIK HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME FANTASTIK HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34008
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KOMEDI 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KOMEDI 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34009
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KORKU 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KORKU 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34011
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV BILIM-KURGU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV BILIM-KURGU HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34055
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV DRAM HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV DRAM HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34057
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KOMEDI HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KOMEDI HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34058
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KORKU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KORKU HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34060
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34071
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER 2 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34072
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART ACTION HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART ACTION HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34075
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART FANTASTİK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART FANTASTİK HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34079
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34080
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 2 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34081
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 1 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34082
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 2 HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34083
-#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART TURK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART TURK HD
-http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34084
+EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES VICE HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92373
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR | beIN SERIES SCI-FI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.SCI.FI.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES SCI-FI HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92375
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.COMEDY.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES COMEDY HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92374
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.TURK.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES TURK HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92376
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIER HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92378
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.2.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92379
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | beIN MOVIES FAMILY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.FAMILY.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES FAMILY HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92380
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beIN MOVIES ACTION HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES ACTION HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92381
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beIN MOVIES ACTION 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.2.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES ACTION 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92382
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR | beINBOX OFFICE 1 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.1.png" group-title="TR | beIN & D-SMART",TR | beINBOX OFFICE 1 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92383
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | beINBOX OFFICE 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.2.png" group-title="TR | beIN & D-SMART",TR | beINBOX OFFICE 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92384
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR | MOVIESMART TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.TURK.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART TURK HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92385
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | MOVIESMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.PREMIUM.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART PREMIUM HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92386
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | MOVIESMART PREMIUM 2 HD" tvg-logo="http:..." group-title="TR | beIN & D-SMART",TR | MOVIESMART PREMIUM 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92387
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR | MOVIESMART CLASSIC HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.CLASSIC.png" group-title="TR | beIN & D-SMART",TR | MOVIESMART CLASSIC HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92388
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | DIZISMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.PREMIUM.png" group-title="TR | beIN & D-SMART",TR | DIZISMART PREMIUM HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92389
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR | DIZI SMART MAX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.MAX.png" group-title="TR | beIN & D-SMART",TR | DIZI SMART MAX HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92390
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR | FX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FX.png" group-title="TR | beIN & D-SMART",TR | FX HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92392
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR | SiNEMA TV YERLi HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.YERLI.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV YERLi HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92393
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR | SiNEMA TV 1001 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1001.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV 1001 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92394
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR | SiNEMA TV AiLE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AILE.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV AiLE HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92395
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SiNEMA TV AKSiYON HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AKSIYON.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV AKSiYON HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92396
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SiNEMA TV HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.png" group-title="TR | beIN & D-SMART",TR | SiNEMA TV HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92397
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SINEMA TV AKSIYON 2 HD" tvg-logo="http:..." group-title="TR | beIN & D-SMART",TR | SINEMA TV AKSIYON 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92398
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR | SINEMA TV 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.2.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV 2 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92399
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR | SINEMA TV KOMEDI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.KOMEDI.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV KOMEDI HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92400
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SINEMA TV 1002 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1002.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV 1002 HD
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/92402
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪" tvg-logo="" group-title="TR | beIN & D-SMART",✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
+http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/97391
+
 
 
 EXTM3U
