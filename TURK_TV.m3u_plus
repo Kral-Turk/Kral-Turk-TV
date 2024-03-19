@@ -315,6 +315,270 @@ https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayinex6.m3u8
 https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayinex7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
 https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayinex8.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead: The Ones Who Live - S01E03 - 18.03.2024 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywbacot78IuNhGW4uVZPxxxVTkm.jpg" group-title="TR | Pazartesi Dizileri",The Walking Dead: The Ones Who Live - S01E03 - 18.03.2024 
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızıl Goncalar - S01E11 - 18.08.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR | Pazartesi Dizileri",Kızıl Goncalar - S01E11 - 18.08.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi - S01E17 - 18.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVqXOJXrfNlb0kqtV0mkLklmwkF.jpg" group-title="TR | Pazartesi Dizileri",Kudüs Fatihi: Selahaddin Eyyubi - S01E17 - 18.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ömer - S02E27 - 18.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" group-title="TR | Pazartesi Dizileri",Ömer - S02E27 - 18.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2 - S07E20 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR | Pazar Dizileri",Çok Güzel Hareketler 2 - S07E20 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teşkilat - S04E21 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" group-title="TR | Pazar Dizileri",Teşkilat - S04E21 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kirli Sepeti - S01E24 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR | Pazar Dizileri",Kirli Sepeti - S01E24 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargı - S03E24 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="TR | Pazar Dizileri",Yargı - S03E24 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Dağı - S04E28 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR | Cumartesi Dizileri",Gönül Dağı - S04E28 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Korkma Ben Yanındayım - S01E02 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dpOSwCN3jyuYHQtSKZcptlF6ZO.jpg" group-title="TR | Cumartesi Dizileri",Korkma Ben Yanındayım - S01E02 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üç Kızkardeş - S03E25 - 16.03.2024" tvg-logo="https://abload.de/img/resimhd-221216rci8kpo.jpg" group-title="TR | Cumartesi Dizileri",Üç Kızkardeş - S03E25 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kardeşlerim - S04E27 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="TR | Cumartesi Dizileri",Kardeşlerim - S04E27 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yan Oda - S01E02 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9y4RD8loOuolJKjaBv2gzrhjns.jpg" group-title="TR | Cumartesi Dizileri",Yan Oda - S01E02 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ateş Kuşları - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="TR | Cuma Dizileri",Ateş Kuşları - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar - S01E09 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qatIOhTHbo7xIpx5vzwwKyN2Wwc.jpg" group-title="TR | Cuma Dizileri",Gaddar - S01E09 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Ağaç Destanı - S01E04 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR | Cuma Dizileri",Kara Ağaç Destanı - S01E04 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR | Cuma Dizileri",Kızılcık Şerbeti - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yalı Çapkını - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR | Cuma Dizileri",Yalı Çapkını - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Konuşanlar - S04E29 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="TR | Cuma Dizileri",Konuşanlar - S04E29 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İnci Taneleri - S01E08 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR | Perşembe Dizileri ",İnci Taneleri - S01E08 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aldatmak - S02E26 - 14.03.2024" tvg-logo="http://foto.fotodepo.fr/images/atvningund.jpg" group-title="TR | Perşembe Dizileri ",Aldatmak - S02E26 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hudutsuz Sevda - S01E24 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" group-title="TR | Perşembe Dizileri ",Hudutsuz Sevda - S01E24 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kül Masalı - S01E04 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NwAExjJr8mxlitwrofNSYJyc1p.jpg" group-title="TR | Perşembe Dizileri ",Kül Masalı - S01E04 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sakla Beni - S01E20 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAJzdBhrjZ3Q9Ix6LBIYGH6Sqm.jpg" group-title="TR | Perşembe Dizileri ",Sakla Beni - S01E20 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sokağın Çocukları - S07E07 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juc0tnyjq0afef7LG3vMIDibrvJ.jpg" group-title="TR | Perşembe Dizileri ",Sokağın Çocukları - S07E07 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gibi - S05E02 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD3OvTMLbVms0PNt2doDTEjTQqF.jpg" group-title="TR | Perşembe Dizileri ",Gibi - S05E02 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Sevdadır - S01E07 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7apgIsMpzmxHvkDd1QdpQOhDtGG.jpg" group-title="TR | Çarşamba Dizileri",Bir Sevdadır - S01E07 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuruluş: Osman - S05E22 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR | Çarşamba Dizileri",Kuruluş: Osman - S05E22 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandık Kokusu - S01E14 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpW0dvYdpiXltm96WtXg7iEcw0d.jpg" group-title="TR | Çarşamba Dizileri",Sandık Kokusu - S01E14 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taş Kağıt Makas - S01E03 - 13.03.2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdkODJjNGUtZWU2Yi00YWZhLTlkNTQtMzZhZmE4YTFkNjIxXkEyXkFqcGdeQXVyNzg5NTE1MzE@._V1_FMjpg_UX1000_.jpg" group-title="TR | Çarşamba Dizileri",Taş Kağıt Makas - S01E03 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şahane Hayatım - S01E19 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP04QCH0w1stQJ8JD4XuVwfMPFi.jpg" group-title="TR | Çarşamba Dizileri",Şahane Hayatım - S01E19 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ben Bu Cihana Sığmazam - S02E26 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="TR | Salı Dizileri",Ben Bu Cihana Sığmazam - S02E26 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mehmed: Fetihler Sultanı - S01E03 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR | Salı Dizileri",Mehmed: Fetihler Sultanı - S01E03 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yabani - S01E26 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="TR | Salı Dizileri",Yabani - S01E26 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kod Adı: Kırlangıç - S01E18 - 10.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="TR | Pazar Dizileri",Kod Adı: Kırlangıç - S01E18 - 10.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/445118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tolgshow Çılgın Sezon - S01E10 - 08.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3tfIQqUNJLSxQGQURbN34icVrM.jpg" group-title="TR | Cuma Dizileri",Tolgshow Çılgın Sezon - S01E10 - 08.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/444012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahsun J - S01E08 - 08.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="TR | Cuma Dizileri",Mahsun J - S01E08 - 08.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/444014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuruluş: Osman - S05E21 - 06.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR | Çarşamba Dizileri",Kuruluş: Osman - S05E21 - 06.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/443201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yabani - S01E25 - 05.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="TR | Salı Dizileri",Yabani - S01E25 - 05.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/443194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Senden Önce - S01E03 - 27.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Qefg7GWY2mBiGzrclOCuP7nFa.jpg" group-title="TR | Salı Dizileri",Senden Önce - S01E03 - 27.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/441858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safir - S01E26 - 26.02.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngAgkMrVQyBhiuhIK3zg1tmravS.jpg" group-title="TR | Pazartesi Dizileri",Safir - S01E26 - 26.02.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/441854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kopuk - S01E05 - 24.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5AylGpevxbelM7ltcHTXUEdhYS.jpg" group-title="TR | Cumartesi Dizileri",Kopuk - S01E05 - 24.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/440950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mevlana Celâleddîn-i Rûmî - S02E10 - 10.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTYw1pKochne9ed0QtAWnzVqdRn.jpg" group-title="TR | Cumartesi Dizileri",Mevlana Celâleddîn-i Rûmî - S02E10 - 10.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/439315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara - S01E05 - 01.02.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njrWQD0QAZ6U6EfPXhulpyZt5Q0.jpg" group-title="TR | Perşembe Dizileri ",Kara - S01E05 - 01.02.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson and the Olympians - S01E08 - 31.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upmXGc1QovmPBU0mQJR2re6ruKd.jpg" group-title="TR | Çarşamba Dizileri",Percy Jackson and the Olympians - S01E08 - 31.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aile - S02E17 - 30.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" group-title="TR | Salı Dizileri",Aile - S02E17 - 30.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ne Gemiler Yaktım - S01E08 - 28.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUt8PmleRkeILZokPETTKYXDzUY.jpg" group-title="TR | Pazar Dizileri",Ne Gemiler Yaktım - S01E08 - 28.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşka Düşman - S01E04 - 26.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JnTd5vvNylOBlWYWMjLKVMG3h6.jpg" group-title="TR | Cuma Dizileri",Aşka Düşman - S01E04 - 26.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilek Taşı - S01E20 - 24.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yn89kWnHh27FPb3vXkw7khUjSX.jpg" group-title="TR | Çarşamba Dizileri",Dilek Taşı - S01E20 - 24.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yıldızlar Bana Uzak - S01E04 - 21.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWJyhfRQHi4HsiocR3R4p1tqghh.jpg" group-title="TR | Pazar Dizileri",Yıldızlar Bana Uzak - S01E04 - 21.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reacher - S02E08 - 19.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="TR | Cuma Dizileri",Reacher - S02E08 - 19.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çekiç ve Gül: Bir Behzat Ç. Hikayesi (2022) - S02E07 - 18.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOJ8L8Sga52s0pnn2zkOyCrxxXC.jpg" group-title="TR | Perşembe Dizileri ",Çekiç ve Gül: Bir Behzat Ç. Hikayesi (2022) - S02E07 - 18.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bambaşka Biri - S01E16 - 13.01.2024" tvg-logo="http://foto.fotodepo.fr/images/f5nia3cwaa.jpg" group-title="TR | Cumartesi Dizileri",Bambaşka Biri - S01E16 - 13.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monarch: Legacy of Monsters - S01E10 - 12.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg" group-title="TR | Cuma Dizileri",Monarch: Legacy of Monsters - S01E10 - 12.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monarch: Legacy of Monsters - S01E09 - 12.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg" group-title="TR | Cuma Dizileri",Monarch: Legacy of Monsters - S01E09 - 12.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayor of Kingstown - S02E09 - 10.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86OUOPulMiM8rjrQSt4KMev7UAa.jpg" group-title="TR | Çarşamba Dizileri",Mayor of Kingstown - S02E09 - 10.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/430731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayor of Kingstown - S02E10 - 10.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86OUOPulMiM8rjrQSt4KMev7UAa.jpg" group-title="TR | Çarşamba Dizileri",Mayor of Kingstown - S02E10 - 10.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/430732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şahsiyet - S02E10 - 06.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFW36ZLZifcMnRFYqpdew7bia3G.jpg" group-title="TR | Cumartesi Dizileri",Şahsiyet - S02E10 - 06.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Türk Dedektif - 1080p - S01E07 - 05.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya5moPS7qM7jqzZb5AIFqtLd9CO.jpg" group-title="TR | Cuma Dizileri",Türk Dedektif - 1080p - S01E07 - 05.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Türk Dedektif - 1080p - S01E08 - 05.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya5moPS7qM7jqzZb5AIFqtLd9CO.jpg" group-title="TR | Cuma Dizileri",Türk Dedektif - 1080p - S01E08 - 05.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kendi Düşen Ağlamaz - S01E27 - 04.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g8yQuwONS9o9uyjBbvHNQzoWqM.jpg" group-title="TR | Perşembe Dizileri ",Kendi Düşen Ağlamaz - S01E27 - 04.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adım Farah - S02E13 - 30.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8Gk5vUEsgYVKQNxLhARwhPd6F1.jpg" group-title="TR | Cumartesi Dizileri",Adım Farah - S02E13 - 30.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Altın Kafes - S01E04 - 24.12.2023" tvg-logo="http://foto.fotodepo.fr/images/fw6gfwwaaa.jpg" group-title="TR | Pazar Dizileri",Altın Kafes - S01E04 - 24.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/428035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahsusa - 1080p - S01E10 - 23.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbrsgfPxcKTzkGvvqA6erbHLUxW.jpg" group-title="TR | Cumartesi Dizileri",Mahsusa - 1080p - S01E10 - 23.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/427989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Derdim Var - S01E06 - 14.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddqTV7IyToXmxlkgLj9IE1uENj6.jpg" group-title="TR | Perşembe Dizileri ",Bir Derdim Var - S01E06 - 14.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/423740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SkyMed - S02E09 - 05.12.2023 - Sezon Finali" tvg-logo="https://i.ibb.co/znCcJLb/Skymed.jpg" group-title="TR | Salı Dizileri",SkyMed - S02E09 - 05.12.2023 - Sezon Finali
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/421088.mkv#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead: The Ones Who Live - S01E03 - 18.03.2024 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywbacot78IuNhGW4uVZPxxxVTkm.jpg" group-title="TR | Pazartesi Dizileri",The Walking Dead: The Ones Who Live - S01E03 - 18.03.2024 
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızıl Goncalar - S01E11 - 18.08.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR | Pazartesi Dizileri",Kızıl Goncalar - S01E11 - 18.08.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi - S01E17 - 18.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVqXOJXrfNlb0kqtV0mkLklmwkF.jpg" group-title="TR | Pazartesi Dizileri",Kudüs Fatihi: Selahaddin Eyyubi - S01E17 - 18.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ömer - S02E27 - 18.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" group-title="TR | Pazartesi Dizileri",Ömer - S02E27 - 18.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/449626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2 - S07E20 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR | Pazar Dizileri",Çok Güzel Hareketler 2 - S07E20 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teşkilat - S04E21 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" group-title="TR | Pazar Dizileri",Teşkilat - S04E21 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kirli Sepeti - S01E24 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR | Pazar Dizileri",Kirli Sepeti - S01E24 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargı - S03E24 - 17.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="TR | Pazar Dizileri",Yargı - S03E24 - 17.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Dağı - S04E28 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR | Cumartesi Dizileri",Gönül Dağı - S04E28 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Korkma Ben Yanındayım - S01E02 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dpOSwCN3jyuYHQtSKZcptlF6ZO.jpg" group-title="TR | Cumartesi Dizileri",Korkma Ben Yanındayım - S01E02 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üç Kızkardeş - S03E25 - 16.03.2024" tvg-logo="https://abload.de/img/resimhd-221216rci8kpo.jpg" group-title="TR | Cumartesi Dizileri",Üç Kızkardeş - S03E25 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kardeşlerim - S04E27 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="TR | Cumartesi Dizileri",Kardeşlerim - S04E27 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yan Oda - S01E02 - 16.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9y4RD8loOuolJKjaBv2gzrhjns.jpg" group-title="TR | Cumartesi Dizileri",Yan Oda - S01E02 - 16.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ateş Kuşları - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="TR | Cuma Dizileri",Ateş Kuşları - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar - S01E09 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qatIOhTHbo7xIpx5vzwwKyN2Wwc.jpg" group-title="TR | Cuma Dizileri",Gaddar - S01E09 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Ağaç Destanı - S01E04 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR | Cuma Dizileri",Kara Ağaç Destanı - S01E04 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR | Cuma Dizileri",Kızılcık Şerbeti - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yalı Çapkını - S02E26 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR | Cuma Dizileri",Yalı Çapkını - S02E26 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/448002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Konuşanlar - S04E29 - 15.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="TR | Cuma Dizileri",Konuşanlar - S04E29 - 15.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İnci Taneleri - S01E08 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR | Perşembe Dizileri ",İnci Taneleri - S01E08 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aldatmak - S02E26 - 14.03.2024" tvg-logo="http://foto.fotodepo.fr/images/atvningund.jpg" group-title="TR | Perşembe Dizileri ",Aldatmak - S02E26 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hudutsuz Sevda - S01E24 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" group-title="TR | Perşembe Dizileri ",Hudutsuz Sevda - S01E24 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kül Masalı - S01E04 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NwAExjJr8mxlitwrofNSYJyc1p.jpg" group-title="TR | Perşembe Dizileri ",Kül Masalı - S01E04 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sakla Beni - S01E20 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAJzdBhrjZ3Q9Ix6LBIYGH6Sqm.jpg" group-title="TR | Perşembe Dizileri ",Sakla Beni - S01E20 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sokağın Çocukları - S07E07 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juc0tnyjq0afef7LG3vMIDibrvJ.jpg" group-title="TR | Perşembe Dizileri ",Sokağın Çocukları - S07E07 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gibi - S05E02 - 14.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD3OvTMLbVms0PNt2doDTEjTQqF.jpg" group-title="TR | Perşembe Dizileri ",Gibi - S05E02 - 14.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Sevdadır - S01E07 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7apgIsMpzmxHvkDd1QdpQOhDtGG.jpg" group-title="TR | Çarşamba Dizileri",Bir Sevdadır - S01E07 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuruluş: Osman - S05E22 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR | Çarşamba Dizileri",Kuruluş: Osman - S05E22 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandık Kokusu - S01E14 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpW0dvYdpiXltm96WtXg7iEcw0d.jpg" group-title="TR | Çarşamba Dizileri",Sandık Kokusu - S01E14 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taş Kağıt Makas - S01E03 - 13.03.2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdkODJjNGUtZWU2Yi00YWZhLTlkNTQtMzZhZmE4YTFkNjIxXkEyXkFqcGdeQXVyNzg5NTE1MzE@._V1_FMjpg_UX1000_.jpg" group-title="TR | Çarşamba Dizileri",Taş Kağıt Makas - S01E03 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şahane Hayatım - S01E19 - 13.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP04QCH0w1stQJ8JD4XuVwfMPFi.jpg" group-title="TR | Çarşamba Dizileri",Şahane Hayatım - S01E19 - 13.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/447466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ben Bu Cihana Sığmazam - S02E26 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="TR | Salı Dizileri",Ben Bu Cihana Sığmazam - S02E26 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mehmed: Fetihler Sultanı - S01E03 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR | Salı Dizileri",Mehmed: Fetihler Sultanı - S01E03 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yabani - S01E26 - 12.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="TR | Salı Dizileri",Yabani - S01E26 - 12.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/446797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kod Adı: Kırlangıç - S01E18 - 10.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="TR | Pazar Dizileri",Kod Adı: Kırlangıç - S01E18 - 10.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/445118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tolgshow Çılgın Sezon - S01E10 - 08.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3tfIQqUNJLSxQGQURbN34icVrM.jpg" group-title="TR | Cuma Dizileri",Tolgshow Çılgın Sezon - S01E10 - 08.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/444012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahsun J - S01E08 - 08.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="TR | Cuma Dizileri",Mahsun J - S01E08 - 08.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/444014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuruluş: Osman - S05E21 - 06.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR | Çarşamba Dizileri",Kuruluş: Osman - S05E21 - 06.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/443201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yabani - S01E25 - 05.03.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="TR | Salı Dizileri",Yabani - S01E25 - 05.03.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/443194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Senden Önce - S01E03 - 27.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Qefg7GWY2mBiGzrclOCuP7nFa.jpg" group-title="TR | Salı Dizileri",Senden Önce - S01E03 - 27.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/441858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safir - S01E26 - 26.02.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngAgkMrVQyBhiuhIK3zg1tmravS.jpg" group-title="TR | Pazartesi Dizileri",Safir - S01E26 - 26.02.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/441854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kopuk - S01E05 - 24.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5AylGpevxbelM7ltcHTXUEdhYS.jpg" group-title="TR | Cumartesi Dizileri",Kopuk - S01E05 - 24.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/440950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mevlana Celâleddîn-i Rûmî - S02E10 - 10.02.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTYw1pKochne9ed0QtAWnzVqdRn.jpg" group-title="TR | Cumartesi Dizileri",Mevlana Celâleddîn-i Rûmî - S02E10 - 10.02.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/439315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara - S01E05 - 01.02.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njrWQD0QAZ6U6EfPXhulpyZt5Q0.jpg" group-title="TR | Perşembe Dizileri ",Kara - S01E05 - 01.02.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson and the Olympians - S01E08 - 31.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upmXGc1QovmPBU0mQJR2re6ruKd.jpg" group-title="TR | Çarşamba Dizileri",Percy Jackson and the Olympians - S01E08 - 31.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aile - S02E17 - 30.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" group-title="TR | Salı Dizileri",Aile - S02E17 - 30.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/436013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ne Gemiler Yaktım - S01E08 - 28.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUt8PmleRkeILZokPETTKYXDzUY.jpg" group-title="TR | Pazar Dizileri",Ne Gemiler Yaktım - S01E08 - 28.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşka Düşman - S01E04 - 26.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JnTd5vvNylOBlWYWMjLKVMG3h6.jpg" group-title="TR | Cuma Dizileri",Aşka Düşman - S01E04 - 26.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilek Taşı - S01E20 - 24.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yn89kWnHh27FPb3vXkw7khUjSX.jpg" group-title="TR | Çarşamba Dizileri",Dilek Taşı - S01E20 - 24.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/434746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yıldızlar Bana Uzak - S01E04 - 21.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWJyhfRQHi4HsiocR3R4p1tqghh.jpg" group-title="TR | Pazar Dizileri",Yıldızlar Bana Uzak - S01E04 - 21.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reacher - S02E08 - 19.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="TR | Cuma Dizileri",Reacher - S02E08 - 19.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çekiç ve Gül: Bir Behzat Ç. Hikayesi (2022) - S02E07 - 18.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOJ8L8Sga52s0pnn2zkOyCrxxXC.jpg" group-title="TR | Perşembe Dizileri ",Çekiç ve Gül: Bir Behzat Ç. Hikayesi (2022) - S02E07 - 18.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/433574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bambaşka Biri - S01E16 - 13.01.2024" tvg-logo="http://foto.fotodepo.fr/images/f5nia3cwaa.jpg" group-title="TR | Cumartesi Dizileri",Bambaşka Biri - S01E16 - 13.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monarch: Legacy of Monsters - S01E10 - 12.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg" group-title="TR | Cuma Dizileri",Monarch: Legacy of Monsters - S01E10 - 12.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monarch: Legacy of Monsters - S01E09 - 12.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg" group-title="TR | Cuma Dizileri",Monarch: Legacy of Monsters - S01E09 - 12.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/432915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayor of Kingstown - S02E09 - 10.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86OUOPulMiM8rjrQSt4KMev7UAa.jpg" group-title="TR | Çarşamba Dizileri",Mayor of Kingstown - S02E09 - 10.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/430731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayor of Kingstown - S02E10 - 10.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86OUOPulMiM8rjrQSt4KMev7UAa.jpg" group-title="TR | Çarşamba Dizileri",Mayor of Kingstown - S02E10 - 10.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/430732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şahsiyet - S02E10 - 06.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFW36ZLZifcMnRFYqpdew7bia3G.jpg" group-title="TR | Cumartesi Dizileri",Şahsiyet - S02E10 - 06.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Türk Dedektif - 1080p - S01E07 - 05.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya5moPS7qM7jqzZb5AIFqtLd9CO.jpg" group-title="TR | Cuma Dizileri",Türk Dedektif - 1080p - S01E07 - 05.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Türk Dedektif - 1080p - S01E08 - 05.01.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya5moPS7qM7jqzZb5AIFqtLd9CO.jpg" group-title="TR | Cuma Dizileri",Türk Dedektif - 1080p - S01E08 - 05.01.2024
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kendi Düşen Ağlamaz - S01E27 - 04.01.2024 - Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g8yQuwONS9o9uyjBbvHNQzoWqM.jpg" group-title="TR | Perşembe Dizileri ",Kendi Düşen Ağlamaz - S01E27 - 04.01.2024 - Final
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adım Farah - S02E13 - 30.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8Gk5vUEsgYVKQNxLhARwhPd6F1.jpg" group-title="TR | Cumartesi Dizileri",Adım Farah - S02E13 - 30.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/429296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Altın Kafes - S01E04 - 24.12.2023" tvg-logo="http://foto.fotodepo.fr/images/fw6gfwwaaa.jpg" group-title="TR | Pazar Dizileri",Altın Kafes - S01E04 - 24.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/428035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahsusa - 1080p - S01E10 - 23.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbrsgfPxcKTzkGvvqA6erbHLUxW.jpg" group-title="TR | Cumartesi Dizileri",Mahsusa - 1080p - S01E10 - 23.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/427989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Derdim Var - S01E06 - 14.12.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddqTV7IyToXmxlkgLj9IE1uENj6.jpg" group-title="TR | Perşembe Dizileri ",Bir Derdim Var - S01E06 - 14.12.2023
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/423740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SkyMed - S02E09 - 05.12.2023 - Sezon Finali" tvg-logo="https://i.ibb.co/znCcJLb/Skymed.jpg" group-title="TR | Salı Dizileri",SkyMed - S02E09 - 05.12.2023 - Sezon Finali
+http://medialivetv.co:8080/movie/7qxGBLEGcm/u2LFdGb6Dm/421088.mkv
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK HABER ✪✪✪✪✪" tvg-logo="" group-title="TR | HABER",✪✪✪✪✪ TURK HABER ✪✪✪✪✪
@@ -625,92 +889,6 @@ http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439812
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/439813
 #EXTINF:-1 tvg-id="" tvg-name="✪ TR | 24 /7 FILMLER ✪" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/BAYRAK.png" group-title="TR | 7/24 DİZİ",✪ TR | 24 /7 FILMLER ✪
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/287350
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423793
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423794
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423795
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 4
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423796
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 5" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 5
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423797
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Yerli Film 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Yerli Film 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423798
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yerli  Film 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yerli  Film 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423799
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yabancı Filmler" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yabancı Filmler
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423800
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ İCEBOX-2022" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ İCEBOX-2022
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423801
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423802
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423803
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423804
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠Amazon Prime" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠Amazon Prime
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423805
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423806
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423807
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Marvel" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Marvel
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423808
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Aksiyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Aksiyon 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423809
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠  Aksiyon 1 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠  Aksiyon 1 HD
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423810
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aksiyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aksiyon 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423811
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Polisiye-Savaş" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Polisiye-Savaş
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423812
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aile - Komedi" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aile - Komedi
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423813
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Konuşanlar 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Konuşanlar 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423814
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423815
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 4
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423816
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Güldür Güldür 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Güldür Güldür 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423817
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠  Cem Yılmaz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠  Cem Yılmaz
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423818
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Çok Güzel Hareketler Bunlar" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Çok Güzel Hareketler Bunlar
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423819
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Tolgshow Filtresiz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Tolgshow Filtresiz
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423820
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Erşan Kuneri Sansürsüz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Erşan Kuneri Sansürsüz
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423821
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Şafak Sezer" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Şafak Sezer
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424001
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Arnold Schwarzenegger" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Arnold Schwarzenegger
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424002
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Jason Statham" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Jason Statham
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424003
-#EXTINF:-1 tvg-id="" tvg-name="ICEACTOR - Jack Rayn" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEACTOR - Jack Rayn
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/424004
-#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img922/1266/FBSMZD.png" group-title="TR | ULUSAL",TR: TV 100 HD
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/248819
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423712
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423713
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX ANIMASYON 1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423714
-#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 2 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 2 HD
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423659
-#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 6 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 6 HD
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423663
-#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 7 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 7 HD
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423664
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX 3D" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX 3D
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423666
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KORKU 3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423683
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 4
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423687
 #EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Behsat Ç. 1. Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Behsat Ç. 1. Sezon
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423894
 #EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 2.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 2.Sezon
@@ -2307,6 +2485,3 @@ http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/426024
 http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/426025
 #EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX MARVEL" tvg-logo="" group-title="DE | 24/7 FILM",DE: CINE MAX MARVEL
 http://medialivetv.co:8080/9rvBgKdr4y/Gf6qHcy3GT/426026
-
-
-
