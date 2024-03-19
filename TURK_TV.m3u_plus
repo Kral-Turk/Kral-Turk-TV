@@ -183,22 +183,6 @@ https://trt2.blutv.com/blutv_trt2/live.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 GÜLDÜR GÜLDÜR TV group-title="ULUSAL-UHD" ,GÜLDÜR GÜLDÜR TV
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423817
-#EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",EXXEN TV
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300384
-#EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",ERSAN KUNERI
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423821
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV1
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423814
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV2
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423815
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV3
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423816
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",TOLGA SHOW
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423820
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",COK GUZEL HAREKETLER
-http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/423819
 
 #EXTM3U
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="ULTHD: TRT 1 4K" tvg-logo="http://icon.orbitip.org/ulusal/trt1.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 1 4K
