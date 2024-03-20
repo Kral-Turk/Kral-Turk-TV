@@ -63,6 +63,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115151
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115141
 #EXTINF:-1,TR: ULUSAL KANAL HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115148
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE HABER - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/625
 #EXTINF:-1,TR: A HABER HD
@@ -139,6 +140,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115156
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115157
 #EXTINF:-1,TR: KANAL V HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115158
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE SINEMA - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/739
 #EXTINF:-1,TR: SINEMA TV HD
@@ -205,6 +207,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14579
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115130
 #EXTINF:-1,TR: TEVE 2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115131
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE BELGESEL - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/685
 #EXTINF:-1,TR: NAT GEO WILD HD
@@ -251,6 +254,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115188
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115192
 #EXTINF:-1,TR: TRT BELGESEL SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115203
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE COCUK - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/738
 #EXTINF:-1,TR: NICKELODEON
@@ -273,6 +277,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/736
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115144
 #EXTINF:-1,TR: MOONBUG KIDS TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115175
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE DINI - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/665
 #EXTINF:-1,TR: SEMERKAND TV HD
@@ -287,6 +292,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115171
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115172
 #EXTINF:-1,TR: SMART COCUK HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/10602
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE SPOR - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/725
 #EXTINF:-1,TR: EXXEN SPORT 1 HD
@@ -351,6 +357,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/19182
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115142
 #EXTINF:-1,TR: EDGE SPORT HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115159
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE  BEINSPORT - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/5913
 #EXTINF:-1,TR: BEIN SPORTS 4K (REAL 4K)
@@ -387,6 +394,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111910
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111911
 #EXTINF:-1,TR: BEiN SPORT HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/6430
+#EXTM3U
 #EXTINF:-1,- - - - - TURKIYE MUZIK - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/6023
 #EXTINF:-1,TR: KRAL TV HD
@@ -419,6 +427,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115180
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115181
 #EXTINF:-1,EVENEMENTEN KANAAL
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/81286
+#EXTM3U
 #EXTINF:-1,- - - - - NEDERLAND ALGEMEEN - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/2811
 #EXTINF:-1,NL: NPO 1 FHD
@@ -475,6 +484,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14830
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/24768
 #EXTINF:-1,NL: Omroep Brabant FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14829
+#EXTM3U
 #EXTINF:-1,- - - - - NEDERLAND OVERIGE - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/2816
 #EXTINF:-1,NL: VICELAND FHD
@@ -517,6 +527,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14942
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14941
 #EXTINF:-1,NL: Nickelodeon FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/14940
+#EXTM3U
 #EXTINF:-1,- - - - - NEDERLAND DOCU - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/2814
 #EXTINF:-1,NL: National Geographic FHD
@@ -561,6 +572,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/22671
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/66954
 #EXTINF:-1,NL: DISCOVERY WORLD BACKUP
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/67563
+#EXTM3U
 #EXTINF:-1,- - - - - NEDERLAND CINEMA - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/2813
 #EXTINF:-1,NL: Film1 Premiere FHD
@@ -623,6 +635,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/76230
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/81287
 #EXTINF:-1,VIAPLAY? ZIE VIAPLAY PAKKET!
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/74379
+#EXTM3U
 #EXTINF:-1,= = = = = UK = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114075
 #EXTINF:-1,= = = = =  ENTERTAINMENT = = = = =
@@ -871,6 +884,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115572
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115573
 #EXTINF:-1,UK: MTV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115574
+#EXTM3U
 #EXTINF:-1,= = = = = GENERAL = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115208
 #EXTINF:-1,DE: DAS ERSTE HD
@@ -1101,6 +1115,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115320
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115321
 #EXTINF:-1,DE: DELUXE MUSIC
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115322
+#EXTM3U
 #EXTINF:-1,= = = = = GENERALE = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112806
 #EXTINF:-1,FR: TF1 HD
@@ -1309,6 +1324,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113042
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113045
 #EXTINF:-1,FR: PIWI+ HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113048
+#EXTM3U
 #EXTINF:-1,= = = = = CANAL+ = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113050
 #EXTINF:-1,FR: CANAL+ HD
@@ -1395,6 +1411,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113150
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113151
 #EXTINF:-1,FR: TRACE URBAN HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113152
+#EXTM3U
 #EXTINF:-1,= = = = = CULTURE = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113153
 #EXTINF:-1,FR: ANIMAUX HD
@@ -1475,6 +1492,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113258
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113261
 #EXTINF:-1,FR: AMAZON PRIME LIGUE 18 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113264
+#EXTM3U
 #EXTINF:-1,= = = = = RMC SPORT = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113267
 #EXTINF:-1,FR: RMC SPORT 1 HD
@@ -1499,6 +1517,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113276
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113277
 #EXTINF:-1,C+ AFRIQ- AUTOMOTOR HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113282
+#EXTM3U
 #EXTINF:-1,= = = = = BEINSPORTS FRANCE = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113283
 #EXTINF:-1,FR: BEIN  SPORTS 1 FHD
@@ -1513,6 +1532,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113291
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113292
 #EXTINF:-1,FR: BEIN  SPORTS 3 HEVC FR
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113293
+#EXTM3U
 #EXTINF:-1,= = = = = MULTISPORTS = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113294
 #EXTINF:-1,MULTISPORTS 1 HD
@@ -1527,6 +1547,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113304
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113305
 #EXTINF:-1,MULTISPORTS 6 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113306
+#EXTM3U
 #EXTINF:-1,= = = = = MOTOGP = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113313
 #EXTINF:-1,MotoGP 1 (Events Only)
@@ -1605,6 +1626,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113399
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113402
 #EXTINF:-1,FR: Sportenfrance HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113405
+#EXTM3U
 #EXTINF:-1,PL: TVP Info 4K+
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/110948
 #EXTINF:-1,PL: TVP 4K+
@@ -1929,6 +1951,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111107
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111108
 #EXTINF:-1,PL: Zoom TV
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111109
+#EXTM3U
 #EXTINF:-1,KU: Kurdsat News
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114839
 #EXTINF:-1,KU: Kurdistan 24
@@ -1991,6 +2014,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114868
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114869
 #EXTINF:-1,KU: Medya Haber
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114840
+#EXTM3U
 #EXTINF:-1,= = = = = PORTUGAL = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114214
 #EXTINF:-1,PT: RTP 1 SD
@@ -2141,6 +2165,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114292
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114293
 #EXTINF:-1,PT: SOBRE NATURAL TV
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114295
+#EXTM3U
 #EXTINF:-1,= = = = = FILMES & SERIES = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114296
 #EXTINF:-1,PT: TVCINE+ HD
@@ -2227,6 +2252,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114336
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114337
 #EXTINF:-1,PT: KURIAKOS CINE FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114338
+#EXTM3U
 #EXTINF:-1,= = = = = DESPORTO = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114339
 #EXTINF:-1,PT: BTV Muito Baixa Qualidade
@@ -2325,6 +2351,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114395
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114397
 #EXTINF:-1,PT:  Horse TV
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114399
+#EXTM3U
 #EXTINF:-1,= = = = = DOCU = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114400
 #EXTINF:-1,PT: ODISSEIA HD
@@ -2371,6 +2398,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114428
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114429
 #EXTINF:-1,PT: DOG TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114431
+#EXTM3U
 #EXTINF:-1,= = = = = INFANTIL = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114433
 #EXTINF:-1,PT: SIC K FHD
@@ -2415,6 +2443,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114456
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114458
 #EXTINF:-1,PT: MAS CHIC FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114460
+#EXTM3U
 #EXTINF:-1,= = = = = MUSICA = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114461
 #EXTINF:-1,PT: CANCAO NOVA FHD
@@ -2457,7 +2486,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114489
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114490
 #EXTINF:-1,PT: TVE 24H
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114491
-
+#EXTM3U
 #EXTINF:-1,= = = = = ITALY = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114496
 #EXTINF:-1,|IT| Baby TV
@@ -2624,6 +2653,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114576
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114577
 #EXTINF:-1,|IT| VH1 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114578
+#EXTM3U
 #EXTINF:-1,ES: DAZN LA LIGA SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111615
 #EXTINF:-1,ES: DAZN LA LIGA HD
@@ -2894,6 +2924,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111821
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111822
 #EXTINF:-1,ES: CANAL SUR ANDALUCIA
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111823
+#EXTM3U
 #EXTINF:-1,ALB: TOP CHANNEL HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/110304
 #EXTINF:-1,ALB: KLAN TV HD
@@ -3306,6 +3337,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/110588
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/110589
 #EXTINF:-1,ALB: OVERSPORT 2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/110591
+#EXTM3U
 #EXTINF:-1,= = = = = BELGIUM = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115358
 #EXTINF:-1,BE:VRT-1-HD
@@ -3376,7 +3408,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115346
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115327
 #EXTINF:-1,BE:SPORT-10-HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115347
-
+#EXTM3U
 #EXTINF:-1,= = = = = ROMANIA = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115441
 #EXTINF:-1,RO: PRO TV HD
@@ -3543,6 +3575,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115438
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115439
 #EXTINF:-1,RO: Viasat Nature HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115440
+#EXTM3U
 #EXTINF:-1,BG: BNT 1 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114870
 #EXTINF:-1,BG: BNT 2 HD
@@ -3753,6 +3786,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114972
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114973
 #EXTINF:-1,BG: TRACE SPORT STARS HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/114974
+#EXTM3U
 #EXTINF:-1,= = = = = BOSNIA AND HERZEGOVINA = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111912
 #EXTINF:-1,BIH: AL JAZEERA BALKANS FHD
@@ -3925,6 +3959,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111995
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111996
 #EXTINF:-1,BIH: ARENA SPORT 3 PREMIUM
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111997
+#EXTM3U
 #EXTINF:-1,= = = = = CROATIA = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111998
 #EXTINF:-1,HR: N1 HD
@@ -4061,6 +4096,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112063
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112064
 #EXTINF:-1,HR: ARENA SPORT 10 FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112065
+#EXTM3U
 #EXTINF:-1,= = = = = SERBIA = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112066
 #EXTINF:-1,SR: N1 HD
@@ -4211,6 +4247,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112138
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112139
 #EXTINF:-1,SR: ARENA SPORT  1x2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/112140
+#EXTM3U
 #EXTINF:-1,##### CZECH #####
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/45524
 #EXTINF:-1,CZ: Boomerang
@@ -4355,6 +4392,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108629
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108630
 #EXTINF:-1,CZ: WAU HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108631
+#EXTM3U
 #EXTINF:-1,CA: CTV TORONTO
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/109357
 #EXTINF:-1,CA: CTV VANCOUVER
@@ -4785,6 +4823,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/109569
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/109570
 #EXTINF:-1,CA | FOX SPORTS RACING
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/109571
+#EXTM3U
 #EXTINF:-1,= = = = = DENMARK = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113811
 #EXTINF:-1,- - - - - GENERAL - - - - -
@@ -4843,6 +4882,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113837
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113838
 #EXTINF:-1,DK: DK4 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113839
+#EXTM3U
 #EXTINF:-1,- - - - - DOCUMENTARY - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113840
 #EXTINF:-1,DK: BBC BRIT HD
@@ -4855,12 +4895,14 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113843
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113844
 #EXTINF:-1,DK: VIASAT HISTORY HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113845
+#EXTM3U
 #EXTINF:-1,- - - - - KIDS - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113846
 #EXTINF:-1,DK: BOOMERANG HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113847
 #EXTINF:-1,DK: DISNEY JUNIORX HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113848
+#EXTM3U
 #EXTINF:-1,- - - - - MOVIES - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113849
 #EXTINF:-1,DK: C MORE FIRST HD (Multi-Sub)
@@ -4895,6 +4937,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113863
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113864
 #EXTINF:-1,DK: V SPORT GOLF HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113865
+#EXTM3U
 #EXTINF:-1,NO: TV NORGE HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113866
 #EXTINF:-1,NO: TV2 NORGE HD
@@ -4981,6 +5024,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113906
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113907
 #EXTINF:-1,NO: VIASAT GOLF HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113908
+#EXTM3U
 #EXTINF:-1,= = = = = SWEDEN = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113909
 #EXTINF:-1,- - - - - GENERAL - - - - -
@@ -5021,6 +5065,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113926
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113927
 #EXTINF:-1,SW: SVT 2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113928
+#EXTM3U
 #EXTINF:-1,- - - - - ENTERTAINMENT - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113929
 #EXTINF:-1,SW: STV KUNSKAPSKANALEN HD
@@ -5031,6 +5076,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113931
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113932
 #EXTINF:-1,SW: SVT24 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113933
+#EXTM3U
 #EXTINF:-1,- - - - - DOCUMETARY - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113934
 #EXTINF:-1,SW: BBC BRIT
@@ -5045,22 +5091,27 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113938
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113939
 #EXTINF:-1,SW: NATIONAL GEOGRAPHIC HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113940
+#EXTM3U
 #EXTINF:-1,- - - - - KIDS - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113941
 #EXTINF:-1,SW: BOOMERANG * ( Multi Audio )
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113942
+#EXTM3U
 #EXTINF:-1,- - - - - MOVIES - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113943
 #EXTINF:-1,SW: TV4 FILM
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113944
+#EXTM3U
 #EXTINF:-1,- - - - - MUSIC - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113945
 #EXTINF:-1,SW: MTV ROCKS INTERNATIONAL
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113946
+#EXTM3U
 #EXTINF:-1,- - - - - SPORTS - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113947
 #EXTINF:-1,DK: TV2 Fyn
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113948
+#EXTM3U
 #EXTINF:-1,AT:  ATV FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108514
 #EXTINF:-1,AT:  ATV HD
@@ -5127,6 +5178,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108544
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108545
 #EXTINF:-1,AR: BEIN MOVIES 4 FHD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/70893
+#EXTM3U
 #EXTINF:-1,- - - - - BEIN SERIES - - - - -
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/70898
 #EXTINF:-1,AR: BEIN DRAMA HD
@@ -5259,6 +5311,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108511
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108512
 #EXTINF:-1,AU: 10 Peach Sydney HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/108513
+#EXTM3U
 #EXTINF:-1,= = = = = VIAPLAY = = = = = =
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/73859
 #EXTINF:-1,NL: VIAPLAY PREMIER LEAUGE 1
