@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1,group-title="TURKIYE ULUSAL" 
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TURKIYE ULUSAL
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/624
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: TRT 1 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: TRT 1 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/623
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: TRT 1 SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: TRT 1 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/622
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: ATV HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: ATV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/621
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: ATV SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: ATV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/620
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: SHOWTV HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL"TR: SHOWTV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/619
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: SHOWTV SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: SHOWTV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/618
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: STAR TV HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: STAR TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/617
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: STAR TV SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: STAR TV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/616
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: KANAL D HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: KANAL D HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/615
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: KANAL D SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: KANAL D SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/614
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: FOX TV HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: FOX TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/613
-#EXTINF:-1,group-title="TURKIYE ULUSAL"TR: FOX TV SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: FOX TV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/612
-#EXTINF:-1,TR: TV8 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL", TR: TV8 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/611
 #EXTINF:-1,TR: TV8 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/610
