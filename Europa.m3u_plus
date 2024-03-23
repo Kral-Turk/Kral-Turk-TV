@@ -66,17 +66,17 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115148
 #EXTM3U
 #EXTINF:-1 group-title="TURKIYE HABER", 
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/625
-#EXTINF:-1,TR: A HABER HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: A HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/3106
-#EXTINF:-1,TR: A HABER SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: A HABER SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115194
-#EXTINF:-1,TR: TELE 1
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TELE 1
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/649
-#EXTINF:-1,TR: TELE 1 SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TELE 1 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115198
-#EXTINF:-1,TR: TV NET
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV NET
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/647
-#EXTINF:-1,TR: TV NET SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV NET SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115202
 #EXTINF:-1,TR: NTV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/646
