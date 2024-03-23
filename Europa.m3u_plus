@@ -27,41 +27,41 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/613
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/612
 #EXTINF:-1 group-title="TURKIYE ULUSAL", TR: TV8 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/611
-#EXTINF:-1,TR: TV8 SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TV8 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/610
-#EXTINF:-1,TR: TV 8.5 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TV 8.5 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/693
-#EXTINF:-1,TR: TV 8.5 SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TV 8.5 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115191
-#EXTINF:-1,TR: KANAL 7 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: KANAL 7 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/609
-#EXTINF:-1,TR: KANAL 7 SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: KANAL 7 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/608
-#EXTINF:-1,TR: BEYAZ TV HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: BEYAZ TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/607
-#EXTINF:-1,TR: BEYAZ TV SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: BEYAZ TV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/606
-#EXTINF:-1,TR: A2 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: A2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/695
-#EXTINF:-1,TR: A2 SD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: A2 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115186
-#EXTINF:-1,TR: TRT2 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TRT2 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/16240
-#EXTINF:-1,TR: SHOW TURK
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: SHOW TURK
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/20798
-#EXTINF:-1,TR: SHOW MAX HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: SHOW MAX HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/20799
-#EXTINF:-1,TR: TRT TURK HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TRT TURK HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115149
-#EXTINF:-1,TR: TRT KURDI HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TRT KURDI HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115152
-#EXTINF:-1,TR: TRT ARABI HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TRT ARABI HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115150
-#EXTINF:-1,TR: TRT AVAZ HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TRT AVAZ HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115151
-#EXTINF:-1,TR: TV4 HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: TV4 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115141
-#EXTINF:-1,TR: ULUSAL KANAL HD
+#EXTINF:-1 group-title="TURKIYE ULUSAL",TR: ULUSAL KANAL HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115148
 #EXTM3U
 #EXTINF:-1,group-title="- - TURKIYE HABER - -"
