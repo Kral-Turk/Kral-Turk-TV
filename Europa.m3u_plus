@@ -78,72 +78,72 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115198
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/647
 #EXTINF:-1 group-title="TURKIYE HABER",TR: TV NET SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115202
-#EXTINF:-1,TR: NTV HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: NTV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/646
-#EXTINF:-1,TR: NTV SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: NTV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115193
-#EXTINF:-1,TR: HALK TV HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HALK TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/644
-#EXTINF:-1,TR: HALK TV SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HALK TV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115197
-#EXTINF:-1,TR: ULKE TV HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: ULKE TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/641
-#EXTINF:-1,TR: ULKE TV SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: ULKE TV SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115200
-#EXTINF:-1,TR: CNN TURK HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: CNN TURK HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/634
-#EXTINF:-1,TR: CNN TURK SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: CNN TURK SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/6028
-#EXTINF:-1,TR: TRT HABER HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TRT HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/632
-#EXTINF:-1,TR: TRT HABER SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TRT HABER SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115195
-#EXTINF:-1,TR: TGRT HABER HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TGRT HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/629
-#EXTINF:-1,TR: TGRT HABER SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TGRT HABER SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115201
-#EXTINF:-1,TR: HABERTURK HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HABERTURK HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/628
-#EXTINF:-1,TR: HABERTURK SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HABERTURK SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/6297
-#EXTINF:-1,TR: FLASH HABER HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: FLASH HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115133
-#EXTINF:-1,TR: TV 100 HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV 100 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115132
-#EXTINF:-1,TR: TV 100 SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV 100 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115189
-#EXTINF:-1,TR: TV 24 HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV 24 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115137
-#EXTINF:-1,TR: TV 24 SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TV 24 SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115196
-#EXTINF:-1,TR: BLOOMBERG HT HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: BLOOMBERG HT HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/626
-#EXTINF:-1,TR: KANAL 24 HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: KANAL 24 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/636
-#EXTINF:-1,TR: A PARA HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: A PARA HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115138
-#EXTINF:-1,TR: HABER GLOBAL HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HABER GLOBAL HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115139
-#EXTINF:-1,TR: HABER GLOBAL SD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: HABER GLOBAL SD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115199
-#EXTINF:-1,TR: KANAL 33 HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: KANAL 33 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115140
-#EXTINF:-1,TR: EKO TURK HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: EKO TURK HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115153
-#EXTINF:-1,TR: KRT HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: KRT HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115154
-#EXTINF:-1,TR: A NEWS HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: A NEWS HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115155
-#EXTINF:-1,TR: TRT WORLD HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: TRT WORLD HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115156
-#EXTINF:-1,TR: ON6 HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: ON6 HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115157
-#EXTINF:-1,TR: KANAL V HD
+#EXTINF:-1 group-title="TURKIYE HABER",TR: KANAL V HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115158
 #EXTM3U
-#EXTINF:-1 group-title"TURKIYE SINEMA"
+#EXTINF:-1 group-title"TURKIYE SINEMA" TÜRKİYE SINEMA
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/739
-#EXTINF:-1,TR: SINEMA TV HD
+#EXTINF:-1 group-title"TURKIYE SINEMA",TR: SINEMA TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115119
 #EXTINF:-1,TR: SINEMA TV AKSIYON HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115121
