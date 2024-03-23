@@ -64,7 +64,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115141
 #EXTINF:-1 group-title="TURKIYE ULUSAL",TR: ULUSAL KANAL HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115148
 #EXTM3U
-#EXTINF:-1,group-title="- - TURKIYE HABER - -"
+#EXTINF:-1 group-title="TURKIYE HABER", 
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/625
 #EXTINF:-1,TR: A HABER HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/3106
@@ -141,7 +141,7 @@ http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115157
 #EXTINF:-1,TR: KANAL V HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115158
 #EXTM3U
-#EXTINF:-1,- - - - - TURKIYE SINEMA - - - - -
+#EXTINF:-1 group-title"TURKIYE SINEMA"
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/739
 #EXTINF:-1,TR: SINEMA TV HD
 http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/115119
