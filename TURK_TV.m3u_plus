@@ -185,90 +185,162 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="ULTHD: TRT 1 4K" tvg-logo="http://icon.orbitip.org/ulusal/trt1.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 1 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10797
-#EXTINF:-1 tvg-id="trt2.tr" tvg-name="ULTHD: TRT 2 HD" tvg-logo="http://icon.orbitip.org/ulusal/trt2.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 2 HD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/21737
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ULTHD: ATV 4K" tvg-logo="http://icon.orbitip.org/ulusal/atv.png" group-title="TR | ULUSAL (4K)",ULTHD: ATV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10795
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="ULTHD: SHOW TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/showtv.png" group-title="TR | ULUSAL (4K)",ULTHD: SHOW TV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10793
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="ULTHD: STAR TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/startv.png" group-title="TR | ULUSAL (4K)",ULTHD: STAR TV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10792
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="ULTHD: KANAL D 4K" tvg-logo="http://icon.orbitip.org/ulusal/kanald.png" group-title="TR | ULUSAL (4K)",ULTHD: KANAL D 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10790
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="ULTHD: NOW TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/nowtv.png" group-title="TR | ULUSAL (4K)",ULTHD: NOW TV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10794
-#EXTINF:-1 tvg-id="tv8 hd" tvg-name="TR: TV 8 4K" tvg-logo="http://icon.orbitip.org/ulusal/tv8.png" group-title="TR | ULUSAL (4K)",ULTHD: TV 8 4K
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-#EXTINF:-1 tvg-id="tv85.tr" tvg-name="ULTHD: TV 8.5 4K" tvg-logo="http://icon.orbitip.org/ulusal/tv8.5.png" group-title="TR | ULUSAL (4K)",ULTHD: TV 8.5 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10788
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="ULTHD: KANAL 7 4K" tvg-logo="http://icon.orbitip.org/ulusal/kanal7.png" group-title="TR | ULUSAL (4K)",ULTHD: KANAL 7 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10791
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="ULTHD: BEYAZ TV 4K" tvg-logo="http://icon.orbitip.org/ulusal/beyaztv.png" group-title="TR | ULUSAL (4K)",ULTHD: BEYAZ TV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10787
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="ULTHD: TEVE 2 4K" tvg-logo="http://icon.orbitip.org/ulusal/teve2.png" group-title="TR | ULUSAL (4K)",ULTHD: TEVE 2 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10776
-#EXTINF:-1 tvg-id="tlc.tr" tvg-name="ULTHD: TLC HD" tvg-logo="http://icon.orbitip.org/ulusal/tlc.png" group-title="TR | ULUSAL (4K)",ULTHD: TLC HD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22187
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="ULTHD: A2  4K" tvg-logo="http://icon.orbitip.org/ulusal/a2tv.png" group-title="TR | ULUSAL (4K)",ULTHD: A2  4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/4833
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="ULTHD: A SPOR 4K" tvg-logo="http://icon.orbitip.org/spor/aspor.png" group-title="TR | ULUSAL (4K)",ULTHD: A SPOR 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10783
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="ULTHD: TRT SPOR 4K" tvg-logo="http://icon.orbitip.org/spor/trtspor.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT SPOR 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10773
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="ULTHD: HABERTURK 4K" tvg-logo="http://icon.orbitip.org/haber/haberturk.png" group-title="TR | ULUSAL (4K)",ULTHD: HABERTURK 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10778
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="ULTHD: NTV 4K" tvg-logo="http://icon.orbitip.org/haber/ntv.png" group-title="TR | ULUSAL (4K)",ULTHD: NTV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10777
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="ULTHD: A HABER 4K" tvg-logo="http://icon.orbitip.org/haber/ahaber.png" group-title="TR | ULUSAL (4K)",ULTHD: A HABER 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10786
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="ULTHD: CNN TURK 4K" tvg-logo="http://icon.orbitip.org/haber/cnnturk.png" group-title="TR | ULUSAL (4K)",ULTHD: CNN TURK 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10785
-#EXTINF:-1 tvg-id="24.tr" tvg-name="ULTHD: TRT 4K" tvg-logo="http://icon.orbitip.org/ulusal/trt4k.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10207
-#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULTHD: ULKE TV 4K" tvg-logo="http://icon.orbitip.org/haber/ulketv.png" group-title="TR | ULUSAL (4K)",ULTHD: ULKE TV 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10772
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="ULTHD: TRT BELGESEL 4K" tvg-logo="http://icon.orbitip.org/belgesel/trtbelgesel.png" group-title="TR | ULUSAL (4K)",ULTHD: TRT BELGESEL 4K
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/10775
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART FHD" tvg-logo="http://icon.orbitip.org/spor/sporsmart.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: SPOR SMART FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/7986
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://icon.orbitip.org/spor/ssport2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: S Sport 2 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/35788
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: GS TV FHD" tvg-logo="http://icon.orbitip.org/spor/gstv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: GS TV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22694
-#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/trt2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT 2 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22205
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: ATV FHD" tvg-logo="http://icon.orbitip.org/ulusal/atv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: ATV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22214
-#EXTINF:-1 tvg-id="show tv hd" tvg-name="TR: SHOW TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/showtv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: SHOW TV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22213
-#EXTINF:-1 tvg-id="star tv hd" tvg-name="TR: STAR TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/startv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: STAR TV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22212
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="http://icon.orbitip.org/ulusal/kanald.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: KANAL D FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22211
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: NOW TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/nowtv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: NOW TV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22210
-#EXTINF:-1 tvg-id="tv8 hd" tvg-name="TR: TV 8 FHD" tvg-logo="http://icon.orbitip.org/ulusal/tv8.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TV 8 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22209
-#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://icon.orbitip.org/ulusal/tv8.5.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TV 8.5 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22208
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="http://icon.orbitip.org/ulusal/kanal7.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: KANAL 7 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22207
-#EXTINF:-1 tvg-id="beyaz tv hd" tvg-name="TR: BEYAZ TV FHD" tvg-logo="http://icon.orbitip.org/ulusal/beyaztv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: BEYAZ TV FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22206
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/a2tv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: A2 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22201
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://icon.orbitip.org/ulusal/teve2.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TEVE 2 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22194
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 FHD" tvg-logo="http://icon.orbitip.org/ulusal/360tv.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: 360 FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22260
-#EXTINF:-1 tvg-id="trt çocuk" tvg-name="TR: TRT Cocuk FHD" tvg-logo="http://icon.orbitip.org/cocuk/trtcocuk.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT Cocuk FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/27872
-#EXTINF:-1 tvg-id="trt belgesel hd" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="http://icon.orbitip.org/belgesel/trtbelgesel.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TRT BELGESEL FHD
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/22203
-#EXTINF:-1 tvg-id="tgrteu.tr" tvg-name="TR: TGRT EU" tvg-logo="http://icon.orbitip.org/ulusal/tgrteu.png" group-title="TR | ULTRA HD (YUKSEK HIZ/KALITE)",TR: TGRT EU
-http://no1.no1turk.com:2086/yROh2OcsSt/r11uweMj7h/31669
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV UHD" tvg-logo="" group-title="ULUSAL UHD",ATV UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19046
+#EXTINF:-1 tvg-id="" tvg-name="A2 UHD" tvg-logo="" group-title="ULUSAL UHD",A2 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19089
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV UHD" tvg-logo="" group-title="ULUSAL UHD",SHOW TV UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19047
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D UHD" tvg-logo="" group-title="ULUSAL UHD",KANAL D UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19048
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV UHD" tvg-logo="" group-title="ULUSAL UHD",STAR TV UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19049
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV UHD" tvg-logo="" group-title="ULUSAL UHD",NOW TV UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19050
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 UHD" tvg-logo="" group-title="ULUSAL UHD",TV 8 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19051
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT UHD" tvg-logo="" group-title="ULUSAL UHD",TV 8 INT UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19052
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 UHD" tvg-logo="" group-title="ULUSAL UHD",TV 8.5 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19053
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 UHD" tvg-logo="" group-title="ULUSAL UHD",TRT 1 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19054
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 UHD" tvg-logo="" group-title="ULUSAL UHD",TRT 2 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19055
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 UHD" tvg-logo="" group-title="ULUSAL UHD",KANAL 7 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19056
+#EXTINF:-1 tvg-id="" tvg-name="360 UHD" tvg-logo="" group-title="ULUSAL UHD",360 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19057
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK UHD" tvg-logo="" group-title="ULUSAL UHD",CNN TURK UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19058
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK UHD" tvg-logo="" group-title="ULUSAL UHD",HABER TURK UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19059
+#EXTINF:-1 tvg-id="" tvg-name="NTV HABER UHD" tvg-logo="" group-title="ULUSAL UHD",NTV HABER UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19060
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL UHD" tvg-logo="" group-title="ULUSAL UHD",HABER GLOBAL UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19061
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV UHD" tvg-logo="" group-title="ULUSAL UHD",HALK TV UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19062
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 UHD" tvg-logo="" group-title="ULUSAL UHD",TELE 1 UHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19063
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_46.png" group-title="HABER",HABERTURK HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/513
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABERTURK FHD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_46.png" group-title="HABER",HABERTURK FHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/512
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_32.png" group-title="HABER",NTV HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/511
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="HALK TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_55.png" group-title="HABER",HALK TV HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/509
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_31.png" group-title="HABER",CNN TURK HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/508
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNNTURK FHD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_27.png" group-title="HABER",CNNTURK FHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/507
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER FHD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_30.png" group-title="HABER",TRT HABER FHD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/506
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_26.png" group-title="HABER",TRT HABER HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/505
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_45.png" group-title="HABER",A HABER HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/504
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_67.png" group-title="HABER",TGRT HABER HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/501
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_74.png" group-title="HABER",BLOOMBERG HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/500
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULKE TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_71.png" group-title="HABER",ULKE TV HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/499
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_59.png" group-title="HABER",24 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/496
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TELE 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_52.png" group-title="HABER",TELE 1 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/493
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_57.png" group-title="HABER",TV 100 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/492
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="A PARA HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_78.png" group-title="HABER",A PARA HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/491
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL ʜᴅ 1080" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_48.png" group-title="HABER",HABER GLOBAL ʜᴅ 1080
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/487
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_58.png" group-title="HABER",KRT HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/17153
+#EXTINF:-1 tvg-id="" tvg-name="Flash Haber HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_76.png" group-title="HABER",Flash Haber HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18425
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_72.png" group-title="HABER",ULUSAL KANAL HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/17221
+#EXTINF:-1 tvg-id="" tvg-name="TRT Kurdi ʜᴅ" tvg-logo="" group-title="ULUSAL HD",TRT Kurdi ʜᴅ
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/17895
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_80.png" group-title="HABER",SÖZCÜ TV HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18097
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal TV" tvg-logo="" group-title="SINEMA",Kemal Sunal TV
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18596
+#EXTINF:-1 tvg-id="" tvg-name="Recep ivedik tv" tvg-logo="" group-title="SINEMA",Recep ivedik tv
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18597
+#EXTINF:-1 tvg-id="" tvg-name="Konusanlar" tvg-logo="" group-title="SINEMA",Konusanlar
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19025
+#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="" group-title="SINEMA",Guldur Guldur
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18598
+#EXTINF:-1 tvg-id="" tvg-name="Isler Gucler" tvg-logo="" group-title="SINEMA",Isler Gucler
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19024
+#EXTINF:-1 tvg-id="" tvg-name="Kardes Payi" tvg-logo="" group-title="SINEMA",Kardes Payi
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19096
+#EXTINF:-1 tvg-id="" tvg-name="NesFLlik sinema 1" tvg-logo="" group-title="SINEMA",NesFLlik sinema 1
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19020
+#EXTINF:-1 tvg-id="" tvg-name="NesFLik sinema 2" tvg-logo="" group-title="SINEMA",NesFLik sinema 2
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19021
+#EXTINF:-1 tvg-id="" tvg-name="VAN Damme TV" tvg-logo="" group-title="SINEMA",VAN Damme TV
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19022
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan TV" tvg-logo="" group-title="SINEMA",Jackie Chan TV
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/19023
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 1" tvg-logo="" group-title="SINEMA",Yesilcam 1
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18599
+#EXTINF:-1 tvg-id="" tvg-name="Yesilcam 2" tvg-logo="" group-title="SINEMA",Yesilcam 2
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18600
+#EXTINF:-1 tvg-id="" tvg-name="Salon 1" tvg-logo="" group-title="SINEMA",Salon 1
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18613
+#EXTINF:-1 tvg-id="" tvg-name="Salon 2" tvg-logo="" group-title="SINEMA",Salon 2
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18614
+#EXTINF:-1 tvg-id="" tvg-name="Salon 3" tvg-logo="" group-title="SINEMA",Salon 3
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18615
+#EXTINF:-1 tvg-id="" tvg-name="Salon 4" tvg-logo="" group-title="SINEMA",Salon 4
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18616
+#EXTINF:-1 tvg-id="" tvg-name="Salon 5" tvg-logo="" group-title="SINEMA",Salon 5
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18617
+#EXTINF:-1 tvg-id="" tvg-name="Salon 6" tvg-logo="" group-title="SINEMA",Salon 6
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18618
+#EXTINF:-1 tvg-id="" tvg-name="Salon 7" tvg-logo="" group-title="SINEMA",Salon 7
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18619
+#EXTINF:-1 tvg-id="" tvg-name="Salon 8" tvg-logo="" group-title="SINEMA",Salon 8
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18620
+#EXTINF:-1 tvg-id="" tvg-name="Salon 9" tvg-logo="" group-title="SINEMA",Salon 9
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18621
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon" tvg-logo="" group-title="COCUK",Cocomelon
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18419
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_538.png" group-title="DEUTSCHE SENDER",ZDF HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18670
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_647.png" group-title="DEUTSCHE SENDER",RTL HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18671
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_746.png" group-title="DEUTSCHE SENDER",RTL 2 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18672
+#EXTINF:-1 tvg-id="" tvg-name="PRO7 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_751.png" group-title="DEUTSCHE SENDER",PRO7 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18673
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_751.png" group-title="DEUTSCHE SENDER",SAT 1 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18674
+#EXTINF:-1 tvg-id="" tvg-name="VOX HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_569.png" group-title="DEUTSCHE SENDER",VOX HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18675
+#EXTINF:-1 tvg-id="" tvg-name="KABEL 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_565.png" group-title="DEUTSCHE SENDER",KABEL 1 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18676
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_191.png" group-title="DEUTSCHE SENDER",ARTE HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18677
+#EXTINF:-1 tvg-id="" tvg-name="3 SAT HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_173.png" group-title="DEUTSCHE SENDER",3 SAT HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18678
+#EXTINF:-1 tvg-id="" tvg-name="SIXX HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_749.png" group-title="DEUTSCHE SENDER",SIXX HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18679
+#EXTINF:-1 tvg-id="" tvg-name="ZDF NEO HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_756.png" group-title="DEUTSCHE SENDER",ZDF NEO HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18680
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_600.png" group-title="DEUTSCHE SENDER",TELE 5 HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18681
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_713.png" group-title="DEUTSCHE SENDER",PHOENIX HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18682
+#EXTINF:-1 tvg-id="" tvg-name="N-TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_625.png" group-title="DEUTSCHE SENDER",N-TV HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18683
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="DEUTSCHE SENDER",FOX HD
+http://cms.3p24.de:1453/sdM9H9wJ5txM9H9wJ5tM9wJ5txM9H9/ruflnnxU1xM9H9wJ5tM9H9wJ5t9wJ5txM9H9/18684
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
