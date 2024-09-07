@@ -45,7 +45,7 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111409
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81289
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/77912
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD +1
 http://stream1.etibsa.pro:8080/selami2/xXsYTcqPGMNn/358306
@@ -165,7 +165,7 @@ https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
-https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+http://tv.pure-onetv.com:25443/live/HAJG6/k7bKPqg05y/149682.ts
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/355561
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
