@@ -1196,3 +1196,981 @@ http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357767
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357924
 #EXTINF:-1 tvg-id="" tvg-name="DAZN COMBAT" tvg-logo="" group-title="DE ✦ DAZN WEB",DAZN COMBAT
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357925
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ Deutschland / HEVC ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ HEVC",✦ ✦ Deutschland / HEVC ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264259
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/DAS.ERSTE.png" group-title="DE ✦ HEVC",DE: DAS ERSTE HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142955
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/ZDF.png" group-title="DE ✦ HEVC",DE: ZDF HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142966
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/ZDF.NEO.png" group-title="DE ✦ HEVC",DE: ZDF NEO HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142968
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT.1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SAT.1.png" group-title="DE ✦ HEVC",DE: SAT.1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47959
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/RTL.png" group-title="DE ✦ HEVC",DE: RTL HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47955
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: ProSieben HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/PROSIEBEN.png" group-title="DE ✦ HEVC",DE: ProSieben HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47957
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO7 MAXX HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/PRO7.MAXX.png" group-title="DE ✦ HEVC",DE: PRO7 MAXX HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47962
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/RTL.ZWEI.png" group-title="DE ✦ HEVC",DE: RTL ZWEI HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47958
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/NITRO.png" group-title="DE ✦ HEVC",DE: NITRO HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142957
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/VOX.png" group-title="DE ✦ HEVC",DE: VOX HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47960
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/KABELEINS.png" group-title="DE ✦ HEVC",DE: KABEL EINS HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47961
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SIXX.png" group-title="DE ✦ HEVC",DE: SIXX HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47963
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="DE: SKY CINEMA SPECIAL HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.SPECIAL.png" group-title="DE ✦ HEVC",DE: SKY CINEMA SPECIAL HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47967
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE: SKY CINEMA THRILLER HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.THRILLER.png" group-title="DE ✦ HEVC",DE: SKY CINEMA THRILLER HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47968
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.PREMIEREN.png" group-title="DE ✦ HEVC",DE: SKY CINEMA PREMIEREN HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47972
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.ACTION.png" group-title="DE ✦ HEVC",DE: SKY CINEMA ACTION HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47970
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY CINEMA ATLANTIC HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.ATLANTIC.png" group-title="DE ✦ HEVC",DE: SKY CINEMA ATLANTIC HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309299
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA KRIMI HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.KRIMI.png" group-title="DE ✦ HEVC",DE: SKY CINEMA KRIMI HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309300
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.CLASSICS.png" group-title="DE ✦ HEVC",DE: SKY CINEMA CLASSICS HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309301
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.FAMILIY.png" group-title="DE ✦ HEVC",DE: SKY CINEMA FAMILY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47971
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY REPLAY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/FOX.png" group-title="DE ✦ HEVC",DE: SKY REPLAY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47984
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.ONE.png" group-title="DE ✦ HEVC",DE: SKY ONE HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142960
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.KRIMI.2.png" group-title="DE ✦ HEVC",DE: SKY CRIME HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142952
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="DE: SKY COMEDY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.CINEMA.COMEDY.png" group-title="DE ✦ HEVC",DE: SKY COMEDY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142951
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: WARNER TV COMEDY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/WARNER.TV.COMEDY.png" group-title="DE ✦ HEVC",DE: WARNER TV COMEDY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47978
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER TV FILM HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/WARNER.TV.FILM.png" group-title="DE ✦ HEVC",DE: WARNER TV FILM HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309302
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV SERIE HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/WARNER.TV.png" group-title="DE ✦ HEVC",DE: WARNER TV SERIE HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309303
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th STREET HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/13.TH.STREER.png" group-title="DE ✦ HEVC",DE: 13th STREET HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309298
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SYFY.png" group-title="DE ✦ HEVC",DE: SYFY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309304
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL Channel HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/UNIVERSAL.png" group-title="DE ✦ HEVC",DE: UNIVERSAL Channel HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142971
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/NAT.GEO.WILD.png" group-title="DE ✦ HEVC",DE: NAT GEO WILD HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47986
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/NATIONAL.GEOGRAOHIC.CHANNEL.png" group-title="DE ✦ HEVC",DE: NAT GEO HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47987
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL  HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/DISCOVERY.png" group-title="DE ✦ HEVC",DE: DISCOVERY CHANNEL  HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47988
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/HISTORY.png" group-title="DE ✦ HEVC",DE: HISTORY HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47989
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/D.MAX.png" group-title="DE ✦ HEVC",DE: DMAX HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47990
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/WELT.png" group-title="DE ✦ HEVC",DE: WELT HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47996
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/NTV.png" group-title="DE ✦ HEVC",DE: N-TV HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47992
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SPIEGELGESCHICHTE.png" group-title="DE ✦ HEVC",DE: SPIEGEL GESCHICHTE HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47994
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/TLC.png" group-title="DE ✦ HEVC",DE: TLC HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47995
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/TELE.5.png" group-title="DE ✦ HEVC",DE: TELE 5 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/98207
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 1 Bar HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/DAZN.png" group-title="DE ✦ HEVC",DE: DAZN 1 Bar HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47997
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN 2 Bar HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/DAZN.png" group-title="DE ✦ HEVC",DE: DAZN 2 Bar HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47998
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE: SKY SPORT NEWS HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORTS.NEWS.png" group-title="DE ✦ HEVC",DE: SKY SPORT NEWS HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47999
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: SKY SPORT F1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORT.F1.png" group-title="DE ✦ HEVC",DE: SKY SPORT F1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142953
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORT.1.png" group-title="DE ✦ HEVC",DE: SKY SPORT 1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48000
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORT.2.png" group-title="DE ✦ HEVC",DE: SKY SPORT 2 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48001
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORT 1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SPORT.1.png" group-title="DE ✦ HEVC",DE: SPORT 1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48002
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORT.BUNDESLIGA.png" group-title="DE ✦ HEVC",DE: SKY SPORT BUNDESLIGA 1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48003
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT AUSTRIA 1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SKY.SPORT.AUSTRIA.png" group-title="DE ✦ HEVC",DE: SKY SPORT AUSTRIA 1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48004
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/EURO.SPORT.png" group-title="DE ✦ HEVC",DE: EUROSPORT 1 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/98211
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/EUROSPORT.3.png" group-title="DE ✦ HEVC",DE: EUROSPORT 2 HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/98212
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KiKA HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/KIKA.png" group-title="DE ✦ HEVC",DE: KiKA HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/47985
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: SUPER RTL HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/SUPER.RTL.png" group-title="DE ✦ HEVC",DE: SUPER RTL HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142962
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: COMEDY CENTRAL HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/COMEDY.CENTRAL.png" group-title="DE ✦ HEVC",DE: COMEDY CENTRAL HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/98208
+#EXTINF:-1 tvg-id="" tvg-name="DE: CNBC HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/CNBC.png" group-title="DE ✦ HEVC",DE: CNBC HEVC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/142982
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ DEUTSCHLAND LOCAL ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ NATIONAL",✦ ✦ DEUTSCHLAND LOCAL ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/104617
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/DAS.ERSTE.1.png" group-title="DE ✦ NATIONAL",DE: DAS ERSTE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4607
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/2DF.png" group-title="DE ✦ NATIONAL",DE: ZDF HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4608
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF INFO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/ZDF.INFO.png" group-title="DE ✦ NATIONAL",DE: ZDF INFO HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4609
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/ZDF.NEO.png" group-title="DE ✦ NATIONAL",DE: ZDF NEO HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4610
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/30.png" group-title="DE ✦ NATIONAL",DE: SAT 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4635
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SAT.1.png" group-title="DE ✦ NATIONAL",DE: SAT 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4636
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/GOLD.SAT.1.png" group-title="DE ✦ NATIONAL",DE: SAT 1 GOLD FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4639
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/GOLD.SAT.1.png" group-title="DE ✦ NATIONAL",DE: SAT 1 GOLD HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4641
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 EMOTIONS" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/GOLD.SAT.1.png" group-title="DE ✦ NATIONAL",DE: SAT 1 EMOTIONS
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4645
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PRO 7 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/PRO7.png" group-title="DE ✦ NATIONAL",DE: PRO 7 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4620
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" group-title="DE ✦ NATIONAL",DE: PRO 7 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4621
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO 7 MAXX FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/ZMAX.png" group-title="DE ✦ NATIONAL",DE: PRO 7 MAXX FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4623
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" group-title="DE ✦ NATIONAL",DE: PRO 7 MAXX HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4624
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: PRO 7 FUN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/ZFUN.png" group-title="DE ✦ NATIONAL",DE: PRO 7 FUN HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4627
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE: MDR HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/MDR.png" group-title="DE ✦ REGIONAL",DE: MDR HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4611
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/RTL.RENKLI.png" group-title="DE ✦ NATIONAL",DE: RTL FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4628
+#EXTINF:-1 tvg-id="rtluhd.de" tvg-name="DE: RTL HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RTL.RENKLI.png" group-title="DE ✦ NATIONAL",DE: RTL HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4629
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UP FHD" tvg-logo="" group-title="DE ✦ NATIONAL",DE: RTL UP FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357158
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTL UP HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RTL.PLUS.png" group-title="DE ✦ NATIONAL",DE: RTL UP HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/138412
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/RTL.png" group-title="DE ✦ NATIONAL",DE: RTL 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4631
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RTL.png" group-title="DE ✦ NATIONAL",DE: RTL 2 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4632
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/VOX.png" group-title="DE ✦ NATIONAL",DE: VOX FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4653
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXUP FHD" tvg-logo="" group-title="DE ✦ NATIONAL",DE: VOXUP FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357157
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/VOX.png" group-title="DE ✦ NATIONAL",DE: VOX HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4655
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOXUP HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/VOX.png" group-title="DE ✦ NATIONAL",DE: VOXUP HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4659
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/KABELEINS.png" group-title="DE ✦ NATIONAL",DE: KABEL 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4661
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/KABELEINS.png" group-title="DE ✦ NATIONAL",DE: KABEL 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4663
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL 1 CLASSICS " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/KABELEINS.png" group-title="DE ✦ NATIONAL",DE: KABEL 1 CLASSICS
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4667
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/NITRO.png" group-title="DE ✦ NATIONAL",DE: RTL NITRO FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4669
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/NITRO.png" group-title="DE ✦ NATIONAL",DE: RTL NITRO HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4671
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/ARTE.png" group-title="DE ✦ NATIONAL",DE: ARTE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4693
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="DE: SWR BW HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SWR.png" group-title="DE ✦ REGIONAL",DE: SWR BW HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4705
+#EXTINF:-1 tvg-id="srfernsehen.de" tvg-name="DE: SR FERNSEHEN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SR.FERNSEHEN.1.png" group-title="DE ✦ REGIONAL",DE: SR FERNSEHEN HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309297
+#EXTINF:-1 tvg-id="dr1.de" tvg-name="DE: BR FERNSEHEN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/BAYERISCHES.FERNSEHEN.png" group-title="DE ✦ REGIONAL",DE: BR FERNSEHEN HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4612
+#EXTINF:-1 tvg-id="hr.de" tvg-name="DE: HR FERNSEHEN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/HR.png" group-title="DE ✦ REGIONAL",DE: HR FERNSEHEN HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4613
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE: NDR HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/NDR.png" group-title="DE ✦ REGIONAL",DE: NDR HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4614
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE: RBB HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RBB.png" group-title="DE ✦ REGIONAL",DE: RBB HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4615
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE: WDR HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/WDR.png" group-title="DE ✦ REGIONAL",DE: WDR HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4616
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 FHD" tvg-logo="" group-title="DE ✦ NATIONAL",DE: TELE 5 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357171
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/TELE.5.png" group-title="DE ✦ NATIONAL",DE: TELE 5 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4706
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/ONE.1.png" group-title="DE ✦ NATIONAL",DE: ONE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4617
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 SAT HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/3.SAT.png" group-title="DE ✦ NATIONAL",DE: 3 SAT HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4618
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/SIXX.png" group-title="DE ✦ NATIONAL",DE: SIXX FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4647
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX SD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SIXX.png" group-title="DE ✦ NATIONAL",DE: SIXX SD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4649
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/ANIXE.png" group-title="DE ✦ NATIONAL",DE: ANIXE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4689
+#EXTINF:-1 tvg-id="" tvg-name="DE: RADIO BREMEN TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: RADIO BREMEN TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357159
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD ALPHA" tvg-logo="" group-title="DE ✦ REGIONAL",DE: ARD ALPHA
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357160
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE: PHOENIX" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PHOENIX.png" group-title="DE ✦ NACHRICHTEN",DE: PHOENIX
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4701
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE: SONNENKLAR TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SONNENKLAR.png" group-title="DE ✦ NATIONAL",DE: SONNENKLAR TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4704
+#EXTINF:-1 tvg-id="" tvg-name="DE: FRANKEN PLUS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/FRANKEN.png" group-title="DE ✦ REGIONAL",DE: FRANKEN PLUS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309307
+#EXTINF:-1 tvg-id="" tvg-name="DE: NIEDERBAYERN TV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/NIEDER.BAYERN.png" group-title="DE ✦ REGIONAL",DE: NIEDERBAYERN TV HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309308
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="DE: MUNCHEN TV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/MUNCHEN.TV.png" group-title="DE ✦ REGIONAL",DE: MUNCHEN TV HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309306
+#EXTINF:-1 tvg-id="" tvg-name=" ✦  ✦  ✦ GERMANY DOKU  ✦  ✦  ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ DOKU", ✦  ✦  ✦ GERMANY DOKU  ✦  ✦  ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4758
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/NATIONAL.WILD.png" group-title="DE ✦ DOKU",DE: NAT GEO FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4759
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/NATIONAL.WILD.png" group-title="DE ✦ DOKU",DE: NAT GEO HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4760
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/NAT.GEO.WILD.png" group-title="DE ✦ DOKU",DE: NAT GEO WILD FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4761
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/NAT.GEO.WILD.png" group-title="DE ✦ DOKU",DE: NAT GEO WILD HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4762
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/DISCOVERY.CHANNEL.png" group-title="DE ✦ DOKU",DE: DISCOVERY FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4763
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/DISCOVERY.CHANNEL.png" group-title="DE ✦ DOKU",DE: DISCOVERY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4764
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/HISTORY.png" group-title="DE ✦ DOKU",DE: HISTORY FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4765
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/HISTORY.png" group-title="DE ✦ DOKU",DE: HISTORY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4766
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/DMAX.png" group-title="DE ✦ DOKU",DE: DMAX FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4767
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/DMAX.png" group-title="DE ✦ DOKU",DE: DMAX HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4768
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/TLC.png" group-title="DE ✦ DOKU",DE: TLC FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4708
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="" group-title="DE ✦ DOKU",DE: TLC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357167
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/KABEL.png" group-title="DE ✦ DOKU",DE: KABEL EINS DOKU FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4769
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU HD" tvg-logo="" group-title="DE ✦ DOKU",DE: KABEL EINS DOKU HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357170
+#EXTINF:-1 tvg-id="hgtv.de" tvg-name="DE: HGTV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/HG.TV.png" group-title="DE ✦ DOKU",DE: HGTV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4772
+#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="DE: WAIDWERK HD+" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/WAIDWERK.png" group-title="DE ✦ DOKU",DE: WAIDWERK HD+
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4773
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/N24.DOKU.png" group-title="DE ✦ DOKU",DE: N24 DOKU
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4777
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE: CRIME INVESTIGATION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/CRIME.INVESTI.GATION.png" group-title="DE ✦ DOKU",DE: CRIME INVESTIGATION
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4780
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/ANIMAL.PLANET.png" group-title="DE ✦ DOKU",DE: ANIMAL PLANET FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4781
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/WELT.DER.WUNDER.png" group-title="DE ✦ DOKU",DE: WELT DER WUNDER
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4782
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/SPIEGEL.GESCHICHTE.png" group-title="DE ✦ DOKU",DE: SPIEGEL GESCHICHTE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4783
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: CURIOSITY CHANNEL" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/SPIEGEL.WISSEN.png" group-title="DE ✦ DOKU",DE: CURIOSITY CHANNEL
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4784
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV MEDICAL DETECTIVES HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/MEDICAL.png" group-title="DE ✦ DOKU",DE: BlueTV MEDICAL DETECTIVES HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/146002
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV MAYDAY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/MAYDAY.png" group-title="DE ✦ DOKU",DE: BlueTV MAYDAY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/146124
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="DE: ATV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/ATV.png" group-title="DE ✦ DOKU",DE: ATV HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309310
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV INGOLSTADT HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/INGOST.png" group-title="DE ✦ DOKU",DE: TV INGOLSTADT HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309311
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/SKY.DOKU.png" group-title="DE ✦ DOKU",DE: SKY DOCUMENTARIES FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309325
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="" group-title="DE ✦ DOKU",DE: SKY DOCUMENTARIES HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357920
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE FHD" tvg-logo="" group-title="DE ✦ DOKU",DE: SKY NATURE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357148
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE HD" tvg-logo="" group-title="DE ✦ DOKU",DE: SKY NATURE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357921
+#EXTINF:-1 tvg-id="" tvg-name="DE. GEO TV" tvg-logo="" group-title="DE ✦ DOKU",DE. GEO TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357172
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: TAGESSCHAU 24 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/TAGESSCHAU.png" group-title="DE ✦ NACHRICHTEN",DE: TAGESSCHAU 24 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4619
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE: EURONEWS GERMANY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/HD/EURO.NEWS.png" group-title="DE ✦ NACHRICHTEN",DE: EURONEWS GERMANY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4698
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/WELT.png" group-title="DE ✦ NACHRICHTEN",DE: WELT FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4776
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT HD" tvg-logo="" group-title="DE ✦ NACHRICHTEN",DE: WELT HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357168
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/NTV.png" group-title="DE ✦ NACHRICHTEN",DE: N-TV FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4779
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 1 FHD-Kabel" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/DAZN.1.png" group-title="DE ✦ DAZN SPORT",DE: DAZN 1 FHD-Kabel
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5437
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 1 HD-Kabel" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/DAZN.1.png" group-title="DE ✦ DAZN SPORT",DE: DAZN 1 HD-Kabel
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5438
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN 2 FHD-Kabel" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/DAZN.2.png" group-title="DE ✦ DAZN SPORT",DE: DAZN 2 FHD-Kabel
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5439
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN 2 HD-Kabel" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/DAZN.2.png" group-title="DE ✦ DAZN SPORT",DE: DAZN 2 HD-Kabel
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5440
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.1.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5441
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.1.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5442
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.2.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5443
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.2.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 2 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5444
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.3.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 3 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5445
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.3.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 3 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5446
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.4.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 4 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5447
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.4.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 4 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5448
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.5.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 5 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5449
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.5.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 5 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5450
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.6.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 6 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5451
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.6.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 6 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5452
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.6.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 7 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5453
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: SKY SPORT 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.7.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 7 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5454
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: SKY SPORT 8 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.8.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 8 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5455
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9 FHD" tvg-logo="" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 9 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357150
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: SKY SPORT 9 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.9.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 9 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5456
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 FHD" tvg-logo="" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 10 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357151
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.10.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT 10 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5457
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="DE ✦ SKY SPORT",DE: SKY SPORT NEWS FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357155
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.NEWS.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT NEWS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5479
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORTS.F1.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT F1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/132597
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORTS.F1.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT F1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/132598
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORT.GOLF.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT GOLF FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354168
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORT.GOLF.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT GOLF HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354169
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORT.MIX.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT MIX FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354170
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORT.MIX.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT MIX HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354171
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORT.PREMIER.LAUNGE.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT PREMIER LEAGUE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354172
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORT.PREMIER.LAUNGE.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT PREMIER LEAGUE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354173
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORT.TENNIS.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT TENNIS FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354174
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORT.TENNIS.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT TENNIS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354175
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SKY.SPORT.TOP.EVENT.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT TOP EVENT FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354176
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SKY.SPORT.TOP.EVENT.png" group-title="DE ✦ SKY SPORT",DE: SKY SPORT TOP EVENT HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354177
+#EXTINF:-1 tvg-id="" tvg-name="DE: a.tv HD" tvg-logo="" group-title="DE ✦ REGIONAL",DE: a.tv HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357161
+#EXTINF:-1 tvg-id="" tvg-name="DE: BIBEL TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: BIBEL TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357162
+#EXTINF:-1 tvg-id="" tvg-name="DE: WIR24 TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: WIR24 TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357169
+#EXTINF:-1 tvg-id="" tvg-name="DE: STIMMUNGSGARTEN TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: STIMMUNGSGARTEN TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357195
+#EXTINF:-1 tvg-id="" tvg-name="DE: BERGBLICK TV" tvg-logo="" group-title="DE ✦ DOKU",DE: BERGBLICK TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357202
+#EXTINF:-1 tvg-id="" tvg-name="DE: ASTRO TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: ASTRO TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357204
+#EXTINF:-1 tvg-id="" tvg-name="DE: HSE24 HD" tvg-logo="" group-title="DE ✦ REGIONAL",DE: HSE24 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357205
+#EXTINF:-1 tvg-id="" tvg-name="DE: K-TV" tvg-logo="" group-title="DE ✦ REGIONAL",DE: K-TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357206
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV MAYDAY 2 HD" tvg-logo="" group-title="DE ✦ DOKU",DE: BlueTV MAYDAY 2 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/358410
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ GERMANY KINO ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ SKY ENTERTAINMENT",✦ ✦ GERMANY KINO ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4972
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA Action FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.ACTION.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Action FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4977
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA Action HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.ACTION.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Action HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4978
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA Premieren FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.PREMIEREN.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Premieren FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4981
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA Premieren  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.PREMIEREN.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Premieren  HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4982
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY PREMIEREN 24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.PREMIEREN.24.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY PREMIEREN 24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4976
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SHOWCASE FHD" tvg-logo="" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY SHOWCASE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357196
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SHOWCASE HD" tvg-logo="" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY SHOWCASE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357197
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="DE: SKY CINEMA Special FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.SPECIAL.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Special FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4985
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: SKY CINEMA Special HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.SPECIAL.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Special HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4986
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY FHD" tvg-logo="" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY COMEDY FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357144
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY HD" tvg-logo="" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY COMEDY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357145
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DOKU/FHD/SKY.CRIME.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CRIME FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/309305
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME HD" tvg-logo="" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CRIME HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357146
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY CINEMA Atlantic FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.ATLANTIC.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Atlantic FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4993
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY CINEMA Atlantic HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.ATLANTIC.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Atlantic HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4994
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA Krimi FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.KRIMI.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Krimi FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4995
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA Krimi HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.KRIMI.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Krimi HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4996
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA Family" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.FAMILIY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Family
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4979
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA Classics" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.CLASSICS.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY CINEMA Classics
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4990
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: SKY ROMANCE TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.ROMANCE.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY ROMANCE TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4703
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE: SKY HEIMATKANAL" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/HEIMAT.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY HEIMATKANAL
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4699
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.ONE.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY ONE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4991
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.ONE.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY ONE HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4992
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/RTL.CRIME.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: RTL CRIME FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4997
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/RTL.LIVING.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: RTL LIVING
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4998
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL PASSION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/RTL.PASSION.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: RTL PASSION
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4999
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E! ENTERTAINMENT HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/ENTERTAINMENT.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: E! ENTERTAINMENT HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4867
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV Comedy HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/WARNER.COMEDY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: WARNER TV Comedy HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5000
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER TV Film" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.FILM.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: WARNER TV Film
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5003
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV Serie FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/WARNER.TV.SERIE.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: WARNER TV Serie FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5004
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV Serie HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.SERIE.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: WARNER TV Serie HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5005
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY REPLAY FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.REPLAY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY REPLAY FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5006
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY REPLAY HD " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.REPLAY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SKY REPLAY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5007
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th STREET FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/13.TH.STREET.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: 13th STREET FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5008
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th STREET HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/13.TH.STREET.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: 13th STREET HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5009
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SYFY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SYFY FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5010
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SYFY.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: SYFY HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5011
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/UNIVERSAL.CHANNEL.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: UNIVERSAL TV FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5012
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/UNIVERSAL.CHANNEL.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: UNIVERSAL TV HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5013
+#EXTINF:-1 tvg-id="sonyaxn.de" tvg-name="DE: AXN BLACK FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SONY.AXN.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: AXN BLACK FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5014
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="DE: AXN WHITE FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SONY.CHANNEL.png" group-title="DE ✦ SKY ENTERTAINMENT",DE: AXN WHITE FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5015
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ SKY SELECT ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ SKY SELECT",✦ ✦ SKY SELECT ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5107
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT  PROGRAMMUBERSICHT" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/00.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT  PROGRAMMUBERSICHT
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5109
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="DE: SKY SELECT  1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/01.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT  1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5111
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="DE: SKY SELECT 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/02.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5113
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE: SKY SELECT  3 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/03.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT  3 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5115
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="DE: SKY SELECT 4 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/04.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 4 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5117
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="DE: SKY SELECT 5 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/05.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 5 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5119
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="DE: SKY SELECT 6 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/56.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 6 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5121
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="DE: SKY SELECT 7 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/07.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 7 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5123
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="DE: SKY SELECT 8 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/08.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 8 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5125
+#EXTINF:-1 tvg-id="skyselect9.de" tvg-name="DE: SKY SELECT 9 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/09.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 9 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5127
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 10 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/010.png" group-title="DE ✦ SKY SELECT",DE: SKY SELECT 10 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5129
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ CINEMA BOX ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ CINEBOX CLUB",✦ ✦ CINEMA BOX ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238806
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV KRIMI ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KRIMI.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV KRIMI ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157499
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV ACTION 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ACTION.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV ACTION 1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157672
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV FAMILIE 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/FAMILIE.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV FAMILIE 1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157492
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV DRAMA ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/DRAMA.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV DRAMA ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157494
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV MARVEL ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MARVEL.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV MARVEL ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238786
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV HORROR 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/HORROR.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV HORROR 1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157500
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV FANTASY ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/FANTASY.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV FANTASY ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157496
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV THRILLER ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/THRILLER.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV THRILLER ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157498
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV HISTORIE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/HISTORIE.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV HISTORIE ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157497
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV MYSTERY ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MYSTERY.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV MYSTERY ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157495
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV KOMODIE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KOMODIE.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV KOMODIE ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157501
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV ABENTEUER ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ABENTEUER.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV ABENTEUER ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157503
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV BOLLYWOOD ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/BOLLYWOOD.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV BOLLYWOOD ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157490
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV LIEBESFILM 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ROMANTISCH.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV LIEBESFILM 1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157493
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV SCIENCE-FICTION ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SCI.FI.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV SCIENCE-FICTION ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157502
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV DOKU ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/DOKU.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV DOKU ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157491
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV FAMILIE 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.1.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV FAMILIE 2 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238787
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV KRIEGSFILM ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.2.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV KRIEGSFILM ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238788
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV ACTION 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.3.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV ACTION 2 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238789
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV ACTION 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.4.png" group-title="DE ✦ CINEBOX CLUB",DE: BlueTV ACTION 3 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238790
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.COLLECTION.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO COLLECTION
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143473
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.1.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 1
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143472
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.2.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 2
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143471
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.3.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 3
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143470
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 4" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.4.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 4
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143469
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 5" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.5.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 5
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143468
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 6" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.6.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 6
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143467
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.7.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT HD 7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143466
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.1.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143476
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.2.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO 2
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143475
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.3.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO 3
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143474
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.4.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO 4 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143459
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.5.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX KINO 5 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143460
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX 007 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/007.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX 007 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143477
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX STAR WARS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/STAR.WARS.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX STAR WARS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143478
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT  1 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.1.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT  1 4K
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143479
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT  2 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.2.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT  2 4K
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143480
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT  3 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.3.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT  3 4K
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143481
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 4  4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.4.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX SELECT 4  4K
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143482
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX PLUS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.PLUS.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX PLUS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143484
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/PREMIERE.png" group-title="DE ✦ CINEBOX CLUB",DE: MAX Premiere HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/143458
+#EXTINF:-1 tvg-id="" tvg-name=" ✦  ✦ 4K ULTRA PREMIERE  ✦  ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ 4K ULTRA PREMIERE", ✦  ✦ 4K ULTRA PREMIERE  ✦  ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/238785
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ACTION " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ACTION.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K ACTION
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151428
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K DRAMA" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/DRAMA.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K DRAMA
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151429
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K HORROR" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/HORROR.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K HORROR
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151430
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K KOMÖDIE" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/KOMODIE.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K KOMÖDIE
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151431
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K LIEBESFILM" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ROMANTISCH.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K LIEBESFILM
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151432
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K SCI-FI" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/SC.FI.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K SCI-FI
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151433
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K THRILLER" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/THRILLER.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K THRILLER
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/151434
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K FANTASY" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/FANTASY.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K FANTASY
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157835
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ABENTEUER" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ABENTEUER.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K ABENTEUER
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157846
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K BOLLYWOOD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/BOLLYWOOD.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K BOLLYWOOD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157863
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K FAMILIE" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/FAMILIE.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K FAMILIE
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157865
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K MYSTERY" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/MYSTERY.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K MYSTERY
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157867
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K KRIMI" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/KRIMI.png" group-title="DE ✦ 4K ULTRA PREMIERE",DE: BlueTV 4K KRIMI
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/157998
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ SERIES STORE ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ 24/7 SERIEN STORE ",✦ ✦ SERIES STORE ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239202
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NEW GIRL  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/NEW.GIRL.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  NEW GIRL  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/190689
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  PRISON BREAK  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/PRISON.BREAK.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  PRISON BREAK  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/190969
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SUPERNATURAL 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/SUPER.NATURAL.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  SUPERNATURAL 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/198422
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  AMERICAN HOUSEWIFE  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/AMERICAN.HAUSE.WIFE.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  AMERICAN HOUSEWIFE  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170290
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BABYLON BERLIN 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BABYLON.BERLIN.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  BABYLON BERLIN 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170292
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BOSCH 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BOSCH.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  BOSCH 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170293
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BREAKING BAD  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BRAKING.BAD.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  BREAKING BAD  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170294
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  HAUS DES GELDES  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/HAUS.DES.GELDES.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  HAUS DES GELDES  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15367
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  HOW I MET YOUR MOTHER  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/HOW.I.MET.YOUR.MOTHER.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  HOW I MET YOUR MOTHER  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15368
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ELITE  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/ELITE.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  ELITE  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170301
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ALLE HASSEN CHRIS  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/ALLE.HESSEN.CHRIS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  ALLE HASSEN CHRIS  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170324
+#EXTINF:-1 tvg-id="" tvg-name="DE: DE: BlueTV INDIANA JONES 24/7" tvg-logo="" group-title="DE ✦ 24/7 SERIEN STORE ",DE: DE: BlueTV INDIANA JONES 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357499
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV BUD SPENCER 24/7" tvg-logo="" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV BUD SPENCER 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357500
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  AMERICAN HORROR STORY 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/AMERICAN.HORROR.STORY.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  AMERICAN HORROR STORY 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170325
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  COMMUNITY  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/COMMUNITY.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  COMMUNITY  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170328
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  HANNIBAL 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/HANNIBAL.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  HANNIBAL 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170332
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  LOST 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/LOST.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  LOST 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170335
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  MODERN FAMILY 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/MODERN.FAMILY.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  MODERN FAMILY 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/170337
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4  BLOCKS  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/4.BLOCKS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV 4  BLOCKS  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15361
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV GAME of THRONES  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/GAME.OF.THRONES.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV GAME of THRONES  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15364
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SEX and THE CITY  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/SEX.AND.THE.CITY.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  SEX and THE CITY  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15380
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KEVIN CAN'T WAIT  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/KEVIN.CANT.WAIT.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  KEVIN CAN'T WAIT  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15371
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ChICAGO  FIRE  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/CHICAGO.FIRE.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  ChICAGO  FIRE  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15362
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  MR.ROBOT  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/MR.ROBOT.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  MR.ROBOT  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15375
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NARCOS  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/NARCOS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  NARCOS  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15376
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV   S.W.A.T  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/SWAT.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV   S.W.A.T  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15379
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NAVY CIS 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/NAVY.CIS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  NAVY CIS 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15377
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SUITS 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/SUITS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  SUITS 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15384
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  START UP   24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/START.UP.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  START UP   24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15383
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  THE 100 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/THE.100.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  THE 100 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15389
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  THE KING of QUEENS 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/THE.KING.OF.QUEENS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  THE KING of QUEENS 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/200539
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  THE NIGHT SHIFT   24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/THE.NIGHT.SHIFT.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  THE NIGHT SHIFT   24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15387
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  THE WALKING DEAD  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/THE.WALKING.DEAT.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  THE WALKING DEAD  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15388
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  TWO and HALF MEN  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/TWO.AND.A.HALF.MEN.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  TWO and HALF MEN  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15391
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  VAN HELSING  24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/VAN.HELSING.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  VAN HELSING  24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15392
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV BALLERS  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BALLERS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV BALLERS  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15373
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  CHICAGO MED   7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/CHICAGO.MED.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  CHICAGO MED   7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15382
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ALEX RIDER  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/ALEX.RIDER.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  ALEX RIDER  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15360
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  BRITANNIA   7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BRITANNIA.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  BRITANNIA   7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15363
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  GREYS  ANATOMY  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/GREYS.ANATOMY.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  GREYS  ANATOMY  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15366
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  GOMHORRA 7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/GOMHORRA.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  GOMHORRA 7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15369
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  ENTOURAGE  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/ENTOURAGE.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  ENTOURAGE  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15374
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  DEUTSCHLAND   7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/DEUTSCHLAND.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  DEUTSCHLAND   7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15378
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  BLACK SAILS  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BLACK.SALIS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  BLACK SAILS  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15385
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  BATWOMAN  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/BATWOMAN.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  BATWOMAN  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15390
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  9.1.1  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/911.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  9.1.1  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15394
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  HARLOTS 7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/HARTLOS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  HARLOTS 7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239127
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV Jerks 7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/JERKS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV Jerks 7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239128
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  POWER 7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/POWER.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  POWER 7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239129
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  TRUE BLOOD  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/TRUE.BLOOD.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  TRUE BLOOD  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239130
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  LIKE ME  7/24" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/LIKE.ME.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  LIKE ME  7/24
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239131
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ZOO 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/ZOO.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  ZOO 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239132
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  VIKINGS 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/VIKINGS.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  VIKINGS 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239133
+#EXTINF:-1 tvg-id="" tvg-name="DE : BlueTV  SQUID GAME ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/SQUID.GAME.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE : BlueTV  SQUID GAME ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239134
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DARK 24/7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SERIES/DARK.png" group-title="DE ✦ 24/7 SERIEN STORE ",DE: BlueTV  DARK 24/7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239135
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ NETFLIX STORE ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ 24/7 NETFLIX STORE",✦ ✦ NETFLIX STORE ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239597
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Krımı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KRIMI.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Krımı ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239559
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Action ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ACTION.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Action ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239551
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Drama ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/DRAMA.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Drama ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239554
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Horror ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/HORROR.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Horror ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239557
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Thriller ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/THRILLER.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Thriller ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239562
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Familie ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/FAMILIE.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Familie ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239555
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Fantasy ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/FANTASY.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Fantasy ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239556
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Komodie ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KOMODIE.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Komodie ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239558
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Animation ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ANIMATION.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Animation ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239552
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Abenteuer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ABENTEUER.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Abenteuer ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239550
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Romantısch ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ROMANTISCH.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Romantısch ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239560
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Scıence-Fıctıon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/SCI.FI.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Scıence-Fıctıon ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239561
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX Dokumentarfilm ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/DOKU.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX Dokumentarfilm ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239553
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.1.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX 1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239563
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.2.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX 2 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239564
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.3.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX 3 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239565
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.4.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX 4 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239566
+#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.5.png" group-title="DE ✦ 24/7 NETFLIX STORE",DE: NETFLIX 5 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239567
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ GERMANY SPORT ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ SKY BUNDESLIGA",✦ ✦ GERMANY SPORT ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5387
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA UHD" tvg-logo="" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA UHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357194
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/1.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5390
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/1.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA  HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5391
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357153
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357154
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/2.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5392
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/2.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 2 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5393
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/3.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 3 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5394
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/3.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 3 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5395
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/4.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 4 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5396
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/4.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 4 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5397
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/5.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5398
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/5.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5399
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/6.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5400
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA6 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/6.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA6 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5401
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/7.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 7 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5402
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/7.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 7 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5403
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY BUNDESLIGA 8 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/8.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 8 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5404
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY BUNDESLIGA 8 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/8.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 8 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5405
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/9.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 9 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5406
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/9.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 9 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5407
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY BUNDESLIGA 10 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/HD/10.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 10 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5408
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY BUNDESLIGA 10 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.BUNDESLIGA/FHD/10.png" group-title="DE ✦ SKY BUNDESLIGA",DE: SKY BUNDESLIGA 10 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5409
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ SPORT ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ SPORT",✦ ✦ SPORT ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264389
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/EURO.SPORT.1.png" group-title="DE ✦ SPORT",DE: EUROSPORT1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5466
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/EURO.SPORT.1.png" group-title="DE ✦ SPORT",DE: EUROSPORT 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5467
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/EURO.SPORT.2.png" group-title="DE ✦ SPORT",DE: EUROSPORT 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5468
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/EURO.SPORT.2.png" group-title="DE ✦ SPORT",DE: EUROSPORT 2 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5469
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: MOTORVISION TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/MOTORVISION.png" group-title="DE ✦ SPORT",DE: MOTORVISION TV
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5473
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORT 1 + FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SPORT1.png" group-title="DE ✦ SPORT",DE: SPORT 1 + FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/5475
+#EXTINF:-1 tvg-id="" tvg-name="DE: eSPORTS1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/ESPORTS.png" group-title="DE ✦ SPORT",DE: eSPORTS1
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48006
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL FUSSBALL FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/SPOR.DIGITAL.png" group-title="DE ✦ SPORT",DE: SPORTDIGITAL FUSSBALL FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/48007
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ TELEKOM SPORT ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ MAGENTA SPORT",✦ ✦ TELEKOM SPORT ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264390
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/1.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264962
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/2.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 2 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264963
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 3 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/3.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 3 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264964
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 4 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/4.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 4 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264965
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 5 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/5.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 5 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264966
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 6 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/6.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 6 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264967
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 7 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/7.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 7 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264968
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 8 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/8.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 8 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264969
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 9 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/9.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 9 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264954
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 10 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/10.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 10 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264955
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 11 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/11.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 11 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264956
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 12 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/12.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 12 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264957
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 13 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/13.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 13 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264958
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 14 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/14.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 14 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264959
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 15 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/15.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 15 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264960
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM SPORT 16 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/TELEKOM/FHD/16.png" group-title="DE ✦ MAGENTA SPORT",DE: TELEKOM SPORT 16 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264961
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/HD/SPORT1.png" group-title="DE ✦ SPORT",DE: SPORT 1 FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/354167
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 HD" tvg-logo="" group-title="DE ✦ SPORT",DE: SPORT 1 HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357156
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ RTL + SPORT ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ RTL SPORT",✦ ✦ RTL + SPORT ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264260
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ KONFERENZ" tvg-logo="" group-title="DE ✦ RTL SPORT",DE: RTL+ KONFERENZ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/358554
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/1.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 1
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264939
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/2.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 2
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264940
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/3.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 3
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264941
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 4" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/4.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 4
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264942
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 5" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/5.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 5
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264943
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 6" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/RTL.PLUS/FHD/6.png" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 6
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/264944
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 7" tvg-logo="" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 7
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357945
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 8" tvg-logo="" group-title="DE ✦ RTL SPORT",DE: RTL+ SPORT EVENT 8
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/358553
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ GERMANY KINDER ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ KINDER",✦ ✦ GERMANY KINDER ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4710
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE: BOOMERANG HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/BOOMERANG.png" group-title="DE ✦ KINDER",DE: BOOMERANG HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4711
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: COMEDY CENTRAL HD / NICK" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/COMEDY.CENTRAL.png" group-title="DE ✦ KINDER",DE: COMEDY CENTRAL HD / NICK
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4862
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: CARTOON NETWORK HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/CATRON.png" group-title="DE ✦ KINDER",DE: CARTOON NETWORK HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4712
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/DISNEP.png" group-title="DE ✦ KINDER",DE: DISNEY CHANNEL  HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4713
+#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="DE: NICKTOONS" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/NICK.TOONS.png" group-title="DE ✦ KINDER",DE: NICKTOONS
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4729
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="DE: NICK JR. HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/NICK.JR.png" group-title="DE ✦ KINDER",DE: NICK JR. HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4730
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/KIKA.png" group-title="DE ✦ KINDER",DE: KIKA HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4731
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/MTV.NICK.png" group-title="DE ✦ KINDER",DE: NICK
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4732
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: SUPER RTL FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/RTL.png" group-title="DE ✦ KINDER",DE: SUPER RTL FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4734
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE: TOGGO plus" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/TOGGO.png" group-title="DE ✦ KINDER",DE: TOGGO plus
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4735
+#EXTINF:-1 tvg-id="" tvg-name="DE: PJ MASKS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/PJMAKS.png" group-title="DE ✦ KINDER",DE: PJ MASKS HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15464
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ KINDER STORE ✦ ✦ " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ 24/7 KINDER STORE",✦ ✦ KINDER STORE ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239690
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BAKI ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/BAKI.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  BAKI ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4718
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  AVATAR  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/AVATAR.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  AVATAR  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15406
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CASPER ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/CASPER.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  CASPER ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15398
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DORORO ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/DORORO.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  DORORO ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15403
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE MASKE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/DIE.MASKE.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  DIE MASKE ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15401
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  ROBIN HOOD ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/ROBIN.HOOD.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  ROBIN HOOD ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15408
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  SCOOBY DOO ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/SCOBY.DOO.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  SCOOBY DOO ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15404
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DIE  RACCONS ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/DIE.ROCCONS.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  DIE  RACCONS ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15405
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  YOGIBAR  SHOW ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/YOGIBAR.SHOW.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  YOGIBAR  SHOW ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15402
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  TOM and JERRY  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/TOM.AND.JERY.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  TOM and JERRY  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15413
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DEDEKTIVE CONAN ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/DEDEKTIVE.CONAN.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  DEDEKTIVE CONAN ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15400
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/CAPITAIN.TSUBASA.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15397
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  NEW SPIDER MAN  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/NEW.SPIDER.MAN.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  NEW SPIDER MAN  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15409
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  DRAGON BALL Z Kai ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/DRAGON.BALL.Z.KAI.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  DRAGON BALL Z Kai ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15399
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BABY LOONEY TUNES  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/BABY.LOONEY.TUNES.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  BABY LOONEY TUNES  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4717
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  BATMAN of THE FUTURE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/BATMAN.OF.THE.FUTURE.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  BATMAN of THE FUTURE ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4720
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV Sponge Bob  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/ROBOCOP.ALPHA.COMMANDO.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV Sponge Bob  ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/15411
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/1.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  1 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239638
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/2.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER 2 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239639
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/3.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  3 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239640
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/4.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER 4 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239641
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/5.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  5 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239642
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  6 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/6.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  6 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239643
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  7 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/7.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  7 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239644
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  8 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/8.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  8 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239645
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER  9 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/9.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER  9 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239646
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV  KINDER 10 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER.STORE/10.png" group-title="DE ✦ 24/7 KINDER STORE",DE: BlueTV  KINDER 10 ʜᴅ
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/239647
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK FHD" tvg-logo="" group-title="DE ✦ KINDER",DE: NICK FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357192
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ GERMANY MUSIK ✦ ✦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/BAYRAK.png" group-title="DE ✦ MUSIK",✦ ✦ GERMANY MUSIK ✦ ✦
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4860
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE: STINGRAY  CLASSICA HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/MUSIC/CLASSIC.png" group-title="DE ✦ MUSIK",DE: STINGRAY  CLASSICA HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4695
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE:  MTV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/MUSIC/MTV.png" group-title="DE ✦ MUSIK",DE:  MTV HD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4863
+#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE MUSIC FHD" tvg-logo="" group-title="DE ✦ MUSIK",DE: DELUXE MUSIC FHD
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357164
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DE: DELUXE MUSIC " tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/MUSIC/DELUXE.png" group-title="DE ✦ MUSIK",DE: DELUXE MUSIC
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4866
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE: JUKEBOX" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/MUSIC/JUKEBOX.png" group-title="DE ✦ MUSIK",DE: JUKEBOX
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4868
+#EXTINF:-1 tvg-id="" tvg-name="DE: ROCK ANTENNE" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/MUSIC/ROCK.png" group-title="DE ✦ MUSIK",DE: ROCK ANTENNE
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4873
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOLKSMUSIK" tvg-logo="" group-title="DE ✦ MUSIK",DE: VOLKSMUSIK
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357163
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOLX MUSIC TELEVISION" tvg-logo="" group-title="DE ✦ MUSIK",DE: FOLX MUSIC TELEVISION
+http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/357165
