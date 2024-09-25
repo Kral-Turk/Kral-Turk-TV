@@ -88,9 +88,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/94743?play_token=
+http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103451.ts
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/727424?play_token=
+http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103451.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
 http://vipav.de:8080/ahmetfr/9856565655/1906
 
