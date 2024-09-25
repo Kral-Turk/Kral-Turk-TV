@@ -8,9 +8,9 @@ http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/4285
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14795
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664785?play_token=
+http://vipav.de:8080/ahmetfr/9856565655/6938
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/727460?play_token=
+http://vipav.de:8080/ahmetfr/9856565655/11498
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/132337
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
@@ -250,6 +250,20 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115141
 #EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="" group-title="TR: ULUSAL",TR: ULUSAL KANAL HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115148
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
+http://vipav.de:8080/ahmetfr/9856565655/23998
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
+http://vipav.de:8080/ahmetfr/9856565655/23999
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
+http://vipav.de:8080/ahmetfr/9856565655/24000
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 4" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 4
+http://vipav.de:8080/ahmetfr/9856565655/24001
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 5" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 5
+http://vipav.de:8080/ahmetfr/9856565655/24002
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 6" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 6
+http://vipav.de:8080/ahmetfr/9856565655/25331
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
