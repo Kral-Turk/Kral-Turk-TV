@@ -95,11 +95,11 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/727424?play_token=
 http://vipav.de:8080/ahmetfr/9856565655/1906
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
-http://tv.challenge.tn:2052/49459551/72609676/14153
+http://vipav.de:8080/live/ahmetfr/9856565655/17056.ts
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/97584
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
-https://yayin2.canlitv.fun/livetv/trt1.stream/playlist.m3u8
+http://tv.challenge.tn:2052/49459551/72609676/14153
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46517
 
@@ -108,7 +108,7 @@ http://vipav.de:8080/live/ahmetfr/9856565655/17057.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
-https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+http://88.99.102.207:8080/live/Localiptv/MZfSxcYcFrbg/355550.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 https://dogus-live.daioncdn.net:443/startv/startv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
