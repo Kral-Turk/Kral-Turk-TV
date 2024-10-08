@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: TELEGRAM DEATHLESS IPTV" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="BLACK IPTV",TR: TELEGRAM DEATHLESS IPTV
-http://jenerik2.cdn.zerocdn.com/DeaTHLess-Jenerik.mp4
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="BLACK IPTV",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="BLACK IPTV",atv
