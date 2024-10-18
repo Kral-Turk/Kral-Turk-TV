@@ -101,14 +101,14 @@ http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/97584
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
 http://tv.challenge.tn:2052/49459551/72609676/14153
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
-http://162.212.179.32/gin-dvrfl05/gin-trt1eu/playlist.m3u8
+http://160.19.94.16:8080/mymumbai_3/SXgD6BKgc9/1200
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 http://88.99.102.207:8080/live/Localiptv/MZfSxcYcFrbg/355550.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
-http://162.212.179.32/gin-trn09/gin-atvv/playlist.m3u8
+http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50917.ts
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 https://dogus-live.daioncdn.net:443/startv/startv.m3u8
