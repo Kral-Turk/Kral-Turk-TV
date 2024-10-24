@@ -88,18 +88,18 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103451.ts
+http://6hm3lnpl.megogo.xyz/iptv/FQ4K886T72FV9Q/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
-http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103451.ts
+http://6hm3lnpl.megogo.xyz/iptv/FQ4K886T72FV9Q/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
-http://ultrahd.live:2086/live/Marcolio1000/R7jCsyLRpp/103451.ts
+http://6hm3lnpl.megogo.xyz/iptv/FQ4K886T72FV9Q/4001/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46517
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
 http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/97584
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
-http://tv.challenge.tn:2052/49459551/72609676/14153
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
 http://160.19.94.16:8080/mymumbai_3/SXgD6BKgc9/1200
 
