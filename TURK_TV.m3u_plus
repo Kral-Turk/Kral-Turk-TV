@@ -320,6 +320,33 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 #EXTINF:-1 tvg-id="" tvg-name="TR: MOONBUG KIDS TV HD" tvg-logo="" group-title="TR: COCUK",TR: MOONBUG KIDS TV HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115175
 
+#EXTM3U
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="|TR| Trt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" group-title="TR/ Haber Kanalları",|TR| Trt Haber
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6208
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="|TR| A Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" group-title="TR/ Haber Kanalları",|TR| A Haber HD
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20768
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| Tgrt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" group-title="TR/ Haber Kanalları",|TR| Tgrt Haber
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6209
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Cnn Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR/ Haber Kanalları",|TR| Cnn Türk HD
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6210
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="|TR| Haber Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" group-title="TR/ Haber Kanalları",|TR| Haber Türk
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6212
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sözcü SZC Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR/ Haber Kanalları",|TR| Sözcü SZC Tv
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/196229
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="|TR| Haber Global HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" group-title="TR/ Haber Kanalları",|TR| Haber Global HD
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6219
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="|TR| Ntv Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR/ Haber Kanalları",|TR| Ntv Haber HD
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101114
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| 24 TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24_tv.png" group-title="TR/ Haber Kanalları",|TR| 24 TV
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20748
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="|TR| Halk TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" group-title="TR/ Haber Kanalları",|TR| Halk TV
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20758
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Krt TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" group-title="TR/ Haber Kanalları",|TR| Krt TV
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101118
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="|TR| Tele 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" group-title="TR/ Haber Kanalları",|TR| Tele 1
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101115
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Az Tv Haber [Azerbaycan]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/aztv.png" group-title="TR/ Haber Kanalları",|TR| Az Tv Haber [Azerbaycan]
+http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/197037
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR | 24 Kitchenⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a05f44a3b3c8fb5d458ddc936da9d31d.png" group-title="|TR| BELGESEL",TR | 24 Kitchenⓧ FHD
