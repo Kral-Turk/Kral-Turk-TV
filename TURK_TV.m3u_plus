@@ -88,7 +88,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://6hm3lnpl.megogo.xyz/iptv/FQ4K886T72FV9Q/4001/index.m3u8
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62648
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://6hm3lnpl.megogo.xyz/iptv/FQ4K886T72FV9Q/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
@@ -158,9 +158,9 @@ http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/51144.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50916.ts
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
-http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46538
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/93770
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
-http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46539
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/93715
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/51005.ts
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
@@ -168,7 +168,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
 http://tv.pure-onetv.com:25443/live/HAJG6/k7bKPqg05y/149682.ts
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
-http://160.19.94.16:8080/Vip_serNeu/XNkMKxLck2Aw/22693
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/391
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
@@ -178,11 +178,11 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV UHD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
-http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/97592
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49333
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
-http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46536
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/619
 #EXTINF:-1 TRT 2 group-title="ULUSAL-UHD" ,TRT 2
-http://88.99.102.207:8080/Localiptv/MZfSxcYcFrbg/46520
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49322
 #EXTINF:-1 TRT TÜRK group-title="ULUSAL-UHD" ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
