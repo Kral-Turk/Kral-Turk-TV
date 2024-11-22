@@ -396,9 +396,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLF...936/index.m3u8
 #EXTINF:-1,A News FHD TR
 http://rhsbjv7k.tvclub.xyz/iptv/8PLF...937/index.m3u8
 #EXTINF:-1,beIN Sports Haber FHD TR
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...939/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6939/index.m3u8
 #EXTINF:-1,МАТЧ! Игра HD 50 orig
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...032/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/9032/index.m3u8
 #EXTINF:-1,Kanal V TR
 http://rhsbjv7k.tvclub.xyz/iptv/8PLF...252/index.m3u8
 #EXTINF:-1,Kocaeli TV TR
@@ -410,11 +410,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLF...255/index.m3u8
 #EXTINF:-1,Rumeli TV TR
 http://rhsbjv7k.tvclub.xyz/iptv/8PLF...256/index.m3u8
 #EXTINF:-1,Kanal Cay TR
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...257/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/15257/index.m3u8
 #EXTINF:-1,T.A.Y TV TR
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...258/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/15258/index.m3u8
 #EXTINF:-1,beIN IZ TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...078/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/19078/index.m3u8
 
 #EXTINF:-1, Teber 1
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w852853259.m3u8
@@ -462,11 +462,11 @@ https://5e06e5e8c2e27.streamlock.net...226454185.m3u8
 https://5e06e5e8c2e27.streamlock.net...101860091.m3u8
 
 #EXTINF:-1,A2_TR
-http://65.21.85.175:8000/play/a00f/i...8?token=livetv
+http://65.21.85.175:8000/play/a00f/Index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports 1 HD
-http://65.21.85.175:8000/play/a034/i...8?token=livetv
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports 2 HD
-http://65.21.85.175:8000/play/a035/i...8?token=livetv
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports 3 HD
 http://65.21.85.175:8000/play/a036/i...8?token=livetv
 #EXTINF:-1,Bein Sports 4 HD
