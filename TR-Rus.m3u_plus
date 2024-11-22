@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TRT 4K
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...001/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/4001/index.m3u8
 #EXTINF:-1,A SPORT
-http://rhsbjv7k.tvclub.xyz/iptv/8PLF...256/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/2256/index.m3u8
 #EXTINF:-1,Kanal 7 HD
 http://rhsbjv7k.tvclub.xyz/iptv/8PLF...257/index.m3u8
 #EXTINF:-1,A HABER
@@ -417,17 +417,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLF...258/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/8PLF...078/index.m3u8
 
 #EXTINF:-1, Teber 1
-https://5e06e5e8c2e27.streamlock.net...852853259.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w852853259.m3u8
 #EXTINF:-1,Teber 2
-https://5e06e5e8c2e27.streamlock.net...260489674.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w260489674.m3u8
 #EXTINF:-1,Teber 3
-https://5e06e5e8c2e27.streamlock.net...414346371.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w1414346371.m3u8
 #EXTINF:-1,Teber 4
-https://5e06e5e8c2e27.streamlock.net...903473642.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w1903473642.m3u8
 #EXTINF:-1,Teber 5
-https://5e06e5e8c2e27.streamlock.net...742905278.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber_wild_tv/chunklist_w1742905278.m3u8
 #EXTINF:-1,Teber 6
-https://5e06e5e8c2e27.streamlock.net...759844458.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunklist_w1759844458.m3u8
 #EXTINF:-1,Teber 7
 https://5e06e5e8c2e27.streamlock.net...445434492.m3u8
 #EXTINF:-1,Teber 8
