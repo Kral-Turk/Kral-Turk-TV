@@ -12,7 +12,7 @@ http://kls35.xyz:8080/live/hurcamkynk/ZgFAHUck7y/35650.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/534
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
-http://rhsbjv7k.tvclub.xyz/iptv/VEXVELA6Z7PXH6/6817/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6781/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 
@@ -90,9 +90,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62648
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
-http://rhsbjv7k.tvclub.xyz/iptv/VEXVELA6Z7PXH6/4001/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
-http://rhsbjv7k.tvclub.xyz/iptv/VEXVELA6Z7PXH6/4001/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/4001/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 http://ipmediatv.com/live/black_man_skype/844zghuZT74/a25a423c-e478-4853-9557-50bc23c30e68.ts
@@ -136,7 +136,7 @@ http://ipmediatv.com/live/black_man_skype/844zghuZT74/1202e8fc-f8d3-4fa8-b99c-82
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "ULUSAL-UHD",FOX TV HD
-http://ipmediatv.com/live/black_man_skype/844zghuZT74/1202e8fc-f8d3-4fa8-b99c-820398b45e10.ts
+http://localiptv.site:85/live/IptvGold32/Wkqknfnsdaje948KDwkslJW/208.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
