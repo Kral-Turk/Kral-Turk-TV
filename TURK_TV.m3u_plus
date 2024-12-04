@@ -153,8 +153,10 @@ http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/51133.ts
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
 http://160.19.94.16:8080/Vip_serNeu/XNkMKxLck2Aw/22692
-#EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 UHD
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 FHD
+http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/50916.ts
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
