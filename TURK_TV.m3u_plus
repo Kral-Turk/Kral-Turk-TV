@@ -153,7 +153,7 @@ http://bossip.net:80/boranredbox/qsdqsdfgcvbcbcv/37061
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+http://ipmediatv.com/live/black_man_skype/844zghuZT74/e8223d1f-19de-46bb-ac5c-2edc36393f49.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
