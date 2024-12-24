@@ -92,7 +92,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/690
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
-http://hw1.jemtv.com:80/app/ASporHD/playlist.m3u8
+https://c.fulltvizle.com/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/692
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
@@ -145,7 +145,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 http://ipmediatv.com/live/black_man_skype/844zghuZT74/3d91f02e-d144-4ec5-a52d-41d798d7dedd.ts
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
-https://yayin2.canlitv.fun/livetv/showtv.stream/playlist.m3u8
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
 http://ipmediatv.com/live/black_man_skype/844zghuZT74/1202e8fc-f8d3-4fa8-b99c-820398b45e10.ts
@@ -172,7 +172,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
 http://160.19.94.16:8080/Vip_serNeu/XNkMKxLck2Aw/22692
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 UHD
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 FHD
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
@@ -341,32 +341,6 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115175
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="|TR| Trt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" group-title="TR/ Haber Kanalları",|TR| Trt Haber
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6208
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="|TR| A Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" group-title="TR/ Haber Kanalları",|TR| A Haber HD
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20768
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| Tgrt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" group-title="TR/ Haber Kanalları",|TR| Tgrt Haber
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6209
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Cnn Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR/ Haber Kanalları",|TR| Cnn Türk HD
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6210
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="|TR| Haber Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" group-title="TR/ Haber Kanalları",|TR| Haber Türk
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6212
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sözcü SZC Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR/ Haber Kanalları",|TR| Sözcü SZC Tv
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/196229
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="|TR| Haber Global HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" group-title="TR/ Haber Kanalları",|TR| Haber Global HD
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/6219
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="|TR| Ntv Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR/ Haber Kanalları",|TR| Ntv Haber HD
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101114
-#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| 24 TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24_tv.png" group-title="TR/ Haber Kanalları",|TR| 24 TV
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20748
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="|TR| Halk TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" group-title="TR/ Haber Kanalları",|TR| Halk TV
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/20758
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Krt TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" group-title="TR/ Haber Kanalları",|TR| Krt TV
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101118
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="|TR| Tele 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" group-title="TR/ Haber Kanalları",|TR| Tele 1
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/101115
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Az Tv Haber [Azerbaycan]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/aztv.png" group-title="TR/ Haber Kanalları",|TR| Az Tv Haber [Azerbaycan]
-http://kls35.xyz:8080/hurcamkynk/ZgFAHUck7y/197037
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR | 24 Kitchenⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a05f44a3b3c8fb5d458ddc936da9d31d.png" group-title="|TR| BELGESEL",TR | 24 Kitchenⓧ FHD
