@@ -8,9 +8,9 @@ http://megaott.live:8080/live/v4CyFwejuEmf/sJEjH4e8Qkdm/120266.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/535
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
-http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/534
+http://line.fastviewtv.com/HiFll2XSogYRvaj/KOBb78oDBd/664785?play_token=
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
-http://pro.ipcover.lol:8080/live/bvDrBfy7zgXy/qKUxwmgVyR9n/258581.ts
+http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/534
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
 http://megaott.live:8080/live/v4CyFwejuEmf/sJEjH4e8Qkdm/120271.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
@@ -149,9 +149,9 @@ https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/49326
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
-http://pro.ipcover.lol:8080/bvDrBfy7zgXy/qKUxwmgVyR9n/420562
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
 https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
+http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "ULUSAL-UHD",FOX TV HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/22681
 
