@@ -236,6 +236,12 @@ https://g0.trgoalshls26.cfd/yayininat.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1046.xyz/
 https://r0.trgoalshls47.cfd//yayin1.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeINSport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT 1 HD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
