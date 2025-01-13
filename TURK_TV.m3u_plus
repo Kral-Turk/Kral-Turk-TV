@@ -16,7 +16,7 @@ http://megaott.live:8080/live/v4CyFwejuEmf/sJEjH4e8Qkdm/120271.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
 http://megaott.live:8080/live/v4CyFwejuEmf/sJEjH4e8Qkdm/120272.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv1
-https://jyayintv33.site/cdn/bein_sports_1_hd/main.m3u8
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/601/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -216,10 +216,15 @@ http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeINSport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
-https://jyayintv33.site/cdn/bein_sports_1_hd/main.m3u8
+https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/601/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
-https://jyayintv77.site/cdn/bein_sports_1_hd/main.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1106.xyz/
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeINSport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -240,6 +245,8 @@ https://g0.trgoalshls26.cfd/yayininat.m3u8
 https://r0.trgoalshls47.cfd//yayinzirve.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeINSport_1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
 https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
 
