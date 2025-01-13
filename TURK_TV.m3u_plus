@@ -216,8 +216,7 @@ http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web Goley90
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://goley90.xyz/
-https://goley90.site/cdn/bein_sports_1_hd/main.m3u8
+https://cinque.e357bfa0dfdc59c5.click/p/2SacdcgEiAieg5b1yBn39iBnda4c/601/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeINSport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
