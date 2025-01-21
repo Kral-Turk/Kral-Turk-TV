@@ -320,22 +320,19 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115148
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1461316.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1+
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1+
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444401.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:TABII SPOR 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444402.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444403.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 4" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 4
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 4" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 4
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444404.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 5" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 5
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 5" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 5
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444405.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 6" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 6
+#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 6" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 6
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444406.m3u8?play_token=
 
 #EXTM3U
