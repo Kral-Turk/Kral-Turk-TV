@@ -324,8 +324,9 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1461316.m3u8?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1+
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444401.m3u8?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
-https://livecdn.online/live/player.php?id=tabii1
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:TABII SPOR 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444402.m3u8?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
