@@ -37,9 +37,9 @@ https://jyayintv33.site/cdn/bein_sports_4_hd/main.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports UHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports UHD 5
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/684447?play_token=
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports FHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports FHD 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
@@ -213,7 +213,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web Goley90
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Selçuk-Sports1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://cinque.39c3cda8c43e9d2c.click/i/selcuksportshd1616.xyz/601/playlist.m3u8
@@ -271,7 +271,7 @@ https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinb3.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="WEB SPOR KANALI", beIN Sports 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="WEB SPOR KANALI", beIN Sports 5
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinb5.m3u8
 
@@ -295,11 +295,11 @@ https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinss2.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayint1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp2.png" group-title="WEB SPOR KANALI", Tivibu Sports 2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibu2.png" group-title="WEB SPOR KANALI", Tivibu Sports 2
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayint2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp3.png" group-title="WEB SPOR KANALI", Tivibu Sports 3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibu3.png" group-title="WEB SPOR KANALI", Tivibu Sports 3
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayint3.m3u8
 
@@ -327,7 +327,7 @@ https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayintrtspor2.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t5aAVx.png" group-title="WEB SPOR KANALI", ATV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="WEB SPOR KANALI", ATV
 #EXTVLCOPT:http-referrer=https://trgoals1139.xyz
 https://s0.b4c8d3e9f1a2b7c5d35.cfd//yayinatv.m3u8
 
