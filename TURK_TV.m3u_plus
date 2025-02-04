@@ -493,9 +493,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: DISNEY JUNIOR" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/732
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA COCUK" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="TR: COCUK",TR: MINIKA COCUK
-http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA GO" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="TR: COCUK",TR: MINIKA GO
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BABYFİRST TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABYFİRST TV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/729
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TRT COCUK HD" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="TR: COCUK",TR: TRT COCUK HD
@@ -510,6 +510,16 @@ http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="TR: COCUK",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TR | Sünger Bobⓧ FHD" tvg-id=" "tvg-logo="http://platinumxmedia.xyz:8080/images/b37a7e9fb6eb84af57912e4dc55e088e.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR: Sünger BOB
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432520
+#EXTINF:-1 tvg-name="TR - METROPOL MASA ILE KOCA AYI"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/metropol.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR MASA ILE KOCA AYI
+http://bd33.xyz:80/BAP6MJG/TQRZ058/284685
+#EXTINF:-1 tvg-name="TR - NICKTOONS"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/NICKTOONS.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR - NICKTOONS
+http://bd33.xyz:80/BAP6MJG/TQRZ058/1099458
+#EXTINF:-1 tvg-name="TR - METROPOL TOM VE JERRY"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/metropol.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR TOM VE JERRY
+http://bd33.xyz:80/BAP6MJG/TQRZ058/284677
+#EXTINF:-1 tvg-name="TR - METROPOL BOOBA"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/metropol.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR - METROPOL BOOBA
+http://bd33.xyz:80/BAP6MJG/TQRZ058/284688
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
