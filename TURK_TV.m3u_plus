@@ -27,17 +27,17 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/539
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/539.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/537
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/537.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/540
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/540.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
@@ -47,12 +47,12 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/684447?play_token=
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/541
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/541.ts
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/542
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/542.ts
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
@@ -128,7 +128,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://50.7.144.122:1935/livetv/trt1.stream/sec-f5-v1-a1.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/120545
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120545.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
@@ -137,14 +137,14 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 https://dogus-live.daioncdn.net:443/startv/startv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/120546
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120546.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6650
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/120548
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120548.ts
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
@@ -153,7 +153,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/49326
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49326.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
 http://ip1.orgip.net/5501/video.m3u8?token=Md7ac19a92
@@ -163,7 +163,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/49328
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49328.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
@@ -173,7 +173,7 @@ http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6640
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
-http://xplatinmedia.com:8080/@bd12k/x4FiN5zAUmGm5yEO2VUMGYin29NjRj_06_01_2024/386
+http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/386.ts
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
