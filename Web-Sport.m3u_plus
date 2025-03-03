@@ -2,10 +2,16 @@
 
 #EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-id="beIN SPORTS Haber.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS inat
 #EXTVLCOPT:http-referrer=https://trgoals1115.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayininat.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS zirve
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayinzirve.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd
+
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://trgoals1115.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
