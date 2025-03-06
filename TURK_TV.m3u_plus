@@ -119,13 +119,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/4001/index.m3u8
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/62648
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
+http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
 http://xplatinmedia.com:8080/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120543
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
+http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
-http://50.7.144.122:1935/livetv/trt1.stream/sec-f5-v1-a1.m3u8
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120545.ts
@@ -139,7 +139,7 @@ https://dogus-live.daioncdn.net:443/startv/startv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
 http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/120546.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
-http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6650
+http://116.202.238.88/STARTV_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
@@ -156,11 +156,11 @@ https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49326.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
-http://ip1.orgip.net/5501/video.m3u8?token=Md7ac19a92
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2084.ts
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "ULUSAL-UHD",FOX TV HD
-https://c.fulltvizle.com/fox/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
 http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/49328.ts
@@ -182,7 +182,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 UHD
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="ULUSAL-UHD",A2 FHD
-https://c.fulltvizle.com/a2/index.m3u8
+http://116.202.238.88/A2_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
