@@ -1,92 +1,166 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-id="beIN SPORTS Haber.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS inat
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+#EXTINF:-1 tvg-logo="https://www.selcuksportshd1616.xyz/img/logo.png" group-title="WEB SPOR KANALI" ,Selçuk-Sports1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayininat.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd
+#EXTVLCOPT:http-referrer=https://selcuksportshd1674.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8
+https://due.71dd4086def54aefb4.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS zirve
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayinzirve.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web Justinport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://giovtv.space/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
+http://188.95.65.168:25461/live/deneme10/aas345325235235/2476.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI", Web TRGOALS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://bidahat.raventv10.live/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web YAYIN INAT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://cdn2.lextertv.com/stream/431081.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayininat.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web XYZSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://s0.b4c8d3e9f1a2b7c5d68.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://xyzsports237.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/bein-sports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web VARSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/701/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 6
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://bidaye.raventv11.live/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 7
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51330.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/35762
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/351541
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/98925
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/126272
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/190072
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/35650
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/191152
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/456568
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/456567
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/372624
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/372625
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/372626
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/372627
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/702/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-id="beIN SPORTS 3.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/703/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN SPORTS 4.tr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/704/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="beIN SPORTS 5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://cdn2.lexter.online/stream/432216.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-id="beIN SPORTS Max.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/716/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max 2" tvg-id="beIN SPORTS Max 2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://serveranon1.online:8443/717/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
+https://cb583a31958949c41371b5433be26.a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f.quest/601/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI", beIN Sports 1++
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="WEB SPOR KANALI", beIN Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="WEB SPOR KANALI", beIN Sports 3
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="WEB SPOR KANALI", beIN Sports 4
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="WEB SPOR KANALI", beIN Sports 5
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2X3QhNt" group-title="WEB SPOR KANALI", beIN SPORTS MAX 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3175vmj" group-title="WEB SPOR KANALI", beIN SPORTS MAX 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="WEB SPOR KANALI", Saran Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinss.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="WEB SPOR KANALI", Saran Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://u0.b4c8d3e9f1a2b7c5d90.cfd/yayinss2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="WEB SPOR KANALI", Tivibu Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd/yayint1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibu2.png" group-title="WEB SPOR KANALI", Tivibu Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd/yayint2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibu3.png" group-title="WEB SPOR KANALI", Tivibu Sports 3
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd/yayint3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="WEB SPOR KANALI", Tivibu Sports 4
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd/yayint4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="WEB SPOR KANALI", Smart SPORTS 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="WEB SPOR KANALI", Smart Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinsms2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="WEB SPOR KANALI", TRT Spor
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayintrtspor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="WEB SPOR KANALI", TRT Spor 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayintrtspor2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="WEB SPOR KANALI", A Spor
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinas.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="WEB SPOR KANALI", ATV
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="WEB SPOR KANALI", TV8
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayintv8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="WEB SPOR KANALI", TV8.5
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayintv85.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="WEB SPOR KANALI", NBA TV
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinnbatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="WEB SPOR KANALI", TABII 2
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="WEB SPOR KANALI", TABII 3
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="WEB SPOR KANALI", TABII 4
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="WEB SPOR KANALI", TABII 5
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d56.cfd//yayinex5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="WEB SPOR KANALI", TABII 6
+#EXTVLCOPT:http-referrer=https://trgoals1171.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII 1
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII
+#EXTVLCOPT:http-referrer=https://trgoals1238.xyz/
+https://f0.b4c8d3e9f1a2b7c5d90.cfd//yayinex8.m3u8
