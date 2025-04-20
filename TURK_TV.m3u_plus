@@ -2,21 +2,21 @@
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
-http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/538.ts
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/538.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/534.ts
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/534.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93098.ts
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93098.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
+http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
-http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/535.ts
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/535.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115033
+http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115033.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv1
-http://driptvs.com:2095/King200conxx/355sgdhh/175355
+http://driptvs.com:2095/live/King200conxx/355sgdhh/175355.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
