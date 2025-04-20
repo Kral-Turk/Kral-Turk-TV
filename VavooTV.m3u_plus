@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR/ Duyurular" tvg-logo="https://derbisports.com/maxguncelbilgiler.png" group-title="TR/ RelaxTV DUYURULAR",TR/ Duyurular
-http://poykuz.xyz:8080/gr8827/grr11/183792
+http://poykuz.xyz:8080/live/gr8827/grr11/183792.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 (TTNET ÖZEL)
-http://poykuz.xyz:8080/gr8827/grr11/334642
+http://poykuz.xyz:8080/lice/gr8827/grr11/334642.m3u8
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 SD [480p]
-http://poykuz.xyz:8080/gr8827/grr11/35762
+http://poykuz.xyz:8080/live/gr8827/grr11/35762.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 720p
-http://poykuz.xyz:8080/gr8827/grr11/351541
+http://poykuz.xyz:8080/live/gr8827/grr11/351541.m3u8
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD [VIP]
-http://poykuz.xyz:8080/gr8827/grr11/98925
+http://poykuz.xyz:8080/kive/gr8827/grr11/98925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 FHD
-http://poykuz.xyz:8080/gr8827/grr11/126272
+http://poykuz.xyz:8080/live/gr8827/grr11/126272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 VIP H265
-http://poykuz.xyz:8080/gr8827/grr11/190072
+http://poykuz.xyz:8080/live/gr8827/grr11/190072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 4K [Feed]
-http://poykuz.xyz:8080/gr8827/grr11/35650
+http://poykuz.xyz:8080/live/gr8827/grr11/35650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 8K [Feed]
-http://poykuz.xyz:8080/gr8827/grr11/191152
+http://poykuz.xyz:8080/live/gr8827/grr11/191152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (Kutu Yayin)
-http://poykuz.xyz:8080/gr8827/grr11/456568
+http://poykuz.xyz:8080/live/gr8827/grr11/456568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BoX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (BoX)
-http://poykuz.xyz:8080/gr8827/grr11/456567
+http://poykuz.xyz:8080/live/gr8827/grr11/456567.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 SD
 http://poykuz.xyz:8080/gr8827/grr11/196216
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 HD
