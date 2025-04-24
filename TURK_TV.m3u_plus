@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/6939/index.m3u8
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/538.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
@@ -290,15 +290,14 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://selcuksportshd1674.xyz
 #EXTVLCOPT:http-referrer=https://selcuksportshd1674.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8
-https://due.bbb494bb1e7dd27e.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+https://alpha.cf-worker-f02bfa5816b31516.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web Justinport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://driptvs.com:2095/King200conxx/355sgdhh/175355
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
-http://iptv.maxlacress.com:7711/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140431.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport [HD] 
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
@@ -332,7 +331,7 @@ https://d0.4928d54d950ee70q4.click/yayininat.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://xyzsports238.xyz
 #EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
-https://due.bbb494bb1e7dd27e.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+https://alpha.cf-worker-f02bfa5816b31516.workers.dev/live/bein-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web VARSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
