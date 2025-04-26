@@ -24,10 +24,10 @@ https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://188.95.65.168:25461/live/arjantin/EByTyVc9emWq/2474.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
-http://xplatinmedia.com:8080/live/mess2-exch2/l4zxhZ9N5Z8tAUuyK0YLmUcB5e0Dnf/539.ts
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/539.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10038
@@ -35,7 +35,7 @@ http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10038
 http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/537.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2102.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
 http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/540.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
