@@ -42,10 +42,10 @@ http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/540.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2103.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports UHD 5
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/684447?play_token=
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/145163.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports FHD 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cdn2.lexter1.com/stream/432215.m3u8
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/145163.ts
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
 http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/541.ts
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
@@ -65,30 +65,30 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT HD +1
-https://serveranon1.online:8443/705/index.m3u8
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10015
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="SPOR KANALI",SMARTSPOR UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10017
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2110.ts
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10017
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="SPOR KANALI",SMARTSPOR HD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://redpnlapk.com:8080/c7B8fgeKJt98/ezeSyCtJSxFX/102301
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10258
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="SPOR KANALI",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2105.ts
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10013
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="SPOR KANALI",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2106.ts
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10011
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="SPOR KANALI", Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2107.ts
+http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10009
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="SPOR KANALI",Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2108.ts
+http://xplatinmedia.com:8080/live/@CLMediastreams/gJzemGLVNJLE4Mzsn4Jb/61635.ts
 
 #EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3885.png", Eurosport 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19181
@@ -102,7 +102,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/692
+http://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
