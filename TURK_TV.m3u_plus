@@ -24,7 +24,7 @@ https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
+http://porritos.giize.com:8080/live/Neon247TV/rkenTLndusHq/534.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
 http://xplatinmedia.com:8080/live/Captain_of_streams/kFIhKGcpm8LwGI54pT8FS1z4w48oEK/539.ts
@@ -311,13 +311,13 @@ https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports1/playli
 http://driptvs.com:2095/King200conxx/355sgdhh/175355
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
-http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
+http://porritos.giize.com:8080/live/Neon247TV/rkenTLndusHq/534.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport [HD] 
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
+http://porritos.giize.com:8080/live/Neon247TV/rkenTLndusHq/535.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
