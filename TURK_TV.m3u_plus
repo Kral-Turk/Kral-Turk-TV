@@ -233,17 +233,17 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="ULUSAL-UHD",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",CINE 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/cfkfvpw.png"tvg-id=""group-title="ULUSAL-UHD",CINE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",CINE 5
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ix9o2pn.jpeg"tvg-id=""group-title="ULUSAL-UHD",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",CINE 6
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/c2uwvk5.jpeg"tvg-id=""group-title="ULUSAL-UHD",CINE 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",TİVİTÜRK
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rkptvcq.png"tvg-id=""group-title="ULUSAL-UHD",TİVİTÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",SÜPERTÜRK TV
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6wxkv6.png"tvg-id=""group-title="ULUSAL-UHD",SÜPERTÜRK TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png"tvg-id=""group-title="ULUSAL-UHD",SÜPERTÜRK MAX
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qhhd4hp.png"tvg-id=""group-title="ULUSAL-UHD",SÜPERTÜRK MAX
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTM3U
