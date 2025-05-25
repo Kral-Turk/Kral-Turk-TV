@@ -306,7 +306,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://selcuksportshd1804.xyz
 #EXTVLCOPT:http-referrer=https://selcuksportshd1804.xyz/
-https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports1/playlist.m3u8
+https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web Justinport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -347,14 +347,14 @@ https://e0.4928d54d950ee70q5.lat/yayininat.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://xyzsports238.xyz
 #EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
-https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/bein-sports-1/playlist.m3u8
+https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/bein-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web VARSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://cdn.datapack.xyz
 #EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
-http://ru.team.ga:80/ch1424/mono.m3u8?token=muradnasirov.zi1qEOw4J5-uop5rXNTySZAe9X-qgeVobx2GpL_YLKYxQpKCr_mCGOHpb_AFU8V5
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI", beIN Sports 1++
 #EXTVLCOPT:http-origin=https://trgoals1333.xyz
