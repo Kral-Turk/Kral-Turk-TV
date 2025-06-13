@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TR/ Duyurular
+http://aybytv.xyz:8080/live/mstf2214/mstf00xy/183792.m3u8
 #EXTINF:-1,|TR| beIN Sports 1 (TTNET ÖZEL)
 http://aybytv.xyz:8080/live/mstf2214/mstf00xy/334642.m3u8
 #EXTINF:-1,|TR| beIN Sports 1 SD [480p]
