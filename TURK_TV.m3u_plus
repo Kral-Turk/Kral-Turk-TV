@@ -4,7 +4,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/6939/index.m3u8
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/538.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/534.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://rhsbjv7k.tvclub.xyz/iptv/LB4DLHKTCTRSH5/6781/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
@@ -27,17 +27,17 @@ https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 http://porritos.giize.com:8080/live/Neon247TV/rkenTLndusHq/534.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/539.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10038
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/537.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/540.ts
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://maxgo-ba24.uk:8880/live/ZedzHelvisart/eZnousatsupreme/2103.ts
