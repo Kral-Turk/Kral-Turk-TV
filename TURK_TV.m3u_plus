@@ -10,17 +10,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/LB4DLHKTCTRSH5/6781/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
-https://goldvod.org/tv/vavoo?id=135242105312913bfa342d
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/534.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115033.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/535.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv1
 http://driptvs.com:2095/live/King200conxx/355sgdhh/175355.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://goldvod.org/tv/vavoo?id=3428984703931537ad5cb4
+https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -128,12 +128,11 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://xplatinmedia.com:8080/live/@Kadoli01/kEIJ9rwcNS7vm6XgPFnaN1bz5Vwclz/62648.ts
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/62648.ts
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
-http://porritos.giize.com:8080/live/Neon247TV/rkenTLndusHq/62648.ts
-
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/62648.ts
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
@@ -203,9 +202,9 @@ http://116.202.238.88/A2_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
-http://xplatinmedia.com:8080/live/@Kadoli01/kEIJ9rwcNS7vm6XgPFnaN1bz5Vwclz/93770.ts
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/93770.ts
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
-http://xplatinmedia.com:8080/live/@Kadoli01/kEIJ9rwcNS7vm6XgPFnaN1bz5Vwclz/93715.ts
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/93715.ts
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://185.234.111.229:8000/play/a01w
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
@@ -225,7 +224,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
 http://origi-jw-5.ravenclaw-house.com:80/TR-BEYAZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
-http://xplatinmedia.com:8080/live/Captain_of_streams/kFIhKGcpm8LwGI54pT8FS1z4w48oEK/619.ts
+http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/619.ts
 #EXTINF:-1 TRT 2 group-title="ULUSAL-UHD" ,TRT 2
 http://origi-jw-5.ravenclaw-house.com:80/TR-TRT2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 TRT TÜRK group-title="ULUSAL-UHD" ,TRT TÜRK
@@ -574,7 +573,7 @@ http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444406.m3u8?play_token
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
-http://fg146.site:8080/live/hakantizmirtakas/1GMpaASDPXhqEY1fix1/80821.ts
+https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1+
 http://live.phenixiptv.com/live/live:.cid.651406f830eed3072/df3cHkaUue/9340.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
