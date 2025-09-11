@@ -59,7 +59,7 @@ http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10029
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://driptvs.com:2095/King200conxx/355sgdhh/420290
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT FHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -71,7 +71,7 @@ https://bs.arectv33.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="SPOR KANALI",S SPORT UHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://driptvs.com:2095/King200conxx/355sgdhh/77713
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="SPOR KANALI",S SPORT FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://goldvod.org/tv/strm?id=5102
@@ -102,7 +102,7 @@ http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10011
 http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10009
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="SPOR KANALI",Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://xplatinmedia.com:8080/live/Captain_of_streams/kFIhKGcpm8LwGI54pT8FS1z4w48oEK/61635.ts
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
 
 #EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3885.png", Eurosport 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19181
@@ -128,11 +128,11 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://rhsbjv7k.tvclub.xyz/iptv/LB4DLHKTCTRSH5/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
-http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
