@@ -128,11 +128,11 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/62648.ts
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
-http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/4001/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/LB4DLHKTCTRSH5/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://xplatinmedia.com:8080/images/be4dcb49a287b229c81ae6eb0ede9dea.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
-http://xplatinmedia.com:8080/live/geniptvservice/HaFwyNfHs6LFSMcxPJP/62648.ts
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
@@ -158,7 +158,7 @@ http://origi-jw-5.ravenclaw-house.com:80/TR-STAR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
-http://89.187.191.41/Kanal-D-HD-TR/tracks-v1a1/mono.ts.m3u8
+http://116.202.238.88/KANALD_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
