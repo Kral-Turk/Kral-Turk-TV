@@ -135,7 +135,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
-#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo=https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 http://rhsbjv7k.tvclub.xyz/iptv/LB4DLHKTCTRSH5/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
