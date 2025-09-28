@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/6bbzhft.jpg" group-title="Futbol",Telstar VS Go Ahead Eagles () KRAL-TURK SPOR
+https://cdn.aetherpulsehq1.xyz/v/281341008936046592/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
