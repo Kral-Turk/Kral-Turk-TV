@@ -326,6 +326,20 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 #EXTVLCOPT:http-referrer=https://selcuksportshd1840.xyz/
 https://one.6c53c716e5c951f6.click/live/selcukobs1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/mqo9m8b.jpeg" group-title="WEB SPOR KANALI" ,Web XYZSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://xyzsports238.xyz
+#EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
+https://one.6c53c716e5c951f6.click/live/bein-sports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="WEB SPOR KANALI" ,Web VARSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
+#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/sbeinsports-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="WEB SPOR KANALI" ,Web Justinport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cdn-8878.varplaycdn.cfd/601/index.m3u8
@@ -338,7 +352,7 @@ https://corestream.corestream.lat//hls/bein-sports-1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://bs.arectv33.sbs/static/bs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI", beIN Sports 1++
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://trgoals1427.xyz
@@ -359,21 +373,7 @@ https://four.04bf112a615942b4.sbs/yayin1.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1427.xyz/
 https://four.04bf112a615942b4.sbs/yayininat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/mqo9m8b.jpeg" group-title="WEB SPOR KANALI" ,Web XYZSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://xyzsports238.xyz
-#EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
-https://one.6c53c716e5c951f6.click/live/bein-sports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="WEB SPOR KANALI" ,Web VARSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
-#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
-https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/sbeinsports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI", beIN Sports 1++
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
 #EXTVLCOPT:http-origin=https://trgoals1427.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1427.xyz/
 https://four.04bf112a615942b4.sbs/yayinzirve.m3u8
