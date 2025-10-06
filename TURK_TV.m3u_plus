@@ -340,7 +340,7 @@ https://one.6c53c716e5c951f6.click/live/bein-sports-1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
 https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/sbeinsports-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="WEB SPOR KANALI" ,Web Justinport 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="WEB SPOR KANALI" ,Web JUSTINSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cdn-8878.varplaycdn.cfd/601/index.m3u8
 
@@ -373,7 +373,7 @@ https://four.04bf112a615942b4.sbs/yayin1.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1427.xyz/
 https://four.04bf112a615942b4.sbs/yayininat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI", Web YAYIN ZIRVE
 #EXTVLCOPT:http-origin=https://trgoals1427.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1427.xyz/
 https://four.04bf112a615942b4.sbs/yayinzirve.m3u8
