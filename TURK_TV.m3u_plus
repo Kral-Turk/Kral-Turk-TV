@@ -339,6 +339,8 @@ https://corestream.corestream.lat//hls/bein-sports-1.m3u8
 https://bs.arectv33.sbs/static/bs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI" ,Web YAYIN ZİRVE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://trgoals1427.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1427.xyz/
 https://four.04bf112a615942b4.sbs/yayinzirve.m3u8
