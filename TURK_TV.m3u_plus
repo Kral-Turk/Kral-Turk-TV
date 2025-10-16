@@ -346,7 +346,9 @@ https://cdn-8878.varplaycdn.cfd/601/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://corestream.corestream.lat//hls/bein-sports-1.m3u8
+#EXTVLCOPT:http-origin=https://bilyonersport1.com
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://api.bilyonersport.com/channel/n2c7b8bfb/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport [HD] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
