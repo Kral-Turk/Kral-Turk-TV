@@ -272,69 +272,125 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Annem Ankara
+#EXTINF:-1 group-title="Dizi Son Bölüm",Annem Ankara
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Arka Sokaklar
+#EXTINF:-1 group-title="Dizi Son Bölüm",Arka Sokaklar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Aşk Evlilik Boşanma
+#EXTINF:-1 group-title="Dizi Son Bölüm",Aşk Evlilik Boşanma
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Bahar
+#EXTINF:-1 group-title="Dizi Son Bölüm",Aşk Ve Gözyaşı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Aynadaki Yabancı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Bahar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Başka Bir Gün
+#EXTINF:-1 group-title="Dizi Son Bölüm",Başka Bir Gün
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Bir Gece Masalı
+#EXTINF:-1 group-title="Dizi Son Bölüm",Ben Leman
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Bir Gece Masalı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Bir Zamanlar Istanbul
+#EXTINF:-1 group-title="Dizi Son Bölüm",Bir Zamanlar Istanbul
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Can Borcu
+#EXTINF:-1 group-title="Dizi Son Bölüm",Can Borcu
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Deha
+#EXTINF:-1 group-title="Dizi Son Bölüm",Çarpıntı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Cennetin Çocukları
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Çift Kişilik Oda
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Çok Güzel Hareketler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Çok Güzel Hareketler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Deha
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Esref Rüya
+#EXTINF:-1 group-title="Dizi Son Bölüm",Esref Rüya
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Gizli Bahçe
+#EXTINF:-1 group-title="Dizi Son Bölüm",Gizli Bahçe
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Gönül Dağı
+#EXTINF:-1 group-title="Dizi Son Bölüm",Gönül Dağı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Holding
+#EXTINF:-1 group-title="Dizi Son Bölüm",Gözleri Karadeniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Güldür Güldür
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Güzel Aşklar Diyarı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Halef
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Holding
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Hudutsuz Sevda
+#EXTINF:-1 group-title="Dizi Son Bölüm",Hudutsuz Sevda
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Izak Şehir
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Kalpazan
+#EXTINF:-1 group-title="Dizi Son Bölüm",Inci Taneleri
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kalpazan
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Kardelenler
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kara Ağaç Destanı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Karadut
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kardelenler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Konuşanlar
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kirli Sepeti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kıskanmak
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kızıl Koncalar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kızılcık Şerbeti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Konuşanlar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Kral Kabederse
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kör Nokta
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kötü Kan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kral Kabederse
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Kuruluş Osman
+#EXTINF:-1 group-title="Dizi Son Bölüm",Kuruluş Osman
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Leyla
+#EXTINF:-1 group-title="Dizi Son Bölüm",Leyla
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Mehmed Fetihler Sultanı
+#EXTINF:-1 group-title="Dizi Son Bölüm",Mehmed Fetihler Sultanı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Piyasa
+#EXTINF:-1 group-title="Dizi Son Bölüm",Piyasa
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Sahipsizler
+#EXTINF:-1 group-title="Dizi Son Bölüm",Sahipsizler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Sandık Kokusu
+#EXTINF:-1 group-title="Dizi Son Bölüm",Sahtekarlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Şakir Paşa Ailesi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Sandık Kokusu
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Selahaddin Eyyubi
+#EXTINF:-1 group-title="Dizi Son Bölüm",Selahaddin Eyyubi
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Siyah Kalp
+#EXTINF:-1 group-title="Dizi Son Bölüm",Sen Ağlama Istanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Siyah Kalp
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Teşkilat
+#EXTINF:-1 group-title="Dizi Son Bölüm",Taş Kağıt Makas
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Taşacak Bu Deniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Teşkilat
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Yalan
+#EXTINF:-1 group-title="Dizi Son Bölüm",Uzak Şehir
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Veliaht
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Yabani
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
+#EXTINF:-1 group-title="Dizi Son Bölüm",Yalan
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Yalı Çapkını
+#EXTINF:-1 group-title="Dizi Son Bölüm",Yalı Çapkını
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:-1 group-title="TR Dizi Son Bölüm",Zembilli
+#EXTINF:-1 group-title="Dizi Son Bölüm",Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
 #EXTM3U
