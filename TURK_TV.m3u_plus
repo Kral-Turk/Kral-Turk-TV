@@ -710,9 +710,9 @@ http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?ce=3
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
-http://116.202.238.88/NTV_TR/tracks-v1a1/index.m3u8
+http://origi-jw-5.ravenclaw-house.com:80/TR-NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
 http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
