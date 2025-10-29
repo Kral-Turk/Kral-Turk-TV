@@ -121,9 +121,9 @@ http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/10165
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png" group-title="SPOR KANALI", HT SPOR UHD
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png" group-title="SPOR KANALI", HT SPOR FHD
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
