@@ -30,29 +30,29 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10038
+http://live.net-spor-e6a.workers.dev/?ID=2
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
 https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10036
+http://live.net-spor-e6a.workers.dev/?ID=3
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
 https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10034
+http://65.108.239.207/bs4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports UHD 5
 https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports FHD 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://goldvod.org/tv/strm?id=5066
+http://65.108.239.207/bs5/index.m3u8
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
 http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10031
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10031
+http://65.108.239.207/bm1/index.m3u8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
-http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10029
+http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10029
