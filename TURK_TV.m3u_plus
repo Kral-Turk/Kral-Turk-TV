@@ -1156,524 +1156,237 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="DE: SKY SELECT 1 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4850
-#EXTINF:-1 tvg-id="33" tvg-name="DE: SKY SELECT 2 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4844
-#EXTINF:-1 tvg-id="34" tvg-name="DE: SKY SELECT 3 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 3 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4845
-#EXTINF:-1 tvg-id="35" tvg-name="DE: SKY SELECT 4 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 4 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4848
-#EXTINF:-1 tvg-id="36" tvg-name="DE: SKY SELECT 5 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 5 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4846
-#EXTINF:-1 tvg-id="37" tvg-name="DE: SKY SELECT 6 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 6 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4849
-#EXTINF:-1 tvg-id="38" tvg-name="DE: SKY SELECT 7 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 7 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4843
-#EXTINF:-1 tvg-id="39" tvg-name="DE: SKY SELECT 8 HD+" tvg-logo="http://mdstream.net:8080/images/f7e7ad279d3cf306bddf19347f09198a.png" group-title="DE- KINOWELT",DE: SKY SELECT 8 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10264
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT ACTION 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT ACTION 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47227
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT ACTION 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT ACTION 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47228
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT KRIMI 1 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT KRIMI 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47229
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT SCIENCE FICTION 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT SCIENCE FICTION 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47231
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT SCIENCE FICTION 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT SCIENCE FICTION 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47232
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT THRILLER 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT THRILLER 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47233
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT THRILLER 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT THRILLER 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47234
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT DRAMA 1 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT DRAMA 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47235
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT DRAMA 2 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT DRAMA 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47236
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT KOMÖDIE 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT KOMÖDIE 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47237
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT KOMÖDIE 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT KOMÖDIE 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47238
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT FAMILIE 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT FAMILIE 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47239
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT FAMILIE 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT FAMILIE 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47240
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT ANIMATION 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT ANIMATION 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47241
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT ANIMATION 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT ANIMATION 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47242
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT KRIEGS 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT KRIEGS 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47243
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT KRIEGS 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT KRIEGS 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47244
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT HORROR 01 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT HORROR 01 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47245
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECT HORROR 02 HD+" tvg-logo="" group-title="DE- KINOWELT",DE: SELECT HORROR 02 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47246
-#EXTINF:-1 tvg-id="" tvg-name="DE: PopCorn Select 1 HD" tvg-logo="" group-title="DE- KINOWELT",DE: PopCorn Select 1 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53700
-#EXTINF:-1 tvg-id="" tvg-name="DE: PopCorn Select 2 HD" tvg-logo="" group-title="DE- KINOWELT",DE: PopCorn Select 2 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53701
-#EXTINF:-1 tvg-id="" tvg-name="DE: PopCorn Select 3 HD" tvg-logo="" group-title="DE- KINOWELT",DE: PopCorn Select 3 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53702
-#EXTINF:-1 tvg-id="" tvg-name="DE: PopCorn Select 4 HD" tvg-logo="" group-title="DE- KINOWELT",DE: PopCorn Select 4 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53703
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD (H265) " tvg-logo="http://mdstream.net:8080/images/413675bec4336858e4b41c17d827a809.png" group-title="DE- EXTRA",DE: SKY ONE HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22633
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD+" tvg-logo="http://mdstream.net:8080/images/413675bec4336858e4b41c17d827a809.png" group-title="DE- EXTRA",DE: SKY ONE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8702
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: SKY 13th STREET HD (H265) " tvg-logo="http://mdstream.net:8080/images/9413f9edee992047b71751b53ff34d19.png" group-title="DE- EXTRA",DE: SKY 13th STREET HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22434
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: SKY 13th STREET HD+" tvg-logo="http://mdstream.net:8080/images/9413f9edee992047b71751b53ff34d19.png" group-title="DE- EXTRA",DE: SKY 13th STREET HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1769
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC HD (H265) " tvg-logo="http://mdstream.net:8080/images/a37c9692de08a0ae6425ec9905d74a5d.png" group-title="DE- EXTRA",DE: SKY ATLANTIC HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22450
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC HD+" tvg-logo="http://mdstream.net:8080/images/a37c9692de08a0ae6425ec9905d74a5d.png" group-title="DE- EXTRA",DE: SKY ATLANTIC HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1768
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HD (H265) " tvg-logo="http://mdstream.net:8080/images/e1b0b902f426f13cae912be3e596665e.png" group-title="DE- EXTRA",DE: SKY CINEMA ACTION HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22452
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HD+" tvg-logo="http://mdstream.net:8080/images/e1b0b902f426f13cae912be3e596665e.png" group-title="DE- EXTRA",DE: SKY CINEMA ACTION HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1766
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY CINEMA PREMIEREN 24 HD (H265)" tvg-logo="http://mdstream.net:8080/images/66bba5f97528feee24465b32b857aac5.png" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN 24 HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46900
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY CINEMA PREMIEREN 24 HD+" tvg-logo="http://mdstream.net:8080/images/66bba5f97528feee24465b32b857aac5.png" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN 24 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1764
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HD (H265)" tvg-logo="http://mdstream.net:8080/images/ee8511a564eb12cbcb80fd61dd92e51d.png" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46901
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HD+" tvg-logo="http://mdstream.net:8080/images/ee8511a564eb12cbcb80fd61dd92e51d.png" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1760
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA KRIMI HD (H265) " tvg-logo="http://mdstream.net:8080/images/aeb540e34a14df239585d6ab4d87b1d6.png" group-title="DE- EXTRA",DE: SKY CINEMA KRIMI HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22458
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA KRIMI HD+" tvg-logo="http://mdstream.net:8080/images/aeb540e34a14df239585d6ab4d87b1d6.png" group-title="DE- EXTRA",DE: SKY CINEMA KRIMI HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1756
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY REPLAY HD (H265) " tvg-logo="http://mdstream.net:8080/images/33463fb132c6ef07df43c1884ec90960.png" group-title="DE- EXTRA",DE: SKY REPLAY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22438
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY REPLAY HD+" tvg-logo="http://mdstream.net:8080/images/33463fb132c6ef07df43c1884ec90960.png" group-title="DE- EXTRA",DE: SKY REPLAY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1746
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY HD (H265) " tvg-logo="http://mdstream.net:8080/images/5de21bcd57bd91132a9f077114d98b2c.png" group-title="DE- EXTRA",DE: SKY CINEMA FAMILY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22454
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY HD+" tvg-logo="http://mdstream.net:8080/images/5de21bcd57bd91132a9f077114d98b2c.png" group-title="DE- EXTRA",DE: SKY CINEMA FAMILY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1761
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY CINEMA SPECIAL HD (H265)" tvg-logo="http://mdstream.net:8080/images/7b16263d53fef843a901234c9731fd0e.png" group-title="DE- EXTRA",DE: SKY CINEMA SPECIAL HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46902
-#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: SKY CINEMA SPECIAL HD+" tvg-logo="http://mdstream.net:8080/images/7b16263d53fef843a901234c9731fd0e.png" group-title="DE- EXTRA",DE: SKY CINEMA SPECIAL HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14209
-#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME HD (H265)" tvg-logo="http://mdstream.net:8080/images/a3b2d6e140598e2979893cf3e1a79b3d.png" group-title="DE- EXTRA",DE: SKY CRIME HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49859
-#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME HD+" tvg-logo="http://mdstream.net:8080/images/a3b2d6e140598e2979893cf3e1a79b3d.png" group-title="DE- EXTRA",DE: SKY CRIME HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/33940
-#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="DE: SKY CINEMA COMEDY HD (H265)" tvg-logo="http://mdstream.net:8080/images/a3b2d6e140598e2979893cf3e1a79b3d.png" group-title="DE- EXTRA",DE: SKY CINEMA COMEDY HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46904
-#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="DE: SKY CINEMA COMEDY HD+" tvg-logo="http://mdstream.net:8080/images/a3b2d6e140598e2979893cf3e1a79b3d.png" group-title="DE- EXTRA",DE: SKY CINEMA COMEDY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23735
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD (H265)" tvg-logo="http://mdstream.net:8080/images/6c2bb7755d646d1409fe7bb249b433cf.png" group-title="DE- EXTRA",DE: SKY CINEMA CLASSICS HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46903
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD+" tvg-logo="http://mdstream.net:8080/images/6c2bb7755d646d1409fe7bb249b433cf.png" group-title="DE- EXTRA",DE: SKY CINEMA CLASSICS HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1762
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER FILM HD (H265) " tvg-logo="http://mdstream.net:8080/images/13ff4a662752eaabd508dc485325be00.png" group-title="DE- EXTRA",DE: WARNER FILM HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22465
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER FILM HD+" tvg-logo="http://mdstream.net:8080/images/13ff4a662752eaabd508dc485325be00.png" group-title="DE- EXTRA",DE: WARNER FILM HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1752
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER COMEDY HD (H265) " tvg-logo="http://mdstream.net:8080/images/33a0d980152b060fdf6eeb85801f8b99.png" group-title="DE- EXTRA",DE: WARNER COMEDY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22464
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER COMEDY HD+" tvg-logo="http://mdstream.net:8080/images/33a0d980152b060fdf6eeb85801f8b99.png" group-title="DE- EXTRA",DE: WARNER COMEDY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1753
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER SERIE HD (H265) " tvg-logo="http://mdstream.net:8080/images/181d38c836cef9a90ea7d56ae1580318.png" group-title="DE- EXTRA",DE: WARNER SERIE HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22466
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER SERIE HD+" tvg-logo="http://mdstream.net:8080/images/181d38c836cef9a90ea7d56ae1580318.png" group-title="DE- EXTRA",DE: WARNER SERIE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1751
-#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV HD (H265) " tvg-logo="http://mdstream.net:8080/images/40029568940bcbb1b88e7696295b238a.png" group-title="DE- EXTRA",DE: UNIVERSAL TV HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22467
-#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV HD+" tvg-logo="http://mdstream.net:8080/images/40029568940bcbb1b88e7696295b238a.png" group-title="DE- EXTRA",DE: UNIVERSAL TV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1750
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SKY SYFY HD (H265) " tvg-logo="http://mdstream.net:8080/images/54ad341efee4737b060379574621665e.png" group-title="DE- EXTRA",DE: SKY SYFY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22461
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SKY SYFY HD+" tvg-logo="http://mdstream.net:8080/images/54ad341efee4737b060379574621665e.png" group-title="DE- EXTRA",DE: SKY SYFY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1754
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE- SKY KINOWELT HD+" tvg-logo="http://mdstream.net:8080/images/7903752f6d0f1f28e0c713d65e51bc16.png" group-title="DE- EXTRA",DE- SKY KINOWELT HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1757
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: SKY CINEMA HIGHLIGHTS HD+" tvg-logo="http://mdstream.net:8080/images/b6bd96c47247f293a6e2cf285023cd14.png" group-title="DE- EXTRA",DE: SKY CINEMA HIGHLIGHTS HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38683
-#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: SKY ROMANCE TV HD+" tvg-logo="http://mdstream.net:8080/images/2fb0acfe75815a204e3c0a6b5b9d2fb5.png" group-title="DE- EXTRA",DE: SKY ROMANCE TV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1755
-#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="DE: SKY HEIMATKANAL (HD)" tvg-logo="http://mdstream.net:8080/images/cbbe03820d4a4cf585d08d2a33f1a8af.png" group-title="DE- EXTRA",DE: SKY HEIMATKANAL (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1758
-#EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN Deutschland" tvg-logo="" group-title="DE- EXTRA",DE: AXN Deutschland
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53246
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO HD (H265) " tvg-logo="http://mdstream.net:8080/images/15e2c91e5e5494eb02613896c772d954.png" group-title="DE- EXTRA",DE: NITRO HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22444
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO HD+ (RTL+)" tvg-logo="http://mdstream.net:8080/images/15e2c91e5e5494eb02613896c772d954.png" group-title="DE- EXTRA",DE: NITRO HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1749
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HD (H265) " tvg-logo="http://mdstream.net:8080/images/ff3cdfc6eed71a1a8a1a5622dfef7f1d.png" group-title="DE- DOKUMENTAR",DE: HISTORY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22439
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HD+" tvg-logo="http://mdstream.net:8080/images/ff3cdfc6eed71a1a8a1a5622dfef7f1d.png" group-title="DE- DOKUMENTAR",DE: HISTORY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1709
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY HD (H265) " tvg-logo="http://mdstream.net:8080/images/ec0f7503ab1eb05abe52909cb04da9ba.png" group-title="DE- DOKUMENTAR",DE: DISCOVERY HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22435
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY HD+" tvg-logo="http://mdstream.net:8080/images/ec0f7503ab1eb05abe52909cb04da9ba.png" group-title="DE- DOKUMENTAR",DE: DISCOVERY HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1708
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HD (H265) " tvg-logo="http://mdstream.net:8080/images/4752840ae2f98bc3de97575c039562d3.png" group-title="DE- DOKUMENTAR",DE: NAT GEO WILD HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22442
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HD+" tvg-logo="http://mdstream.net:8080/images/4752840ae2f98bc3de97575c039562d3.png" group-title="DE- DOKUMENTAR",DE: NAT GEO WILD HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1711
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO HD (H265) " tvg-logo="http://mdstream.net:8080/images/8c47b3193734ae967b7de25479f373fb.png" group-title="DE- DOKUMENTAR",DE: NAT GEO HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22443
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO HD+" tvg-logo="http://mdstream.net:8080/images/8c47b3193734ae967b7de25479f373fb.png" group-title="DE- DOKUMENTAR",DE: NAT GEO HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1712
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD+" tvg-logo="http://mdstream.net:8080/images/0f4c04f94e138e0f88a626db7a22eac3.jpg" group-title="DE- DOKUMENTAR",DE: ANIMAL PLANET HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/84136
-#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="DE: GEO TELEVISION HD+ (RTL+)" tvg-logo="" group-title="DE- DOKUMENTAR",DE: GEO TELEVISION HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53287
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD (H265) " tvg-logo="http://mdstream.net:8080/images/deab8ad3a8b61ec028506a2fa0de5799.png" group-title="DE- DOKUMENTAR",DE: SPIEGEL GESCHICHTE HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22460
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD+" tvg-logo="http://mdstream.net:8080/images/deab8ad3a8b61ec028506a2fa0de5799.png" group-title="DE- DOKUMENTAR",DE: SPIEGEL GESCHICHTE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1713
-#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES HD+" tvg-logo="http://mdstream.net:8080/images/70883cec58f0f4d62ec86f7a886955e3.png" group-title="DE- DOKUMENTAR",DE: SKY DOCUMENTARIES HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38682
-#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE HD+" tvg-logo="http://mdstream.net:8080/images/6e7056b39814b78e150482a75e48cf12.png" group-title="DE- DOKUMENTAR",DE: SKY NATURE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38684
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: SPIEGEL TV WISSEN (HD)" tvg-logo="http://mdstream.net:8080/images/0a3b9b22f3b054c8998974d92875cc79.png" group-title="DE- DOKUMENTAR",DE: SPIEGEL TV WISSEN (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1715
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="DE- ARD ALPHA HD" tvg-logo="http://mdstream.net:8080/images/78c4a5fc92a7f5ec0189bd241f2aa817.png" group-title="DE- DOKUMENTAR",DE- ARD ALPHA HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4851
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD (H265) " tvg-logo="http://mdstream.net:8080/images/ff54dc842dca78139a895a18a7a95353.png" group-title="DE- DOKUMENTAR",DE: DMAX HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22436
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD+" tvg-logo="http://mdstream.net:8080/images/ff54dc842dca78139a895a18a7a95353.png" group-title="DE- DOKUMENTAR",DE: DMAX HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1716
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HD (H265) " tvg-logo="http://mdstream.net:8080/images/4cf460093c472b058c6d280f0fabc4fb.png" group-title="DE- NACHRICHTEN",DE: WELT HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22469
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HD+" tvg-logo="http://mdstream.net:8080/images/4cf460093c472b058c6d280f0fabc4fb.png" group-title="DE- NACHRICHTEN",DE: WELT HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1710
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC HD (H265) " tvg-logo="http://mdstream.net:8080/images/172179dc9e3002055a2bc1dc17f983b4.png" group-title="DE- DOKUMENTAR",DE: TLC HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22463
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE- TLC HD+" tvg-logo="http://mdstream.net:8080/images/f5dd93184a4c4770ad6ee36dc90854a0.png" group-title="DE- DOKUMENTAR",DE- TLC HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1384
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD (H265) " tvg-logo="http://mdstream.net:8080/images/c7e9d6d579ccd5c0b19798bb460b2a06.png" group-title="DE- LIVE TV",DE: TELE 5 HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22462
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD+" tvg-logo="http://mdstream.net:8080/images/4f09e2557ef6c74da4164276be6cd2a6.png" group-title="DE- LIVE TV",DE: TELE 5 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8708
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE- KABEL EINS DOKU HD+" tvg-logo="http://mdstream.net:8080/images/dddd698a88e714c45c1728e49600c6c2.png" group-title="DE- DOKUMENTAR",DE- KABEL EINS DOKU HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1387
-#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="DE: WAIDWERK HD+" tvg-logo="http://mdstream.net:8080/images/b77548075a9a6abc4bd266884857cf49.png" group-title="DE- DOKUMENTAR",DE: WAIDWERK HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/24474
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE: CRIME+INVESTIGATION HD+" tvg-logo="http://mdstream.net:8080/images/7afa6d99efd9b31bd8fed5742f3486c6.png" group-title="DE- DOKUMENTAR",DE: CRIME+INVESTIGATION HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1748
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE: BON GUSTO HD+" tvg-logo="" group-title="DE- EXTRA",DE: BON GUSTO HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85500
-#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV HD+" tvg-logo="" group-title="DE- DOKUMENTAR",DE: HGTV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86517
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER HD+" tvg-logo="http://mdstream.net:8080/images/e6e0acee562e4da5cf51e5b376e28594.png" group-title="DE- DOKUMENTAR",DE: WELT DER WUNDER HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1714
-#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE- N24 DOKU HD+" tvg-logo="http://mdstream.net:8080/images/6fd8ba37ac17ac0730169b43fe8ae3f7.png" group-title="DE- DOKUMENTAR",DE- N24 DOKU HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1380
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE+ HD+" tvg-logo="http://mdstream.net:8080/images/d074255b4fad01e839db8d05ba3a0beb.png" group-title="DE- DOKUMENTAR",DE: ANIXE+ HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1747
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE- ANIXE SERIE HD+" tvg-logo="http://mdstream.net:8080/images/904701736e850f81d7c16412232b1a63.png" group-title="DE- DOKUMENTAR",DE- ANIXE SERIE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1370
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE- TAGESSCHAU 24 HD" tvg-logo="http://mdstream.net:8080/images/dbf4a382022a9dab59eb203924908c5c.png" group-title="DE- NACHRICHTEN",DE- TAGESSCHAU 24 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1413
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE- DAS ERSTE HD" tvg-logo="http://mdstream.net:8080/images/01e427908dc5bd1de6ac69a32ff9ad4e.png" group-title="DE- NACHRICHTEN",DE- DAS ERSTE HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1412
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE- ZDF HD" tvg-logo="http://mdstream.net:8080/images/40efc92dc770a87284b353ef06b32475.png" group-title="DE- LIVE TV",DE- ZDF HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1411
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE- ZDF INFO HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zdf_info.png" group-title="DE- LIVE TV",DE- ZDF INFO HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1409
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE- ZDF NEO HD" tvg-logo="http://mdstream.net:8080/images/b1e2ea0d8f7014ecc2d70b491647ed4e.png" group-title="DE- LIVE TV",DE- ZDF NEO HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1410
-#EXTINF:-1 tvg-id="bild.de" tvg-name="DE- BILD HD" tvg-logo="http://mdstream.net:8080/images/d35fe882780c0b2ea5cec6f05a8f0032.png" group-title="DE- NACHRICHTEN",DE- BILD HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1404
-#EXTINF:-1 tvg-id="one.de" tvg-name="DE- ONE HD" tvg-logo="http://mdstream.net:8080/images/b31df74324194b686b90fe5e543eca7b.png" group-title="DE- NACHRICHTEN",DE- ONE HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1405
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE- EURONEWS (HD)" tvg-logo="http://mdstream.net:8080/images/6c350ee5946d70a72cd960ead9ddfa42.png" group-title="DE- NACHRICHTEN",DE- EURONEWS (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1379
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV HD (H265) " tvg-logo="http://mdstream.net:8080/images/5ea20c488cf9e8ec2da999f5ca6748fc.png" group-title="DE- NACHRICHTEN",DE: N-TV HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22441
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV HD+" tvg-logo="http://mdstream.net:8080/images/5ea20c488cf9e8ec2da999f5ca6748fc.png" group-title="DE- NACHRICHTEN",DE: N-TV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1735
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE- PHOENIX HD" tvg-logo="http://mdstream.net:8080/images/bc3f6eade4fb2fa3d4415bb8951ff229.png" group-title="DE- NACHRICHTEN",DE- PHOENIX HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1407
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE- ARTE HD" tvg-logo="http://mdstream.net:8080/images/c48e0c5d3c51e38d090976c45c8d8a6d.png" group-title="DE- LIVE TV",DE- ARTE HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1408
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HD (H265) " tvg-logo="http://mdstream.net:8080/images/1a85cf9cd45fa608f194d5ee32751708.png" group-title="DE- LIVE TV",DE: VOX HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22468
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HD+" tvg-logo="http://mdstream.net:8080/images/1a85cf9cd45fa608f194d5ee32751708.png" group-title="DE- LIVE TV",DE: VOX HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1736
-#EXTINF:-1 tvg-id="VOXup DE" tvg-name="DE: VOXuP HD (h265)" tvg-logo="" group-title="DE- LIVE TV",DE: VOXuP HD (h265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53283
-#EXTINF:-1 tvg-id="VOXup DE" tvg-name="DE: VOXuP HD+ (RTL+)" tvg-logo="" group-title="DE- LIVE TV",DE: VOXuP HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53282
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD (H265) " tvg-logo="http://mdstream.net:8080/images/c35e2370641a62f0cf55ed3763d5ee7d.png" group-title="DE- LIVE TV",DE: SIXX HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22449
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD+" tvg-logo="http://mdstream.net:8080/images/c35e2370641a62f0cf55ed3763d5ee7d.png" group-title="DE- LIVE TV",DE: SIXX HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1737
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS HD (H265) " tvg-logo="http://mdstream.net:8080/images/3c7a466e33e9f2a75b251bbb35a58a69.png" group-title="DE- LIVE TV",DE: KABEL EINS HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22440
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS HD+" tvg-logo="http://mdstream.net:8080/images/3c7a466e33e9f2a75b251bbb35a58a69.png" group-title="DE- LIVE TV",DE: KABEL EINS HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1745
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: Kabel Eins Classics HD+" tvg-logo="http://mdstream.net:8080/images/3c7a466e33e9f2a75b251bbb35a58a69.png" group-title="DE- LIVE TV",DE: Kabel Eins Classics HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8707
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PROSIEBEN HD (H265)" tvg-logo="http://mdstream.net:8080/images/96e92c7b500dce5f374350b983d460f1.png" group-title="DE- LIVE TV",DE: PROSIEBEN HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/30899
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PROSIEBEN HD+" tvg-logo="http://mdstream.net:8080/images/96e92c7b500dce5f374350b983d460f1.png" group-title="DE- LIVE TV",DE: PROSIEBEN HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1744
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO7 MAXX HD (H265)" tvg-logo="http://mdstream.net:8080/images/d2125663c1c813c3450b9fd3b7a6c52a.png" group-title="DE- LIVE TV",DE: PRO7 MAXX HD (H265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49860
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO7 MAXX HD+" tvg-logo="http://mdstream.net:8080/images/d2125663c1c813c3450b9fd3b7a6c52a.png" group-title="DE- LIVE TV",DE: PRO7 MAXX HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1743
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 HD (H265) " tvg-logo="http://mdstream.net:8080/images/192973f6bc794010248730ba2fb122c9.png" group-title="DE- LIVE TV",DE: SAT 1 HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22448
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 HD+" tvg-logo="http://mdstream.net:8080/images/192973f6bc794010248730ba2fb122c9.png" group-title="DE- LIVE TV",DE: SAT 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1739
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD HD (H265) " tvg-logo="http://mdstream.net:8080/images/68fe05bb78e1560358d1e3fdacbe3209.png" group-title="DE- LIVE TV",DE: SAT 1 GOLD HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22447
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD HD+" tvg-logo="http://mdstream.net:8080/images/68fe05bb78e1560358d1e3fdacbe3209.png" group-title="DE- LIVE TV",DE: SAT 1 GOLD HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1738
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 EMOTIONS" tvg-logo="https://www.satlogo.com/logo/tv/ss/sat1_de_emotions.png" group-title="DE- LIVE TV",DE: SAT 1 EMOTIONS
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14022
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL HD (H265) " tvg-logo="http://mdstream.net:8080/images/cdd4b2e846bc60a3ada061fa12b27bba.png" group-title="DE- LIVE TV",DE: RTL HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22445
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL HD+ (RTL+)" tvg-logo="http://mdstream.net:8080/images/cdd4b2e846bc60a3ada061fa12b27bba.png" group-title="DE- LIVE TV",DE: RTL HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1741
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 HD (H265) " tvg-logo="http://mdstream.net:8080/images/9ac6a49b0d5cfe476cdfe90581c0dede.png" group-title="DE- LIVE TV",DE: RTL 2 HD (H265) 
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22446
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 HD+ (RTL+)" tvg-logo="http://mdstream.net:8080/images/9ac6a49b0d5cfe476cdfe90581c0dede.png" group-title="DE- LIVE TV",DE: RTL 2 HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1740
-#EXTINF:-1 tvg-id="RTLup DE" tvg-name="DE: RTLup HD (h265)" tvg-logo="" group-title="DE- LIVE TV",DE: RTLup HD (h265)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53281
-#EXTINF:-1 tvg-id="RTLup DE" tvg-name="DE: RTLup HD+ (RTL+)" tvg-logo="" group-title="DE- LIVE TV",DE: RTLup HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53280
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME HD+ (RTL+)" tvg-logo="" group-title="DE- LIVE TV",DE: RTL CRIME HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53284
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING HD+ (RTL+)" tvg-logo="" group-title="DE- LIVE TV",DE: RTL LIVING HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53285
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL PASSION HD+ (RTL+)" tvg-logo="" group-title="DE- LIVE TV",DE: RTL PASSION HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53286
-#EXTINF:-1 tvg-id="srfernsehen.de" tvg-name="DE- SR FERNSEHEN HD" tvg-logo="http://mdstream.net:8080/images/601a3966ff8cf6dc2084b95baa7edc7a.png" group-title="DE- LIVE TV",DE- SR FERNSEHEN HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1365
-#EXTINF:-1 tvg-id="" tvg-name="DE: CURIOSITY CHANNEL HD+" tvg-logo="http://mdstream.net:8080/images/d73e0fefe3ea27eec01e8d64dc7131d7.png" group-title="DE- DOKUMENTAR",DE: CURIOSITY CHANNEL HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53354
-#EXTINF:-1 tvg-id="swrsr.de" tvg-name="DE- SWR BW HD" tvg-logo="http://mdstream.net:8080/images/637ce6967a53b0ef764d14f76fb304d3.png" group-title="DE- LIVE TV",DE- SWR BW HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1364
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE- 3 SAT HD" tvg-logo="http://mdstream.net:8080/images/1ad4d0a21527d51db5775aabf2f2d586.png" group-title="DE- LIVE TV",DE- 3 SAT HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1366
-#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE- MDR HD" tvg-logo="http://mdstream.net:8080/images/00359c945eaeace99d18d71f914431fc.png" group-title="DE- LIVE TV",DE- MDR HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4853
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE- NDR HD" tvg-logo="http://mdstream.net:8080/images/f71b92e9c0a48e24d6527a4f4dcfed0b.png" group-title="DE- LIVE TV",DE- NDR HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8706
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE- WDR HD" tvg-logo="http://mdstream.net:8080/images/ccd5de86a847bdf4e1ea7278a50da293.png" group-title="DE- LIVE TV",DE- WDR HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1733
-#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE- RBB Berlin HD" tvg-logo="http://mdstream.net:8080/images/5753e926b0e32a43479796062954bd5c.png" group-title="DE- LIVE TV",DE- RBB Berlin HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4855
-#EXTINF:-1 tvg-id="hr.de" tvg-name="DE- HR Fernsehen HD" tvg-logo="http://mdstream.net:8080/images/e81855196550f97fe0e947fc489511aa.png" group-title="DE- LIVE TV",DE- HR Fernsehen HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4854
-#EXTINF:-1 tvg-id="brfernsehennord.de" tvg-name="DE- BR Fernsehen HD" tvg-logo="http://portals.mdstream.net:8080/images/142cfa434af7e20a0572384e82187b9e.png" group-title="DE- LIVE TV",DE- BR Fernsehen HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34052
-#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="DE: SERVUS TV HD+" tvg-logo="http://mdstream.net:8080/images/1b5205b87340fbd19f2fb8ae0ec86cc8.png" group-title="DE- LIVE TV",DE: SERVUS TV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1734
-#EXTINF:-1 tvg-id="" tvg-name="DE- K-TV" tvg-logo="" group-title="DE- LIVE TV",DE- K-TV
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49958
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DEM: MTV HD+" tvg-logo="http://mdstream.net:8080/images/ac5b50726b5d209c4806ba5e98df3bbc.png" group-title="DE- LIVE TV",DEM: MTV HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1732
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DEM: DELUXE MUSIC HD+" tvg-logo="http://mdstream.net:8080/images/87cb60c40bd9d600b73e97c982f07c0f.png" group-title="DE- LIVE TV",DEM: DELUXE MUSIC HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1731
-#EXTINF:-1 tvg-id="" tvg-name="DEM- FOLX MUSIC TELEVISION" tvg-logo="" group-title="DE- LIVE TV",DEM- FOLX MUSIC TELEVISION
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46896
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE- COMEDY CENTRAL HD+" tvg-logo="http://mdstream.net:8080/images/b909c7fbf5fc4877b70b3381f2169efe.png" group-title="DE- KINDER",DE- COMEDY CENTRAL HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1376
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE- NICK COMEDY CENTRAL+1 HD+" tvg-logo="http://mdstream.net:8080/images/b909c7fbf5fc4877b70b3381f2169efe.png" group-title="DE- KINDER",DE- NICK COMEDY CENTRAL+1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46897
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: Super RTL HD+ (RTL+)" tvg-logo="http://mdstream.net:8080/images/59fc81c02b4b34c1b7fc45ae99428576.png" group-title="DE- KINDER",DE: Super RTL HD+ (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1726
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE- SUPER RTL (HD)" tvg-logo="http://mdstream.net:8080/images/fb86ff30e36e980eadd23b619ffd6387.png" group-title="DE- KINDER",DE- SUPER RTL (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1399
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: Disney Channel HD+" tvg-logo="http://mdstream.net:8080/images/b47ce9978de1675953624505160027a8.png" group-title="DE- KINDER",DE: Disney Channel HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1723
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE: NICK REWIND" tvg-logo="http://mdstream.net:8080/images/99a4d08fcd0b22d90f374ad4a1c1ffc7.png" group-title="DE- KINDER",DE: NICK REWIND
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1728
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE- NICKELODEON (HD)" tvg-logo="http://mdstream.net:8080/images/1d24d4c0e7c3413d7d19b1fceeb2f8c5.png" group-title="DE- KINDER",DE- NICKELODEON (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1373
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY JUNIOR (HD)" tvg-logo="http://mdstream.net:8080/images/596e54c2fc01521ca0cc3da506a636d4.png" group-title="DE- KINDER",DE: SKY JUNIOR (HD)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1721
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="DE: NICK JR HD+" tvg-logo="http://mdstream.net:8080/images/0855614f55643e4531746cced7ce151c.png" group-title="DE- KINDER",DE: NICK JR HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1727
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: CARTOON NETWORK HD+" tvg-logo="http://mdstream.net:8080/images/06bc6af90dea62a537e07cf1dba8c557.png" group-title="DE- KINDER",DE: CARTOON NETWORK HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1722
-#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE- TOGGO PLUS (RTL+)" tvg-logo="http://mdstream.net:8080/images/a1f38efacb6ba0826e354986dd491058.png" group-title="DE- KINDER",DE- TOGGO PLUS (RTL+)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1374
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE- KIKA HD" tvg-logo="http://mdstream.net:8080/images/68ad4126497802d8f7ee3d6c105341aa.png" group-title="DE- KINDER",DE- KIKA HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1375
-#EXTINF:-1 tvg-id="SRF 1 HD CH" tvg-name="CH: SRF 1 HD" tvg-logo="" group-title="CH- SWITZERLAND",CH: SRF 1 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8747
-#EXTINF:-1 tvg-id="SRF info HD CH" tvg-name="CH: SRF info HD" tvg-logo="" group-title="CH- SWITZERLAND",CH: SRF info HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8748
-#EXTINF:-1 tvg-id="SRF zwei HD CH" tvg-name="CH: SRF zwei HD" tvg-logo="" group-title="CH- SWITZERLAND",CH: SRF zwei HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8746
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS Deux HD (FR)" tvg-logo="" group-title="CH- SWITZERLAND",CH: RTS Deux HD (FR)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/7818
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS Un HD (FR)" tvg-logo="" group-title="CH- SWITZERLAND",CH: RTS Un HD (FR)
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/7819
-#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DSP: SKY SPORT NEWS HD+" tvg-logo="http://mdstream.net:8080/images/7a2ae44d8bfbb7bb9a92ff224786b4ce.png" group-title="DE - SPORT",DSP: SKY SPORT NEWS HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1550
-#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DSP: SKY SPORT NEWS H265" tvg-logo="" group-title="DE - SPORT",DSP: SKY SPORT NEWS H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22459
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DSP: SKY SPORT TOP EVENT HD+" tvg-logo="http://mdstream.net:8080/images/7216155e3181b584b7adeaadb943fe21.png" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53648
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DSP: SKY SPORT TOP EVENT H265" tvg-logo="http://mdstream.net:8080/images/7216155e3181b584b7adeaadb943fe21.png" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53663
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DSP: SKY SPORT TOP EVENT 2K-H265" tvg-logo="http://mdstream.net:8080/images/7216155e3181b584b7adeaadb943fe21.png" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53664
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DSP: SKY SPORT TENNIS HD+" tvg-logo="" group-title="DE - SPORT",DSP: SKY SPORT TENNIS HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53649
-#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DSP: SKY SPORT PREMIER LEAGUE HD+" tvg-logo="" group-title="DE - SPORT",DSP: SKY SPORT PREMIER LEAGUE HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53650
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DSP: SKY SPORT GOLF HD+" tvg-logo="" group-title="DE - SPORT",DSP: SKY SPORT GOLF HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53651
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DSP: SKY SPORT MIX HD+" tvg-logo="" group-title="DE - SPORT",DSP: SKY SPORT MIX HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53652
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DSP: DAZN 1 HD+" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1549
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DSP: DAZN 1 H265" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17604
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DSP: DAZN 1 2K-H265" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 1 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10236
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DSP: DAZN 2 BAR HD+" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 2 BAR HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1548
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DSP: DAZN 2 Bar H265" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 2 Bar H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17605
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DSP: DAZN 2 BAR 2K-H265" tvg-logo="http://mdstream.net:8080/images/edbda64f497fce208414fc75e278839c.png" group-title="DE - SPORT",DSP: DAZN 2 BAR 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10235
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DSP: EUROSPORT 1 HD+" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1547
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DSP: EUROSPORT 1 H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17601
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DSP: EUROSPORT 1 2K-H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10234
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 HD+" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1546
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17602
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 2K-H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10233
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DSP: SKY SPORT F1 HD+" tvg-logo="http://mdstream.net:8080/images/cb6920d6f88a1526b57df8a9aea98017.png" group-title="DE - SPORT",DSP: SKY SPORT F1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23480
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DSP: SKY SPORT F1 H265" tvg-logo="http://mdstream.net:8080/images/cb6920d6f88a1526b57df8a9aea98017.png" group-title="DE - SPORT",DSP: SKY SPORT F1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23481
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="DSP: SKY SPORT AUSTRIA 1 H265" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17606
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="DSP: SKY SPORT AUSTRIA 1 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1541
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 2 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10867
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 3 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 3 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10868
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 4 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 4 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10869
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 5 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 5 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23736
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 6 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 6 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23737
-#EXTINF:-1 tvg-id="" tvg-name="DSP: SKY SPORT AUSTRIA 7 HD+" tvg-logo="http://mdstream.net:8080/images/9c5e0323c7fefe2ca0a08f46e1d80172.png" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 7 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23738
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DSP: SPORTDIGITAL HD+" tvg-logo="http://mdstream.net:8080/images/782a19dfb87536eb7de6b5d02eb1eaa6.png" group-title="DE - SPORT",DSP: SPORTDIGITAL HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1544
-#EXTINF:-1 tvg-id="" tvg-name="DSP: ORF SPORT+ HD+" tvg-logo="http://portals.mdstream.net:8080/images/8bf7fe66d11571903e65a243a17f4fba.png" group-title="DE - SPORT",DSP: ORF SPORT+ HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1553
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DSP:  SPORT1 HD" tvg-logo="http://mdstream.net:8080/images/96986ad8b77aa822a0709a51f2e7527d.png" group-title="DE - SPORT",DSP:  SPORT1 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1377
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DSP: SPORT1 H265" tvg-logo="http://mdstream.net:8080/images/96986ad8b77aa822a0709a51f2e7527d.png" group-title="DE - SPORT",DSP: SPORT1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17607
-#EXTINF:-1 tvg-id="" tvg-name="DSP: ORF SPORT+" tvg-logo="http://portals.mdstream.net:8080/images/8bf7fe66d11571903e65a243a17f4fba.png" group-title="DE - SPORT",DSP: ORF SPORT+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1552
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DSP: SPORT1 HD+" tvg-logo="http://mdstream.net:8080/images/96986ad8b77aa822a0709a51f2e7527d.png" group-title="DE - SPORT",DSP: SPORT1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1542
-#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DSP: SPORTS1+ HD+" tvg-logo="" group-title="DE - SPORT",DSP: SPORTS1+ HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34045
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DSP: MOTORVISION TV HD" tvg-logo="http://mdstream.net:8080/images/3fc38f286d301102370127bf2621a933.png" group-title="DE - SPORT",DSP: MOTORVISION TV HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1543
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DSP: SKY SPORT 1 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1540
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DSP: SKY SPORT 2 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1539
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DSP: SKY SPORT 3 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 3 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1538
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DSP: SKY SPORT 4 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 4 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1537
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DSP: SKY SPORT 5 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 5 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1536
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DSP: SKY SPORT 6 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 6 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1535
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DSP: SKY SPORT 7 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 7 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1534
-#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DSP: SKY SPORT 8 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 8 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1533
-#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DSP: SKY SPORT 9 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 9 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14312
-#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DSP: SKY SPORT 10 HD+" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 10 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14311
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DSP: BUNDESLIGA 2K-H265" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53665
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DSP: BUNDESLIGA H265" tvg-logo="http://mdstream.net:8080/images/8dd05f2649fe4bcc98cf8f45701112d3.png" group-title="DE - SPORT",DSP: BUNDESLIGA H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53662
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DSP: BUNDESLIGA HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53647
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DSP: BUNDESLIGA 1 2K-H265" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 1 2K-H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10237
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DSP: BUNDESLIGA 1 H265" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 1 H265
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17600
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DSP: BUNDESLIGA 1 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 1 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1529
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DSP: BUNDESLIGA 2 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 2 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1528
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DSP: BUNDESLIGA 3 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 3 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1527
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DSP: BUNDESLIGA 4 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 4 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1526
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DSP: BUNDESLIGA 5 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 5 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1525
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DSP: BUNDESLIGA 6 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 6 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1524
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DSP: BUNDESLIGA 7 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 7 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1523
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DSP: BUNDESLIGA 8 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 8 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1522
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DSP: BUNDESLIGA 9 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 9 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1521
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DSP: BUNDESLIGA 10 HD+" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 10 HD+
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1520
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DSP: SKY SPORT 1 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 1 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1519
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DSP: SKY SPORT 2 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 2 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1518
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DSP: SKY SPORT 3 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 3 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1517
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DSP: SKY SPORT 4 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 4 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1516
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DSP: SKY SPORT 5 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 5 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1515
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DSP: SKY SPORT 6 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 6 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1514
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DSP: SKY SPORT 7 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 7 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1513
-#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DSP: SKY SPORT 8 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 8 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1512
-#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DSP: SKY SPORT 9 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 9 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1511
-#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DSP: SKY SPORT 10 HD" tvg-logo="http://mdstream.net:8080/images/5e3cadaff172ae9c0b1bd33f6174563d.png" group-title="DE - SPORT",DSP: SKY SPORT 10 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1510
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DSP: BUNDESLIGA 1 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 1 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1508
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DSP: BUNDESLIGA 2 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 2 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1507
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DSP: BUNDESLIGA 3 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 3 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1506
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DSP: BUNDESLIGA 4 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 4 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1505
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DSP: BUNDESLIGA 5 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 5 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1504
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DSP: BUNDESLIGA 6 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 6 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1503
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DSP: BUNDESLIGA 7 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 7 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1502
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DSP: BUNDESLIGA 8 HD" tvg-logo="http://mdstream.net:8080/images/e819a0d7356a79bd8f64378598f96f4f.png" group-title="DE - SPORT",DSP: BUNDESLIGA 8 HD
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1501
-
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="" group-title="DE: GENERAL",DE: DAS ERSTE HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="DE: GENERAL",DE: ZDF HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="" group-title="DE: GENERAL",DE: RTL HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="DE: GENERAL",DE: SAT 1 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="" group-title="DE: GENERAL",DE: VOX HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS HD" tvg-logo="" group-title="DE: GENERAL",DE: KABEL EINS HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD" tvg-logo="" group-title="DE: GENERAL",DE: RTL 2 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NITRO HD" tvg-logo="" group-title="DE: GENERAL",DE: NITRO HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="" group-title="DE: GENERAL",DE: PRO 7 MAXX HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD" tvg-logo="" group-title="DE: GENERAL",DE: SIXX HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3SAT HD" tvg-logo="" group-title="DE: GENERAL",DE: 3SAT HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE+" tvg-logo="" group-title="DE: GENERAL",DE: ANIXE+
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE SERIE" tvg-logo="" group-title="DE: GENERAL",DE: ANIXE SERIE
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo="" group-title="DE: GENERAL",DE: ARTE HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DABEI TV" tvg-logo="" group-title="DE: GENERAL",DE: DABEI TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo="" group-title="DE: GENERAL",DE: ONE HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: OUT TV" tvg-logo="" group-title="DE: GENERAL",DE: OUT TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 FUN" tvg-logo="" group-title="DE: GENERAL",DE: PRO 7 FUN
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UP" tvg-logo="" group-title="DE: GENERAL",DE: RTL UP
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5" tvg-logo="" group-title="DE: GENERAL",DE: TELE 5
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXUP" tvg-logo="" group-title="DE: GENERAL",DE: VOXUP
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: BIBEL TV" tvg-logo="" group-title="DE: GENERAL",DE: BIBEL TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: K-TV" tvg-logo="" group-title="DE: GENERAL",DE: K-TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD ALPHA" tvg-logo="" group-title="DE: GENERAL",DE: ARD ALPHA
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: PHOENIX" tvg-logo="" group-title="DE: GENERAL",DE: PHOENIX
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NTV FHD" tvg-logo="" group-title="DE: GENERAL",DE: NTV FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TAGESSCHAU24" tvg-logo="" group-title="DE: GENERAL",DE: TAGESSCHAU24
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS" tvg-logo="" group-title="DE: GENERAL",DE: EURONEWS
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT" tvg-logo="" group-title="DE: GENERAL",DE: WELT
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 2 HD" tvg-logo="" group-title="DE: SKY/KINO/CINE",DE: POPCORN SELECT 2 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE STAR ACTION HD" tvg-logo="" group-title="DE: SKY/KINO/CINE",DE: CINE STAR ACTION HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CINEMA ACTION HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ATLANTIC HD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CINEMA ATLANTIC HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA CLASSICS FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CINEMA CLASSICS FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CINEMA FAMILY FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIERE HD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CINEMA PREMIERE HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY CRIME FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY KRIMI
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ONE FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY ONE FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY REPLAY
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SYFY FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SKY SYFY FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: 13TH STREET HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN BLACK" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: AXN BLACK
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN WHITE" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: AXN WHITE
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: CRIME+ INVESTIGATION" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: CRIME+ INVESTIGATION
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: COMEDY CENTRAL" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: COMEDY CENTRAL
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMATKANAL" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: HEIMATKANAL
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINOWELT" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: KINOWELT
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: ROMANCE TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL CRIME FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: RTL CRIME FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PASSION" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: RTL PASSION
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 EMOTIONS" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SAT 1 EMOTIONS
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: SAT 1 GOLD HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL TV" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: UNIVERSAL TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: WARNER TV COMEDY FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV FILM FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: WARNER TV FILM FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="DE: SKY ENTERTAINMENT",DE: WARNER TV SERIE FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = DOKU = = = = =" tvg-logo="" group-title="DE: DOCUMENTAIRE",= = = = = DOKU = = = = =
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: ANIMAL PLANET
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL HD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: DISCOVERY CHANNEL HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: DMAX
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO TV" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: NAT GEO TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: HGTV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY HD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: HISTORY HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: KABEL EINS DOKU FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 DOKU" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: N24 DOKU
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: NATIONAL GEOGRAPHIC HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC  FHD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: NATIONAL GEOGRAPHIC  FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: NAT GEO WILD HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: RTL LIVING
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: SKY DOCUMENTARIES
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: SKY NATURE
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: SPIEGEL GESCHICHTE
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL TV" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: SPIEGEL TV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: TLC
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: ZDF INFO
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: ZDF NEO HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT DER WUNDER" tvg-logo="" group-title="DE: DOCUMENTAIRE",DE: WELT DER WUNDER
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: CARTOON NETWORK" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: CARTOON NETWORK
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CHANNEL" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: DISNEY CHANNEL
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: KIKA
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK JR" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: NICK JR
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL - TOGGO" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: SUPER RTL - TOGGO
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO PLUS" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: TOGGO PLUS
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE MUSIC" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: DELUXE MUSIC
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHES MUSIK FERNSEHEN" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: DEUTSCHES MUSIK FERNSEHEN
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: MTV
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: XITE" tvg-logo="" group-title="DE: MUSIK/KINDERSENDER",DE: XITE
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 1 FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 3 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 4 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 5 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT BUNDESLIGA 6 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HEVC" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: DAZN 1 HEVC
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: DAZN 1 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: DAZN 2 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT NEWS FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT TOP EVENT FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT F1 FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT PREMIER LEAGUE FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT MIX FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT TENNIS FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT GOLF FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT 4 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT 5 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT 6 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT 7 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 FHD (SPIELZEIT)" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SKY SPORT 8 FHD (SPIELZEIT)
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: AUTO MOTOR SPORT CHANNEL" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: AUTO MOTOR SPORT CHANNEL
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: EUROSPORT 1 HD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: EUROSPORT 2 FHD
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ESPORTS 1" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: ESPORTS 1
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION+" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: MOTORVISION+
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL FUSSBALL" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SPORTDIGITAL FUSSBALL
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SPORT 1
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1+" tvg-logo="" group-title="DE: BUNDESLIGA/DAZN/SPORT",DE: SPORT 1+
+http://37.49.224.17:8000/live/besho1990/mLKFJqVKKejc/117223.m3u8
