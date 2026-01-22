@@ -52,7 +52,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://yastikkavgasi.lol/static/bs5.m3u8
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
-http://live.net-spor-e6a.workers.dev/?ID=6
+http://medotv.nl:8000/live/besho1990/mLKFJqVKKejc/111908.ts
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://65.108.239.207/bm1/index.m3u8
@@ -60,23 +60,23 @@ http://65.108.239.207/bm1/index.m3u8
 http://65.108.239.207/bm2/index.m3u8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://live.net-spor-e6a.workers.dev/?ID=7
+http://medotv.nl:8000/live/besho1990/mLKFJqVKKejc/111910.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
+https://bs.arectv31.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT FHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukssport/playlist.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://andro.226503.xyz/checklist/androstreamlivess11.m3u8
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/115206.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="SPOR KANALI",S SPORT UHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/115207.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="SPOR KANALI",S SPORT FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://yastikkavgasi.lol/static/ss11.m3u8
@@ -90,13 +90,13 @@ https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukssplus1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcuksmartspor/playlist.m3u8
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111409.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="SPOR KANALI",SMARTSPOR 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10017
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="SPOR KANALI",SMARTSPOR HD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232
+http://medotv.nl:8000/live/habibisamih/anhjpRbZ6QtW/111411.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="SPOR KANALI",SMARTSPOR 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://hdlocal.de:8080/ft45.mine.nu/tZ64wEN8oeijjhnnsbbsvs/10258
