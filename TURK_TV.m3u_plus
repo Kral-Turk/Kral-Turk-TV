@@ -453,9 +453,11 @@ https://h1w.04bf112a615942b50.sbs/yayin1.m3u8
 https://h1w.04bf112a615942b50.sbs/yayininat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI", Web YAYIN ZIRVE
-#EXTVLCOPT:http-origin=https://trgoals1486.xyz
-#EXTVLCOPT:http-referrer=https://trgoals1486.xyz/
-https://h1w.04bf112a615942b50.sbs/yayinzirve.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://hepbetspor.cfd
+#EXTVLCOPT:http-referrer=https://hepbetspor.cfd/
+https://ojh.d72577a9dd0ec22.sbs/zirve/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="WEB SPOR KANALI", beIN Sports 2
 #EXTVLCOPT:http-referrer=https://trgoals1486.xyz/
