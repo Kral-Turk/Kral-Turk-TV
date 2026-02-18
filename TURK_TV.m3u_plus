@@ -5,7 +5,7 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://yastikkavgasi.lol/static/bs1.m3u8
+https://yastikkavgasi.lol/static/bs11.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://xplatinmedia.com:8080/live/Jason_evans/IFwISS8G2v4a5u4nu01Iw199I/534.ts
@@ -65,7 +65,7 @@ http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/111910.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://bs.arectv31.sbs/static/ss11.m3u8
+https://yastikkavgasi.lol/static/ss11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="SPOR KANALI",S SPORT FHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
