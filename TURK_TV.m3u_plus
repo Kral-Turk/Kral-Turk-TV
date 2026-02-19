@@ -673,31 +673,30 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115148
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 4" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 5" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 6" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kedipijamasi.lol/static/tabi6.m3u8
 
 #EXTM3U
