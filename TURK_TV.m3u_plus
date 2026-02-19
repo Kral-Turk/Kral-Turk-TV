@@ -214,7 +214,7 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48858.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV UHD
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV FHD
-http://95.174.71.114/TR-FOX/index.m3u8
+http://hdlocal.de:8080/live/bktv.xyzcxdf122/zMCeYMcWShzu11/10156.ts
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "TR ULUSAL-UHD",FOX TV HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
