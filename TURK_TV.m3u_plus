@@ -154,9 +154,9 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/697.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16955
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/16955.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -702,7 +702,7 @@ https://kedipijamasi.lol/static/tabi6.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/67559.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1+
@@ -732,23 +732,23 @@ http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/93810
 
 #EXTM3U
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/730
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/730.ts
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: NICK JR" tvg-logo="" group-title="TR: COCUK",TR: NICK JR
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/737
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/737.ts
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: DISNEY JUNIOR" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/732
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/732.ts
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA COCUK" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="TR: COCUK",TR: MINIKA COCUK
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA GO" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="TR: COCUK",TR: MINIKA GO
 https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BABYFİRST TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABYFİRST TV HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/729
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/729.ts
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TRT COCUK HD" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="TR: COCUK",TR: TRT COCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR: COCUK",TR: BABY TV
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/736
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/14795.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: DUCK TV HD" tvg-logo="" group-title="TR: COCUK",TR: DUCK TV HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115144
+http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/115144.ts
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="TR: COCUK",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRTDiyanet" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="TR: COCUK",TRT Diyanet Çocuk
