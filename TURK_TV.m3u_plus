@@ -511,17 +511,17 @@ https://spring-band-25c2.panorea1000.workers.dev/bm2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="WEB SPOR KANALI", Saran Sports 1
 #EXTVLCOPT:http-origin=https://trgoals1537.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://no6.d72577a9dd0ec27.sbs/ss/mono.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ss.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="WEB SPOR KANALI", Saran Sports 2
 #EXTVLCOPT:http-origin=https://trgoals1537.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://no6.d72577a9dd0ec27.sbs/ss2/mono.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ss2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="WEB SPOR KANALI", Tivibu Sports 1
 #EXTVLCOPT:http-origin=https://trgoals1537.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://no6.d72577a9dd0ec27.sbs/t1/mono.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/t1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibu2.png" group-title="WEB SPOR KANALI", Tivibu Sports 2
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
@@ -537,71 +537,71 @@ https://spring-band-25c2.panorea1000.workers.dev/t4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="WEB SPOR KANALI", Smart SPORTS 1
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/smarts.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/smarts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="WEB SPOR KANALI", Smart Sports 2
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/sms2.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/sms2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="WEB SPOR KANALI", TRT Spor
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/trtspor.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/trtspor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="WEB SPOR KANALI", TRT Spor 2
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/trtspor2.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/trtspor2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="WEB SPOR KANALI", A Spor
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/as.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/as.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="WEB SPOR KANALI", ATV
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/atv.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/atv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="WEB SPOR KANALI", TV8
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/tv8.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/tv8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="WEB SPOR KANALI", TV8.5
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/tv85.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/tv85.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="WEB SPOR KANALI", NBA TV
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/nbatv.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/nbatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII 1
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex1.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="WEB SPOR KANALI", TABII 2
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex2.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="WEB SPOR KANALI", TABII 3
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex3.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="WEB SPOR KANALI", TABII 4
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex4.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="WEB SPOR KANALI", TABII 5
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex5.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="WEB SPOR KANALI", TABII 6
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex6.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII 1
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex7.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="WEB SPOR KANALI", TABII
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://five.04bf112a615942b5.sbs/ex8.m3u8
+https://spring-band-25c2.panorea1000.workers.dev/ex8.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE ULUSAL - - - - -" tvg-logo="" group-title="TR: ULUSAL",- - - - - TURKIYE ULUSAL - - - - -
@@ -674,31 +674,31 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115148
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi.m3u8
+https://yastikkavgasi.lol/static/tabi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 1+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi1.m3u8
+https://yastikkavgasi.lol/static/tabi1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 2" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi2.m3u8
+https://yastikkavgasi.lol/static/tabi2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 3" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi3.m3u8
+https://yastikkavgasi.lol/static/tabi3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 4" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi4.m3u8
+https://yastikkavgasi.lol/static/tabi4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 5" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi5.m3u8
+https://yastikkavgasi.lol/static/tabi5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:- TABİİ SPOR 6" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TR: Tabii Spor",TR:- TABİİ SPOR 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://corelaunchpad.lol/static/tabi6.m3u8
+https://yastikkavgasi.lol/static/tabi6.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
