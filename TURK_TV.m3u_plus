@@ -600,70 +600,75 @@ https://spring-band-25c2.panorea1000.workers.dev/ex7.m3u8
 https://spring-band-25c2.panorea1000.workers.dev/ex8.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE ULUSAL - - - - -" tvg-logo="" group-title="TR: ULUSAL",- - - - - TURKIYE ULUSAL - - - - -
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/624
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT 1 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/623
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 SD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT 1 SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/622
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="" group-title="TR: ULUSAL",TR: ATV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/621
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV SD" tvg-logo="" group-title="TR: ULUSAL",TR: ATV SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/620
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: SHOWTV HD" tvg-logo="" group-title="TR: ULUSAL",TR: SHOWTV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/619
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: SHOWTV SD" tvg-logo="" group-title="TR: ULUSAL",TR: SHOWTV SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/618
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TR: ULUSAL",TR: STAR TV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/617
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: STAR TV SD" tvg-logo="" group-title="TR: ULUSAL",TR: STAR TV SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/616
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="TR: ULUSAL",TR: KANAL D HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/615
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: KANAL D SD" tvg-logo="" group-title="TR: ULUSAL",TR: KANAL D SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/614
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="TR: ULUSAL",TR: FOX TV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/613
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: FOX TV SD" tvg-logo="" group-title="TR: ULUSAL",TR: FOX TV SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/612
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TV8 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TV8 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/611
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TV8 SD" tvg-logo="" group-title="TR: ULUSAL",TR: TV8 SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/610
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TV 8.5 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/693
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 SD" tvg-logo="" group-title="TR: ULUSAL",TR: TV 8.5 SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115191
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="TR: ULUSAL",TR: KANAL 7 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/609
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: KANAL 7 SD" tvg-logo="" group-title="TR: ULUSAL",TR: KANAL 7 SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/608
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TR: ULUSAL",TR: BEYAZ TV HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/607
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BEYAZ TV SD" tvg-logo="" group-title="TR: ULUSAL",TR: BEYAZ TV SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/606
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: A2 HD" tvg-logo="" group-title="TR: ULUSAL",TR: A2 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/695
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 SD" tvg-logo="" group-title="TR: ULUSAL",TR: A2 SD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115186
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT2 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/16240
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="TR: ULUSAL",TR: SHOW TURK
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/20798
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX HD" tvg-logo="" group-title="TR: ULUSAL",TR: SHOW MAX HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/20799
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT TURK HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115149
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT KURDI HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT KURDI HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115152
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ARABI HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT ARABI HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115150
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ HD" tvg-logo="" group-title="TR: ULUSAL",TR: TRT AVAZ HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115151
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV4 HD" tvg-logo="" group-title="TR: ULUSAL",TR: TV4 HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115141
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="" group-title="TR: ULUSAL",TR: ULUSAL KANAL HD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115148
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/735
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8,5 HD" tvg-logo="" group-title="TR ULUSALTV",TR: TV 8,5 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/730
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="" group-title="TR ULUSALTV",TR: TRT MUZIK
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/853
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="Turkey Channel",TR: TRT HABER HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/747
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="Turkey Channel",TR: TRT COCUK HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/835
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turkey Channel",TR: TRT 1 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/724
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV HD" tvg-logo="" group-title="Turkey Channel",TR: Star TV HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/729
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOWMAX HD" tvg-logo="" group-title="Turkey Channel",TR: SHOWMAX HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/830
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="Turkey Channel",TR: SHOW TV HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/726
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" tvg-logo="" group-title="Turkey Channel",TR: SHOW MAX
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/727
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="Turkey Channel",TR: NAT GEO WILD HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/844
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD" tvg-logo="" group-title="Turkey Channel",TR: NAT GEO HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/842
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Platin HD" tvg-logo="" group-title="Turkey Channel",TR: Moviesmart Platin HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/787
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Gold" tvg-logo="" group-title="Turkey Channel",TR: MovieSmart Gold
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/781
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Action HD" tvg-logo="" group-title="Turkey Channel",TR: Moviesmart Action HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/783
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="" group-title="Turkey Channel",TR: KRAL TV
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/849
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL  POP" tvg-logo="" group-title="Turkey Channel",TR: KRAL  POP
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/850
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D HD" tvg-logo="" group-title="Turkey Channel",TR: Kanal D HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/728
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 HD" tvg-logo="" group-title="Turkey Channel",TR: Kanal 7 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/738
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY HD" tvg-logo="" group-title="Turkey Channel",TR: HISTORY HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/840
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD" tvg-logo="" group-title="Turkey Channel",TR: HABER TURK HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/746
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX Live" tvg-logo="" group-title="Turkey Channel",TR: FOX Live
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/731
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="" group-title="Turkey Channel",TR: DMAX HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/740
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV " tvg-logo="" group-title="Turkey Channel",TR: SINEMA TV 
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/815
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="Turkey Channel",TR: DREAM TURK
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/852
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="Turkey Channel",TR: DISNEY CHANNEL HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/834
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="Turkey Channel",TR: DISCOVERY CHANNEL
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/837
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="Turkey Channel",TR: CNN TURK HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/744
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD" tvg-logo="" group-title="Sport Channel",TR: Bein Sport 3 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/585
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 HD" tvg-logo="" group-title="Sport Channel",TR: Bein Sport 2 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/584
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="Sport Channel",TR: Bein Sport 1 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="Turkey Channel",TR: A2 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/737
+#EXTINF:-1 tvg-id="" tvg-name="TR: A TV HD" tvg-logo="" group-title="Turkey Channel",TR: A TV HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/725
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="Turkey Channel",TR: A HABER HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/743
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD" tvg-logo="" group-title="Turkey Channel",TR: 360 TV HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/734
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="" group-title="TR: ULUSAL TV",TRT 4K
