@@ -177,7 +177,7 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48846.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV UHD
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV FHD
-http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11921
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="TR ULUSAL-UHD",ATV HD
 http://hdlocal.de:8080/live/bktv.xyzcxdf122/zMCeYMcWShzu11/10153.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV HEVC
@@ -919,33 +919,23 @@ http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11618
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/67559.ts
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11951
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1+
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/430
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn1.m3u8
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11951
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/431
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11952
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/431
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
 https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin9yerihep10sayende.cfd/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 3
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/432
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11953
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/433
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11954
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/434
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/435
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/93809
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
-http://xplatinmedia.com:8080/geniptvservice/HaFwyNfHs6LFSMcxPJP/93810
+http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11955
 
 #EXTM3U
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON
