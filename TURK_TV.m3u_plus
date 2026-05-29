@@ -1073,741 +1073,434 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTM3U
-
-
-com:8880/live:persian_share/Hs6guU9ziF/49316
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX BiLiM KURGU 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX BiLiM KURGU 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49317
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49318
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49319
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49320
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49321
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49322
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49323
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49324
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 8" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX ACTiON 9" tvg-logo="" group-title="TR: SINEMA",TR: BOX ACTiON 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49326
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX GERiLiM 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX GERiLiM 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49327
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX GERiLiM 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX GERiLiM 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49328
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX GERiLiM 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX GERiLiM 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49329
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX GERiLiM 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX GERiLiM 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49330
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX GERiLiM 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX GERiLiM 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49331
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49332
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49333
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49334
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49335
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49336
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49337
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49338
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 8" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49339
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX DRAM 9" tvg-logo="" group-title="TR: SINEMA",TR: BOX DRAM 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49340
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49341
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49342
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49343
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49344
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49345
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49346
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49347
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 8" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49348
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX FANTASTiC 9" tvg-logo="" group-title="TR: SINEMA",TR: BOX FANTASTiC 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49349
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49350
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49351
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49352
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49353
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49354
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KORKU 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX KORKU 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49355
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49356
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49357
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49358
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49359
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49360
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX MACERA 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX MACERA 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49361
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 1" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49362
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 2" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49363
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 3" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49364
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 4" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49365
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 5" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49366
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 6" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49367
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 7" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49368
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 8" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49369
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX COMEDY 9" tvg-logo="" group-title="TR: SINEMA",TR: BOX COMEDY 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49370
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1001" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA 1001
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48906
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1002" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA 1002
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48907
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 2" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48908
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA AKSİYON
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48909
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON 2" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA AKSİYON 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48910
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA AİLE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48911
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE 2" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA AİLE 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48912
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA KOMEDİ
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48913
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ 2" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA KOMEDİ 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48914
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA TV" tvg-logo="" group-title="TR: SINEMA",TR: SİNEMA TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48915
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX" tvg-logo="" group-title="TR: SINEMA",TR: FILMBOX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48916
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD" tvg-logo="" group-title="TR: SINEMA",TR: FOX CRIME HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48917
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE CLASSIC" tvg-logo="" group-title="TR: SINEMA",TR: MOVIE CLASSIC
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48918
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TURK" tvg-logo="" group-title="TR: SINEMA",TR: MOVIE TURK
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48919
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI PREMIUM" tvg-logo="" group-title="TR: SINEMA",TR: DIZI PREMIUM
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48920
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART MAX" tvg-logo="" group-title="TR: SINEMA",TR: DIZISMART MAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48921
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="" group-title="TR: BELGESELL",TR: TRT BELGESEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="TR: BELGESELL",TR: History Channel HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49416
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE/HISTORY CH. HD" tvg-logo="" group-title="TR: BELGESELL",TR: VIASAT NATURE/HISTORY CH. HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49417
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING" tvg-logo="" group-title="TR: BELGESELL",TR: DA VINCI LEARNING
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49418
-#EXTINF:-1 tvg-id="" tvg-name="TR: IDX DISCOVERY" tvg-logo="" group-title="TR: BELGESELL",TR: IDX DISCOVERY
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49419
-#EXTINF:-1 tvg-id="" tvg-name="TR: DRT DENIZLI" tvg-logo="" group-title="TR: BELGESELL",TR: DRT DENIZLI
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49422
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX BELGESEL 1" tvg-logo="" group-title="TR: BELGESELL",TR: BOX BELGESEL 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49423
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX BELGESEL 2" tvg-logo="" group-title="TR: BELGESELL",TR: BOX BELGESEL 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49424
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" tvg-logo="" group-title="TR: BELGESELL",TR: VIASAT EXPLORE HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49425
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="" group-title="TR: BELGESELL",TR: VIASAT HISTORY HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49426
-#EXTINF:-1 tvg-id="" tvg-name="beIN IZ HD" tvg-logo="" group-title="TR: BELGESELL",beIN IZ HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427
-#EXTINF:-1 tvg-id="" tvg-name="beIN GURME HD" tvg-logo="" group-title="TR: BELGESELL",beIN GURME HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="TR: BELGESELL",TR: DISCOVERY CHANNEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE" tvg-logo="" group-title="TR: BELGESELL",TR: DISCOVERY SCIENCE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD" tvg-logo="" group-title="TR: BELGESELL",TR: NAT GEO HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="TR: BELGESELL",TR: NAT GEO WILD HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48955
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nature Escape" tvg-logo="" group-title="TR: BELGESELL",TR: Nature Escape
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48956
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR" tvg-logo="" group-title="TR: BELGESELL",TR: OUTDOOR
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48957
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRACE URBAN" tvg-logo="" group-title="TR: BELGESELL",TR: TRACE URBAN
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48958
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX" tvg-logo="" group-title="TR: BELGESELL",TR: DOCUBOX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48959
-#EXTINF:-1 tvg-id="" tvg-name="TR: FASHION TV" tvg-logo="" group-title="TR: BELGESELL",TR: FASHION TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48960
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR: BELGESELL",TR: DMAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="TR: BELGESELL",TR: TGRT BELGESEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48962
-#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo="" group-title="TR: HABERR",CNN TURK HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49261
-#EXTINF:-1 tvg-id="" tvg-name="CNN TURK SD" tvg-logo="" group-title="TR: HABERR",CNN TURK SD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49262
-#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD HD" tvg-logo="" group-title="TR: HABERR",TRT WORLD HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49263
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TR: HABERR",TR: TELE 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
-#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="TR: HABERR",HABER GLOBAL HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="TR: HABERR",TR: TRT HABER HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48925
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER" tvg-logo="" group-title="TR: HABERR",TR: TRT HABER
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48926
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HD" tvg-logo="" group-title="TR: HABERR",TR: TRT WORLD HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48927
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV HD" tvg-logo="" group-title="TR: HABERR",TR: 24 TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48928
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TR: HABERR",TR: A HABER HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER" tvg-logo="" group-title="TR: HABERR",TR: A HABER
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48930
-#EXTINF:-1 tvg-id="" tvg-name="TR: A News HD" tvg-logo="" group-title="TR: HABERR",TR: A News HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48931
-#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA HD" tvg-logo="" group-title="TR: HABERR",TR: A PARA HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48932
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK HD" tvg-logo="" group-title="TR: HABERR",TR: HABERTURK HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48933
-#EXTINF:-1 tvg-id="" tvg-name="TR: Habertürk" tvg-logo="" group-title="TR: HABERR",TR: Habertürk
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48934
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="TR: HABERR",TR: NTV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV" tvg-logo="" group-title="TR: HABERR",TR: NTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48936
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TR: HABERR",TR: BBC EARTH
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo="" group-title="TR: HABERR",TR: TGRT HABER
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48938
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Para" tvg-logo="" group-title="TR: HABERR",TR: A Para
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48939
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="DE: KINDER",DE: Boomerang HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31410
-#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network HD" tvg-logo="" group-title="DE: KINDER",DE: Cartoon Network HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31411
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel FHD" tvg-logo="" group-title="DE: KINDER",DE: Disney Channel FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31412
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD HD" tvg-logo="" group-title="DE: KINDER",DE: Disney XD HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31413
-#EXTINF:-1 tvg-id="" tvg-name="DE: Junior HD" tvg-logo="" group-title="DE: KINDER",DE: Junior HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31414
-#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA HD" tvg-logo="" group-title="DE: KINDER",DE: KIKA HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31415
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nick HD" tvg-logo="" group-title="DE: KINDER",DE: Nick HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31416
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nickelodeon  HD" tvg-logo="" group-title="DE: KINDER",DE: Nickelodeon  HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31417
-#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL FHD" tvg-logo="" group-title="DE: KINDER",DE: Super RTL FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31418
-#EXTINF:-1 tvg-id="" tvg-name="DE: Toggo Plus HD" tvg-logo="" group-title="DE: KINDER",DE: Toggo Plus HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31419
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN 1 DE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51542
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN 2 DE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51543
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ES" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN 1 ES
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51544
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ES" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN 2 ES
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51545
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 1" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51546
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 2" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51547
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 3" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51548
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 4" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51549
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 5" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51550
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 6" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51551
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 7" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51552
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 8" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51553
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 9" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51554
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 10" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 10
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51555
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 11" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 11
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51556
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 12" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 12
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51557
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 13" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 13
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51558
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 14" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 14
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51559
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 15" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 15
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51560
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 16" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 16
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51561
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 17" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 17
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51562
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 18" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 18
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51563
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 19" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 19
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51564
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 20" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 20
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51565
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 21" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 21
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51566
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 22" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 22
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51567
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 23" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 23
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51568
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 24" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 24
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51569
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 25" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 25
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51570
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 26" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 26
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51571
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 27" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 27
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51572
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 28" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 28
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51573
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 29" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 29
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51574
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE | Event 30" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DAZN DE | Event 30
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/51575
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 1" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44246
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 2" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44247
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 3" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44248
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 4" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44249
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 5" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44250
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 6" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44251
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 7" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44252
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 8" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44253
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 9" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44254
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 10" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 10
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44255
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 11" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 11
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44256
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 12" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 12
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44257
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 13" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 13
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44258
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 14" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 14
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44259
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 15" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 15
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44260
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 16" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 16
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44261
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 17" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 17
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44262
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 18" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 18
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44263
-#EXTINF:-1 tvg-id="" tvg-name="DE:. RTL EVENT 19" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. RTL EVENT 19
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44264
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport  UHD DE" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport  UHD DE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44265
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Bundesliga UHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Bundesliga UHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44266
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44267
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44268
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 3 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 3 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44269
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 4 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 4 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44270
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 5 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 5 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44271
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 6 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 6 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44272
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 7 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 7 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44273
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 8 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 8 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44274
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 9 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 9 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44275
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport 10 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport 10 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44276
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44277
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44278
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44279
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 3 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 3 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44280
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 4 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 4 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44281
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 5 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 5 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44282
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 6 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 6 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44283
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 7 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 7 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44284
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 8 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 8 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44285
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 9 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 9 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44286
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Bundesliga 10 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Bundesliga 10 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44287
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Dazn 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Dazn 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44288
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Dazn 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Dazn 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44289
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Eurosport 1 DE" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Eurosport 1 DE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44290
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Eurosport 2 DE" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Eurosport 2 DE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44291
-#EXTINF:-1 tvg-id="" tvg-name="DE:. SPORT 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. SPORT 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44292
-#EXTINF:-1 tvg-id="" tvg-name="DE:. SPORT 1+ HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. SPORT 1+ HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44293
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44294
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44295
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 3 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 3 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44296
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 4 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 4 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44297
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 5 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 5 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44298
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 6 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 6 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44299
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 7 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 7 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44300
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 8 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 8 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44301
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 9 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 9 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44302
-#EXTINF:-1 tvg-id="" tvg-name="DE:. DE:. DYN Sport 10 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. DE:. DYN Sport 10 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44303
-#EXTINF:-1 tvg-id="" tvg-name="DE:. MOTORVISION TV HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. MOTORVISION TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44304
-#EXTINF:-1 tvg-id="" tvg-name="DE:. MS Sport" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. MS Sport
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44305
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport F1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport F1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44306
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Golf HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Golf HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44307
-#EXTINF:-1 tvg-id="" tvg-name="DE:. MagentaSport HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. MagentaSport HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44308
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Servus TV Motorsport" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Servus TV Motorsport
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44309
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Mix HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Mix HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44310
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport News HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport News HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44311
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Premier League HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Premier League HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44312
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Tennis HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Tennis HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44313
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sky Sport Top Event HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sky Sport Top Event HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44314
-#EXTINF:-1 tvg-id="" tvg-name="DE:. eSports 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. eSports 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44315
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sportdigital Fussball HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sportdigital Fussball HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44316
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 1" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44317
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 2" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44318
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 3" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44319
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 4" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44320
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 5" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44321
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 6" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44322
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 7" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44323
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 8" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44324
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 9" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44325
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 10" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 10
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44326
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 11" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 11
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44327
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 12" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 12
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44328
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 13" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 13
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44329
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 14" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 14
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44330
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 15" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 15
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44331
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 16" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 16
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44332
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 17" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 17
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44333
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 18" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 18
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44334
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 19" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 19
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44335
-#EXTINF:-1 tvg-id="" tvg-name="DE:. AMAZON DE | Event 20" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. AMAZON DE | Event 20
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44336
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 1 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 1 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44337
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 2 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 2 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44338
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 3 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 3 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44339
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 4 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 4 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44340
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 5 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 5 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44341
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 6 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 6 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44342
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 7 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 7 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44343
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 8 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 8 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44344
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 9 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 9 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44345
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 10 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 10 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44346
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 11 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 11 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44347
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 12 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 12 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44348
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 13 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 13 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44349
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 14 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 14 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44350
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 15 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 15 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44351
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 16 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 16 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44352
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 17 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 17 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44353
-#EXTINF:-1 tvg-id="" tvg-name="DE:. Sport 18 myTeamTV" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE:. Sport 18 myTeamTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/44354
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 10 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31337
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 8 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 8 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31345
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 7 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 7 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31344
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 6 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 6 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31343
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 5 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 5 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31342
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 4 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 4 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31341
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 3 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 3 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31340
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31339
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Frauen Bundesliga 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 1 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31338
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 1 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31328
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 9 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 9 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31336
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 8 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 8 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31335
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 7 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 7 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31334
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 6 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 6 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31333
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 5 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 5 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31332
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 4 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 4 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31331
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 3 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 3 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31330
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 2 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31329
-#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: n-tv FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31302
-#EXTINF:-1 tvg-id="" tvg-name="DE: SR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31310
-#EXTINF:-1 tvg-id="" tvg-name="DE: HR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: HR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31309
-#EXTINF:-1 tvg-id="" tvg-name="DE: BR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: BR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31308
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ARTE HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31307
-#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Spiegel TV Wissen HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31306
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tageschau 24 HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Tageschau 24 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31305
-#EXTINF:-1 tvg-id="" tvg-name="DE: Servus TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Servus TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31304
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: N24 Doku HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31303
-#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: MDR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31311
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Welt der Wunder HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31301
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Welt HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31300
-#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Spiegel Geschichte HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31299
-#EXTINF:-1 tvg-id="" tvg-name="DE: DOXX HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: DOXX HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31298
-#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Phoenix HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31297
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Nat Geo Wild FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31296
-#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Nat Geo FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31295
-#EXTINF:-1 tvg-id="" tvg-name="DE: History FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: History FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31294
-#EXTINF:-1 tvg-id="" tvg-name="DE: CNBC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: CNBC HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31319
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: MTV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31327
-#EXTINF:-1 tvg-id="" tvg-name="DE: Deutsches Musik Fernsehen HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Deutsches Musik Fernsehen HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31326
-#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Deluxe Music HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31325
-#EXTINF:-1 tvg-id="" tvg-name="DE: Classica HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Classica HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31324
-#EXTINF:-1 tvg-id="" tvg-name="DE: Waidwerk" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Waidwerk
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31323
-#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV" tvg-logo="" group-title="DE: DEUTSCH TV",DE: HGTV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31322
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pearl TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pearl TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31321
-#EXTINF:-1 tvg-id="" tvg-name="DE: Heimatkanal HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Heimatkanal HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31320
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: DMAX FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31293
-#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS GERMAN HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: EURONEWS GERMAN HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31318
-#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Comedy Central HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31317
-#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainment FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: E! Entertainment FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31316
-#EXTINF:-1 tvg-id="" tvg-name="DE: Goldstar TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Goldstar TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31315
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SWR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31314
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: WDR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: NDR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31312
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31267
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat.1 Gold FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31275
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat.1 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31274
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Living HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31273
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Plus HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Plus HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31272
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Crime FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31271
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Passion FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31270
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Nitro FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31269
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTLII FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTLII FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Emotions HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat 1 Emotions HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31276
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Fun FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pro 7 Fun FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31266
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 MAXX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pro7 MAXX FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31265
-#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ProSieben FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31264
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Kabel Eins Doku HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31263
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Classic FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Kabel 1 Classic FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31262
-#EXTINF:-1 tvg-id="" tvg-name="DE: kabel eins HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: kabel eins HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31261
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31260
-#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe Serie HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Anixe Serie HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31284
-#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Discovery Channel FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31292
-#EXTINF:-1 tvg-id="" tvg-name="DE: Universal TV FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Universal TV FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31291
-#EXTINF:-1 tvg-id="" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Romance TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31290
-#EXTINF:-1 tvg-id="" tvg-name="DE: QVC 2 HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: QVC 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31289
-#EXTINF:-1 tvg-id="" tvg-name="DE: QVC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: QVC HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31288
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: TLC HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31287
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ONE HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31286
-#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: AXN HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31285
-#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Das Erste FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31259
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3sat HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: 3sat HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31283
-#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SIXX FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31282
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF Info HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31281
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF neo FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF neo FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31280
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOXup HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: VOXup HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31279
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: VOX FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5 FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Tele 5 FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 17" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 17
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31436
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 32 HITS" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 32 HITS
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31451
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 31 (Krimi)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 31 (Krimi)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31450
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 30 (Action)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 30 (Action)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31449
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 29 (Drama)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 29 (Drama)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31448
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 28 (Science-Fiction)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 28 (Science-Fiction)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31447
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 27 (Animation)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 27 (Animation)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31446
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 26 (Familie)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 26 (Familie)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31445
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 25 (Comedy)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 25 (Comedy)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31444
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 24 (Horror)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 24 (Horror)
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31443
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 23" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 23
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31442
-
-
+#EXTINF:-1 tvg-id="" tvg-name="==== TURKEY | TR ====" tvg-logo="" group-title="TURKEY | TR",==== TURKEY | TR ====
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/38580
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT 1 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111257
+#EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 FHD | TR" tvg-logo="" group-title="TURKEY | TR",TRT 1 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111258
+#EXTINF:-1 tvg-id="TRT.HABER.tr" tvg-name="TRT Haber HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Haber HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111296
+#EXTINF:-1 tvg-id="TRT.HABER.HD.tr" tvg-name="TRT Haber FHD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Haber FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111295
+#EXTINF:-1 tvg-id="SHOW.TV.tr" tvg-name="Show TV | TR" tvg-logo="" group-title="TURKEY | TR",Show TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111259
+#EXTINF:-1 tvg-id="Show.Turk.al" tvg-name="Show Turk | TR" tvg-logo="" group-title="TURKEY | TR",Show Turk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111261
+#EXTINF:-1 tvg-id="Show.Maxx.al" tvg-name="Show Max | TR" tvg-logo="" group-title="TURKEY | TR",Show Max | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111282
+#EXTINF:-1 tvg-id="KANAL.D.tr" tvg-name="Kanal D HD | TR" tvg-logo="" group-title="TURKEY | TR",Kanal D HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111262
+#EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="Kanal D FHD | TR" tvg-logo="" group-title="TURKEY | TR",Kanal D FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111263
+#EXTINF:-1 tvg-id="" tvg-name="Euro D | TR" tvg-logo="" group-title="TURKEY | TR",Euro D | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111264
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD | TR" tvg-logo="" group-title="TURKEY | TR",ATV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111265
+#EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="ATV FHD | TR" tvg-logo="" group-title="TURKEY | TR",ATV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111266
+#EXTINF:-1 tvg-id="STAR.TV.tr" tvg-name="Star HD | TR" tvg-logo="" group-title="TURKEY | TR",Star HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111268
+#EXTINF:-1 tvg-id="STAR.TV.tr" tvg-name="Star FHD | TR" tvg-logo="" group-title="TURKEY | TR",Star FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111269
+#EXTINF:-1 tvg-id="" tvg-name="Euro Star | TR" tvg-logo="" group-title="TURKEY | TR",Euro Star | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111270
+#EXTINF:-1 tvg-id="FOX.tr" tvg-name="Fox HD | TR" tvg-logo="" group-title="TURKEY | TR",Fox HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111271
+#EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="Fox FHD | TR" tvg-logo="" group-title="TURKEY | TR",Fox FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111272
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD | TR" tvg-logo="" group-title="TURKEY | TR",TV8 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111273
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 FHD | TR" tvg-logo="" group-title="TURKEY | TR",TV8 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111274
+#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="Kanal 7 HD | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 7 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111275
+#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="Kanal 7 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 7 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111276
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7 Avrupa | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 7 Avrupa | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111277
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 15 | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 15 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111278
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema Komedi FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111279
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD | TR" tvg-logo="" group-title="TURKEY | TR",Fox Life HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111280
+#EXTINF:-1 tvg-id="" tvg-name="Flash TV | TR" tvg-logo="" group-title="TURKEY | TR",Flash TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111281
+#EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="Beyaz TV | TR" tvg-logo="" group-title="TURKEY | TR",Beyaz TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111283
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD | TR" tvg-logo="" group-title="TURKEY | TR",TV 8.5 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111286
+#EXTINF:-1 tvg-id="" tvg-name="BJK TV | TR" tvg-logo="" group-title="TURKEY | TR",BJK TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111287
+#EXTINF:-1 tvg-id="" tvg-name="GS TV | TR" tvg-logo="" group-title="TURKEY | TR",GS TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111288
+#EXTINF:-1 tvg-id="" tvg-name="Fenerbahce | TR" tvg-logo="" group-title="TURKEY | TR",Fenerbahce | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111289
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Spor HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111290
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor FHD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Spor FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111291
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2 FHD | TR" tvg-logo="" group-title="TURKEY | TR",TRT SPOR 2 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111292
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT SPOR 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111293
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 3 | TR" tvg-logo="" group-title="TURKEY | TR",TRT SPOR 3 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111294
+#EXTINF:-1 tvg-id="A.HABER.HD.tr" tvg-name="A Haber FHD | TR" tvg-logo="" group-title="TURKEY | TR",A Haber FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111297
+#EXTINF:-1 tvg-id="A.HABER.tr" tvg-name="A Haber HD | TR" tvg-logo="" group-title="TURKEY | TR",A Haber HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111298
+#EXTINF:-1 tvg-id="24.TV.tr" tvg-name="24 TV | TR" tvg-logo="" group-title="TURKEY | TR",24 TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111299
+#EXTINF:-1 tvg-id="360.HD.tr" tvg-name="360 TV | TR" tvg-logo="" group-title="TURKEY | TR",360 TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111300
+#EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="A2 | TR" tvg-logo="" group-title="TURKEY | TR",A2 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111301
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT FHD | TR" tvg-logo="" group-title="TURKEY | TR",Bloomberg HT FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111302
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV | TR" tvg-logo="" group-title="TURKEY | TR",Bloomberg TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111303
+#EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="CNN Turk FHD | TR" tvg-logo="" group-title="TURKEY | TR",CNN Turk FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111304
+#EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="CNN Turk HD | TR" tvg-logo="" group-title="TURKEY | TR",CNN Turk HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111305
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber HD | TR" tvg-logo="" group-title="TURKEY | TR",TGRT Haber HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111306
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber | TR" tvg-logo="" group-title="TURKEY | TR",TGRT Haber | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111307
+#EXTINF:-1 tvg-id="HABERTÜRK.tr" tvg-name="Haber Turk HD | TR" tvg-logo="" group-title="TURKEY | TR",Haber Turk HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111308
+#EXTINF:-1 tvg-id="" tvg-name="HaberTurk FHD | TR" tvg-logo="" group-title="TURKEY | TR",HaberTurk FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111309
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD | TR" tvg-logo="" group-title="TURKEY | TR",NTV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111310
+#EXTINF:-1 tvg-id="" tvg-name="NTV Haber FHD | TR" tvg-logo="" group-title="TURKEY | TR",NTV Haber FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111311
+#EXTINF:-1 tvg-id="" tvg-name="beIN IZ TV | TR" tvg-logo="" group-title="TURKEY | TR",beIN IZ TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111312
+#EXTINF:-1 tvg-id="TRT.BELGESEL.HD.tr" tvg-name="TRT Belgesel HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Belgesel HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111313
+#EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-name="TRT World | TR" tvg-logo="" group-title="TURKEY | TR",TRT World | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111314
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD | TR" tvg-logo="" group-title="TURKEY | TR",Animal Planet HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111315
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile 2 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema Aile 2 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111316
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | TR" tvg-logo="" group-title="TURKEY | TR",Discovery Channel | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111317
+#EXTINF:-1 tvg-id="" tvg-name="Discovery IDX HD | TR" tvg-logo="" group-title="TURKEY | TR",Discovery IDX HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111318
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ShowCase HD | TR" tvg-logo="" group-title="TURKEY | TR",Discovery ShowCase HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111319
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD | TR" tvg-logo="" group-title="TURKEY | TR",History Channel HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111320
+#EXTINF:-1 tvg-id="" tvg-name="IDMan TV | TR" tvg-logo="" group-title="TURKEY | TR",IDMan TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111321
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD | TR" tvg-logo="" group-title="TURKEY | TR",Nat Geo HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111322
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People | TR" tvg-logo="" group-title="TURKEY | TR",Nat Geo People | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111323
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD | TR" tvg-logo="" group-title="TURKEY | TR",Nat Geo Wild HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111324
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV | TR" tvg-logo="" group-title="TURKEY | TR",Yaban TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111325
+#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk | TR" tvg-logo="" group-title="TURKEY | TR",TRT Cocuk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111326
+#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk FHD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Cocuk FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111327
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior | TR" tvg-logo="" group-title="TURKEY | TR",Disney Junior | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111328
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | TR" tvg-logo="" group-title="TURKEY | TR",Disney XD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111329
+#EXTINF:-1 tvg-id="" tvg-name="Minika Cocuk HD | TR" tvg-logo="" group-title="TURKEY | TR",Minika Cocuk HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111330
+#EXTINF:-1 tvg-id="" tvg-name="Minika Cocuk | TR" tvg-logo="" group-title="TURKEY | TR",Minika Cocuk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111331
+#EXTINF:-1 tvg-id="" tvg-name="Minika Go HD | TR" tvg-logo="" group-title="TURKEY | TR",Minika Go HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111332
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR | TR" tvg-logo="" group-title="TURKEY | TR",Nick JR | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111333
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD | TR" tvg-logo="" group-title="TURKEY | TR",Nickelodeon HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111334
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV | TR" tvg-logo="" group-title="TURKEY | TR",Baby TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111335
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD | TR" tvg-logo="" group-title="TURKEY | TR",Boomerang HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111336
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD | TR" tvg-logo="" group-title="TURKEY | TR",Cartoon Network HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111337
+#EXTINF:-1 tvg-id="" tvg-name="Salon 1 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Salon 1 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111338
+#EXTINF:-1 tvg-id="" tvg-name="Salon 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",Salon 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111339
+#EXTINF:-1 tvg-id="" tvg-name="Salon 3 HD | TR" tvg-logo="" group-title="TURKEY | TR",Salon 3 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111340
+#EXTINF:-1 tvg-id="" tvg-name="Sinema 1002 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema 1002 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111341
+#EXTINF:-1 tvg-id="" tvg-name="Dizi Smart Max HD | TR" tvg-logo="" group-title="TURKEY | TR",Dizi Smart Max HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111342
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema TV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111343
+#EXTINF:-1 tvg-id="" tvg-name="Arti TV | TR" tvg-logo="" group-title="TURKEY | TR",Arti TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111344
+#EXTINF:-1 tvg-id="" tvg-name="Kral POP HD | TR" tvg-logo="" group-title="TURKEY | TR",Kral POP HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111345
+#EXTINF:-1 tvg-id="" tvg-name="Kral POP TV FHD | TR" tvg-logo="" group-title="TURKEY | TR",Kral POP TV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111346
+#EXTINF:-1 tvg-id="" tvg-name="Kral | TR" tvg-logo="" group-title="TURKEY | TR",Kral | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111347
+#EXTINF:-1 tvg-id="" tvg-name="Kral TV FHD | TR" tvg-logo="" group-title="TURKEY | TR",Kral TV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111348
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Turk | TR" tvg-logo="" group-title="TURKEY | TR",NR1 Turk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111349
+#EXTINF:-1 tvg-id="" tvg-name="DMAX FHD | TR" tvg-logo="" group-title="TURKEY | TR",DMAX FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111350
+#EXTINF:-1 tvg-id="" tvg-name="Dream TV | TR" tvg-logo="" group-title="TURKEY | TR",Dream TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111351
+#EXTINF:-1 tvg-id="" tvg-name="Dream | TRuk | TR" tvg-logo="" group-title="TURKEY | TR",Dream | TRuk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111352
+#EXTINF:-1 tvg-id="" tvg-name="TRT Muzik HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT Muzik HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111353
+#EXTINF:-1 tvg-id="" tvg-name="Dost TV | TR" tvg-logo="" group-title="TURKEY | TR",Dost TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111354
+#EXTINF:-1 tvg-id="" tvg-name="Adana TV | TR" tvg-logo="" group-title="TURKEY | TR",Adana TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111355
+#EXTINF:-1 tvg-id="" tvg-name="Aksu TV | TR" tvg-logo="" group-title="TURKEY | TR",Aksu TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111356
+#EXTINF:-1 tvg-id="" tvg-name="BRT 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",BRT 1 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111357
+#EXTINF:-1 tvg-id="" tvg-name="BRT 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",BRT 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111358
+#EXTINF:-1 tvg-id="" tvg-name="BenguTurk TV | TR" tvg-logo="" group-title="TURKEY | TR",BenguTurk TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111359
+#EXTINF:-1 tvg-id="" tvg-name="Cay TV | TR" tvg-logo="" group-title="TURKEY | TR",Cay TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111360
+#EXTINF:-1 tvg-id="" tvg-name="Cem TV | TR" tvg-logo="" group-title="TURKEY | TR",Cem TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111361
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning HD | TR" tvg-logo="" group-title="TURKEY | TR",Da Vinci Learning HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111362
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile 1 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema Aile 1 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111363
+#EXTINF:-1 tvg-id="" tvg-name="Genc TV HD | TR" tvg-logo="" group-title="TURKEY | TR",Genc TV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111364
+#EXTINF:-1 tvg-id="" tvg-name="Halk TV | TR" tvg-logo="" group-title="TURKEY | TR",Halk TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111365
+#EXTINF:-1 tvg-id="" tvg-name="Istanbul TV | TR" tvg-logo="" group-title="TURKEY | TR",Istanbul TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111366
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 24 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 24 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111367
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 24 | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 24 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111368
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 26 | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 26 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111369
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3 | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 3 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111370
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 58 | TR" tvg-logo="" group-title="TURKEY | TR",Kanal 58 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111371
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Karadeniz TV | TR" tvg-logo="" group-title="TURKEY | TR",Mavi Karadeniz TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111372
+#EXTINF:-1 tvg-id="" tvg-name="Kent TV | TR" tvg-logo="" group-title="TURKEY | TR",Kent TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111373
+#EXTINF:-1 tvg-id="" tvg-name="Kon TV | TR" tvg-logo="" group-title="TURKEY | TR",Kon TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111374
+#EXTINF:-1 tvg-id="" tvg-name="Lalegul TV | TR" tvg-logo="" group-title="TURKEY | TR",Lalegul TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111375
+#EXTINF:-1 tvg-id="" tvg-name="Planet Turk | TR" tvg-logo="" group-title="TURKEY | TR",Planet Turk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111376
+#EXTINF:-1 tvg-id="" tvg-name="Power Turk HD | TR" tvg-logo="" group-title="TURKEY | TR",Power Turk HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111377
+#EXTINF:-1 tvg-id="" tvg-name="Semerkant TV | TR" tvg-logo="" group-title="TURKEY | TR",Semerkant TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111378
+#EXTINF:-1 tvg-id="" tvg-name="TRT Diyanet | TR" tvg-logo="" group-title="TURKEY | TR",TRT Diyanet | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111379
+#EXTINF:-1 tvg-id="" tvg-name="TRT Turk | TR" tvg-logo="" group-title="TURKEY | TR",TRT Turk | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111380
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 FHD | TR" tvg-logo="" group-title="TURKEY | TR",TV 2 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111381
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",TV 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111382
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 | TR" tvg-logo="" group-title="TURKEY | TR",TV 4 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111383
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 | TR" tvg-logo="" group-title="TURKEY | TR",TV 5 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111384
+#EXTINF:-1 tvg-id="" tvg-name="TV EM | TR" tvg-logo="" group-title="TURKEY | TR",TV EM | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111385
+#EXTINF:-1 tvg-id="" tvg-name="TV Kayser | TR" tvg-logo="" group-title="TURKEY | TR",TV Kayser | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111386
+#EXTINF:-1 tvg-id="" tvg-name="Ulke TV FHD | TR" tvg-logo="" group-title="TURKEY | TR",Ulke TV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111387
+#EXTINF:-1 tvg-id="" tvg-name="Ulke TV | TR" tvg-logo="" group-title="TURKEY | TR",Ulke TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111388
+#EXTINF:-1 tvg-id="" tvg-name="Tele 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",Tele 1 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111389
+#EXTINF:-1 tvg-id="" tvg-name="SLTV YESILCAM 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",SLTV YESILCAM 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111390
+#EXTINF:-1 tvg-id="" tvg-name="SLTV YESILCAM 3 HD | TR" tvg-logo="" group-title="TURKEY | TR",SLTV YESILCAM 3 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111391
+#EXTINF:-1 tvg-id="" tvg-name="YESiLCAM HD | TR" tvg-logo="" group-title="TURKEY | TR",YESiLCAM HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111392
+#EXTINF:-1 tvg-id="" tvg-name="SLTV KEMAL SUNAL | TR" tvg-logo="" group-title="TURKEY | TR",SLTV KEMAL SUNAL | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111393
+#EXTINF:-1 tvg-id="" tvg-name="SLTV KEMAL SUNAL 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",SLTV KEMAL SUNAL 1 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111394
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry FHD | TR" tvg-logo="" group-title="TURKEY | TR",Tom And Jerry FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111395
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD | TR" tvg-logo="" group-title="TURKEY | TR",Kemal Sunal HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111396
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Yerli TV | TR" tvg-logo="" group-title="TURKEY | TR",Sinema Yerli TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111397
+#EXTINF:-1 tvg-id="" tvg-name="iFlix Animasyon FHD | TR VIP" tvg-logo="" group-title="TURKEY | TR",iFlix Animasyon FHD | TR VIP
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111398
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT AVAZ HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111399
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL | TR" tvg-logo="" group-title="TURKEY | TR",TGRT BELGESEL | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111400
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA | TR" tvg-logo="" group-title="TURKEY | TR",KANAL AVRUPA | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111401
+#EXTINF:-1 tvg-id="" tvg-name="TLC | TR" tvg-logo="" group-title="TURKEY | TR",TLC | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111402
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD | TR" tvg-logo="" group-title="TURKEY | TR",TLC HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111403
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD | TR" tvg-logo="" group-title="TURKEY | TR",TLC FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111404
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox FHD | TR" tvg-logo="" group-title="TURKEY | TR",FilmBox FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111405
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox YERLI HD | TR" tvg-logo="" group-title="TURKEY | TR",Filmbox YERLI HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111406
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Kemal Sunal HD | TR" tvg-logo="" group-title="TURKEY | TR",FilmBox Kemal Sunal HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111407
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 5 HD | TR" tvg-logo="" group-title="TURKEY | TR",FILMBOX SINEVIZYON 5 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111408
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 6 HD | TR" tvg-logo="" group-title="TURKEY | TR",FILMBOX SINEVIZYON 6 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111409
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 7 HD | TR" tvg-logo="" group-title="TURKEY | TR",FILMBOX SINEVIZYON 7 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111410
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 8 HD | TR" tvg-logo="" group-title="TURKEY | TR",FILMBOX SINEVIZYON 8 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111411
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXX KEMAL SUNAL TV FHD | TR" tvg-logo="" group-title="TURKEY | TR",CINEMAXX KEMAL SUNAL TV FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111412
+#EXTINF:-1 tvg-id="" tvg-name="Movie Max Vizyon 4 HD | TR" tvg-logo="" group-title="TURKEY | TR",Movie Max Vizyon 4 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111413
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART TURK FHD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART TURK FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111414
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PREMIUM 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART PREMIUM 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111415
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PREMIUM HD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART PREMIUM HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111416
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART FAMILY FHD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART FAMILY FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111417
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART CLASSIC FHD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART CLASSIC FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111418
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART ACTION HD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART ACTION HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111419
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART CLASSIC HD | TR" tvg-logo="" group-title="TURKEY | TR",MOVIE SMART CLASSIC HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111420
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV 1 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema TV 1 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111421
+#EXTINF:-1 tvg-id="" tvg-name="MovieSmart Gold HD | TR" tvg-logo="" group-title="TURKEY | TR",MovieSmart Gold HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111422
+#EXTINF:-1 tvg-id="" tvg-name="Dinamik Box HD | TR" tvg-logo="" group-title="TURKEY | TR",Dinamik Box HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111423
+#EXTINF:-1 tvg-id="" tvg-name="Sinema 1001 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Sinema 1001 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111424
+#EXTINF:-1 tvg-id="" tvg-name="MovieSmart Premium 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",MovieSmart Premium 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111425
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",beIN Box Office 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111426
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Action HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Action HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111427
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Family HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Family HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111428
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Premiere 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Premiere 1 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111429
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Premiere 2 HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Premiere 2 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111430
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Stars HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Stars HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111431
+#EXTINF:-1 tvg-id="" tvg-name="beINMovies Turk HD | TR" tvg-logo="" group-title="TURKEY | TR",beINMovies Turk HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111432
+#EXTINF:-1 tvg-id="" tvg-name="DIZI SMART PREMIUM HD | TR" tvg-logo="" group-title="TURKEY | TR",DIZI SMART PREMIUM HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111433
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 2 FHD | TR" tvg-logo="" group-title="TURKEY | TR",SINEMA AKSIYON 2 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111434
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 1 FHD | TR" tvg-logo="" group-title="TURKEY | TR",SINEMA AKSIYON 1 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111435
+#EXTINF:-1 tvg-id="" tvg-name="ENO ANiMASYON | TR" tvg-logo="" group-title="TURKEY | TR",ENO ANiMASYON | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111436
+#EXTINF:-1 tvg-id="" tvg-name="ENO TURK | TR" tvg-logo="" group-title="TURKEY | TR",ENO TURK | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111437
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 1 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 1 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111438
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 2 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 2 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111439
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 3 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 3 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111440
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 4 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 4 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111441
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 5 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 5 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111442
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 6 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 6 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111443
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 7 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 7 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111444
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 8 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 8 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111445
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 9 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 9 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111446
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 10 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 10 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111447
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 11 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 11 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111448
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 12 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 12 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111449
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 14 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 14 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111450
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 15 | TR" tvg-logo="" group-title="TURKEY | TR",ENO ViZYON 15 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111451
+#EXTINF:-1 tvg-id="" tvg-name="ENO WESTERN | TR" tvg-logo="" group-title="TURKEY | TR",ENO WESTERN | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111452
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Fantastik HD | TR" tvg-logo="" group-title="TURKEY | TR",FiberBox Fantastik HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111453
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Kemal Sunal HD | TR" tvg-logo="" group-title="TURKEY | TR",FiberBox Kemal Sunal HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111454
+#EXTINF:-1 tvg-id="" tvg-name="MaGicBoX Kemal Sunal HD | TR" tvg-logo="" group-title="TURKEY | TR",MaGicBoX Kemal Sunal HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111455
+#EXTINF:-1 tvg-id="" tvg-name="EBA TV ILKOKUL | TR" tvg-logo="" group-title="TURKEY | TR",EBA TV ILKOKUL | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111456
+#EXTINF:-1 tvg-id="" tvg-name="EBA TV ORTAOKUL | TR" tvg-logo="" group-title="TURKEY | TR",EBA TV ORTAOKUL | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111457
+#EXTINF:-1 tvg-id="" tvg-name="EBA TV Lise | TR" tvg-logo="" group-title="TURKEY | TR",EBA TV Lise | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111458
+#EXTINF:-1 tvg-id="" tvg-name="Yol TV HD | TR" tvg-logo="" group-title="TURKEY | TR",Yol TV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111459
+#EXTINF:-1 tvg-id="" tvg-name="TV 42 | TR" tvg-logo="" group-title="TURKEY | TR",TV 42 | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111460
+#EXTINF:-1 tvg-id="" tvg-name="AKIT TV HD | TR" tvg-logo="" group-title="TURKEY | TR",AKIT TV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111461
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL | TR" tvg-logo="" group-title="TURKEY | TR",ULUSAL KANAL | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111462
+#EXTINF:-1 tvg-id="" tvg-name="Tv100 FHD | TR" tvg-logo="" group-title="TURKEY | TR",Tv100 FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111463
+#EXTINF:-1 tvg-id="" tvg-name="Tv100 HD | TR" tvg-logo="" group-title="TURKEY | TR",Tv100 HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111464
+#EXTINF:-1 tvg-id="" tvg-name="Turkmeneli Tv HD | TR" tvg-logo="" group-title="TURKEY | TR",Turkmeneli Tv HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111465
+#EXTINF:-1 tvg-id="" tvg-name="Turkmenistan | TR" tvg-logo="" group-title="TURKEY | TR",Turkmenistan | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111466
+#EXTINF:-1 tvg-id="" tvg-name="Turkmenistan Sport | TR" tvg-logo="" group-title="TURKEY | TR",Turkmenistan Sport | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111467
+#EXTINF:-1 tvg-id="" tvg-name="Iraqia Turkmen HD | TR" tvg-logo="" group-title="TURKEY | TR",Iraqia Turkmen HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111468
+#EXTINF:-1 tvg-id="" tvg-name="Rumeli TV | TR" tvg-logo="" group-title="TURKEY | TR",Rumeli TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111469
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü TV | TR" tvg-logo="" group-title="TURKEY | TR",Sözcü TV | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111470
+#EXTINF:-1 tvg-id="" tvg-name="Now FHD | TR" tvg-logo="" group-title="TURKEY | TR",Now FHD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111471
+#EXTINF:-1 tvg-id="" tvg-name="TV Net HD | TR" tvg-logo="" group-title="TURKEY | TR",TV Net HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111472
+#EXTINF:-1 tvg-id="" tvg-name="Can TV HD | TR" tvg-logo="" group-title="TURKEY | TR",Can TV HD | TR
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111473
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="==== GERMANY | DE ====" tvg-logo="" group-title="GERMANY & NATIONAL | DE",==== GERMANY | DE ====
