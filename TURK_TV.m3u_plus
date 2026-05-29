@@ -815,6 +815,92 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD+" group-title="TR | ULUSAL",TR: TRT 1 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=229&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" group-title="TR | ULUSAL",TR: TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD+" group-title="TR | ULUSAL",TR: ATV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=231&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" group-title="TR | ULUSAL",TR: ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD+" group-title="TR | ULUSAL",TR: STAR TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=232&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" group-title="TR | ULUSAL",TR: STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD+" group-title="TR | ULUSAL",TR: SHOW TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=233&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" group-title="TR | ULUSAL",TR: SHOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD+" group-title="TR | ULUSAL",TR: KANAL D HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=230&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" group-title="TR | ULUSAL",TR: KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX/NOW TV HD+" group-title="TR | ULUSAL",TR: FOX/NOW TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=234&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX/NOW TV HD" group-title="TR | ULUSAL",TR: FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD+" group-title="TR | ULUSAL",TR: TV 8 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=251&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" group-title="TR | ULUSAL",TR: TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 INT" group-title="TR | ULUSAL",TR: TV 8 INT
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=242&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD+" group-title="TR | ULUSAL",TR: TV 8.5 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=222&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" group-title="TR | ULUSAL",TR: TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD+" group-title="TR | ULUSAL",TR: BEYAZ TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=237&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD+" group-title="TR | ULUSAL",TR: TEVE 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=257&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD" group-title="TR | ULUSAL",TR: TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD+" group-title="TR | ULUSAL",TR: A2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=227&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" group-title="TR | ULUSAL",TR: A2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD+" group-title="TR | ULUSAL",TR: KANAL 7 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=238&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" group-title="TR | ULUSAL",TR: KANAL 7 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" group-title="TR | ULUSAL",TR: KANAL 7 AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD+" group-title="TR | ULUSAL",TR: 360 TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=254&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD+" group-title="TR | ULUSAL",TR: TV 4 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=258&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" group-title="TR | ULUSAL",TR: TGRT EU
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVI 6 HD" group-title="TR | ULUSAL",TR: TIVI 6 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII TV HD+" group-title="TR | ULUSAL",TR: TABII TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K 2160P" group-title="TR | ULUSAL",TR: TRT 4K 2160P
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=245&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" group-title="TR | ULUSAL",TR: TRT 4K
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=244&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD+" group-title="TR | ULUSAL",TR: TRT 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=215&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HD+" group-title="TR | ULUSAL",TR: TRT TURK HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ HD+" group-title="TR | ULUSAL",TR: TRT AVAZ HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" group-title="TR | ULUSAL",TR: SHOW MAX
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" group-title="TR | ULUSAL",TR: SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV AVRUPA" group-title="TR | ULUSAL",TR: ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO STAR" group-title="TR | ULUSAL",TR: EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" group-title="TR | ULUSAL",TR: EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TYT TURK" group-title="TR | ULUSAL",TR: TYT TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="==== TURKEY | TR ====" tvg-logo="" group-title="TURKEY | TR",==== TURKEY | TR ====
 http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/38580
 #EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1 HD | TR" tvg-logo="" group-title="TURKEY | TR",TRT 1 HD | TR
