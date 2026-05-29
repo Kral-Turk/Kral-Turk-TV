@@ -162,7 +162,7 @@ http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:54:FC:B1&stream=1842&e
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="TR ULUSAL-UHD",TRT 4K UHD
 http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:54:FC:B1&stream=1842&extension=ts
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="TR ULUSAL-UHD",TRT 4K FHD
-http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 HEVC
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 UHD
@@ -681,21 +681,21 @@ http://x55.dreamiptv.nl:5500/beinsport/sportkanalio/11955
 
 #EXTM3U
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/730.ts
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111334
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: NICK JR" tvg-logo="" group-title="TR: COCUK",TR: NICK JR
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/737.ts
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111333
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: DISNEY JUNIOR" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/732.ts
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111328
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA COCUK" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="TR: COCUK",TR: MINIKA COCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: MINIKA GO" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="TR: COCUK",TR: MINIKA GO
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BABYFİRST TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABYFİRST TV HD
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/729.ts
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111335
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: TRT COCUK HD" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="TR: COCUK",TR: TRT COCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="100nltv.nl" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR: COCUK",TR: BABY TV
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/14795.ts
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111335
 #EXTINF:-1 tvg-id="" tvg-name="TR: DUCK TV HD" tvg-logo="" group-title="TR: COCUK",TR: DUCK TV HD
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/115144.ts
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="TR: COCUK",Cartoon Network
@@ -711,7 +711,7 @@ http://bd33.xyz:80/BAP6MJG/TQRZ058/284685
 #EXTINF:-1 tvg-name="TR - NICKTOONS"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/NICKTOONS.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR - NICKTOONS
 http://bd33.xyz:80/BAP6MJG/TQRZ058/1099458
 #EXTINF:-1 tvg-name="TR - METROPOL TOM VE JERRY"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/metropol.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR TOM VE JERRY
-http://bd33.xyz:80/BAP6MJG/TQRZ058/284677
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111395
 #EXTINF:-1 tvg-name="TR - METROPOL BOOBA"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/metropol.png"group-title="TR: COCUK":http-referrer="":http-user-agent="",TR - KUKILI TV
 https://vod02.cdn.web.tv/xm/ms/xmmst5anr7d_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
 
@@ -762,7 +762,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?ce=3
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
@@ -773,7 +773,7 @@ http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="HABER",SOZCU TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111470
 #EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://116.202.238.88/ULKETV_TR/tracks-v1a1/index.m3u8
