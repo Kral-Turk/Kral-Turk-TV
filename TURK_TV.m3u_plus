@@ -899,813 +899,243 @@ http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
 
 #EXTM3U
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="♣♦♣ |TR| TURKEY |TR| ♣♦♣" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/turkey-flag.png" group-title="TR| TURKEY",♣♦♣ |TR| TURKEY |TR| ♣♦♣
-https://static.videezy.com/system/protected/files/000/039/491/Turkey_Flag_Loop.mp4
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="TR| TURKEY",TR: TRT 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195720
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="TR| TURKEY",TR: TRT 1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195721
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" group-title="TR| TURKEY",TR: TRT 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195724
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" group-title="TR| TURKEY",TR: TRT 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195725
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="TR: ATV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR| TURKEY",TR: ATV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195726
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR| TURKEY",TR: ATV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195728
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="TR| TURKEY",TR: SHOW TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195729
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="TR| TURKEY",TR: SHOW TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195730
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: SHOW TURK FHD" tvg-logo="https://i.imgur.com/WKkKnqE.jpeg" group-title="TR| TURKEY",TR: SHOW TURK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641273
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: SHOW MAX FHD" tvg-logo="https://i.imgur.com/EPX8rCY.jpeg" group-title="TR| TURKEY",TR: SHOW MAX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641274
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" group-title="TR| TURKEY",TR: KANAL D FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195732
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" group-title="TR| TURKEY",TR: KANAL D HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195733
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TR: TV 8 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="TR| TURKEY",TR: TV 8 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195740
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TR: TV 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="TR| TURKEY",TR: TV 8 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195741
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TV8.Int..ch" tvg-name="TR: TV 8 INT FHD" tvg-logo="https://i.imgur.com/EUsFYPD.jpeg" group-title="TR| TURKEY",TR: TV 8 INT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641275
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" group-title="TR| TURKEY",TR: TV 8.5 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722900
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="TR| TURKEY",TR: TV 8.5 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195744
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="TR| TURKEY",TR: TV 8.5 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195745
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="now.tr" tvg-name="TR: NOW FHD" tvg-logo="https://i.imgur.com/dwDBqMa.png" group-title="TR| TURKEY",TR: NOW FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195746
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="now.tr" tvg-name="TR: NOW HD" tvg-logo="https://i.imgur.com/dwDBqMa.png" group-title="TR| TURKEY",TR: NOW HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195747
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN Series 1 FHD" tvg-logo="https://i.imgur.com/6weJ3vP.png" group-title="TR| TURKEY",TR: beIN Series 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641540
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN Series 2 HD" tvg-logo="https://i.imgur.com/kz2LDRh.png" group-title="TR| TURKEY",TR: beIN Series 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641539
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KRALPOP HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kral_tr_pop_tv.png" group-title="TR| TURKEY",TR: KRALPOP HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641537
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TIVI 6 HD" tvg-logo="" group-title="TR| TURKEY",TR: TIVI 6 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641538
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MovieSmartClassic.tr" tvg-name="TR: tabii Tv FHD" tvg-logo="" group-title="TR| TURKEY",TR: tabii Tv FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243107
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxcrime.tr" tvg-name="TR: NR1 ASK FHD" tvg-logo="https://ktv.cloued.com:443/images/dB2ijdP-Ni6qh9z3OW80_d-LEnvua2hZpiaLYnwmkEcqaQAI-zJRfBrlCUk19qOL6VozzgW5-2PIqpCf0i4xd-LhOoSe4FkoaNAwk80V3MjLcpCxc_EDzeeflx8pL5Qg11nMvE1Ag79EN98J9oSGOnU21z_xdhHnDBEsrd5G5-4.png" group-title="TR| TURKEY",TR: NR1 ASK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195950
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxcrime.tr" tvg-name="TR: NR1 DAMAR FHD" tvg-logo="https://ktv.cloued.com:443/images/eXKV3KJYVEh0mQ4ZErIsrv3qle5nvsD2Vub_3f8BkuRaG4fk5lVHb2_ipTHoZ7m8UpOEfJP0wQTVs9vgeQzDSQ.png" group-title="TR| TURKEY",TR: NR1 DAMAR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195948
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="TR| TURKEY",TR: KANAL 7 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195749
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="TR| TURKEY",TR: KANAL 7 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640519
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="KANAL.7.AVRUPA.fr" tvg-name="TR: KANAL 7 AVRUPA FHD" tvg-logo="https://i.imgur.com/iLzxDmC.jpeg" group-title="TR| TURKEY",TR: KANAL 7 AVRUPA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641277
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: AVRUPA" tvg-logo="" group-title="TR| TURKEY",TR: AVRUPA
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641276
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="" group-title="TR| TURKEY",TR: KANAL 15
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195750
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Euro.Star.ch" tvg-name="TR: EURO STAR HD" tvg-logo="https://i.imgur.com/FrcWOk4.jpeg" group-title="TR| TURKEY",TR: EURO STAR HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641279
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Euro.D.ch" tvg-name="TR: EURO D HD" tvg-logo="https://i.imgur.com/pieDNu9.jpeg" group-title="TR| TURKEY",TR: EURO D HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641278
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TV5" tvg-logo="" group-title="TR| TURKEY",TR: TV5
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195743
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" group-title="TR| TURKEY",TR: BEYAZ TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195752
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" group-title="TR| TURKEY",TR: BEYAZ TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195753
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="TR: A2 TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR| TURKEY",TR: A2 TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195754
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="TR: A2 TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR| TURKEY",TR: A2 TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195755
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="apara.tr" tvg-name="TR: A PARA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="TR| TURKEY",TR: A PARA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195757
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="apara.tr" tvg-name="TR: A PARA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="TR| TURKEY",TR: A PARA HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640533
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: FM TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fm-tv-tr.png" group-title="TR| TURKEY",TR: FM TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195759
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/fx-pl.png" group-title="TR| TURKEY",TR: FX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195761
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EPIC DRAMA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/epic-drama-lt.png" group-title="TR| TURKEY",TR: EPIC DRAMA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195762
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="TR| TURKEY",TR: STAR TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195956
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="TR| TURKEY",TR: STAR TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195981
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="TR: 360 TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="TR| TURKEY",TR: 360 TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195982
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="TR: 360 TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="TR| TURKEY",TR: 360 TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195983
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TR: TLC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png" group-title="TR| TURKEY",TR: TLC FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195984
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TR: TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png" group-title="TR| TURKEY",TR: TLC HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195882
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="TR| TURKEY",TR: TEVE 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195883
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="TR| TURKEY",TR: TEVE 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195764
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TR: TV100 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="TR| TURKEY",TR: TV100 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195766
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TR: TV100 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="TR| TURKEY",TR: TV100 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640520
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="flashhaber.tr" tvg-name="TR: FLASH TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png" group-title="TR| TURKEY",TR: FLASH TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195770
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="flashhaber.tr" tvg-name="TR: FLASH HABER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png" group-title="TR| TURKEY",TR: FLASH HABER HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195771
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="TR: DMAX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dmax-es.png" group-title="TR| TURKEY",TR: DMAX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195773
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vav.tr" tvg-name="TR: VAV TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/vav-tv-tr.png" group-title="TR| TURKEY",TR: VAV TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640527
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turkhabertv.tr" tvg-name="TR: TURKHABER FHD" tvg-logo="https://i.imgur.com/EHDt1tS.png" group-title="TR| TURKEY",TR: TURKHABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640530
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turkhabertv.tr" tvg-name="TR: TURKHABER HD" tvg-logo="https://i.imgur.com/EHDt1tS.png" group-title="TR| TURKEY",TR: TURKHABER HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640531
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="TR: CNN TÜRK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" group-title="TR| TURKEY",TR: CNN TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195782
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="TR: NTV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="TR| TURKEY",TR: NTV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195784
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="TR: NTV Haber FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="TR| TURKEY",TR: NTV Haber FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640532
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ekoturk.tr" tvg-name="TR: EKO TÜRK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ekoturk-tr.png" group-title="TR| TURKEY",TR: EKO TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195786
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="TR| TURKEY",TR: TGRT HABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195789
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="TR| TURKEY",TR: TGRT HABER HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195960
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TGRT.EU.ch" tvg-name="TR: TGRT EU" tvg-logo="https://i.imgur.com/2Nz2odE.png" group-title="TR| TURKEY",TR: TGRT EU
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195895
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="TR: HABER TÜRK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="TR| TURKEY",TR: HABER TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195788
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="TR: HABER TÜRK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="TR| TURKEY",TR: HABER TÜRK HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195791
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="TR| TURKEY",TR: A HABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195792
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="TR| TURKEY",TR: A HABER HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195793
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TR: TRT HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="TR| TURKEY",TR: TRT HABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196101
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="TR| TURKEY",TR: TRT HABER HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196032
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="TR: 24 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="TR| TURKEY",TR: 24 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196103
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="TR: 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="TR| TURKEY",TR: 24 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195794
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG HT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht-tr.png" group-title="TR| TURKEY",TR: BLOOMBERG HT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195796
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="TR: HALK TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="TR| TURKEY",TR: HALK TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195797
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="TR: HALK TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="TR| TURKEY",TR: HALK TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195798
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tele1.tr" tvg-name="TR: TELE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png" group-title="TR| TURKEY",TR: TELE 1
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195994
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" group-title="TR| TURKEY",TR: HABER GLOBAL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195995
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" group-title="TR| TURKEY",TR: HABER GLOBAL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195996
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="TR: ÜLKE TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulke-tv-tr.png" group-title="TR| TURKEY",TR: ÜLKE TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195997
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="TR: ÜLKE TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulke-tv-tr.png" group-title="TR| TURKEY",TR: ÜLKE TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640535
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: IDMAN TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/azerbaijan/idman-tv-tr.png" group-title="TR| TURKEY",TR: IDMAN TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195867
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvnet.tr" tvg-name="TR: TVNET FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tvnet-tr.png" group-title="TR| TURKEY",TR: TVNET FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195868
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvnet.tr" tvg-name="TR: TVNET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tvnet-tr.png" group-title="TR| TURKEY",TR: TVNET HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195735
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="akit.tr" tvg-name="TR: AKIT TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/akit-tv-tr.png" group-title="TR| TURKEY",TR: AKIT TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195871
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="benguturk.tr" tvg-name="TR: BENGÜ TÜRK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bengu-turk-tr.png" group-title="TR| TURKEY",TR: BENGÜ TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195874
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulusal-tv-tr.png" group-title="TR| TURKEY",TR: ULUSAL KANAL
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195876
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="krt.tr" tvg-name="TR: KRT TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="TR| TURKEY",TR: KRT TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195878
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="TR| SPOR",TR: TRT SPOR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195879
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="TR| SPOR",TR: TRT SPOR HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195880
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR YILDIZ FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR| SPOR",TR: TRT SPOR YILDIZ FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR| SPOR",TR: TRT SPOR YILDIZ HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195884
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="TR: A SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR| SPOR",TR: A SPOR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195949
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR| SPOR",TR: A SPOR HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195885
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="TR: SPORTS TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="TR| SPOR",TR: SPORTS TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195888
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: W-SPORT FHD" tvg-logo="" group-title="TR| SPOR",TR: W-SPORT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195889
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="TR: FB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fenerbahce-tv-tr.png" group-title="TR| SPOR",TR: FB TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195890
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="TR: S SPORT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="TR| SPOR",TR: S SPORT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195896
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="TR| SPOR",TR: S SPORT HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195897
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-2-tr.png" group-title="TR| SPOR",TR: S SPORT 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195898
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: FIGHT NETWORK FHD" tvg-logo="" group-title="TR| SPOR",TR: FIGHT NETWORK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195899
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 FHD" tvg-logo="https://s9.gifyu.com/images/SFPiK.png" group-title="TR| SPOR",TR: EUROSPORT 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640538
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 FHD" tvg-logo="https://s9.gifyu.com/images/SFPiN.png" group-title="TR| SPOR",TR: EUROSPORT 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640539
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt3sporttbmm.tr" tvg-name="TR: EKOL SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-3-tr.png" group-title="TR| SPOR",TR: EKOL SPORTS FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196027
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tjk.tr" tvg-name="TR: TJK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tjk-tv-tr.png" group-title="TR| SPOR",TR: TJK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195906
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="TR| TURKEY",TR: TRT BELGESEL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195907
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="TR| TURKEY",TR: TRT BELGESEL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/206262
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tarih.tr" tvg-name="TR: TARIH TV FHD" tvg-logo="https://s9.gifyu.com/images/SFPjV.png" group-title="TR| TURKEY",TR: TARIH TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195909
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasatexplore.tr" tvg-name="TR: VIASAT EXPLORE [EN-TR]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/viasat-explore-rs.png" group-title="TR| TURKEY",TR: VIASAT EXPLORE [EN-TR]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196105
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="TR: NAT GEO FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="TR| TURKEY",TR: NAT GEO FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640540
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-pl.png" group-title="TR| TURKEY",TR: NAT GEO WILD FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640541
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="TR: HISTORY FHD" tvg-logo="https://vignette.wikia.nocookie.net/central/images/e/eb/History_Channel_2015.png/revision/latest?cb=20160524200109" group-title="TR| TURKEY",TR: HISTORY FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641313
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/viasat-history-rs.png" group-title="TR| TURKEY",TR: VIASAT HISTORY FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640542
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png" group-title="TR| TURKEY",TR: DISCOVERY CHANNEL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195923
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY ID FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Investigation-Discovery.png" group-title="TR| TURKEY",TR: DISCOVERY ID FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195921
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="davinci.tr" tvg-name="TR: DA VINCI FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/da-vinci-hu.png" group-title="TR| TURKEY",TR: DA VINCI FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195920
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EKOTURK FHD" tvg-logo="" group-title="TR| TURKEY",TR: EKOTURK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640547
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryscience.tr" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-icon-us.png" group-title="TR| TURKEY",TR: DISCOVERY SCIENCE HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195922
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: LIDER HABER FHD" tvg-logo="" group-title="TR| TURKEY",TR: LIDER HABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195928
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="TR: BBC EARTH FHD" tvg-logo="https://s9.gifyu.com/images/SanPl.png" group-title="TR| TURKEY",TR: BBC EARTH FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195933
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EKOL TV FHD" tvg-logo="https://i.imgur.com/h3B3XeU.png" group-title="TR| TURKEY",TR: EKOL TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195935
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: tv 41" tvg-logo="" group-title="TR| TURKEY",TR: tv 41
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640529
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: ATV AVRUPA" tvg-logo="" group-title="TR| TURKEY",TR: ATV AVRUPA
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641312
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="TR: beIN GURME FHD" tvg-logo="https://s9.gifyu.com/images/SFPRw.png" group-title="TR| TURKEY",TR: beIN GURME FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195934
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fashionone.tr" tvg-name="TR: LOVE NATURE FHD" tvg-logo="" group-title="TR| TURKEY",TR: LOVE NATURE FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195940
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA KOMEDI 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-komedi-tr.png" group-title="TR| TURKEY",TR: SINEMA KOMEDI 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195946
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="TR| TURKEY",TR: SINEMA TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195953
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv2-tr.png" group-title="TR| TURKEY",TR: SINEMA TV 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195952
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN H&E HD" tvg-logo="https://i.imgur.com/UxlRRZY.png" group-title="TR| TURKEY",TR: beIN H&E HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195962
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvilkokul.tr" tvg-name="TR: TV 2020 FHD" tvg-logo="" group-title="TR| TURKEY",TR: TV 2020 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195965
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvortaokul.tr" tvg-name="TR: TRT EBA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/eba-tv-lise-tr.png" group-title="TR| TURKEY",TR: TRT EBA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195966
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvortaokul.tr" tvg-name="TR: EBA TV ORTAOKUL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="TR| TURKEY",TR: EBA TV ORTAOKUL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195967
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtcocuk.tr" tvg-name="TR: TRT ÇOCUK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="TR| TURKEY",TR: TRT ÇOCUK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195968
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtcocuk.tr" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="TR| TURKEY",TR: TRT ÇOCUK HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195969
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.tr" tvg-name="TR: DISNEY JR. FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/disney-jr-fr.png" group-title="TR| TURKEY",TR: DISNEY JR. FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195974
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoon-network-uk.png" group-title="TR| TURKEY",TR: CARTOON NETWORK
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195977
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TEK RUMELI TV FHD" tvg-logo="" group-title="TR| TURKEY",TR: TEK RUMELI TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641311
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="babytv.tr" tvg-name="TR: BABY TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/baby-tv-pl.png" group-title="TR| TURKEY",TR: BABY TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195978
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="https://i.imgur.com/zh0RJdm.png" group-title="TR| TURKEY",TR: SMART COCUK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641310
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="minikacocuk.tr" tvg-name="TR: MINIKA ÇOCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-cocuk-tr.png" group-title="TR| TURKEY",TR: MINIKA ÇOCUK
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195979
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="minikago.tr" tvg-name="TR: MINIKA GO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-go-tr.png" group-title="TR| TURKEY",TR: MINIKA GO
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195980
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.tr" tvg-name="TR: CARTOONITO FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Cartooni.png" group-title="TR| TURKEY",TR: CARTOONITO FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195988
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: DOCUSCREEN FHD" tvg-logo="https://i.imgur.com/sGv2Lou.png" group-title="TR| TURKEY",TR: DOCUSCREEN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640545
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeonhd.tr" tvg-name="TR: NICKELODEON FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/nick-in.png" group-title="TR| TURKEY",TR: NICKELODEON FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195989
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.tr" tvg-name="TR: NICK JR. HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nick-jr-ca.png" group-title="TR| TURKEY",TR: NICK JR. HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195990
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nicktoons.tr" tvg-name="TR: NICKTOONS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nick-toons-rs.png" group-title="TR| TURKEY",TR: NICKTOONS
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195991
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="anews.tr" tvg-name="TR: A NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-news-tr.png" group-title="TR| TURKEY",TR: A NEWS FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196000
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtworld.tr" tvg-name="TR: TRT WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" group-title="TR| TURKEY",TR: TRT WORLD HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196001
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="france24arabe.fr" tvg-name="TR: FRANCE 24 AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/france-24-int.png" group-title="TR| TURKEY",TR: FRANCE 24 AR
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196010
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dreamturk.tr" tvg-name="TR: DREAM TÜRK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dream-turk-tr.png" group-title="TR| TURKEY",TR: DREAM TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196026
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtmuzik.tr" tvg-name="TR: TRT MÜZIK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="TR| TURKEY",TR: TRT MÜZIK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196028
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: NR1 TURK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-turk-tr.png" group-title="TR| TURKEY",TR: NR1 TURK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196029
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: NR1 FHD" tvg-logo="" group-title="TR| TURKEY",TR: NR1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196030
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tmb.tr" tvg-name="TR: TMB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tmb-tr.png" group-title="TR| TURKEY",TR: TMB TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196033
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtdiyanet.tr" tvg-name="TR: TRT Diyanet Çocuk FHD" tvg-logo="https://i.imgur.com/lpm2qUb.png" group-title="TR| TURKEY",TR: TRT Diyanet Çocuk FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640546
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TR: TRT TÜRK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-turk-tr.png" group-title="TR| TURKEY",TR: TRT TÜRK HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196036
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TRT ARABI HD" tvg-logo="https://s12.gifyu.com/images/SV6u6.png" group-title="TR| TURKEY",TR: TRT ARABI HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196037
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-avaz-tr.png" group-title="TR| TURKEY",TR: TRT AVAZ FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196038
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-avaz-tr.png" group-title="TR| TURKEY",TR: TRT AVAZ HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196039
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TR: TRT 4K" tvg-logo="" group-title="4K UHD channels",TR: TRT 4K
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196040
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtkurdi.tr" tvg-name="TR: TRT KURDÎ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-kurdi-tr.png" group-title="TR| TURKEY",TR: TRT KURDÎ HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196048
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtdiyanet.tr" tvg-name="TR: DIYANET TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png" group-title="TR| TURKEY",TR: DIYANET TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196051
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="semerkand.tr" tvg-name="TR: SEMERKAND HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/semerkand-tv-tr.png" group-title="TR| TURKEY",TR: SEMERKAND HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196053
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: ÇİFTÇİ TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ciftci-tv-tr.png" group-title="TR| TURKEY",TR: ÇİFTÇİ TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243094
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv4.tr" tvg-name="TR: TV4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv4-tr.png" group-title="TR| TURKEY",TR: TV4 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640528
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kontv.tr" tvg-name="TR: KON TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kon-tv-tr.png" group-title="TR| TURKEY",TR: KON TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243108
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal26.tr" tvg-name="TR: KANAL 26 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-26-tr.png" group-title="TR| TURKEY",TR: KANAL 26 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243110
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanalv.tr" tvg-name="TR: KANAL V HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-v-tr.png" group-title="TR| TURKEY",TR: KANAL V HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243111
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal26.tr" tvg-name="TR: KIBRIS ADA TV" tvg-logo="" group-title="TR| TURKEY",TR: KIBRIS ADA TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243112
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="genc.tr" tvg-name="TR: KIBRIS GENC TV" tvg-logo="https://s9.gifyu.com/images/SFPCd.png" group-title="TR| TURKEY",TR: KIBRIS GENC TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243119
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: AKSU TV (KAHRAMAN MARAS) HD" tvg-logo="https://i.imgur.com/YSlcCv4.jpeg" group-title="TR| TURKEY",TR: AKSU TV (KAHRAMAN MARAS) HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641292
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KIBRIS TV" tvg-logo="https://s9.gifyu.com/images/SFPCW.png" group-title="TR| TURKEY",TR: KIBRIS TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243120
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KANAL 23 HD" tvg-logo="" group-title="TR| TURKEY",TR: KANAL 23 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641291
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanalft.tr" tvg-name="TR: KANAL T FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-t-tr.png" group-title="TR| TURKEY",TR: KANAL T FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243123
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KANAL 3 HD" tvg-logo="" group-title="TR| TURKEY",TR: KANAL 3 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641302
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal33.tr" tvg-name="TR: KANAL 33 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-33-tr.png" group-title="TR| TURKEY",TR: KANAL 33 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243124
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KANAL 32 HD" tvg-logo="https://i.imgur.com/BH0eYfm.jpeg" group-title="TR| TURKEY",TR: KANAL 32 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641299
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KANAL 58 HD" tvg-logo="https://i.imgur.com/ChKnIOA.jpeg" group-title="TR| TURKEY",TR: KANAL 58 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641285
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA YERLI 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-yerli2-tr.png" group-title="TR| TURKEY",TR: SINEMA YERLI 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243125
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA YERLI FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-yerli-tr.png" group-title="TR| TURKEY",TR: SINEMA YERLI FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243126
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="brt1.tr" tvg-name="TR: BRT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-1-tr.png" group-title="TR| TURKEY",TR: BRT 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243129
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA AILE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aile-tr.png" group-title="TR| TURKEY",TR: SINEMA AILE FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243130
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="brt2.tr" tvg-name="TR: BRT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-2-tr.png" group-title="TR| TURKEY",TR: BRT 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243131
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="TR: SINEMA AILE 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aile2-tr.png" group-title="TR| TURKEY",TR: SINEMA AILE 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243133
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1001-tr.png" group-title="TR| TURKEY",TR: SINEMA TV 1001 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361123
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="TR: SINEMA 1002 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1002-tr.png" group-title="TR| TURKEY",TR: SINEMA 1002 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361125
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV AKSIYON FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png" group-title="TR| TURKEY",TR: SINEMA TV AKSIYON FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361129
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Habitat TV FHD" tvg-logo="" group-title="TR| TURKEY",TR: Habitat TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361130
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA AKSIYON 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="TR| TURKEY",TR: SINEMA AKSIYON 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361131
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: DIZISMART MAX FHD" tvg-logo="https://i.imgur.com/OaZPbwz.png" group-title="TR| TURKEY",TR: DIZISMART MAX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195775
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartpremium.tr" tvg-name="TR: DIZISMART PREMIUM FHD" tvg-logo="https://i.imgur.com/ryKO7pW.png" group-title="TR| TURKEY",TR: DIZISMART PREMIUM FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195938
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: FILMSCREEN FHD" tvg-logo="" group-title="TR| TURKEY",TR: FILMSCREEN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/196052
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartturk.tr" tvg-name="TR: MOVIESMART TURK FHD" tvg-logo="https://i.imgur.com/IjSVJU0.png" group-title="TR| TURKEY",TR: MOVIESMART TURK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195951
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVIESMART CLASSIC FHD" tvg-logo="https://i.imgur.com/QGtmJQa.png" group-title="TR| TURKEY",TR: MOVIESMART CLASSIC FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361132
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA KOMEDI FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-komedi-tr.png" group-title="TR| TURKEY",TR: SINEMA KOMEDI FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361133
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN MOVIES PREMIERE HD" tvg-logo="https://s9.gifyu.com/images/SFP8u.png" group-title="TR| TURKEY",TR: beIN MOVIES PREMIERE HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361134
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN MOVIES PREMIERE 2 FHD" tvg-logo="https://s9.gifyu.com/images/SFP8n.png" group-title="TR| TURKEY",TR: beIN MOVIES PREMIERE 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361135
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="https://s9.gifyu.com/images/SFP8l.png" group-title="TR| TURKEY",TR: beIN MOVIES STARS HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361136
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN MOVIES ACTION FHD" tvg-logo="https://s9.gifyu.com/images/SFP8W.png" group-title="TR| TURKEY",TR: beIN MOVIES ACTION FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361137
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN MOVIES TÜRK FHD" tvg-logo="https://s9.gifyu.com/images/SFP8m.png" group-title="TR| TURKEY",TR: beIN MOVIES TÜRK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361138
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN MOVIES FAMILY HD" tvg-logo="https://s9.gifyu.com/images/SFP8Q.png" group-title="TR| TURKEY",TR: beIN MOVIES FAMILY HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361139
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 FHD" tvg-logo="https://s9.gifyu.com/images/SFP8c.png" group-title="TR| TURKEY",TR: beIN MOVIES ACTION 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361140
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: CNBC-E FHD" tvg-logo="https://i.imgur.com/Usp8bHW.png" group-title="TR| TURKEY",TR: CNBC-E FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/361141
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="♣♦♣ |TR| SPORTS |TR| ♣♦♣" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/turkey-flag.png" group-title="TR| SPOR",♣♦♣ |TR| SPORTS |TR| ♣♦♣
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportshaber.tr" tvg-name="TR: beIN SPORTS HABER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" group-title="TR| SPOR",TR: beIN SPORTS HABER FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394634
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 FHD VIP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR| SPOR",TR: beIN SPORTS 1 FHD VIP
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394657
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 FHD 50 FPS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR| SPOR",TR: beIN SPORTS 1 FHD 50 FPS
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394617
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR| SPOR",TR: beIN SPORTS 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394619
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR| SPOR",TR: beIN SPORTS 1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394620
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.tr" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR| SPOR",TR: beIN SPORTS 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394622
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.tr" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR| SPOR",TR: beIN SPORTS 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394623
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR| SPOR",TR: beIN SPORTS 3 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394625
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR| SPOR",TR: beIN SPORTS 3 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722903
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR| SPOR",TR: beIN SPORTS 4 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394628
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR| SPOR",TR: beIN SPORTS 4 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722904
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports5.tr" tvg-name="TR: beIN SPORTS 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR| SPOR",TR: beIN SPORTS 5 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394621
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR| SPOR",TR: beIN SPORTS 5 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722905
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-max-int.png" group-title="TR| SPOR",TR: beIN SPORTS MAX 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722901
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-max-int.png" group-title="TR| SPOR",TR: beIN SPORTS MAX 1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394631
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png" group-title="TR| SPOR",TR: beIN SPORTS MAX 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722902
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png" group-title="TR| SPOR",TR: beIN SPORTS MAX 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394632
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="TR: SMART SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TR| SPOR",TR: SMART SPOR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394646
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="TR: SMART SPOR 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TR| SPOR",TR: SMART SPOR 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394648
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ENGCBTV" tvg-name="TR: TIVIBUSPOR FHD" tvg-logo="https://s9.gifyu.com/images/SFPjk.png" group-title="TR| SPOR",TR: TIVIBUSPOR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/243183
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TR: TIVIBUSPOR 1 FHD" tvg-logo="https://s9.gifyu.com/images/SFPjk.png" group-title="TR| SPOR",TR: TIVIBUSPOR 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394651
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TR: TIVIBUSPOR 2 FHD" tvg-logo="https://s9.gifyu.com/images/SFPjm.png" group-title="TR| SPOR",TR: TIVIBUSPOR 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394653
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TR: TIVIBUSPOR 3 FHD" tvg-logo="https://s9.gifyu.com/images/SFPjv.png" group-title="TR| SPOR",TR: TIVIBUSPOR 3 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/394655
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TIVIBUSPOR 4 FHD" tvg-logo="https://s9.gifyu.com/images/SFPjk.png" group-title="TR| SPOR",TR: TIVIBUSPOR 4 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195783
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TABII SPORTS FHD" tvg-logo="https://i.imgur.com/rMtK9YO.png" group-title="TR| SPOR",TR: TABII SPORTS FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/492686
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TABII SPORTS 1 FHD" tvg-logo="https://i.imgur.com/rMtK9YO.png" group-title="TR| SPOR",TR: TABII SPORTS 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640536
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TABII SPORTS 2 FHD" tvg-logo="https://i.imgur.com/rMtK9YO.png" group-title="TR| SPOR",TR: TABII SPORTS 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/640537
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TABII SPORTS 3 FHD" tvg-logo="" group-title="TR| SPOR",TR: TABII SPORTS 3 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195973
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="TR: TABII SPORTS 4 FHD" tvg-logo="" group-title="TR| SPOR",TR: TABII SPORTS 4 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195893
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: HT SPOR FHD" tvg-logo="" group-title="TR| SPOR",TR: HT SPOR FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/492685
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EXXEN SPOR 1 HD" tvg-logo="https://iatkv.tmgrup.com.tr/859e33/600/314/0/8/616/330?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F09%2F15%2Fexxen-nedir-ne-demek-exxen-spor-uyelik-nasil-yapilir-exxen-1631688424015.jpg" group-title="TR| SPOR",TR: EXXEN SPOR 1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/503257
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EXXEN SPOR 3 HD" tvg-logo="https://iatkv.tmgrup.com.tr/859e33/600/314/0/8/616/330?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F09%2F15%2Fexxen-nedir-ne-demek-exxen-spor-uyelik-nasil-yapilir-exxen-1631688424015.jpg" group-title="TR| SPOR",TR: EXXEN SPOR 3 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/503259
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EXXEN SPOR 2 HD" tvg-logo="https://iatkv.tmgrup.com.tr/859e33/600/314/0/8/616/330?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F09%2F15%2Fexxen-nedir-ne-demek-exxen-spor-uyelik-nasil-yapilir-exxen-1631688424015.jpg" group-title="TR| SPOR",TR: EXXEN SPOR 2 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/503258
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: EXXEN SPOR 4 HD" tvg-logo="https://iatkv.tmgrup.com.tr/859e33/600/314/0/8/616/330?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F09%2F15%2Fexxen-nedir-ne-demek-exxen-spor-uyelik-nasil-yapilir-exxen-1631688424015.jpg" group-title="TR| SPOR",TR: EXXEN SPOR 4 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/503260
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KAY TV (KAYSERI) FHD" tvg-logo="https://i.imgur.com/c0Exzx6.png" group-title="TR| TURKEY",TR: KAY TV (KAYSERI) FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641294
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: MAVI KARADENIZ FHD" tvg-logo="https://i.imgur.com/C6XkcCO.png" group-title="TR| TURKEY",TR: MAVI KARADENIZ FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641296
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: OLAY TURK TV (KAYSERI) FHD" tvg-logo="https://i.imgur.com/lpfNteq.png" group-title="TR| TURKEY",TR: OLAY TURK TV (KAYSERI) FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641297
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TYT FHD" tvg-logo="" group-title="TR| TURKEY",TR: TYT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641298
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: BBC FIRST FHD" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="TR| TURKEY",TR: BBC FIRST FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641300
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Cay TV HD" tvg-logo="https://i.imgur.com/KaMtyeR.png" group-title="TR| TURKEY",TR: Cay TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641301
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: beIN İZ FHD" tvg-logo="" group-title="TR| TURKEY",TR: beIN İZ FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641303
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: TV 264" tvg-logo="https://i.imgur.com/NeeTcus.jpeg" group-title="TR| TURKEY",TR: TV 264
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641304
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: BBC FIRST FHD" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="TR| TURKEY",TR: BBC FIRST FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/641305
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 1 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722906
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 2 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 2 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722907
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 3 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 3 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722908
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 4 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 4 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722909
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 5 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 5 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722910
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 6 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 6 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722911
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 7 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 7 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722912
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 8 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 8 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722913
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: S SPORT LIVE EVENTS 9 FHD" tvg-logo="https://i.imgur.com/Gbp97Js.png" group-title="TR| SPOR",TR: S SPORT LIVE EVENTS 9 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/722914
-
-#EXTM3U
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="☯☯ |DE| GERMANY FHD & HD |DE| ☯☯" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8f_ZQIgu4aJQTbJhM4e1u3KhqD-myMTxJTIfB_4FP0MK.png" group-title="DE| GERMANY",☯☯ |DE| GERMANY FHD & HD |DE| ☯☯
-https://static.videezy.com/system/protected/files/000/039/552/Germany_Flag_Loop.mp4
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ard.de" tvg-name="DE: DAS ERSTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png" group-title="DE| GERMANY",DE: DAS ERSTE HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/9642
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zdf.de" tvg-name="DE: ZDF FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-de.png" group-title="DE| GERMANY",DE: ZDF FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/111686
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-de.png" group-title="DE| GERMANY",DE: ZDF HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30262
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl.de" tvg-name="DE: RTL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="DE| GERMANY",DE: RTL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30261
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl.de" tvg-name="DE: RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="DE| GERMANY",DE: RTL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195317
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-zwei-de.png" group-title="DE| GERMANY",DE: RTL ZWEI FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/17815
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-zwei-de.png" group-title="DE| GERMANY",DE: RTL ZWEI HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/39194
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtlnitro.de" tvg-name="DE: NITRO. HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nitro-de.png" group-title="DE| GERMANY",DE: NITRO. HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/111718
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyij3oCPMQhMkiTykYcRHpYMrolPqNk-80_0Vj1LquRXt.png" group-title="DE| GERMANY",DE: RTL LIVING HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195305
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-de.png" group-title="DE| GERMANY",DE: VOX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30256
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vox.de" tvg-name="DE: VOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-de.png" group-title="DE| GERMANY",DE: VOX HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/6799
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktv.de" tvg-name="DE: K-TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/k-tv-at.png" group-title="DE| GERMANY",DE: K-TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/5167
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pro7.de" tvg-name="DE: PROSIEBEN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-de.png" group-title="DE| GERMANY",DE: PROSIEBEN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190470
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pro7.de" tvg-name="DE: PROSIEBEN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-de.png" group-title="DE| GERMANY",DE: PROSIEBEN HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190514
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pro7.de" tvg-name="DE: PROSIEBEN AUSTRIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/prosieben-austria-at.png" group-title="DE| GERMANY",DE: PROSIEBEN AUSTRIA HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30292
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prosiebenmaxx.de" tvg-name="DE: PROSIEBEN MAXX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-maxx-de.png" group-title="DE| GERMANY",DE: PROSIEBEN MAXX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/6997
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prosiebenmaxx.de" tvg-name="DE: PROSIEBEN MAXX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-maxx-de.png" group-title="DE| GERMANY",DE: PROSIEBEN MAXX HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/5737
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prosiebenfun.de" tvg-name="DE: PROSIEBEN FUN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-fun-de.png" group-title="DE| GERMANY",DE: PROSIEBEN FUN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4552
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prosiebenfun.de" tvg-name="DE: PROSIEBEN FUN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-fun-de.png" group-title="DE| GERMANY",DE: PROSIEBEN FUN HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4553
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sat1.de" tvg-name="DE: SAT.1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" group-title="DE| GERMANY",DE: SAT.1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190488
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sat1.de" tvg-name="DE: SAT.1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" group-title="DE| GERMANY",DE: SAT.1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/6537
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sat1gold.de" tvg-name="DE: SAT.1 GOLD FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-gold-alt-de.png" group-title="DE| GERMANY",DE: SAT.1 GOLD FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195338
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sat1gold.de" tvg-name="DE: SAT.1 GOLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-gold-alt-de.png" group-title="DE| GERMANY",DE: SAT.1 GOLD HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190492
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnercomedy.de" tvg-name="DE: Warner TV Comedy HD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/86f5726136c5737fedda85436bdfeb23.90373.PNG" group-title="DE| GERMANY",DE: Warner TV Comedy HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30303
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sat1emotions.de" tvg-name="DE: SAT.1 EMOTIONS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-emotions-de.png" group-title="DE| GERMANY",DE: SAT.1 EMOTIONS HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195318
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3sat.de" tvg-name="DE: 3SAT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png" group-title="DE| GERMANY",DE: 3SAT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195319
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3sat.de" tvg-name="DE: 3SAT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png" group-title="DE| GERMANY",DE: 3SAT HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195320
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel1.de" tvg-name="DE: KABEL EINS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-de.png" group-title="",DE: KABEL EINS FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/5394
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel1.de" tvg-name="DE: KABEL EINS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-de.png" group-title="DE| GERMANY",DE: KABEL EINS HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30342
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-doku-de.png" group-title="DE| GERMANY",DE: KABEL EINS DOKU FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195339
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-doku-de.png" group-title="DE| GERMANY",DE: KABEL EINS DOKU HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195340
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL EINS CLASSICS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-classics-de.png" group-title="DE| GERMANY",DE: KABEL EINS CLASSICS HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190505
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.de" tvg-name="DE: N-TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ntv-de.png" group-title="DE| GERMANY",DE: N-TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/8112
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ntv-de.png" group-title="DE| GERMANY",DE: N-TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30274
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zdfinfo.de" tvg-name="DE: ZDF INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-info-de.png" group-title="DE| GERMANY",DE: ZDF INFO HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190511
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-neo-de.png" group-title="DE| GERMANY",DE: ZDF NEO FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190512
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-neo-de.png" group-title="DE| GERMANY",DE: ZDF NEO HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/198658
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="orf1.at" tvg-name="AT: ORF 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="DE| GERMANY",AT: ORF 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192595
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="orf1.at" tvg-name="AT: ORF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="DE| GERMANY",AT: ORF 1 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195384
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="orf3.at" tvg-name="AT: ORF 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf3-at.png" group-title="DE| GERMANY",AT: ORF 3 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192597
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="orf3.at" tvg-name="AT: ORF 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf3-at.png" group-title="DE| GERMANY",AT: ORF 3 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195387
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl.de" tvg-name="AT: RTL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="DE| GERMANY",AT: RTL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192582
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="phoenix.de" tvg-name="DE: PHOENIX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/phoenix-de.png" group-title="DE| GERMANY",DE: PHOENIX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195395
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="phoenix.de" tvg-name="DE: PHOENIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/phoenix-de.png" group-title="DE| GERMANY",DE: PHOENIX HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195379
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png" group-title="DE| GERMANY",DE: SIXX HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195372
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sixx.de" tvg-name="DE: SIXX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png" group-title="DE| GERMANY",DE: SIXX FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195381
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="arte.de" tvg-name="DE: ARTE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="DE| GERMANY",DE: ARTE FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195366
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvgermany.de" tvg-name="DE: MTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mtv-de.png" group-title="DE| GERMANY",DE: MTV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192591
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvgermany.de" tvg-name="DE: MTV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mtv-de.png" group-title="DE| GERMANY",DE: MTV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192600
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tele-5-de.png" group-title="DE| GERMANY",DE: TELE 5 HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192590
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: VOX UP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-up-de.png" group-title="DE| GERMANY",DE: VOX UP HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192602
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtlpassion.de" tvg-name="DE: RTL PASSION FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" group-title="DE| GERMANY",DE: RTL PASSION FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195382
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-crime-de.png" group-title="DE| GERMANY",DE: RTL CRIME HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/10766
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtlplus.de" tvg-name="DE: RTL UP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-up-de.png" group-title="DE| GERMANY",DE: RTL UP HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30317
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="servustv.at" tvg-name="DE| SERVUS TV AT HD" tvg-logo="https://static-s.aa-cdn.net/img/ios/517249438/d497f5e1c3f8308a51e2cd17f3451a05?v=1" group-title="DE| GERMANY",DE| SERVUS TV AT HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/1960
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="servustv.at" tvg-name="DE: SERVUS TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/servus-tv-deutchland-de.png" group-title="DE| GERMANY",DE: SERVUS TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4500
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="one.de" tvg-name="DE: ONE (ARD) FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/one-de.png" group-title="DE| GERMANY",DE: ONE (ARD) FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/16711
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="one.de" tvg-name="DE: ONE (ARD) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/one-de.png" group-title="DE| GERMANY",DE: ONE (ARD) HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/8612
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ardalpha.de" tvg-name="DE: ARD-ALPHA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ard-alpha-de.png" group-title="DE| GERMANY",DE: ARD-ALPHA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/23675
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="crimeplusinvestigation.de" tvg-name="DE: Crime + Investigation FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/b5b92d83bbe978c5903287fb4ac6bbb4.90284.PNG" group-title="DE| GERMANY",DE: Crime + Investigation FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30279
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gutelaunetv.de" tvg-name="DE: GUTE LAUNE TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/gute-laune-tv-at.png" group-title="DE| GERMANY",DE: GUTE LAUNE TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4548
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bibeltv.de" tvg-name="DE: BIBEL TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/bibel-tv-de.png" group-title="DE| GERMANY",DE: BIBEL TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/85955
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kika.de" tvg-name="DE: KIKA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png" group-title="DE| GERMANY",DE: KIKA HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190484
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kika.de" tvg-name="DE: KIKA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png" group-title="DE| GERMANY",DE: KIKA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195328
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: AUGSBURG TV FHD" tvg-logo="https://s9.gifyu.com/images/SF7JZ.png" group-title="DE| GERMANY",DE: AUGSBURG TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195327
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="munchentv.de" tvg-name="DE: MÜNCHEN TV FHD" tvg-logo="https://s9.gifyu.com/images/SFueQ.png" group-title="DE| GERMANY",DE: MÜNCHEN TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30318
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="crimeplusinvestigation.de" tvg-name="DE: Crime + Investigation HD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/b5b92d83bbe978c5903287fb4ac6bbb4.90284.PNG" group-title="DE| GERMANY",DE: Crime + Investigation HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/23682
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: ALLGÄU TV HD" tvg-logo="https://s9.gifyu.com/images/SF7Jj.png" group-title="DE| GERMANY",DE: ALLGÄU TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30273
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: MAINFRANKEN WÜRZBURG TV HD" tvg-logo="https://s9.gifyu.com/images/SFuPr.png" group-title="DE| GERMANY",DE: MAINFRANKEN WÜRZBURG TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/16701
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="n24doku.de" tvg-name="DE: N24 DOKU FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/n24-doku-de.png" group-title="DE| GERMANY",DE: N24 DOKU FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30330
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="n24doku.de" tvg-name="DE: N24 DOKU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/n24-doku-de.png" group-title="DE| GERMANY",DE: N24 DOKU HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/16709
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Bergblick.ch" tvg-name="DE: BERGBLICK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/bergblick-at.png" group-title="DE| GERMANY",DE: BERGBLICK HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/50152
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnercomedy.de" tvg-name="DE: Warner TV Comedy FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/86f5726136c5737fedda85436bdfeb23.90373.PNG" group-title="DE| GERMANY",DE: Warner TV Comedy FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30264
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deluxemusic.de" tvg-name="DE: DELUXE MUSIC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" group-title="DE| GERMANY",DE: DELUXE MUSIC FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/2997
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: FRANKEN FERNSEHEN FHD" tvg-logo="https://s9.gifyu.com/images/SFuGb.png" group-title="DE| GERMANY",DE: FRANKEN FERNSEHEN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/103686
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="history.de" tvg-name="DE: History FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/920f975eec0b381e8c8f899a1583d206.83592.PNG" group-title="DE| GERMANY",DE: History FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/10505
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="melodietv.at" tvg-name="DE: MELODIE TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/melodie-tv-de.png" group-title="DE| GERMANY",DE: MELODIE TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/22608
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: BADEN TV FHD" tvg-logo="https://s9.gifyu.com/images/SF7Ja.png" group-title="DE| GERMANY",DE: BADEN TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4088
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: TV OBERFRANKEN HD" tvg-logo="https://s9.gifyu.com/images/SFQsC.png" group-title="DE| GERMANY",DE: TV OBERFRANKEN HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/111698
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.de" tvg-name="DE: Syfy FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/65e6e2614841dfc5ea14ae35f8904c12.86884.PNG" group-title="DE| GERMANY",DE: Syfy FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/111720
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SCHLAGER DELUXE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/schlager-deluxe-de.png" group-title="DE| GERMANY",DE: SCHLAGER DELUXE
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/2994
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="☯☯ |DE| SPORT |DE| ☯☯" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8f_ZQIgu4aJQTbJhM4e1u3KhqD-myMTxJTIfB_4FP0MK.png" group-title="DE| BUNDESLIGA & SPORTS",☯☯ |DE| SPORT |DE| ☯☯
-https://static.videezy.com/system/protected/files/000/039/552/Germany_Flag_Loop.mp4
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportnews.de" tvg-name="|DE| ƧKЧ ƧPӨЯT NEWS SD" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT NEWS SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67104
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dazn1.de" tvg-name="DE| DAZN 1 HD+ (DZ)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn1-de.png" group-title="DE| DAZN GERMANY",DE| DAZN 1 HD+ (DZ)
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67150
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dazn1.de" tvg-name="DE| DAZN 1 HD (DZ)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn1-de.png" group-title="DE| DAZN GERMANY",DE| DAZN 1 HD (DZ)
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/76477
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dazn1.de" tvg-name="DE| DAZN 1 FHD (DZ)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn1-de.png" group-title="DE| DAZN GERMANY",DE| DAZN 1 FHD (DZ)
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67149
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dazn2.de" tvg-name="DE| DAZN 2 FHD (DZ)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn2-de.png" group-title="DE| DAZN GERMANY",DE| DAZN 2 FHD (DZ)
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/76476
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dazn2.de" tvg-name="DE| DAZN 2 HD+ (DZ)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn2-de.png" group-title="DE| DAZN GERMANY",DE| DAZN 2 HD+ (DZ)
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195575
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysporttopevent.de" tvg-name="|DE| ƧKЧ ƧPӨЯT TOP EVENT" tvg-logo="https://s9.gifyu.com/images/SF7GN.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT TOP EVENT
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67102
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportpremierleague.de" tvg-name="|DE| ƧKЧ ƧPӨЯT PREMIER LEAGUE" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="",|DE| ƧKЧ ƧPӨЯT PREMIER LEAGUE
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192580
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportpremierleague.de" tvg-name="|DE| ƧKЧ ƧPӨЯT PREMIER LEAGUE HD+" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT PREMIER LEAGUE HD+
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67124
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmix.de" tvg-name="|DE| ƧKЧ ƧPӨЯT MIX [MULTI AUDIO]" tvg-logo="https://s9.gifyu.com/images/SF7yG.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT MIX [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/192581
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysporttennis.de" tvg-name="|DE| ƧKЧ ƧPӨЯT TENNIS [P]" tvg-logo="https://s9.gifyu.com/images/SFxb4.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT TENNIS [P]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/237647
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportf1.de" tvg-name="|DE| ƧKЧ ƧPӨЯT F1 [MULTI AUDIO]" tvg-logo="https://s9.gifyu.com/images/SFxbm.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT F1 [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/237648
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga.de" tvg-name="DE| ƧKЧ ƧPӨЯT BUNDESLIGA FHD" tvg-logo="https://s9.gifyu.com/images/SF7y6.png" group-title="DE| BUNDESLIGA & SPORTS",DE| ƧKЧ ƧPӨЯT BUNDESLIGA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/237651
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportaustria.at" tvg-name="DE| ƧKЧ ƧPӨЯT AUSTRIA 1 FHD" tvg-logo="https://s9.gifyu.com/images/SF7Gk.png" group-title="DE| BUNDESLIGA & SPORTS",DE| ƧKЧ ƧPӨЯT AUSTRIA 1 FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67146
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga1.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 6 SD" tvg-logo="https://s9.gifyu.com/images/SF7y9.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 6 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67147
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga7.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 7 SD" tvg-logo="https://s9.gifyu.com/images/SF7yE.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 7 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67148
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga2.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 2 SD" tvg-logo="https://s9.gifyu.com/images/SF7yd.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 2 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195579
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga3.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 3 SD" tvg-logo="https://s9.gifyu.com/images/SF7y7.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 3 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67142
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga4.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 4 SD" tvg-logo="https://s9.gifyu.com/images/SF7yq.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 4 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67137
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skybundesliga5.de" tvg-name="|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 5 SD" tvg-logo="https://s9.gifyu.com/images/SF7ym.png" group-title="DE| BUNDESLIGA & SPORTS",|DE| ƧKЧ ƧPӨЯT BUNDESLIGA 5 SD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/67135
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="123tv.de" tvg-name="DE: 123 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/123-tv-at.png" group-title="DE| GERMANY",DE: 123 TV
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/3889
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="https://s9.gifyu.com/images/SF7DO.png" group-title="DE| GERMANY",DE: SKY CINEMA PREMIEREN FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/50147
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION FHD [MULTI AUDIO]" tvg-logo="https://s9.gifyu.com/images/SFLGQ.png" group-title="DE| WOW TV GERMANY",DE: SKY CINEMA ACTION FHD [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/9635
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION FHD [MULTI AUDIO] [MG]" tvg-logo="https://s9.gifyu.com/images/SFLGQ.png" group-title="DE| WOW TV GERMANY",DE: SKY CINEMA ACTION FHD [MULTI AUDIO] [MG]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30300
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="curiositychannel.de" tvg-name="DE: CURIOSITY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/curiosity-channel-de.png" group-title="DE| GERMANY",DE: CURIOSITY CHANNEL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30320
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="DE| GERMANY",DE: NAT GEO WILD HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/17803
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnerfilm.de" tvg-name="|DE| WARNER TV FILM HD [MULTI AUDIO]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-film-de.png" group-title="DE| WOW TV GERMANY",|DE| WARNER TV FILM HD [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195309
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sky1.de" tvg-name="|DE| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-one-de.png" group-title="DE| WOW TV GERMANY",|DE| SKY ONE FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30327
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-atlantic-de.png" group-title="DE| WOW TV GERMANY",DE: SKY ATLANTIC FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/30268
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-atlantic-de.png" group-title="DE| WOW TV GERMANY",DE: SKY ATLANTIC HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/9636
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/13th-street-de.png" group-title="DE| GERMANY",DE: 13TH STREET FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/39367
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/13th-street-de.png" group-title="DE| GERMANY",DE: 13TH STREET HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/14997
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.de" tvg-name="DE: E! ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/e-entertainment-de.png" group-title="DE| GERMANY",DE: E! ENTERTAINMENT HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195323
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnerserie.de" tvg-name="DE: Warner TV Serie FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/9059b0eeea331118c4e6dfe0e57ebf9d.83867.PNG" group-title="DE| GERMANY",DE: Warner TV Serie FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190496
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnerserie.de" tvg-name="DE: Warner TV Serie HD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/9059b0eeea331118c4e6dfe0e57ebf9d.83867.PNG" group-title="DE| GERMANY",DE: Warner TV Serie HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190497
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnerserie.de" tvg-name="|DE| WARNER TV SERIES HD [MULTI AUDIO]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-serie-de.png" group-title="DE| WOW TV GERMANY",|DE| WARNER TV SERIES HD [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/190478
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnercomedy.de" tvg-name="|DE| WARNER TV COMEDY HD [MULTI AUDIO]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-comedy-de.png" group-title="DE| WOW TV GERMANY",|DE| WARNER TV COMEDY HD [MULTI AUDIO]
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195341
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="heimatkanal.de" tvg-name="DE: HEIMATKANAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/heimatkanal-de.png" group-title="DE| GERMANY",DE: HEIMATKANAL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195361
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="romance.de" tvg-name="DE: ROMANCE TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/romance-tv-de.png" group-title="DE| GERMANY",DE: ROMANCE TV HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/4551
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/spiegel-geschichte-de.png" group-title="DE| GERMANY",DE: SPIEGEL GESCHICHTE FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195537
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kinowelt.de" tvg-name="DE: KINOWELT TV FHD" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/4f437c9b798ebdcb6c073cdfbd928a6a.83614.PNG" group-title="DE| GERMANY",DE: KINOWELT TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195549
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.de" tvg-name="DE: BOOMERANG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/boomerang-fr.png" group-title="DE| GERMANY",DE: BOOMERANG HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195552
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.de" tvg-name="DE: BOOMERANG FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/boomerang-fr.png" group-title="DE| GERMANY",DE: BOOMERANG FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195554
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Bergblick.ch" tvg-name="DE: BERGBLICK FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/bergblick-at.png" group-title="DE| GERMANY",DE: BERGBLICK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229864
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.de" tvg-name="|DE| NICK JR. HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-jr-de.png" group-title="DE| GERMANY",|DE| NICK JR. HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195556
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nicktoons.de" tvg-name="|DE| NICKTOONS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-toons-de.png" group-title="DE| GERMANY",|DE| NICKTOONS
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195557
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/disney-channel-de.png" group-title="DE| GERMANY",DE: DISNEY CHANNEL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195563
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.de" tvg-name="DE: DISNEY JR. FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/disney-jr-fr.png" group-title="DE| GERMANY",DE: DISNEY JR. FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195564
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.de" tvg-name="DE: DISNEY JR. HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/disney-jr-fr.png" group-title="DE| GERMANY",DE: DISNEY JR. HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195565
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dmax-de.png" group-title="DE| GERMANY",DE: DMAX HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195568
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: ZWEI MUSIC TELEVISION FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zwei-music-television-de.png" group-title="DE| GERMANY",DE: ZWEI MUSIC TELEVISION FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195569
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="INSGER" tvg-name="DE: MS SPORT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/motorvision-tv-de.png" group-title="DE| GERMANY",DE: MS SPORT FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/195574
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="waidwerk.de" tvg-name="DE: WAIDWERK FHD" tvg-logo="https://s9.gifyu.com/images/SFQKC.png" group-title="DE| GERMANY",DE: WAIDWERK FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229842
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.de" tvg-name="DE: COMEDY CENTRAL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="DE| GERMANY",DE: COMEDY CENTRAL FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229843
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.de" tvg-name="DE: COMEDY CENTRAL +1/ NICKELODEON FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-de.png" group-title="DE| GERMANY",DE: COMEDY CENTRAL +1/ NICKELODEON FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229845
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/welt-der-wunder-de.png" group-title="DE| GERMANY",DE: WELT DER WUNDER TV FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229849
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hse24extra.de" tvg-name="DE: HSE EXTRA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/hse-extra-at.png" group-title="DE| GERMANY",DE: HSE EXTRA FHD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/238086
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: MEDIASHOP LIFE" tvg-logo="https://s9.gifyu.com/images/SFuXL.png" group-title="DE| GERMANY",DE: MEDIASHOP LIFE
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/238094
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="arte.de" tvg-name="DE: ARTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="DE| GERMANY",DE: ARTE HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/238097
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: Sky Showcase HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-showcase-de.png" group-title="DE| GERMANY",DE: Sky Showcase HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/238099
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superrtl.de" tvg-name="DE: SUPER RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-super-de.png" group-title="DE| GERMANY",DE: SUPER RTL HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/238105
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.de" tvg-name="DE: Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="DE| GERMANY",DE: Cartoonito HD
-http://one-x.best:8080/GEN-broLINE/bp5XCWP/229874
+#EXTINF:-1 xui-id="310" tvg-id="RTLCHHD" tvg-name="RTL 1" tvg-logo="http://fanc.tmsimg.com/assets/s99530_ll_h3_aa.png" group-title="DE: Deutschland",RTL 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2KLWe75RgFyO3sX72-4GR_
+#EXTINF:-1 xui-id="311" tvg-id="RTL2CHH" tvg-name="RTL 2" tvg-logo="http://fanc.tmsimg.com/assets/s99950_ll_h3_ab.png" group-title="DE: Deutschland",RTL 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW05l9vihZYUSzS_OSQ2F9wN
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="RTL Plus" tvg-logo="http://fanc.tmsimg.com/assets/s53951_ll_h3_aa.png" group-title="DE: Deutschland",RTL Plus
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2SV5z6paadVS433CavwAEy
+#EXTINF:-1 xui-id="313" tvg-id="RTLCRHD" tvg-name="RTL Crime" tvg-logo="http://fanc.tmsimg.com/assets/s83645_ll_h3_aa.png" group-title="DE: Deutschland",RTL Crime
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0oofFN_0Q5_GTDMm8rDRNy
+#EXTINF:-1 xui-id="314" tvg-id="RTLPSHD" tvg-name="RTL Passion" tvg-logo="http://fanc.tmsimg.com/assets/s83636_ll_h3_ab.png" group-title="DE: Deutschland",RTL Passion
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1L2lKh7ozqL_2uDHAZKZxX
+#EXTINF:-1 xui-id="315" tvg-id="RTLNIHD" tvg-name="RTL Nitro" tvg-logo="http://fanc.tmsimg.com/assets/s83646_ll_h3_aa.png" group-title="DE: Deutschland",RTL Nitro
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3F2hxoygkKYZ9koT10E9-P
+#EXTINF:-1 xui-id="316" tvg-id="RTLLVHD" tvg-name="RTL Living" tvg-logo="http://fanc.tmsimg.com/assets/s83644_ll_h3_ab.png" group-title="DE: Deutschland",RTL Living
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3tfvwlXbcjBTEWd9_eK8mE
+#EXTINF:-1 xui-id="372" tvg-id="RTLVFKD" tvg-name="RTL UP" tvg-logo="http://fanc.tmsimg.com/assets/s106956_ll_h3_aa.png" group-title="DE: Deutschland",RTL UP
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2YzB85TMGpKkoa7XrUo1O3
+#EXTINF:-1 xui-id="330" tvg-id="ARDGRHD" tvg-name="Das Erste" tvg-logo="http://cdntm.net:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumt4MWAwSULMZhjvAoBuhN2-U3aP_UJq3JSEdWUCQ3jvig.png" group-title="DE: Deutschland",Das Erste
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0KuchM-5QsQalMQSiQzVxd
+#EXTINF:-1 xui-id="318" tvg-id="ZDFGERH" tvg-name="ZDF" tvg-logo="http://fanc.tmsimg.com/assets/s67217_ll_h3_ab.png" group-title="DE: Deutschland",ZDF
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3GnPR-kKxyWamVLY3Rtt6c
+#EXTINF:-1 xui-id="320" tvg-id="ZDFINHD" tvg-name="ZDF Info" tvg-logo="http://fanc.tmsimg.com/assets/s83543_ll_h3_ab.png" group-title="DE: Deutschland",ZDF Info
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3fTvU2DJKeJebbjVQ8f_eH
+#EXTINF:-1 xui-id="319" tvg-id="ZDFNGHD" tvg-name="ZDF Neo" tvg-logo="http://fanc.tmsimg.com/assets/s90438_ll_h3_ab.png" group-title="DE: Deutschland",ZDF Neo
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1UXD6khRyLHXDXpKijuyPg
+#EXTINF:-1 xui-id="321" tvg-id="SAT1HD" tvg-name="SAT.1" tvg-logo="http://fanc.tmsimg.com/assets/s83649_ll_h3_aa.png" group-title="DE: Deutschland",SAT.1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3zq_dRYhsg8Ii45WREAjYz
+#EXTINF:-1 xui-id="322" tvg-id="SATGHD" tvg-name="SAT.1 Gold" tvg-logo="http://fanc.tmsimg.com/assets/s86881_ll_h3_aa.png" group-title="DE: Deutschland",SAT.1 Gold
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2NnGq0fMIRxVPJFpVTJwU9
+#EXTINF:-1 xui-id="323" tvg-id="SAT1EMH" tvg-name="SAT.1 Emotions" tvg-logo="http://fanc.tmsimg.com/assets/s84356_ll_h3_aa.png" group-title="DE: Deutschland",SAT.1 Emotions
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1ZY0-6WTdrT4KUk_Uh7Cy5
+#EXTINF:-1 xui-id="324" tvg-id="3SATHD" tvg-name="3SAT" tvg-logo="http://fanc.tmsimg.com/assets/s83545_ll_h3_ab.png" group-title="DE: Deutschland",3SAT
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0AhBIdneDO9jrDxVkWwkeo
+#EXTINF:-1 xui-id="325" tvg-id="PRO7HD" tvg-name="ProSieben" tvg-logo="http://fanc.tmsimg.com/assets/s83632_ll_h3_ab.png" group-title="DE: Deutschland",ProSieben
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3zfawTGdfDT4XrBOQLUW7P
+#EXTINF:-1 xui-id="326" tvg-id="PROMXHD" tvg-name="ProSieben MAXX" tvg-logo="http://fanc.tmsimg.com/assets/s84352_ll_h3_aa.png" group-title="DE: Deutschland",ProSieben MAXX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW14Pchcpqz2a0eIzsq7kzwN
+#EXTINF:-1 xui-id="327" tvg-id="PRO7FHD" tvg-name="ProSieben Fun" tvg-logo="http://fanc.tmsimg.com/assets/s83631_ll_h3_ab.png" group-title="DE: Deutschland",ProSieben Fun
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3rj6ZFgtb7r2asgKXIof04
+#EXTINF:-1 xui-id="328" tvg-id="KABEL1H" tvg-name="Kabel eins" tvg-logo="http://fanc.tmsimg.com/assets/s84053_ll_h3_aa.png" group-title="DE: Deutschland",Kabel eins
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2nIh0YIRBNsdcXGZHYAjnf
+#EXTINF:-1 xui-id="329" tvg-id="KEINCLH" tvg-name="Kabel eins classics" tvg-logo="http://fanc.tmsimg.com/assets/s84348_ll_h3_aa.png" group-title="DE: Deutschland",Kabel eins classics
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0Anr1YoEHXmKb1KFkGKljl
+#EXTINF:-1 xui-id="358" tvg-id="KAB1DOH" tvg-name="Kabel Eins Doku" tvg-logo="http://fanc.tmsimg.com/assets/s100426_ll_h3_ab.png" group-title="DE: Deutschland",Kabel Eins Doku
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3UHEHuKibECix4L2aZziht
+#EXTINF:-1 xui-id="331" tvg-id="13SHDKD" tvg-name="13th Street" tvg-logo="http://fanc.tmsimg.com/assets/s101806_ll_h3_ab.png" group-title="DE: Deutschland",13th Street
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2gyXZCoqXoAkTdLd11vmNo
+#EXTINF:-1 xui-id="332" tvg-id="NTVHD" tvg-name="N-TV" tvg-logo="http://fanc.tmsimg.com/assets/s89070_ll_h3_aa.png" group-title="DE: Deutschland",N-TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3sx-y-dx0iLJrUfCQIWfpz
+#EXTINF:-1 xui-id="333" tvg-id="VOXSHD" tvg-name="VOX" tvg-logo="http://fanc.tmsimg.com/assets/s83871_ll_h3_aa.png" group-title="DE: Deutschland",VOX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1BICE-cCImSgO4z-kvXa7-
+#EXTINF:-1 xui-id="334" tvg-id="FOXKDG" tvg-name="FOX" tvg-logo="http://fanc.tmsimg.com/assets/s101794_ll_h3_ab.png" group-title="DE: Deutschland",FOX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2YdqLC3muqkWilag6Xmy6n
+#EXTINF:-1 xui-id="335" tvg-id="SIXXHD" tvg-name="SIXX" tvg-logo="http://fanc.tmsimg.com/assets/s83662_ll_h3_aa.png" group-title="DE: Deutschland",SIXX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1-j-1us95BvFL_k0qf3VzR
+#EXTINF:-1 xui-id="336" tvg-id="DMAXDHD" tvg-name="DMAX" tvg-logo="http://fanc.tmsimg.com/assets/s83581_ll_h3_ab.png" group-title="DE: Deutschland",DMAX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3ocz_dRkh-38qartD6nemx
+#EXTINF:-1 xui-id="337" tvg-id="SYFYHDG" tvg-name="SYFY" tvg-logo="http://fanc.tmsimg.com/assets/s86884_ll_h3_ab.png" group-title="DE: Deutschland",SYFY
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3r87MS_icf2aJ9qDx0hcDD
+#EXTINF:-1 xui-id="338" tvg-id="ANXHDGH" tvg-name="Anixe" tvg-logo="http://fanc.tmsimg.com/assets/s67145_ll_h3_ab.png" group-title="DE: Deutschland",Anixe
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0MzBfcsaB-CiHR2QMVOufS
+#EXTINF:-1 xui-id="339" tvg-id="ARTDEUH" tvg-name="arte" tvg-logo="http://fanc.tmsimg.com/assets/s87847_ll_h3_ab.png" group-title="DE: Deutschland",arte
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1gT9h8eTetGa7VsvBVJekx
+#EXTINF:-1 xui-id="341" tvg-id="AXNDEUH" tvg-name="AXN" tvg-logo="http://cdntm.net:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKc6CKOnX40VD_MskhQNDNCc9pC1x3UFkqWxLZTIRc5ag.png" group-title="DE: Deutschland",AXN
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1iosq6aFy9yHC6uwP2XHkJ
+#EXTINF:-1 xui-id="342" tvg-id="NDRFNHD" tvg-name="NDR Fernsehen" tvg-logo="http://fanc.tmsimg.com/assets/s83624_ll_h3_ab.png" group-title="DE: Deutschland",NDR Fernsehen
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2DrTYNSEDNz4JShYKNzPZP
+#EXTINF:-1 xui-id="343" tvg-id="WDRFHD" tvg-name="WDR Fernsehen" tvg-logo="http://fanc.tmsimg.com/assets/s83870_ll_h3_ac.png" group-title="DE: Deutschland",WDR Fernsehen
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1JzhlaIyGmfBoRwJAZNR7Z
+#EXTINF:-1 xui-id="344" tvg-id="SFBWHD" tvg-name="SWR Fernsehen" tvg-logo="http://fanc.tmsimg.com/assets/s83772_ll_h3_ab.png" group-title="DE: Deutschland",SWR Fernsehen
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW361pKtArFIOWBb4z03XT5u
+#EXTINF:-1 xui-id="352" tvg-id="HRHFHD" tvg-name="hr-fernsehen" tvg-logo="http://fanc.tmsimg.com/assets/s90459_ll_h3_ab.png" group-title="DE: Deutschland",hr-fernsehen
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0cHkqfZMojVLdt5Vc7a4fJ
+#EXTINF:-1 xui-id="374" tvg-id="RBBBEHD" tvg-name="RBB Fernsehen" tvg-logo="http://fanc.tmsimg.com/assets/s91975_ll_h3_ab.png" group-title="DE: Deutschland",RBB Fernsehen
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0gHH_jv3sTkJDTJ98H1Ad3
+#EXTINF:-1 xui-id="346" tvg-id="TLCGHD" tvg-name="TLC TV" tvg-logo="http://fanc.tmsimg.com/assets/s90213_ll_h3_ab.png" group-title="DE: Deutschland",TLC TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0c-qAqVoL01169g0Y9aZe4
+#EXTINF:-1 xui-id="345" tvg-id="TEL5ATH" tvg-name="Tele 5" tvg-logo="http://fanc.tmsimg.com/assets/s88701_ll_h3_aa.png" group-title="DE: Deutschland",Tele 5
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0Bzju9msMVO9xPshv5vcBw
+#EXTINF:-1 xui-id="349" tvg-id="UCHDKDG" tvg-name="Universal TV" tvg-logo="http://fanc.tmsimg.com/assets/s101813_ll_h3_aa.png" group-title="DE: Deutschland",Universal TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3Z7pXgxTwG4ivsNqDC0OVD
+#EXTINF:-1 xui-id="350" tvg-id="RMNCHDK" tvg-name="Romance TV" tvg-logo="http://fanc.tmsimg.com/assets/s101808_ll_h3_ac.png" group-title="DE: Deutschland",Romance TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW20JkXoJHC9PiPUJ6e3TwCj
+#EXTINF:-1 xui-id="348" tvg-id="ARDALHD" tvg-name="ARD-Alpha" tvg-logo="http://fanc.tmsimg.com/assets/s110440_ll_h3_aa.png" group-title="DE: Deutschland",ARD-Alpha
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1uK1xma0CAtFnbdPlZvj8b
+#EXTINF:-1 xui-id="347" tvg-id="ZEE1KDG" tvg-name="Zee.One" tvg-logo="http://fanc.tmsimg.com/assets/s101781_ll_h3_ab.png" group-title="DE: Deutschland",Zee.One
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0kckX0BzI57KcAw81muuCZ
+#EXTINF:-1 xui-id="353" tvg-id="PHONXHD" tvg-name="PHOENIX" tvg-logo="http://fanc.tmsimg.com/assets/s83627_ll_h3_ab.png" group-title="DE: Deutschland",PHOENIX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0BsoXIi2GMmmZsd_shZ9G6
+#EXTINF:-1 xui-id="354" tvg-id="WELTDE" tvg-name="Welt" tvg-logo="http://fanc.tmsimg.com/assets/s67200_ll_h3_aa.png" group-title="DE: Deutschland",Welt
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3JbHg7IdVSJhirrwHn7Wbz
+#EXTINF:-1 xui-id="355" tvg-id="WDWTVHD" tvg-name="Welt der Wunder" tvg-logo="http://fanc.tmsimg.com/assets/s99300_ll_h3_ab.png" group-title="DE: Deutschland",Welt der Wunder
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3LbovRYSszntLP6DWv8XYa
+#EXTINF:-1 xui-id="356" tvg-id="SPIEGHD" tvg-name="Spiegel Geschichte" tvg-logo="http://fanc.tmsimg.com/assets/s90374_ll_h3_aa.png" group-title="DE: Deutschland",Spiegel Geschichte
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3OgdJ-Q-2yWy5l3mYPg5nX
+#EXTINF:-1 xui-id="357" tvg-id="TAGARHD" tvg-name="Tagesschau24" tvg-logo="http://fanc.tmsimg.com/assets/s90439_ll_h3_ab.png" group-title="DE: Deutschland",Tagesschau24
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2hxKCkmp7HXK05iUEtUzip
+#EXTINF:-1 xui-id="375" tvg-id="DWEURHD" tvg-name="Detsche Welle" tvg-logo="http://fanc.tmsimg.com/assets/s105247_ll_h3_aa.png" group-title="DE: Deutschland",Detsche Welle
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2o-vw84rdZuKDIDavfzEH6
+#EXTINF:-1 xui-id="1415" tvg-id="EUNHDDE" tvg-name="Euronews.de" tvg-logo="http://fanc.tmsimg.com/assets/s103499_ll_h3_aa.png" group-title="DE: Deutschland",Euronews.de
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE521yvB3I9I7BpsdgXl23SHv
+#EXTINF:-1 xui-id="376" tvg-id="NAGEHDK" tvg-name="National Geographic" tvg-logo="http://fanc.tmsimg.com/assets/s101863_ll_h3_ab.png" group-title="DE: Deutschland",National Geographic
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3pPEBlQeixFa_fdRIZvUHR
+#EXTINF:-1 xui-id="359" tvg-id="ETVINT" tvg-name="E! Entertainment" tvg-logo="http://fanc.tmsimg.com/assets/s32195_ll_h3_aa.png" group-title="DE: Deutschland",E! Entertainment
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1IT3Axpz0CzSubRHVoRt55
+#EXTINF:-1 xui-id="1416" tvg-id="" tvg-name="Crime+Investigation" tvg-logo="http://fanc.tmsimg.com/assets/s48543_ll_h3_ab.png" group-title="DE: Deutschland",Crime+Investigation
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE51av8G6OELwhDMcdhso8Uyp
+#EXTINF:-1 xui-id="360" tvg-id="HISTHDD" tvg-name="HISTORY TV" tvg-logo="http://fanc.tmsimg.com/assets/s83592_ll_h3_ab.png" group-title="DE: Deutschland",HISTORY TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2a8WMqWtZH3BmSJW56PBd2
+#EXTINF:-1 xui-id="362" tvg-id="DISHDKD" tvg-name="Discovery Channel" tvg-logo="http://fanc.tmsimg.com/assets/s97253_ll_h3_ab.png" group-title="DE: Deutschland",Discovery Channel
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2seIDGDaZnn1XT47g82N_A
+#EXTINF:-1 xui-id="363" tvg-id="ANPGEHD" tvg-name="Animal Planet" tvg-logo="http://fanc.tmsimg.com/assets/s90441_ll_h3_ab.png" group-title="DE: Deutschland",Animal Planet
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2uktZ1v832sK3X-HB_Q-XE
+#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="RTL Super" tvg-logo="" group-title="DE: Deutschland",RTL Super
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2VwC9XkjYXveZzVbutSUJD
+#EXTINF:-1 xui-id="364" tvg-id="DISJSKY" tvg-name="Disney Junior" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="DE: Deutschland",Disney Junior
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2fsfa4NqYpmAfWHryviESu
+#EXTINF:-1 xui-id="365" tvg-id="BOOMDHD" tvg-name="Boomerang" tvg-logo="http://fanc.tmsimg.com/assets/s84318_ll_h3_aa.png" group-title="DE: Deutschland",Boomerang
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW27K0hWOgJpIBFz7D1781Qp
+#EXTINF:-1 xui-id="366" tvg-id="TOGPLUS" tvg-name="Toggo Plus" tvg-logo="http://fanc.tmsimg.com/assets/s100062_h3_aa.png" group-title="DE: Deutschland",Toggo Plus
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3RZccQgoE3adDuBe67fHpx
+#EXTINF:-1 xui-id="371" tvg-id="NIKHDG" tvg-name="Nickelodeon" tvg-logo="http://fanc.tmsimg.com/assets/s86878_ll_h3_ab.png" group-title="DE: Deutschland",Nickelodeon
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0Q4bNEwMlKLlks8D9zxDRg
+#EXTINF:-1 xui-id="367" tvg-id="NICKJDH" tvg-name="Nick Jr" tvg-logo="http://cdntm.net:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvajdwdUnjbrsSz_MzJ_1yySCFYGzS0Na3zlpDOGXq_jw.png" group-title="DE: Deutschland",Nick Jr
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3uf2tZ0wdPgfdps0RJGYI9
+#EXTINF:-1 xui-id="368" tvg-id="KIKAGH" tvg-name="KiKA" tvg-logo="http://fanc.tmsimg.com/assets/s67198_ll_h3_aa.png" group-title="DE: Deutschland",KiKA
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW31MduwhODMrGTgKuqjtL_G
+#EXTINF:-1 xui-id="369" tvg-id="DMUSTVH" tvg-name="Deluxe Music" tvg-logo="http://fanc.tmsimg.com/assets/s84340_ll_h3_ab.png" group-title="DE: Deutschland",Deluxe Music
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1X0fnSxYDc1TiStvyu9zIg
+#EXTINF:-1 xui-id="370" tvg-id="MUNTVHD" tvg-name="Baden TV" tvg-logo="http://fanc.tmsimg.com/assets/s98534_ll_h3_aa.png" group-title="DE: Deutschland",Baden TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2HpReR5aoSglUIxHDm_rM8
+#EXTINF:-1 xui-id="1412" tvg-id="HEIMKAN" tvg-name="Heimatkanal" tvg-logo="http://cdntm.net:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLjhM_GirURzyKmXDEO8yC6rnFRk_dDOhidQWjgJj7pGg.png" group-title="DE: Deutschland",Heimatkanal
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE53MA--dWjHsy99PEe6YOV3D
+#EXTINF:-1 xui-id="377" tvg-id="DAZN1HD" tvg-name="DAZN 1" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="DE: Sport",DAZN 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW17lrvHv3RHi0XeJ24UoGdo
+#EXTINF:-1 xui-id="379" tvg-id="DAZN2HD" tvg-name="DAZN 2" tvg-logo="http://fanc.tmsimg.com/assets/s111746_ll_h3_aa.png" group-title="DE: Sport",DAZN 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW13HLGpxhKRLAy7a3Mz3eaS
+#EXTINF:-1 xui-id="1434" tvg-id="" tvg-name="Sky Sport Top Event" tvg-logo="" group-title="DE: Sport",Sky Sport Top Event
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE53B3xnsbo77OwiWCRC8403G
+#EXTINF:-1 xui-id="394" tvg-id="SKSPBUH" tvg-name="Sky Sport Bundesliga" tvg-logo="http://fanc.tmsimg.com/assets/s104844_ll_h3_ab.png" group-title="DE: Sport",Sky Sport Bundesliga
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1mCuHdhwJwupNMICXuJOPo
+#EXTINF:-1 xui-id="1435" tvg-id="" tvg-name="Sky Sport Premier League" tvg-logo="" group-title="DE: Sport",Sky Sport Premier League
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE50JQoDgcdZay-cDSNociLXY
+#EXTINF:-1 xui-id="381" tvg-id="SKYBUHD" tvg-name="Sky Bundesliga 1" tvg-logo="http://fanc.tmsimg.com/assets/s86882_ll_h3_aa.png" group-title="DE: Sport",Sky Bundesliga 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2X4BWP9ir6jqoSuuGw1Tyb
+#EXTINF:-1 xui-id="382" tvg-id="SKYB2HD" tvg-name="Sky Bundesliga 2" tvg-logo="http://fanc.tmsimg.com/assets/s90482_ll_h3_ab.png" group-title="DE: Sport",Sky Bundesliga 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3b_FeWYCV6NdcVI5c90qbs
+#EXTINF:-1 xui-id="383" tvg-id="SKYB3HD" tvg-name="Sky Bundesliga 3" tvg-logo="http://fanc.tmsimg.com/assets/s90483_ll_h3_ab.png" group-title="DE: Sport",Sky Bundesliga 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW02tRHpsauh-M_J2l5xMpBf
+#EXTINF:-1 xui-id="384" tvg-id="SKYB4HD" tvg-name="Sky Bundesliga 4" tvg-logo="http://fanc.tmsimg.com/assets/s90408_ll_h3_ab.png" group-title="DE: Sport",Sky Bundesliga 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0mu4K88YL5ZwrMe7ttaASb
+#EXTINF:-1 xui-id="385" tvg-id="SKYS5HD" tvg-name="Sky Bundesliga 5" tvg-logo="http://fanc.tmsimg.com/assets/s84362_ll_h3_ab.png" group-title="DE: Sport",Sky Bundesliga 5
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW24xnWbGnkxm8xRmD5rXm_c
+#EXTINF:-1 xui-id="386" tvg-id="SKYS6HD" tvg-name="Sky Bundesliga 6" tvg-logo="http://fanc.tmsimg.com/assets/s84366_ll_h3_ab.png" group-title="DE: Sport",Sky Bundesliga 6
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1VtLG5sdzl_m8q3GrO3WLK
+#EXTINF:-1 xui-id="393" tvg-id="SKYSNG" tvg-name="Sky Sport News" tvg-logo="http://fanc.tmsimg.com/assets/s83754_ll_h3_ac.png" group-title="DE: Sport",Sky Sport News
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW32D7txTwPtebruS0ZACLgL
+#EXTINF:-1 xui-id="387" tvg-id="SKY1GHD" tvg-name="Sky Sport 1" tvg-logo="http://fanc.tmsimg.com/assets/s83725_ll_h3_ab.png" group-title="DE: Sport",Sky Sport 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2FcndX58VpwhGMuLihm5uR
+#EXTINF:-1 xui-id="388" tvg-id="SKY2GHD" tvg-name="Sky Sport 2" tvg-logo="http://fanc.tmsimg.com/assets/s83740_ll_h3_aa.png" group-title="DE: Sport",Sky Sport 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1muAeNJYi-1n2Q-jRaaGkj
+#EXTINF:-1 xui-id="389" tvg-id="SKYS3HD" tvg-name="Sky Sport 3" tvg-logo="http://fanc.tmsimg.com/assets/s84360_ll_h3_ab.png" group-title="DE: Sport",Sky Sport 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2OvYN5Ex3NbK6E6SzO7W8W
+#EXTINF:-1 xui-id="390" tvg-id="SKYS4HD" tvg-name="Sky Sport 4" tvg-logo="http://fanc.tmsimg.com/assets/s84361_ll_h3_aa.png" group-title="DE: Sport",Sky Sport 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW02_WBsk6d6hO8iFhv87ioW
+#EXTINF:-1 xui-id="391" tvg-id="SKYS5HD" tvg-name="Sky Sport 5" tvg-logo="http://fanc.tmsimg.com/assets/s84362_ll_h3_ab.png" group-title="DE: Sport",Sky Sport 5
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW1kwB5OmjwhHO9llQ3IhgKm
+#EXTINF:-1 xui-id="397" tvg-id="SKYSPFH" tvg-name="Sky Sport F1" tvg-logo="http://fanc.tmsimg.com/assets/s98963_ll_h3_aa.png" group-title="DE: Sport",Sky Sport F1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2oSZaWE76q4wS8SF3kG4zN
+#EXTINF:-1 xui-id="1437" tvg-id="" tvg-name="Sky Sport Mix" tvg-logo="" group-title="DE: Sport",Sky Sport Mix
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE52iP9JvEMVUJ3JeTiz4nwNf
+#EXTINF:-1 xui-id="1438" tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="" group-title="DE: Sport",Sky Sport Golf
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE51QNmfhd3WQn9FtaD6lDLY0
+#EXTINF:-1 xui-id="1436" tvg-id="" tvg-name="Sky Sport Tennis" tvg-logo="" group-title="DE: Sport",Sky Sport Tennis
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE52YOf5icqSQjHpFUmfamTak
+#EXTINF:-1 xui-id="9316" tvg-id="" tvg-name="MAGENTA MY TEAM 1" tvg-logo="" group-title="DE: Sport",MAGENTA MY TEAM 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb6f11Rcy1IsI5K2lv3rl8PK
+#EXTINF:-1 xui-id="9317" tvg-id="" tvg-name="MAGENTA MY TEAM 2" tvg-logo="" group-title="DE: Sport",MAGENTA MY TEAM 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb7YdwSwExTMW42EqhtimyTT
+#EXTINF:-1 xui-id="9318" tvg-id="" tvg-name="MAGENTA MY TEAM 3" tvg-logo="" group-title="DE: Sport",MAGENTA MY TEAM 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb7O4a2M-V8BTHK2qEznIkFu
+#EXTINF:-1 xui-id="9319" tvg-id="" tvg-name="MAGENTA MY TEAM 4" tvg-logo="" group-title="DE: Sport",MAGENTA MY TEAM 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4uRaX1NSYNy_r2Bszt5Ac0
+#EXTINF:-1 xui-id="9320" tvg-id="" tvg-name="RTL+ Sport Event 1" tvg-logo="" group-title="DE: Sport",RTL+ Sport Event 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4a1IvLqwAmgLeYpweCRnJi
+#EXTINF:-1 xui-id="9321" tvg-id="" tvg-name="RTL+ Sport Event 2" tvg-logo="" group-title="DE: Sport",RTL+ Sport Event 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb5LGhes_dXaQcw6gKIEWzt9
+#EXTINF:-1 xui-id="9322" tvg-id="" tvg-name="RTL+ Sport Event 3" tvg-logo="" group-title="DE: Sport",RTL+ Sport Event 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb7pmR4sCDIB7xk1FU6EcOkQ
+#EXTINF:-1 xui-id="9323" tvg-id="" tvg-name="RTL+ Sport Event 4" tvg-logo="" group-title="DE: Sport",RTL+ Sport Event 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb5Tb-VH7ty2neJOBXLkYni2
+#EXTINF:-1 xui-id="9324" tvg-id="" tvg-name="SportDigital Fussball" tvg-logo="" group-title="DE: Sport",SportDigital Fussball
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb7HZhvIUZZEq7IK9h7ayNWj
+#EXTINF:-1 xui-id="9325" tvg-id="" tvg-name="Sport Digital 1+" tvg-logo="" group-title="DE: Sport",Sport Digital 1+
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb6_j5sKI43It8bLbyRYKs6e
+#EXTINF:-1 xui-id="395" tvg-id="EUROHD" tvg-name="Eurosport 1" tvg-logo="http://fanc.tmsimg.com/assets/s83583_ll_h3_ab.png" group-title="DE: Sport",Eurosport 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW0msuJs--W7RmE1-Bz3phuc
+#EXTINF:-1 xui-id="396" tvg-id="EURS2HD" tvg-name="Eurosport 2" tvg-logo="http://fanc.tmsimg.com/assets/s86872_ll_h3_ab.png" group-title="DE: Sport",Eurosport 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3xID80ng50JWidIJMnI99F
+#EXTINF:-1 xui-id="9326" tvg-id="" tvg-name="EUROSPORT XTRA 1" tvg-logo="" group-title="DE: Sport",EUROSPORT XTRA 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4pYwJv6UMYxKJ5omryt_zT
+#EXTINF:-1 xui-id="9327" tvg-id="" tvg-name="EUROSPORT XTRA 2" tvg-logo="" group-title="DE: Sport",EUROSPORT XTRA 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb6ubWR35CtK6C8HmakJQYsC
+#EXTINF:-1 xui-id="412" tvg-id="SKYSLHD" tvg-name="Sky Select Premiere 1" tvg-logo="" group-title="DE: Cinema",Sky Select Premiere 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zYuV8281r2MI-VR7nVzaOrN
+#EXTINF:-1 xui-id="413" tvg-id="SKYSLHD" tvg-name="Sky Select Premiere 2" tvg-logo="" group-title="DE: Cinema",Sky Select Premiere 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zYx6Sk3mgiVXY14P30jGgcN
+#EXTINF:-1 xui-id="414" tvg-id="SKYSLHD" tvg-name="Sky Select Premiere 3" tvg-logo="" group-title="DE: Cinema",Sky Select Premiere 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZlWUfV3-Jm0W-Q7CR6GGVf
+#EXTINF:-1 xui-id="415" tvg-id="SKYSLHD" tvg-name="Sky Select Premiere 4" tvg-logo="" group-title="DE: Cinema",Sky Select Premiere 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zYc6uDVDs0xoY4MQ_YKgmDt
+#EXTINF:-1 xui-id="411" tvg-id="SCINPRH" tvg-name="Sky Cinema Premiere" tvg-logo="http://fanc.tmsimg.com/assets/s59691_ll_h3_aa.png" group-title="DE: Cinema",Sky Cinema Premiere
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZ4FPDD4K7IGuIlgrlZ4G59
+#EXTINF:-1 xui-id="405" tvg-id="SCINCOH" tvg-name="Sky Cinema Comedy" tvg-logo="http://fanc.tmsimg.com/assets/s61182_ll_h3_aa.png" group-title="DE: Cinema",Sky Cinema Comedy
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zaJWkJ5Mb8uFtB28pkqZNZ6
+#EXTINF:-1 xui-id="404" tvg-id="SYFAGHD" tvg-name="Sky Cinema Family" tvg-logo="http://fanc.tmsimg.com/assets/s100790_ll_h3_ab.png" group-title="DE: Cinema",Sky Cinema Family
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-za7Mfgnn76pHmUQzNkdE4xi
+#EXTINF:-1 xui-id="406" tvg-id="SKYCRHD" tvg-name="Sky Cinema Crime" tvg-logo="http://fanc.tmsimg.com/assets/s112396_ll_h3_aa.png" group-title="DE: Cinema",Sky Cinema Crime
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zYoAY8O0rrmRLPD_GUMjRYI
+#EXTINF:-1 xui-id="407" tvg-id="SCINHTS" tvg-name="Sky Cinema Hits" tvg-logo="http://fanc.tmsimg.com/assets/s56141_ll_h3_aa.png" group-title="DE: Cinema",Sky Cinema Hits
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZ-AgXpfFeTdV15AzLo2Rr4
+#EXTINF:-1 xui-id="403" tvg-id="SKYANHK" tvg-name="Sky Cinema Action" tvg-logo="http://fanc.tmsimg.com/assets/s101849_ll_h3_ab.png" group-title="DE: Cinema",Sky Cinema Action
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zbn-BWlgpnX18CiPKkhP1W0
+#EXTINF:-1 xui-id="402" tvg-id="SC24HD" tvg-name="Eagle Cinema Thriller" tvg-logo="" group-title="DE: Cinema",Eagle Cinema Thriller
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zbCvysukeUUIAD37cQAAQBJ
+#EXTINF:-1 xui-id="399" tvg-id="TNTFILM" tvg-name="Eagle Cinema Premiere" tvg-logo="" group-title="DE: Cinema",Eagle Cinema Premiere
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW3rs9p-m3IpgUxqWrBkM07R
+#EXTINF:-1 xui-id="401" tvg-id="TNTSEHK" tvg-name="Eagle Cinema Comedy" tvg-logo="" group-title="DE: Cinema",Eagle Cinema Comedy
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZacKRmX9ydNpS-MHbCSH74
+#EXTINF:-1 xui-id="400" tvg-id="TNTGLHD" tvg-name="Eagle Cinema Aktion" tvg-logo="" group-title="DE: Cinema",Eagle Cinema Aktion
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zbuxqFT5NvvsJMMgODyi2wo
+#EXTINF:-1 xui-id="408" tvg-id="SC1HD" tvg-name="Stern Filme 1" tvg-logo="" group-title="DE: Cinema",Stern Filme 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zbPuiOUrKmMWhq6f1Aq93_m
+#EXTINF:-1 xui-id="409" tvg-id="SKYCOMG" tvg-name="Stern Filme 2" tvg-logo="" group-title="DE: Cinema",Stern Filme 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zbHoWeaD6Ltv4GEQJMebmUg
+#EXTINF:-1 xui-id="410" tvg-id="SKNOSTG" tvg-name="Stern Filme 3" tvg-logo="" group-title="DE: Cinema",Stern Filme 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZMTlmcUPVnnq450Zle1U16
+#EXTINF:-1 xui-id="416" tvg-id="SKYSLHD" tvg-name="Warner TV Serie" tvg-logo="" group-title="DE: Cinema",Warner TV Serie
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zaU8n7A64s39yoZFFqUr1Vs
+#EXTINF:-1 xui-id="1413" tvg-id="SKYSLHD" tvg-name="Warner TV Film" tvg-logo="" group-title="DE: Cinema",Warner TV Film
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE50F1ZcU45qF-VjpzJRFB4iQ
