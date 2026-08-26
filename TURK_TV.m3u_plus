@@ -899,6 +899,164 @@ http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
 
 #EXTM3U
+#EXTINF:-1 xui-id="738" tvg-id="TRT1" tvg-name="TRT 1" tvg-logo="http://fanc.tmsimg.com/assets/s83724_ll_h3_ab.png" group-title="TR: Turkey",TRT 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CBzatLy57uil0BwoPJMOwj
+#EXTINF:-1 xui-id="739" tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="TR: Turkey",TRT 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DRmUk6tL4pvuXaXuoG0uyK
+#EXTINF:-1 xui-id="740" tvg-id="" tvg-name="ATV" tvg-logo="" group-title="TR: Turkey",ATV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Dn5HvRuCrzCTIhPhmX-mo-
+#EXTINF:-1 xui-id="741" tvg-id="SHOWTV" tvg-name="Show TV" tvg-logo="http://fanc.tmsimg.com/assets/s78622_ll_h3_aa.png" group-title="TR: Turkey",Show TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BuxuJiMfsmacm4NaE6kgpR
+#EXTINF:-1 xui-id="1458" tvg-id="" tvg-name="Kanal D" tvg-logo="" group-title="TR: Turkey",Kanal D
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE52i1ziN3yJhQdodcn-4XzJX
+#EXTINF:-1 xui-id="742" tvg-id="" tvg-name="FOX TV" tvg-logo="" group-title="TR: Turkey",FOX TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CysBUIfj9wwWp07WONHUTn
+#EXTINF:-1 xui-id="743" tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="TR: Turkey",STAR TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BMsmWqMv9LFW1Rb56VLxov
+#EXTINF:-1 xui-id="744" tvg-id="" tvg-name="Beyaz TV" tvg-logo="" group-title="TR: Turkey",Beyaz TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Ck5PT-D-WP4-HODLy7_rXz
+#EXTINF:-1 xui-id="745" tvg-id="" tvg-name="EuroStar" tvg-logo="data:image/png;base64,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" group-title="TR: Turkey",EuroStar
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BZyowTvJqMtaoysZnjKtCa
+#EXTINF:-1 xui-id="746" tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="TR: Turkey",Kanal 7
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Bv4ymnu1SIB5-mHApwYWkn
+#EXTINF:-1 xui-id="747" tvg-id="KAN7AVR" tvg-name="Kanal 7 Avrupa" tvg-logo="http://fanc.tmsimg.com/assets/s96481_ll_h3_ab.png" group-title="TR: Turkey",Kanal 7 Avrupa
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DfNJm0sxMucmxmeFsdMm_r
+#EXTINF:-1 xui-id="748" tvg-id="" tvg-name="TV8" tvg-logo="" group-title="TR: Turkey",TV8
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DMUswcWusojJJ5l2MFCjDK
+#EXTINF:-1 xui-id="749" tvg-id="" tvg-name="TV8.5" tvg-logo="" group-title="TR: Turkey",TV8.5
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BVySiep6jrQsNahFt1yR8_
+#EXTINF:-1 xui-id="750" tvg-id="TV8TUR" tvg-name="TV8 Int" tvg-logo="http://cdntm.net:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumusknCxu6YOGPjO_HPyta9_.png" group-title="TR: Turkey",TV8 Int
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AB__S3UoyRkfYweNGIBdkK
+#EXTINF:-1 xui-id="751" tvg-id="TRTTURK" tvg-name="TRT Türk" tvg-logo="http://fanc.tmsimg.com/assets/s77684_h3_aa.png" group-title="TR: Turkey",TRT Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BIfTvM91Jcbi2joXeOROE3
+#EXTINF:-1 xui-id="752" tvg-id="TRTMUZK" tvg-name="TRT Müzik" tvg-logo="http://fanc.tmsimg.com/assets/s84064_ll_h3_aa.png" group-title="TR: Turkey",TRT Müzik
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Cyca7QoNPcc0aPEefLaohN
+#EXTINF:-1 xui-id="753" tvg-id="" tvg-name="TRT Avaz" tvg-logo="" group-title="TR: Turkey",TRT Avaz
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6ATgfxqVbOU8_gjhmVtF10g
+#EXTINF:-1 xui-id="754" tvg-id="TRTCOCU" tvg-name="TRT Çocuk" tvg-logo="http://fanc.tmsimg.com/assets/s83800_ll_h3_aa.png" group-title="TR: Turkey",TRT Çocuk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6B2TcNIoR_QI5VMJtzSQqaq
+#EXTINF:-1 xui-id="755" tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="TR: Turkey",TRT Haber
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BE25sch0KIVHxruOtz_Lka
+#EXTINF:-1 xui-id="771" tvg-id="TRTWRLD" tvg-name="TRT World" tvg-logo="http://fanc.tmsimg.com/assets/s104305_ll_h3_aa.png" group-title="TR: Turkey",TRT World
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6C_euOnMfNn-_CJ5d14zzTb
+#EXTINF:-1 xui-id="765" tvg-id="" tvg-name="NR1 Türk" tvg-logo="" group-title="TR: Turkey",NR1 Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6C2NZTXIhtL8OzrV-6G-F5y
+#EXTINF:-1 xui-id="757" tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="TR: Turkey",DMAX
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Bwgv8xToCrH6FvegwUJ91e
+#EXTINF:-1 xui-id="756" tvg-id="TGRTHA" tvg-name="TGRT Haber" tvg-logo="" group-title="TR: Turkey",TGRT Haber
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AB8p7WT8okNo0fC1lWu05d
+#EXTINF:-1 xui-id="758" tvg-id="HATURK" tvg-name="Habertürk TV" tvg-logo="" group-title="TR: Turkey",Habertürk TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BKXjS_oVlrKTJyXw2WwjFp
+#EXTINF:-1 xui-id="759" tvg-id="" tvg-name="A Haber" tvg-logo="" group-title="TR: Turkey",A Haber
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DIEmBXleCgmEYeka_S9U73
+#EXTINF:-1 xui-id="762" tvg-id="CNNTURK" tvg-name="CNN Türk" tvg-logo="http://fanc.tmsimg.com/assets/s83972_ll_h3_aa.png" group-title="TR: Turkey",CNN Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AS7G0iNeHWKeGHQaWrDKst
+#EXTINF:-1 xui-id="760" tvg-id="POWERTU" tvg-name="Power Türk" tvg-logo="http://fanc.tmsimg.com/assets/s96490_ll_h3_ab.png" group-title="TR: Turkey",Power Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6ABTDlLPOT7H33muaimLM5j
+#EXTINF:-1 xui-id="761" tvg-id="DREAMT" tvg-name="Dream Türk" tvg-logo="http://fanc.tmsimg.com/assets/s88212_h3_aa.png" group-title="TR: Turkey",Dream Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CDozDPxaeul3L9ntUAz6wX
+#EXTINF:-1 xui-id="773" tvg-id="" tvg-name="NTV Türk" tvg-logo="" group-title="TR: Turkey",NTV Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BebObHk_s9wCT7G9cmAWRv
+#EXTINF:-1 xui-id="763" tvg-id="NTVTR" tvg-name="NTV Haber" tvg-logo="http://fanc.tmsimg.com/assets/s96600_ll_h3_ab.png" group-title="TR: Turkey",NTV Haber
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Aa6J8hVkdWKi04GnDLODqz
+#EXTINF:-1 xui-id="766" tvg-id="ULKE" tvg-name="ÜLKE TV" tvg-logo="" group-title="TR: Turkey",ÜLKE TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CGRiw7vCf6hDzm8C40FfTn
+#EXTINF:-1 xui-id="767" tvg-id="KRALTU" tvg-name="Kral TV" tvg-logo="http://fanc.tmsimg.com/assets/s96489_ll_h3_aa.png" group-title="TR: Turkey",Kral TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BKDJGMOxKrSyXZrHwMHRUn
+#EXTINF:-1 xui-id="768" tvg-id="" tvg-name="Dost Tv" tvg-logo="" group-title="TR: Turkey",Dost Tv
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CWwI9o7vvEvydk7aOurh2C
+#EXTINF:-1 xui-id="770" tvg-id="" tvg-name="Diyanet Tv" tvg-logo="" group-title="TR: Turkey",Diyanet Tv
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DFyfT9R_rs1FBdr8F34Jzf
+#EXTINF:-1 xui-id="769" tvg-id="SHOWMAX" tvg-name="Show Max" tvg-logo="" group-title="TR: Turkey",Show Max
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BGkZOC20xPk5BK4_D6YiVC
+#EXTINF:-1 xui-id="774" tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="TR: Turkey",Bloomberg
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6D05KUGNdtwwR8RZAFBj0cx
+#EXTINF:-1 xui-id="776" tvg-id="" tvg-name="Minika Çocuk" tvg-logo="" group-title="TR: Turkey",Minika Çocuk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DUI2jKrxg_iJyTi85m-bHu
+#EXTINF:-1 xui-id="764" tvg-id="" tvg-name="TLC Türk" tvg-logo="" group-title="TR: Turkey",TLC Türk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6B5VoZ1RqA7oJGqab3EggKP
+#EXTINF:-1 xui-id="772" tvg-id="" tvg-name="EkoTürk" tvg-logo="" group-title="TR: Turkey",EkoTürk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AusZd7w-yD4gUMZaCxcCzJ
+#EXTINF:-1 xui-id="775" tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="TR: Turkey",HALK TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DPFhTB72AGcbZliLnJ3n9S
+#EXTINF:-1 xui-id="777" tvg-id="BSP1ANZ" tvg-name="beIN Sports 1" tvg-logo="http://fanc.tmsimg.com/assets/s103101_ll_h3_aa.png" group-title="TR: Sport",beIN Sports 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BJraVmwmr08ntOX9eSmLai
+#EXTINF:-1 xui-id="778" tvg-id="BEINS2" tvg-name="beIN Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s84037_ll_h3_aa.png" group-title="TR: Sport",beIN Sports 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AE513S6CzPHizL3yii-Ez3
+#EXTINF:-1 xui-id="779" tvg-id="BEIN3" tvg-name="beIN Sports 3" tvg-logo="http://fanc.tmsimg.com/assets/s83210_ll_h3_aa.png" group-title="TR: Sport",beIN Sports 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CFvS0M4dc-Y8PQpwlbcImb
+#EXTINF:-1 xui-id="781" tvg-id="" tvg-name="Tivibu Spor 1" tvg-logo="" group-title="TR: Sport",Tivibu Spor 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BzR_VvUTezXRV66Cl_hW0t
+#EXTINF:-1 xui-id="782" tvg-id="" tvg-name="Tivibu Spor 2" tvg-logo="" group-title="TR: Sport",Tivibu Spor 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AnqXG4JUeYK00Q1QzKR3UD
+#EXTINF:-1 xui-id="783" tvg-id="" tvg-name="Tivibu Spor 3" tvg-logo="" group-title="TR: Sport",Tivibu Spor 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BEW4czb3dUJlTR2AFq2mgp
+#EXTINF:-1 xui-id="9342" tvg-id="" tvg-name="TABii SPOR 1" tvg-logo="" group-title="TR: Sport",TABii SPOR 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb5AJH7SrRXl1USn0en4GT29
+#EXTINF:-1 xui-id="9343" tvg-id="" tvg-name="TABii SPOR 2" tvg-logo="" group-title="TR: Sport",TABii SPOR 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb6iSv6VA4eveoBkxSPuEDvy
+#EXTINF:-1 xui-id="9344" tvg-id="" tvg-name="TABii SPOR 3" tvg-logo="" group-title="TR: Sport",TABii SPOR 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb7vvEOR-adN2xOAv0W76OAQ
+#EXTINF:-1 xui-id="784" tvg-id="" tvg-name="Exxen Sport 1" tvg-logo="" group-title="TR: Sport",Exxen Sport 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CNqMlfBao-oXI5boygmdUG
+#EXTINF:-1 xui-id="9340" tvg-id="" tvg-name="Exxen Sport 2" tvg-logo="" group-title="TR: Sport",Exxen Sport 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4xAgbgEnS7abhVuQfx8I8F
+#EXTINF:-1 xui-id="9341" tvg-id="" tvg-name="Exxen Sport 3" tvg-logo="" group-title="TR: Sport",Exxen Sport 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4rL9bHcYYAJvcndRlBXk11
+#EXTINF:-1 xui-id="9345" tvg-id="" tvg-name="beIN SPORTS MAX 1" tvg-logo="" group-title="TR: Sport",beIN SPORTS MAX 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb4djvYoA8zZlGIQHX98UrMM
+#EXTINF:-1 xui-id="9346" tvg-id="" tvg-name="beIN SPORTS MAX 2" tvg-logo="" group-title="TR: Sport",beIN SPORTS MAX 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGmnpQuWqZ1fr1hwvUIyhb42rAy-uz6iJq-fvka2BZAi
+#EXTINF:-1 xui-id="789" tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="TR: Sport",S SPORT
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AIz1qP_7d2rHt0DB4InqRm
+#EXTINF:-1 xui-id="788" tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="TR: Sport",A SPOR
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CJTUZQu7ho3akUu-e0oAGs
+#EXTINF:-1 xui-id="787" tvg-id="TRTSPRT" tvg-name="TRT Spor" tvg-logo="http://fanc.tmsimg.com/assets/s108464_ll_h3_aa.png" group-title="TR: Sport",TRT Spor
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DsgbX7cgh-P9uSfwwTHV-_
+#EXTINF:-1 xui-id="785" tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="TR: Sport",Eurosport 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DEUBSnTEvPnx1gAoPXQqVW
+#EXTINF:-1 xui-id="786" tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="TR: Sport",Eurosport 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Bbcp_b8jbRjuX1jiXYLqrU
+#EXTINF:-1 xui-id="790" tvg-id="" tvg-name="Galatasaray TV" tvg-logo="" group-title="TR: Sport",Galatasaray TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6ABuGX7J7oJeEh2fvcNMSs0
+#EXTINF:-1 xui-id="791" tvg-id="" tvg-name="Fenerbahçe TV" tvg-logo="" group-title="TR: Sport",Fenerbahçe TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CSUyhJOEtOMXfHEPuMUEnB
+#EXTINF:-1 xui-id="792" tvg-id="" tvg-name="Beşiktaş TV" tvg-logo="" group-title="TR: Sport",Beşiktaş TV
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6ByzOzmiEmYd9p-rm7xG_zI
+#EXTINF:-1 xui-id="793" tvg-id="BEINMOT" tvg-name="beIN Movies Turk" tvg-logo="http://fanc.tmsimg.com/assets/s96656_ll_h3_aa.png" group-title="TR: Cinema",beIN Movies Turk
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6AZvIm_9J3q2LjtnuRpuxcx
+#EXTINF:-1 xui-id="794" tvg-id="" tvg-name="beIN Movies Action" tvg-logo="" group-title="TR: Cinema",beIN Movies Action
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DBDZDWarTwgwBRp1uB-9GI
+#EXTINF:-1 xui-id="795" tvg-id="" tvg-name="beIN Movies Premiere" tvg-logo="" group-title="TR: Cinema",beIN Movies Premiere
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6C-3xHpr5AVORG8L4MowR95
+#EXTINF:-1 xui-id="796" tvg-id="" tvg-name="beIN Movies Stars" tvg-logo="" group-title="TR: Cinema",beIN Movies Stars
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6ClbHpwoLEZnX-t2NDdhBfU
+#EXTINF:-1 xui-id="797" tvg-id="" tvg-name="EnoVizyon 1" tvg-logo="" group-title="TR: Cinema",EnoVizyon 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Bn-C1IHavTpGj25x8_mwRp
+#EXTINF:-1 xui-id="798" tvg-id="" tvg-name="EnoVizyon 2" tvg-logo="" group-title="TR: Cinema",EnoVizyon 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CpOgUA0JqQB3ijveIn0zDB
+#EXTINF:-1 xui-id="799" tvg-id="" tvg-name="EnoVizyon 3" tvg-logo="" group-title="TR: Cinema",EnoVizyon 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6BvS4PzZ0KR-z1gTW7Oos4Q
+#EXTINF:-1 xui-id="800" tvg-id="" tvg-name="EnoVizyon 4" tvg-logo="" group-title="TR: Cinema",EnoVizyon 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAkEhGykzzQo_1WR-pnt6u5g
+#EXTINF:-1 xui-id="801" tvg-id="" tvg-name="MultiVizyon 1" tvg-logo="" group-title="TR: Cinema",MultiVizyon 1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAlsGhx98K81eCXmRTM84HTi
+#EXTINF:-1 xui-id="802" tvg-id="" tvg-name="MultiVizyon 2" tvg-logo="" group-title="TR: Cinema",MultiVizyon 2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAmcd0zliWHmw8-XQfOSAsAS
+#EXTINF:-1 xui-id="803" tvg-id="" tvg-name="MultiVizyon 3" tvg-logo="" group-title="TR: Cinema",MultiVizyon 3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAnzyFPDhc6HZJUBIl67UU9n
+#EXTINF:-1 xui-id="804" tvg-id="" tvg-name="MultiVizyon 4" tvg-logo="" group-title="TR: Cinema",MultiVizyon 4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAliL3pfP526XmqyMQAxpQwe
+#EXTINF:-1 xui-id="805" tvg-id="" tvg-name="SineVizyonTürk  1" tvg-logo="" group-title="TR: Cinema",SineVizyonTürk  1
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAkVAdEUvtz1mfMeUinoMAS-
+#EXTINF:-1 xui-id="806" tvg-id="" tvg-name="SineVizyonTürk  2" tvg-logo="" group-title="TR: Cinema",SineVizyonTürk  2
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAnPKdsyWhwrFO1E2KWmXfHg
+#EXTINF:-1 xui-id="807" tvg-id="" tvg-name="SineVizyonTürk  3" tvg-logo="" group-title="TR: Cinema",SineVizyonTürk  3
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAkOtF-jIbUziXv9R7b-tNCy
+#EXTINF:-1 xui-id="808" tvg-id="" tvg-name="SineVizyonTürk  4" tvg-logo="" group-title="TR: Cinema",SineVizyonTürk  4
+http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMa1aShOdBEK4lOj3v7cVAnoZnCE04hPSowprWLeTzn-
+
+#EXTM3U
 #EXTINF:-1 xui-id="310" tvg-id="RTLCHHD" tvg-name="RTL 1" tvg-logo="http://fanc.tmsimg.com/assets/s99530_ll_h3_aa.png" group-title="DE: Deutschland",RTL 1
 http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBB_xJyIVJ5YNrMyGnqG_yW2KLWe75RgFyO3sX72-4GR_
 #EXTINF:-1 xui-id="311" tvg-id="RTL2CHH" tvg-name="RTL 2" tvg-logo="http://fanc.tmsimg.com/assets/s99950_ll_h3_ab.png" group-title="DE: Deutschland",RTL 2
@@ -1139,3 +1297,278 @@ http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zZMTlmcUPVnn
 http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBMm2uDj-b_aG5AKILf_9-zaU8n7A64s39yoZFFqUr1Vs
 #EXTINF:-1 xui-id="1413" tvg-id="SKYSLHD" tvg-name="Warner TV Film" tvg-logo="" group-title="DE: Cinema",Warner TV Film
 http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBGqEJmxn9Bd2coUe7WatE50F1ZcU45qF-VjpzJRFB4iQ
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="||---|DE| SKY GERMANY |DE|---||" tvg-logo="" group-title="BOUQUET GERMANY",||---|DE| SKY GERMANY |DE|---||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11001
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| HD Plus |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| HD Plus |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11002
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-name="|DE| PRO 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-de.png" group-title="BOUQUET GERMANY",|DE| PRO 7 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11003
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-name="|DE| PRO 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-de.png" group-title="BOUQUET GERMANY",|DE| PRO 7 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11004
+#EXTINF:-1 tvg-ID="ProSiebenMaxx.de" tvg-name="|DE| PRO 7 MAXX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-maxx-de.png" group-title="BOUQUET GERMANY",|DE| PRO 7 MAXX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11005
+#EXTINF:-1 tvg-ID="DeLuxeMusic.de" tvg-name="|DE| DELUXE MUSIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" group-title="BOUQUET GERMANY",|DE| DELUXE MUSIC HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11020
+#EXTINF:-1 tvg-ID="SkyKrimi.de" tvg-name="|DE| SKY KRIMI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-krimi-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY KRIMI HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11022
+#EXTINF:-1 tvg-ID="KabelEinsDoku.de" tvg-name="|DE| KABEL EINS DOKU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-doku-de.png" group-title="BOUQUET GERMANY",|DE| KABEL EINS DOKU HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11023
+#EXTINF:-1 tvg-ID="TLC.de" tvg-name="|DE| TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tlc-de.png" group-title="BOUQUET GERMANY",|DE| TLC HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11024
+#EXTINF:-1 tvg-ID="OUTtv.de" tvg-name="|DE| SERVUS TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/servus-tv-deutchland-de.png" group-title="BOUQUET GERMANY",|DE| SERVUS TV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11025
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| SKY E! ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-entertainment-uk.png" group-title="BOUQUET GERMANY",|DE| SKY E! ENTERTAINMENT HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11026
+#EXTINF:-1 tvg-ID="AnimalPlanet.de" tvg-name="|DE| ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/animal-planet-de.png" group-title="BOUQUET GERMANY",|DE| ANIMAL PLANET HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11030
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-name="|DE| PRO 7 FUN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-fun-de.png" group-title="BOUQUET GERMANY",|DE| PRO 7 FUN HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11076
+#EXTINF:-1 tvg-ID="Sixx.de" tvg-name="|DE| SIXX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png" group-title="BOUQUET GERMANY",|DE| SIXX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11077
+#EXTINF:-1 tvg-ID="N24Doku.de" tvg-name="|DE| N24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/n24-doku-de.png" group-title="BOUQUET GERMANY",|DE| N24 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11078
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="|DE| N-TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/n24-doku-de.png" group-title="BOUQUET GERMANY",|DE| N-TV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11079
+#EXTINF:-1 tvg-ID="RTL.de" tvg-name="|DE| RTL I HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="BOUQUET GERMANY",|DE| RTL I HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11080
+#EXTINF:-1 tvg-ID="RTL2.de" tvg-name="|DE| RTL II HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-zwei-de.png" group-title="BOUQUET GERMANY",|DE| RTL II HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11081
+#EXTINF:-1 tvg-ID="SuperRTL.de" tvg-name="|DE| SUPER RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-super-de.png" group-title="BOUQUET GERMANY",|DE| SUPER RTL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11082
+#EXTINF:-1 tvg-ID="RTLNitro.de" tvg-name="|DE| RTL NITRO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nitro-de.png" group-title="BOUQUET GERMANY",|DE| RTL NITRO HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11083
+#EXTINF:-1 tvg-ID="Vox.de" tvg-name="|DE| VOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-de.png" group-title="BOUQUET GERMANY",|DE| VOX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11084
+#EXTINF:-1 tvg-ID="Sat1.de" tvg-name="|DE| SAT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" group-title="BOUQUET GERMANY",|DE| SAT 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11085
+#EXTINF:-1 tvg-ID="Sat1Gold.de" tvg-name="|DE| SAT 1 GOLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-gold-alt-de.png" group-title="BOUQUET GERMANY",|DE| SAT 1 GOLD HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11086
+#EXTINF:-1 tvg-ID="KabelEins.de" tvg-name="|DE| KABEL EINS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-de.png" group-title="BOUQUET GERMANY",|DE| KABEL EINS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11087
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| Kino |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| Kino |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11088
+#EXTINF:-1 tvg-ID="SkyAction.de" tvg-name="|DE| SKY ONE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-one-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY ONE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11089
+#EXTINF:-1 tvg-ID="NowUS.de" tvg-name="|DE| SKY CINEMA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11090
+#EXTINF:-1 tvg-ID="NowUS.de" tvg-name="|DE| SKY CINEMA 1+ 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-premieren-plus24-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA 1+ 24 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11092
+#EXTINF:-1 tvg-ID="NowUS.de" tvg-name="|DE| SKY CINEMA 1+ 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-plus24-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA 1+ 24 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11093
+#EXTINF:-1 tvg-ID="Sat1Comedy.de" tvg-name="|DE| SKY CINEMA EMOTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-action-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA EMOTION HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11094
+#EXTINF:-1 tvg-ID="WarnerTVComedy.de" tvg-name="|DE| SKY CINEMA COMEDY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-comedy-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA COMEDY HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11095
+#EXTINF:-1 tvg-ID="SkyAtlanticHD.de" tvg-name="|DE| SKY CINEMA ATLANTIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-atlantic-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA ATLANTIC HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11096
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.de" tvg-name="|DE| SKY CINEMA FAMILY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-family-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA FAMILY HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11021
+#EXTINF:-1 tvg-ID="SkyAction.de" tvg-name="|DE| SKY CINEMA ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-action-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA ACTION HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11097
+#EXTINF:-1 tvg-ID="Sportdigitalscooore.de" tvg-name="|DE| SKY CINEMA HITS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="BOUQUET GERMANY",|DE| SKY CINEMA HITS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11098
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| SKY NOSTALGIE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="BOUQUET GERMANY",|DE| SKY NOSTALGIE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11099
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="|DE| TAGESSCHAU 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tagesschau24-de.png" group-title="BOUQUET GERMANY",|DE| TAGESSCHAU 24 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11101
+#EXTINF:-1 tvg-ID="SkyAtlanticHD.de" tvg-name="|DE| ARTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="BOUQUET GERMANY",|DE| ARTE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11102
+#EXTINF:-1 tvg-ID="Universal.de" tvg-name="|DE| UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/universal-tv-de.png" group-title="BOUQUET GERMANY",|DE| UNIVERSAL CHANNEL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11103
+#EXTINF:-1 tvg-ID="WDRFernsehen.de" tvg-name="|DE| WDR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/wdr-de.png" group-title="BOUQUET GERMANY",|DE| WDR HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11105
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| Unterhaltung |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| Unterhaltung |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11104
+#EXTINF:-1 tvg-ID="SWRFernsehen.de" tvg-name="|DE| SWR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/swr-de.png" group-title="BOUQUET GERMANY",|DE| SWR HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11106
+#EXTINF:-1 tvg-ID="NDRFernsehen.de" tvg-name="|DE| NDR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ndr-de.png" group-title="BOUQUET GERMANY",|DE| NDR HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11107
+#EXTINF:-1 tvg-ID="WarnerTVFilm.de" tvg-name="|DE| TNT FILM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tnt-film-de.png" group-title="BOUQUET GERMANY",|DE| TNT FILM HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11108
+#EXTINF:-1 tvg-ID="WarnerTVSerie.de" tvg-name="|DE| TNT SERIE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tnt-serie-de.png" group-title="BOUQUET GERMANY",|DE| TNT SERIE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11109
+#EXTINF:-1 tvg-ID="SportdigitalFussball2.de" tvg-name="|DE| TNT COMEDY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tnt-comedy-de.png" group-title="BOUQUET GERMANY",|DE| TNT COMEDY HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11110
+#EXTINF:-1 tvg-ID="SciFi.de" tvg-name="|DE| SYFY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/syfy-de.png" group-title="BOUQUET GERMANY",|DE| SYFY HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11111
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-name="|DE| ZDF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-de.png" group-title="BOUQUET GERMANY",|DE| ZDF HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11112
+#EXTINF:-1 tvg-ID="ZDFinfo.de" tvg-name="|DE| ZDF INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-info-de.png" group-title="BOUQUET GERMANY",|DE| ZDF INFO HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11113
+#EXTINF:-1 tvg-ID="ZDFneo.de" tvg-name="|DE| ZDF NEO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-neo-de.png" group-title="BOUQUET GERMANY",|DE| ZDF NEO HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11114
+#EXTINF:-1 tvg-ID="SkySportAustria.de" tvg-name="|DE| ORF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="BOUQUET GERMANY",|DE| ORF 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11115
+#EXTINF:-1 tvg-ID="OUTtv.de" tvg-name="|DE| ORF 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png" group-title="BOUQUET GERMANY",|DE| ORF 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11116
+#EXTINF:-1 tvg-ID="sportdigital.de" tvg-name="|DE| ORF 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf3-at.png" group-title="BOUQUET GERMANY",|DE| ORF 3 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11117
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| SONY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sony-channel-de.png" group-title="BOUQUET GERMANY",|DE| SONY CHANNEL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11119
+#EXTINF:-1 tvg-ID="RTLPassion.de" tvg-name="|DE| RTL PASSION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" group-title="BOUQUET GERMANY",|DE| RTL PASSION HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11120
+#EXTINF:-1 tvg-ID="AnimalPlanet.de" tvg-name="|DE| SKY PLANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/planet-de.png" group-title="BOUQUET GERMANY",|DE| SKY PLANET HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11121
+#EXTINF:-1 tvg-ID="ComedyCentralVIVA.de" tvg-name="|DE| COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/comedy-central-de.png" group-title="BOUQUET GERMANY",|DE| COMEDY CENTRAL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11122
+#EXTINF:-1 tvg-ID="13thStreet.de" tvg-name="|DE| 13TH STREET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/13th-street-de.png" group-title="BOUQUET GERMANY",|DE| 13TH STREET HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11123
+#EXTINF:-1 tvg-ID="RTL.de" tvg-name="|DE| RTL LIVING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-living-de.png" group-title="BOUQUET GERMANY",|DE| RTL LIVING HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11124
+#EXTINF:-1 tvg-ID="RTLCrime.de" tvg-name="|DE| RTL CRIME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-crime-de.png" group-title="BOUQUET GERMANY",|DE| RTL CRIME HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11125
+#EXTINF:-1 tvg-ID="SpiegelGeschichte.de" tvg-name="|DE| SPIEGEL GESCHICHTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/spiegel-geschichte-de.png" group-title="BOUQUET GERMANY",|DE| SPIEGEL GESCHICHTE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11126
+#EXTINF:-1 tvg-ID="Romance.de" tvg-name="|DE| ROMANCE TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/romance-tv-de.png" group-title="BOUQUET GERMANY",|DE| ROMANCE TV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11153
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="|DE| PHOENIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/phoenix-de.png" group-title="BOUQUET GERMANY",|DE| PHOENIX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11154
+#EXTINF:-1 tvg-ID="Heimatkanal.de" tvg-name="|DE| HEIMATKANAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/heimatkanal-de.png" group-title="BOUQUET GERMANY",|DE| HEIMATKANAL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11155
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-name="|DE| FOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/fox-de.png" group-title="BOUQUET GERMANY",|DE| FOX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11156
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| A&E HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/planete-plus-aventure-fr.png" group-title="BOUQUET GERMANY",|DE| A&E HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11157
+#EXTINF:-1 tvg-ID="DasErste.de" tvg-name="|DE| DAS ERSTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png" group-title="BOUQUET GERMANY",|DE| DAS ERSTE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11158
+#EXTINF:-1 tvg-ID="Kinowelt.de" tvg-name="|DE| KINO WELT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kinowelt-de.png" group-title="BOUQUET GERMANY",|DE| KINO WELT HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11159
+#EXTINF:-1 tvg-ID="SkyCinemaClassics.de" tvg-name="|DE| STINGRAY CLASSICA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/stingray-classica-de.png" group-title="BOUQUET GERMANY",|DE| STINGRAY CLASSICA HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11160
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="|DE| 3SAT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png" group-title="BOUQUET GERMANY",|DE| 3SAT HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11161
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| AXN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/axn-white-de.png" group-title="BOUQUET GERMANY",|DE| AXN HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11162
+#EXTINF:-1 tvg-ID="ARTE.de" tvg-name="|DE| ARTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="BOUQUET GERMANY",|DE| ARTE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11163
+#EXTINF:-1 tvg-ID="ARD-alpha.de" tvg-name="|DE| ARD ALPHA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ard-alpha-de.png" group-title="BOUQUET GERMANY",|DE| ARD ALPHA HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11164
+#EXTINF:-1 tvg-ID="Anixe.de" tvg-name="|DE| ANIXE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/anixe-de.png" group-title="BOUQUET GERMANY",|DE| ANIXE HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11165
+#EXTINF:-1 tvg-ID="Tele5.de" tvg-name="|DE| TELE 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tele-5-de.png" group-title="BOUQUET GERMANY",|DE| TELE 5 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11166
+#EXTINF:-1 tvg-ID="tvmainfranken.de" tvg-name="|DE| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="BOUQUET GERMANY",|DE| EURONEWS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11167
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| DE Sports |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| DE Sports |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11168
+#EXTINF:-1 tvg-ID="DAZN1.de" tvg-name="|DE| DAZN BAR 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn1-de.png" group-title="BOUQUET GERMANY",|DE| DAZN BAR 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11018
+#EXTINF:-1 tvg-ID="DAZN2.de" tvg-name="|DE| DAZN BAR 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn2-de.png" group-title="BOUQUET GERMANY",|DE| DAZN BAR 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11017
+#EXTINF:-1 tvg-ID="SkySportUHD.de" tvg-name="|DE| SKY SPORT NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT NEWS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11169
+#EXTINF:-1 tvg-ID="SkySportF1.de" tvg-name="|DE| SKY SPORT F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT F1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/665030473
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/2560px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11170
+#EXTINF:-1 tvg-ID="SkySport2.de" tvg-name="|DE| SKY SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/2560px-Sky_Sport_2_DE_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11171
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/2560px-Sky_Sport_3_DE_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 3 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11172
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/2560px-Sky_Sport_4_DE_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 4 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11173
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sky_Sport_5_DE_Logo_2020.svg/2560px-Sky_Sport_5_DE_Logo_2020.svg.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 5 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11174
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 6 HD" tvg-logo="https://tvmetafiles.alteox.lu/file/tvmeta/uploads/logo-channel-feb96400-81e4-11e9-b43b-9d7b168e6372-250x250.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 6 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11175
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/04/Sky_Sport_7_HD_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 7 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11176
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/04/Sky_Sport_7_HD_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 8 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11177
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 9 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11127
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SKY SPORT 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT 10 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11128
+#EXTINF:-1 tvg-ID="SkySportAustria.de" tvg-name="|DE| SKY SPORT AUSTRIA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="BOUQUET GERMANY",|DE| SKY SPORT AUSTRIA 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11129
+#EXTINF:-1 tvg-ID="Eurosport2.de" tvg-name="|DE| EUROSPORT 2 XTRA HD" tvg-logo="https://ornethd.net/wp-content/uploads/2020/05/40000000215.png" group-title="BOUQUET GERMANY",|DE| EUROSPORT 2 XTRA HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11133
+#EXTINF:-1 tvg-ID="Sport1HD.de" tvg-name="|DE| SPORT 1+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-plus-de.png" group-title="BOUQUET GERMANY",|DE| SPORT 1+ HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11131
+#EXTINF:-1 tvg-ID="Eurosport1.de" tvg-name="|DE| EUROSPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/eurosport-1-de.png" group-title="BOUQUET GERMANY",|DE| EUROSPORT 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11132
+#EXTINF:-1 tvg-ID="Eurosport2.de" tvg-name="|DE| EUROSPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/eurosport-2-de.png" group-title="BOUQUET GERMANY",|DE| EUROSPORT 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11029
+#EXTINF:-1 tvg-ID="sportdigital.de" tvg-name="|DE| SPORT DIGITAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="BOUQUET GERMANY",|DE| SPORT DIGITAL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11134
+#EXTINF:-1 tvg-ID="Sport1HD.de" tvg-name="|DE| ORF SPORT PLUS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-sport-plus-at.png" group-title="BOUQUET GERMANY",|DE| ORF SPORT PLUS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11135
+#EXTINF:-1 tvg-ID="MotorVision.de" tvg-name="|DE| MOTORVISION TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/motorvision-tv-de.png" group-title="BOUQUET GERMANY",|DE| MOTORVISION TV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11136
+#EXTINF:-1 tvg-ID="Sport1HD.de" tvg-name="|DE| SPORT 1 US HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-plus-de.png" group-title="BOUQUET GERMANY",|DE| SPORT 1 US HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11006
+#EXTINF:-1 tvg-ID="MYSPORTS1D.ch" tvg-name="|DE| UPC MYSPORT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/my-sports-un-ch.png" group-title="BOUQUET GERMANY",|DE| UPC MYSPORT HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11027
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| Bundesliga |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| Bundesliga |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11137
+#EXTINF:-1 tvg-ID="SkyBundesliga1.de" tvg-name="|DE| SKY BUNDESLIGA 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/489/415/png-clipart-bundesliga-logo-bundesliga-logo-icons-logos-emojis-football.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11138
+#EXTINF:-1 tvg-ID="SkyBundesliga2.de" tvg-name="|DE| SKY BUNDESLIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11139
+#EXTINF:-1 tvg-ID="SkyBundesliga3.de" tvg-name="|DE| SKY BUNDESLIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 3 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11140
+#EXTINF:-1 tvg-ID="SkyBundesliga4.de" tvg-name="|DE| SKY BUNDESLIGA 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 4 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11141
+#EXTINF:-1 tvg-ID="SkyBundesliga5.de" tvg-name="|DE| SKY BUNDESLIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 5 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11142
+#EXTINF:-1 tvg-ID="SkyBundesliga6.de" tvg-name="|DE| SKY BUNDESLIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 6 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11143
+#EXTINF:-1 tvg-ID="SkyBundesliga7.de" tvg-name="|DE| SKY BUNDESLIGA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 7 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11144
+#EXTINF:-1 tvg-ID="SkyBundesliga8.de" tvg-name="|DE| SKY BUNDESLIGA 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 8 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11145
+#EXTINF:-1 tvg-ID="SkyBundesliga9.de" tvg-name="|DE| SKY BUNDESLIGA 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 9 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11146
+#EXTINF:-1 tvg-ID="SkyBundesliga10.de" tvg-name="|DE| SKY BUNDESLIGA 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png" group-title="BOUQUET GERMANY",|DE| SKY BUNDESLIGA 10 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11147
+#EXTINF:-1 tvg-ID="" tvg-name="||---|DE| Dokumentarfilme |DE|---||" tvg-logo="" group-title="BOUQUET GERMANY",||---|DE| Dokumentarfilme |DE|---||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11148
+#EXTINF:-1 tvg-ID="DMax.de" tvg-name="|DE| DMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dmax-de.png" group-title="BOUQUET GERMANY",|DE| DMAX HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11203
+#EXTINF:-1 tvg-ID="NatGeoHD.de" tvg-name="|DE| NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/national-geographic-de.png" group-title="BOUQUET GERMANY",|DE| NAT GEO HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11149
+#EXTINF:-1 tvg-ID="NatGeoWild.de" tvg-name="|DE| NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="BOUQUET GERMANY",|DE| NAT GEO WILD HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11150
+#EXTINF:-1 tvg-ID="DiscoveryChannel.de" tvg-name="|DE| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/discovery-channel-de.png" group-title="BOUQUET GERMANY",|DE| DISCOVERY CHANNEL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11151
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/history-de.png" group-title="BOUQUET GERMANY",|DE| HISTORY CHANNEL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11204
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| DE Kinder |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| DE Kinder |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11205
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="|DE| DISNEY XD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/disney-channel-fr.png" group-title="BOUQUET GERMANY",|DE| DISNEY XD HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11207
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="|DE| DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/disney-jr-fr.png" group-title="BOUQUET GERMANY",|DE| DISNEY JUNIOR HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11208
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="|DE| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/disney-channel-de.png" group-title="BOUQUET GERMANY",|DE| DISNEY CHANNEL HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11206
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="|DE| DISNEY CINEMAGIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/disney-jr-fr.png" group-title="BOUQUET GERMANY",|DE| DISNEY CINEMAGIC HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11209
+#EXTINF:-1 tvg-ID="CartoonNetwork.de" tvg-name="|DE| CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/cartoon-network-de.png" group-title="BOUQUET GERMANY",|DE| CARTOON NETWORK HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11028
+#EXTINF:-1 tvg-ID="Nickelodeon.de" tvg-name="|DE| NICKELODEON HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nickelodeon-de.png" group-title="BOUQUET GERMANY",|DE| NICKELODEON HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11210
+#EXTINF:-1 tvg-ID="Waidwerk.de" tvg-name="|DE| BOOMERANG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/boomerang-de.png" group-title="BOUQUET GERMANY",|DE| BOOMERANG HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11211
+#EXTINF:-1 tvg-ID="Kika.de" tvg-name="|DE| KIKA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png" group-title="BOUQUET GERMANY",|DE| KIKA HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11212
+#EXTINF:-1 tvg-ID="" tvg-name="||---- |DE| DE PPV |DE| ----||" tvg-logo="" group-title="BOUQUET GERMANY",||---- |DE| DE PPV |DE| ----||
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11213
+#EXTINF:-1 tvg-ID="Sky Sport Serie A 1" tvg-name="|DE| SKY SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 1 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11214
+#EXTINF:-1 tvg-ID="Sky Sport Serie A 2" tvg-name="|DE| SKY SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 2 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11215
+#EXTINF:-1 tvg-ID="Sky Sport Serie A 3" tvg-name="|DE| SKY SELECT 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 3 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11216
+#EXTINF:-1 tvg-ID="Sportdigitalscooore.de" tvg-name="|DE| SKY SELECT 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 4 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11217
+#EXTINF:-1 tvg-ID="Sportdigitalscooore.de" tvg-name="|DE| SKY SELECT 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-5-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 5 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11218
+#EXTINF:-1 tvg-ID="Sky Sport Serie A 1" tvg-name="|DE| SKY SELECT 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-6-alt-de.png" group-title="BOUQUET GERMANY",|DE| SKY SELECT 6 HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/11219
+#EXTINF:-1 tvg-ID="SuperRTL.de" tvg-name="|DE| RTL PLUS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-plus-de.png" group-title="BOUQUET GERMANY",|DE| RTL PLUS HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/265013071
+#EXTINF:-1 tvg-ID="MunchenTV.de" tvg-name="|DE| BAYER MUNCHEN TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/munchen-tv-de.png" group-title="BOUQUET GERMANY",|DE| BAYER MUNCHEN TV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/265013438
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| MTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mtv-de.png" group-title="BOUQUET GERMANY",|DE| MTV HD
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/265013766
