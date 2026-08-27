@@ -425,9 +425,7 @@ https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="WEB SPOR KANALI" ,Web VARSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
-#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
-https://andro.evrenesoglu99.click/checklist/batutest.m3u8
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10041
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/95fovn8.png" group-title="WEB SPOR KANALI" ,Web JUSTINSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -456,7 +454,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="WEB SPOR KANALI", beIN Sports 2
-https://trgoals1537.xyz
+#EXTVLCOPT:http-origin=https://trgoals1537.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
