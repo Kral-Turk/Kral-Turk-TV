@@ -175,7 +175,7 @@ http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10153
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV UHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV FHD
-http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6Dn5HvRuCrzCTIhPhmX-mo-
+https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/sh/ATV_tr/index.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="TR ULUSAL-UHD",ATV HD
 https://andro.evrenesoglu57.click/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV HEVC
@@ -206,7 +206,7 @@ http://116.202.238.88/SHOWTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV HEVC
 http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10156
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV UHD
-http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6CysBUIfj9wwWp07WONHUTn
+https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/sh/NOW/index.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV FHD
 http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10156
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "TR ULUSAL-UHD",FOX TV HD
@@ -219,7 +219,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="TR ULUSAL-UHD",TV8 FHD
 http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="TR ULUSAL-UHD",TV8 HD
-http://cdntm.net:8080/play/bCGUdmpoySIbhSKqcJauBDODUwM5avsiFYejBz4Kv6DMUswcWusojJJ5l2MFCjDK
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",TV8.5 HEVC
 http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10144
