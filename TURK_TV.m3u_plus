@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10033
+http://hdlocal.de:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10033
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 
@@ -20,7 +20,7 @@ https://rok.raalbatros.workers.dev/?ID=2671058892459103de77a
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://hdlocal.de:8080/live/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10042.ts
+http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10042.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -30,7 +30,7 @@ http://hdlocal.de:8080/live/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10041.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10042
+http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10041.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,WeB BeIN Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -49,17 +49,17 @@ http://31.43.191.125:8080/restream/restream/141360
 https://andro.3749206.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10038
+http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10038.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
 https://andro.3749206.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10036
+http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10036.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
 https://andro.3749206.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10034
+http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10034.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports UHD 5
 https://andro.3749206.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports FHD 5
