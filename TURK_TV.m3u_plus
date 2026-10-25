@@ -168,7 +168,7 @@ http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 UHD
 http://80.82.64.16:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/172cb6d9-ed1a-4038-abb6-e3a26dcb0bb6.m3u
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "TR ULUSAL-UHD",TRT 1 FHD
-https://vavoo.ahkm.workers.dev/?ID=2346924541a665ce2b020a
+http://31.43.191.211:8080/live/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10158.m3u
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 HD
 https://andro.3749206.xyz/checklist/androstreamlivetrt1.m3u8
 
@@ -181,9 +181,9 @@ http://80.82.64.16:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/849f16fd-52e7-404
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="TR ULUSAL-UHD",ATV HD
 https://andro.3749206.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV HEVC
-https://ad.raalbatros.workers.dev/?ID=2020035128e0db9391b161
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV UHD
-https://vavoo.ahkm.workers.dev/?ID=272055669263af9be64671
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV FHD
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&app=startv_web&ce=3
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV HD
@@ -203,7 +203,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",SHOW TV FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",SHOW TV HD
-https://vavoo.ahkm.workers.dev/?ID=144949986573359afbfeae
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV HEVC
 http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10156.ts
