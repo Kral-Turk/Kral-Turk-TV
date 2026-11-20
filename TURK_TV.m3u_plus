@@ -277,7 +277,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/cfkfvpw.png"tvg-id=""group-title="TR ULUSAL-UHD",CINE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ix9o2pn.jpeg"tvg-id=""group-title="TR ULUSAL-UHD",CINE 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/c2uwvk5.jpeg"tvg-id=""group-title="TR ULUSAL-UHD",CINE 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rkptvcq.png"tvg-id=""group-title="TR ULUSAL-UHD",TİVİTÜRK
