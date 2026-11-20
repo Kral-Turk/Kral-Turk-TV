@@ -265,9 +265,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",BEYAZ TV FHD
 http://origi-jw-5.ravenclaw-house.com:80/TR-BEYAZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="TR ULUSAL-UHD",SHOW MAX UHD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10247
 #EXTINF:-1 TRT 2 group-title="TR ULUSAL-UHD" ,TRT 2
-http://95.174.71.114/TR-TRT2/index.m3u8
+http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10261
 #EXTINF:-1 TRT TÜRK group-title="TR ULUSAL-UHD" ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="TR ULUSAL-UHD" ,TRT AVAZ
