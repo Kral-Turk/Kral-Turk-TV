@@ -1,81 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://r.resimlink.com/M9Z1ieK3gF.jpg" group-title="SPOR KANALI", BeINSport Haber UHD
 http://hdlocal.de:8080/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10033
-#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://r.resimlink.com/M9Z1ieK3gF.jpg" group-title="SPOR KANALI",BeIN Sports Haber FHD
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-origin=https://www.atomsportv520.top
 #EXTVLCOPT:http-referrer=https://www.atomsportv520.top/
 https://css.d6e3eds5e065t5.help//beyin1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://andro.evrenesoglu101.click/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://92.5.166.217/beinsportskutu1
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://92.5.166.217:8087/bs1hd
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports FEED1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://hdlocal.de:8080/live/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10041.ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports FEED2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10042.ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,WeB BeIN Sports+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,WeB BeIN Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://31.43.191.125:8080/restream/restream/141359
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,WeB BeIN Sports++
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,WeB BeIN Sports++
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://andro.evrenesoglu101.click/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Web BeIN Sports+++
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,Web BeIN Sports+++
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://31.43.191.125:8080/restream/restream/141360
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/utFGSwE0dc4.jpg" group-title="SPOR KANALI",BeIN Sports UHD 2
 https://andro.3749206.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/utFGSwE0dc4.jpg" group-title="SPOR KANALI",BeIN Sports FHD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10038.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/eswG-Z.jpg" group-title="SPOR KANALI",BeIN Sports UHD 3
 https://andro.3749206.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/eswG-Z.jpg" group-title="SPOR KANALI",BeIN Sports FHD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10036.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/c5yLbRZ.jpg" group-title="SPOR KANALI", BeIN Sports UHD 4
 https://andro.3749206.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/c5yLbRZ.jpg" group-title="SPOR KANALI", BeIN Sports FHD 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10034.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports UHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://r.resimlink.com/Ltlrm.jpg" group-title="SPOR KANALI",BeIN Sports UHD 5
 https://andro.3749206.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="SPOR KANALI",BeIN Sports FHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://r.resimlink.com/Ltlrm.jpg" group-title="SPOR KANALI",BeIN Sports FHD 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://r.resimlink.com/VF-ZahJdf.jpg" group-title="SPOR KANALI",BEIN MAX 1 UHD
 http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10031
-#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://r.resimlink.com/PR-0Wau.jpg" group-title="SPOR KANALI",BEIN MAX 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://hizliresim.com/gur6nag4.jpeg" group-title="SPOR KANALI",BEIN MAX 2 UHD
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://r.resimlink.com/B5vfk.jpg" group-title="SPOR KANALI",BEIN MAX 2 UHD
 http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10029
-#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://r.resimlink.com/B5vfk.jpg" group-title="SPOR KANALI",BEIN MAX 2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://andro.evrenesoglu57.click/checklist/androstreamlivebsm2.m3u8
 
