@@ -8,7 +8,7 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-origin=https://www.atomsportv520.top
 #EXTVLCOPT:http-referrer=https://www.atomsportv520.top/
-https://css.d6e3eds5e065t5.help//beyin1/tracks-v1a1/mono.m3u8
+https://css.d6e3ess6e065r5.help//beyin1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/5Y8y9AQ1iJ.jpg" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -135,7 +135,7 @@ https://andro.evrenesoglu101.click/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3886.png", Eurosport 2 HD
 https://andro.evrenesoglu101.click/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+https://andro.evrenesoglu101.click/checklist/batutest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
@@ -143,7 +143,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR HD
-https://corestream.siteyaptim.live//aspor/tracks-v1a1/mono.m3u8
+https://andro.evrenesoglu101.click/checklist/androstreamliveas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png" group-title="SPOR KANALI", HT SPOR UHD
 https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
@@ -155,7 +155,10 @@ http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10164
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
 http://176.65.153.35:6001/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://one.mariuannastluisborg.autos/hls/bs1/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="TR ULUSAL-UHD",TRT 4K HEVC
@@ -452,9 +455,9 @@ https://andro.3749206.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI", Web YAYIN ZIRVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://www.atomsportv519.top
-#EXTVLCOPT:http-referrer=https://www.atomsportv519.top/
-https://css.d6e3eds5e065t5.help//beyin1/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-origin=https://www.atomsportv520.top
+#EXTVLCOPT:http-referrer=https://www.atomsportv520.top/
+https://css.d6e3ess6e065r5.help//beyin1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="WEB SPOR KANALI", beIN Sports 2
 #EXTVLCOPT:http-origin=https://trgoals1537.xyz
