@@ -425,11 +425,8 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 http://92.5.166.217/beinsportskutu1
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/mqo9m8b.jpeg" group-title="WEB SPOR KANALI" ,Web XYZSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://xyzsports238.xyz
-#EXTVLCOPT:http-referrer=https://xyzsports238.xyz/
-http://31.43.191.125:8080/restream/restream/141360
+#EXTVLCOPT:http-user-agent=salam
+http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MDM0MjUwMzE4NzNhNDMwMGQxZTQ=
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/3apwt19.jpeg" group-title="WEB SPOR KANALI" ,Web VARSPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -442,14 +439,10 @@ http://92.5.166.217/bein1sd
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/h8idt8o.jpg" group-title="WEB SPOR KANALI", Web TRGOALS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTM0NjIzOTg0M2RkZWRlOGZhYmM=
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bkxshkf.png" group-title="WEB SPOR KANALI" ,Web YAYIN INAT
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzEwNTg4OTI0NTkxMDNkZTc3YQ==
 
