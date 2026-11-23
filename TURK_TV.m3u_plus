@@ -166,7 +166,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HW7DHBZQE4ZYG9/4001/inde
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="TR ULUSAL-UHD",TRT 4K UHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HW7DHBZQE4ZYG9/4001/index.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="https://i.hizliresim.com/lezd6k8.png"tvg-id="TRT4K.TR" group-title="TR ULUSAL-UHD",TRT 4K FHD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
+#EXTVLCOPT:http-user-agent=salam
+http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTc2NTY1MTZlOTZkZDQ4NTRhNDg=
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 HEVC
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TR ULUSAL-UHD",TRT 1 UHD
@@ -256,7 +257,8 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="TR ULUSAL-UHD",TV8 INT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HW7DHBZQE4ZYG9/6897/index.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-logo="https://i.hizliresim.com/g3yj3yx.png" group-title="TR ULUSAL-UHD", TGRT EU
-https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTVLCOPT:http-user-agent=salam
+http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjI4NjQ3NThjZWMyZmVlNDUxZQ==
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="TR ULUSAL-UHD", 360 TV UHD
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="TR ULUSAL-UHD", 360 TV FHD
@@ -442,16 +444,14 @@ http://92.5.166.217/bein1sd
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/h8idt8o.jpg" group-title="WEB SPOR KANALI", Web TRGOALS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://trgoals1537.xyz
-#EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://andro.3749206.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTVLCOPT:http-user-agent=salam
+http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTM0NjIzOTg0M2RkZWRlOGZhYmM=
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bkxshkf.png" group-title="WEB SPOR KANALI" ,Web YAYIN INAT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://trgoals1537.xyz
-#EXTVLCOPT:http-referrer=https://trgoals1537.xyz/
-https://andro.3749206.xyz/checklist/androstreamlivebs1.m3u8
+#EXTVLCOPT:http-user-agent=salam
+http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzEwNTg4OTI0NTkxMDNkZTc3YQ==
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gji5o3h.jpg" group-title="WEB SPOR KANALI", Web YAYIN ZIRVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
