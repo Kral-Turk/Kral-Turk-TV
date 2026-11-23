@@ -155,7 +155,7 @@ http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10164
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
 http://176.65.153.35:6001/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI",Sports TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://92.5.166.217:8087/bs1kutu
@@ -182,7 +182,7 @@ http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10153
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV FHD
 http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10153
-#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="TR ULUSAL-UHD",ATV HD
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TR ULUSAL-UHD",ATV HD
 http://92.5.166.217/atv
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TR ULUSAL-UHD",STAR TV HEVC
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
@@ -215,7 +215,7 @@ http://hdlocal.de:8080/live/iptv.kosiptv.comNEW/gJUP3KsM2ENEW/10156.ts
 http://92.5.166.217/nowtv
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV FHD
 http://hdlocal.de:8080/maveniptv.tv/e8yvmG8um2yhhgsjhgdd22/10156
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "TR ULUSAL-UHD",FOX TV HD
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TR ULUSAL-UHD",FOX TV HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="TR ULUSAL-UHD",TV8 HEVC
